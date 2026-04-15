@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "Robot-Editor"
           git config --global user.email "robot@antigravity.ia"
-          git add data/*.json reports/*.md
+          git add -f data/*.json reports/*.md
           git commit -m "Auto-update: Notícias coletadas e curadas em $(date +'%Y-%m-%d')" || echo "Sem mudanças para salvar"
           git push
