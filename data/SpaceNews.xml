@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SpaceNews</title>
+	<atom:link href="https://spacenews.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spacenews.com/</link>
+	<description>Covering the business and politics of space</description>
+	<lastBuildDate>Tue, 14 Apr 2026 17:43:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://spacenews.com/wp-content/uploads/2024/05/cropped-SN_forza_star-32x32.png</url>
+	<title>SpaceNews</title>
+	<link>https://spacenews.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">80681979</site>	<item>
+		<title>Q&#038;A: Astronaut Linda Godwin on lessons learned from Artemis</title>
+		<link>https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/</link>
+		
+		<dc:creator><![CDATA[Leonard David]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 17:43:19 +0000</pubDate>
+				<category><![CDATA[Civil]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Artemis]]></category>
+		<category><![CDATA[Linda Godwin]]></category>
+		<category><![CDATA[NASA]]></category>
+		<category><![CDATA[Q&A]]></category>
+		<category><![CDATA[SN]]></category>
+		<category><![CDATA[Space Symposium]]></category>
+		<guid isPermaLink="false">https://spacenews.com/?p=587067</guid>
+
+					<description><![CDATA[<figure><img width="1001" height="1024" src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?fit=1001%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Linda Godwin. Credit: NASA" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?w=2504&amp;ssl=1 2504w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=293%2C300&amp;ssl=1 293w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=1001%2C1024&amp;ssl=1 1001w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=768%2C785&amp;ssl=1 768w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=1502%2C1536&amp;ssl=1 1502w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=2003%2C2048&amp;ssl=1 2003w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=1200%2C1227&amp;ssl=1 1200w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=2000%2C2045&amp;ssl=1 2000w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=780%2C798&amp;ssl=1 780w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=400%2C409&amp;ssl=1 400w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?resize=706%2C722&amp;ssl=1 706w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Linda_Godwin-scaled.jpg?fit=1001%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Linda Godwin, a former NASA astronaut and a veteran of four space shuttle missions, knows what it’s like to spend a significant time in space. She chalked up more than 38 days in orbit. She carried out two spacewalks, becoming the first woman to do so outside two space stations with a six-hour spacewalk in [&#8230;]</p>
+<p>The post <a href="https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/">Q&amp;A: Astronaut Linda Godwin on lessons learned from Artemis</a> appeared first on <a href="https://spacenews.com">SpaceNews</a>.</p>
+]]></description>
+		
+		
+		
+		<source url="https://spacenews.com"><![CDATA[0?ds=true&seed=1776188709]]></source><post-id xmlns="com-wordpress:feed-additions:1">587067</post-id>	</item>
+... (truncando o resto do arquivo pois ele é grande e o Coletor lerá da internet na sequência)
+	</channel>
+</rss>

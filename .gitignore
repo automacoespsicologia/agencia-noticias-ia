@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Project specific
+data/database.json
+data/pool_de_noticias.json
+# data/config.json  <-- Geralmente deixamos o config se ele tiver apenas feeds, mas se tiver chaves, ignoramos.
+# No nosso caso, o config é seguro.
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,20 @@
+{
+  "feeds": [
+    {
+      "name": "Space News",
+      "url": "https://spacenews.com/feed/",
+      "local_path": "SpaceNews.xml",
+      "specialized": true
+    },
+    {
+      "name": "Nasa News",
+      "url": "https://www.nasa.gov/feed/",
+      "local_path": "NasaNews.xml",
+      "specialized": true
+    }
+  ],
+  "settings": {
+    "max_news_per_source": 10,
+    "filter_logic": "broad_contextual"
+  }
+}

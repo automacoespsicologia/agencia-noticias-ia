@@ -1,0 +1,37 @@
+name: Rotina Diária de Notícias
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Roda todo dia às 09:00 UTC (06:00 BRT)
+  workflow_dispatch:      # Permite rodar manualmente pelo botão no GitHub
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar Coletor
+        run: python src/coletor.py
+
+      - name: Rodar Editor (Curadoria IA)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python src/editor.py
+
+      - name: Salvar alterações (Git Push)
+        run: |
+          git config --global user.name "Robot-Editor"
+          git config --global user.email "robot@antigravity.ia"
+          git add data/*.json reports/*.md
+          git commit -m "Auto-update: Notícias coletadas e curadas em $(date +'%Y-%m-%d')" || echo "Sem mudanças para salvar"
+          git push
