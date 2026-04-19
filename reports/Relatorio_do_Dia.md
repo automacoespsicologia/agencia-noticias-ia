@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 18/04/2026 17:15
+# 🚀 Relatório da Agência Espacial - 19/04/2026 09:43
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat
-**Fonte:** Space News | **Categoria:** Mercado e Exploração
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de bater o martelo: o poderoso Falcon Heavy, da SpaceX, será o motor que levará o rover Rosalind Franklin rumo a Marte. Mesmo sob pressão orçamentária, a decisão garante a sobrevivência da missão ExoMars em parceria com a Europa, assegurando que a busca por vida no Planeta Vermelho continue com tecnologia de ponta.
-
-🔗 [Ler notícia completa](https://spacenews.com/nasa-selects-falcon-heavy-to-launch-esa-mars-rover-mission-despite-budget-threat/)
-
----
-
-## 2. Artemis 2 astronauts praise performance of Orion
+## 1. India’s TakeMe2Space sets sights on 50-kilowatt data center
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O sinal verde que o mundo esperava: os astronautas da missão Artemis 2 testaram e aprovaram a performance da cápsula Orion no espaço profundo. O veredito da tripulação valida os sistemas críticos de suporte à vida e navegação, colocando a humanidade um passo mais perto de um retorno definitivo à superfície lunar.
+> A Índia está prestes a transformar o conceito de processamento orbital. A startup TakeMe2Space anunciou o desenvolvimento de um centro de dados de 50 quilowatts no espaço, uma infraestrutura massiva que promete levar o poder da computação de alto desempenho diretamente para a órbita, eliminando gargalos de transmissão e inaugurando a era dos supercomputadores espaciais.
 
-🔗 [Ler notícia completa](https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/)
-
----
-
-## 3. NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O observatório SPHEREx da NASA acaba de entregar um mapa inédito dos 'tijolos da vida' escondidos na Via Láctea. Em uma descoberta científica monumental, o telescópio detectou assinaturas químicas de gelo de água e hidrocarbonetos em regiões turbulentas da nossa galáxia, revelando como a química interestelar prepara o terreno para novos sistemas solares.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/)
+🔗 [Ler notícia completa](https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/)
 
 ---
 
-## 4. NorthStar to go public via SPAC to expand space-based SSA network
-**Fonte:** Space News | **Categoria:** Negócios
+## 2. Shenzhou-21 astronauts complete third spacewalk, mission extended by a month
+**Fonte:** Space News | **Categoria:** Operações Espaciais
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A segurança da órbita terrestre vai ganhar um reforço comercial sem precedentes. A NorthStar anunciou sua entrada no mercado de ações para expandir sua rede de monitoramento de detritos espaciais, um movimento financeiro agressivo que promete transformar a gestão do tráfego orbital em um setor multibilionário.
+> A China demonstra fôlego e estabilidade na órbita baixa. Os astronautas da missão Shenzhou-21 não apenas completaram sua terceira caminhada espacial com sucesso, como receberam uma extensão de um mês no cronograma original. É um sinal claro da maturidade operacional da estação Tiangong e das ambições de Pequim em manter uma presença humana contínua e prolongada.
 
-🔗 [Ler notícia completa](https://spacenews.com/northstar-to-go-public-via-spac-to-expand-space-based-ssa-network/)
+🔗 [Ler notícia completa](https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/)
 
 ---
 
-## 5. Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit 
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 3. The Space Force’s ‘commercial first’ strategy in action with Col. Tim Trimailo
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A logística espacial autônoma atingiu um novo patamar com o sucesso do protótipo chinês Qingzhou. A espaçonave de carga completou testes complexos de aproximação e acoplagem em órbita, consolidando uma inovação técnica crucial para o abastecimento de estações espaciais e para a viabilidade de missões de longa duração.
+> O Pentágono está virando a chave na sua relação com a indústria privada. Sob a estratégia 'Commercial First', a Força Espacial dos Estados Unidos detalha como pretende integrar tecnologias comerciais antes de desenvolver soluções governamentais próprias. Uma movimentação de mercado que promete acelerar contratos e injetar bilhões em startups do setor de defesa.
 
-🔗 [Ler notícia completa](https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/)
+🔗 [Ler notícia completa](https://spacenews.com/the-space-forces-commercial-first-strategy-in-action-with-col-tim-trimailo/)
+
+---
+
+## 4. Volunteers Discover Rare Space Weather Events Using Their Ears
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A ciência cidadã acaba de ouvir o que os instrumentos tradicionais deixaram passar. Usando uma técnica inovadora de audificação de dados, voluntários do projeto HARP, da NASA, descobriram eventos raros de clima espacial na magnetosfera terrestre. Ao transformar ondas de plasma em som, a equipe validou novas formas de entender como o escudo magnético da Terra reage às tempestades solares.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/)
+
+---
+
+## 5. Countering missile threats ‘left of launch’
+**Fonte:** Space News | **Categoria:** Defesa Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A segurança global ganha uma nova camada de proatividade com o avanço das tecnologias 'left of launch'. Especialistas e agências agora focam em sistemas integrados capazes de neutralizar mísseis hipersônicos e balísticos antes mesmo do lançamento. Uma inovação técnica que combina vigilância orbital persistente e precisão cirúrgica para redefinir as estratégias de contenção de ameaças.
+
+🔗 [Ler notícia completa](https://spacenews.com/countering-missile-threats-left-of-launch/)
 
 ---
 

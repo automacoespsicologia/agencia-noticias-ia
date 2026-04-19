@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/04/2026 17:15
+# 📥 Balde de Notícias Brutas - 19/04/2026 09:43
 
-Atualmente existem **20** notícias aguardando a curadoria do Editor.
+Atualmente existem **15** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -13,39 +13,12 @@ Atualmente existem **20** notícias aguardando a curadoria do Editor.
 
 ---
 
-### NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-selects-falcon-heavy-to-launch-esa-mars-rover-mission-despite-budget-threat/)
-
----
-
-### NorthStar to go public via SPAC to expand space-based SSA network
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/northstar-to-go-public-via-spac-to-expand-space-based-ssa-network/)
-
----
-
 ### Shenzhou-21 astronauts complete third spacewalk, mission extended by a month
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/)
-
----
-
-### Artemis 2 astronauts praise performance of Orion
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/)
 
 ---
 
@@ -64,15 +37,6 @@ Atualmente existem **20** notícias aguardando a curadoria do Editor.
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/)
-
----
-
-### Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/)
 
 ---
 
@@ -145,15 +109,6 @@ The report adds to the growing documentation on commercial data’s contribution
 Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space....
 
 🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/)
-
----
-
-### NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way
-**Fonte:** Nasa News
-
-An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/)
 
 ---
 
