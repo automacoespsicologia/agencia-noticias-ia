@@ -1,24 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/04/2026 09:43
+# 📥 Balde de Notícias Brutas - 20/04/2026 10:44
 
-Atualmente existem **15** notícias aguardando a curadoria do Editor.
-
----
-
-### The Space Force’s ‘commercial first’ strategy in action with Col. Tim Trimailo
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/the-space-forces-commercial-first-strategy-in-action-with-col-tim-trimailo/)
-
----
-
-### Shenzhou-21 astronauts complete third spacewalk, mission extended by a month
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/)
+Atualmente existem **10** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -37,24 +19,6 @@ Atualmente existem **15** notícias aguardando a curadoria do Editor.
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/)
-
----
-
-### India’s TakeMe2Space sets sights on 50-kilowatt data center
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/)
-
----
-
-### Countering missile threats ‘left of launch’
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/countering-missile-threats-left-of-launch/)
 
 ---
 
@@ -100,15 +64,6 @@ NASA and the U.S. Office of Personnel Management (OPM)&#160;launched&#160;the&#1
 The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications....
 
 🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/)
-
----
-
-### Volunteers Discover Rare Space Weather Events Using Their Ears
-**Fonte:** Nasa News
-
-Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space....
-
-🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/)
 
 ---
 
