@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 19/04/2026 09:43
+# 🚀 Relatório da Agência Espacial - 21/04/2026 10:16
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. India’s TakeMe2Space sets sights on 50-kilowatt data center
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 1. Third New Glenn launch suffers upper stage malfunction
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Índia está prestes a transformar o conceito de processamento orbital. A startup TakeMe2Space anunciou o desenvolvimento de um centro de dados de 50 quilowatts no espaço, uma infraestrutura massiva que promete levar o poder da computação de alto desempenho diretamente para a órbita, eliminando gargalos de transmissão e inaugurando a era dos supercomputadores espaciais.
+> Reviravolta dramática para a Blue Origin: o terceiro lançamento do foguete New Glenn terminou com uma falha no estágio superior. O revés técnico acende o sinal amarelo para a empresa de Jeff Bezos e pode impactar diretamente a confiança do mercado e o cronograma de seus futuros contratos de carga pesada.
 
-🔗 [Ler notícia completa](https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/)
+🔗 [Ler notícia completa](https://spacenews.com/third-new-glenn-launch-suffers-upper-stage-malfunction/)
 
 ---
 
-## 2. Shenzhou-21 astronauts complete third spacewalk, mission extended by a month
-**Fonte:** Space News | **Categoria:** Operações Espaciais
+## 2. Wheels Up for X-59
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China demonstra fôlego e estabilidade na órbita baixa. Os astronautas da missão Shenzhou-21 não apenas completaram sua terceira caminhada espacial com sucesso, como receberam uma extensão de um mês no cronograma original. É um sinal claro da maturidade operacional da estação Tiangong e das ambições de Pequim em manter uma presença humana contínua e prolongada.
+> A NASA atingiu um marco histórico na aviação experimental com o X-59: o jato supersônico silencioso voou pela primeira vez com os trens de pouso recolhidos. O teste valida a aerodinâmica de alta performance necessária para permitir voos acima da velocidade do som sobre áreas urbanas sem o impacto do estrondo sônico.
 
-🔗 [Ler notícia completa](https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/wheels-up-for-x-59/)
 
 ---
 
-## 3. The Space Force’s ‘commercial first’ strategy in action with Col. Tim Trimailo
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. Pentagon officially ends OCX program, citing risk and delays
+**Fonte:** Space News | **Categoria:** Defesa e Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Pentágono está virando a chave na sua relação com a indústria privada. Sob a estratégia 'Commercial First', a Força Espacial dos Estados Unidos detalha como pretende integrar tecnologias comerciais antes de desenvolver soluções governamentais próprias. Uma movimentação de mercado que promete acelerar contratos e injetar bilhões em startups do setor de defesa.
+> Terremoto nos contratos de defesa dos EUA: o Pentágono encerrou oficialmente o problemático programa OCX de controle de satélites GPS. Citando riscos insustentáveis e atrasos crônicos, a decisão marca uma mudança drástica na gestão de grandes projetos de software militar e sacode a indústria aeroespacial.
 
-🔗 [Ler notícia completa](https://spacenews.com/the-space-forces-commercial-first-strategy-in-action-with-col-tim-trimailo/)
+🔗 [Ler notícia completa](https://spacenews.com/pentagon-officially-ends-ocx-program-citing-risk-and-delays/)
 
 ---
 
-## 4. Volunteers Discover Rare Space Weather Events Using Their Ears
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 4. Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit
+**Fonte:** Space News | **Categoria:** Estratégia Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A ciência cidadã acaba de ouvir o que os instrumentos tradicionais deixaram passar. Usando uma técnica inovadora de audificação de dados, voluntários do projeto HARP, da NASA, descobriram eventos raros de clima espacial na magnetosfera terrestre. Ao transformar ondas de plasma em som, a equipe validou novas formas de entender como o escudo magnético da Terra reage às tempestades solares.
+> A vigilância espacial acaba de expandir seu horizonte. A Força Espacial dos EUA estabeleceu um escritório dedicado à coordenação cislunar, sinalizando que a estratégia de defesa e soberania americana agora mira muito além da órbita da Terra, focando no monitoramento do vasto espaço entre o nosso planeta e a Lua.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-sets-up-cislunar-coordination-office-to-focus-beyond-earth-orbit/)
 
 ---
 
-## 5. Countering missile threats ‘left of launch’
-**Fonte:** Space News | **Categoria:** Defesa Técnica
+## 5. Artemis spacesuit development risks further delays
+**Fonte:** Space News | **Categoria:** Exploração Humana
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A segurança global ganha uma nova camada de proatividade com o avanço das tecnologias 'left of launch'. Especialistas e agências agora focam em sistemas integrados capazes de neutralizar mísseis hipersônicos e balísticos antes mesmo do lançamento. Uma inovação técnica que combina vigilância orbital persistente e precisão cirúrgica para redefinir as estratégias de contenção de ameaças.
+> Alerta vermelho para o retorno da humanidade à Lua: o desenvolvimento dos trajes espaciais para a missão Artemis III enfrenta novos e graves riscos de atraso. A complexidade técnica das vestimentas da Axiom Space tornou-se um gargalo crítico que pode adiar o pouso lunar tripulado, previsto inicialmente para 2027.
 
-🔗 [Ler notícia completa](https://spacenews.com/countering-missile-threats-left-of-launch/)
+🔗 [Ler notícia completa](https://spacenews.com/artemis-spacesuit-development-risks-further-delays/)
 
 ---
 
