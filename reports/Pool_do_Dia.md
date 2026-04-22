@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/04/2026 10:16
+# 📥 Balde de Notícias Brutas - 22/04/2026 10:16
 
-Atualmente existem **29** notícias aguardando a curadoria do Editor.
+Atualmente existem **41** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -103,39 +103,12 @@ In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen
 
 ---
 
-### Artemis spacesuit development risks further delays
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/artemis-spacesuit-development-risks-further-delays/)
-
----
-
-### Pentagon officially ends OCX program, citing risk and delays
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/pentagon-officially-ends-ocx-program-citing-risk-and-delays/)
-
----
-
 ### Latvia joins the Artemis Accords
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/latvia-joins-the-artemis-accords/)
-
----
-
-### Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-sets-up-cislunar-coordination-office-to-focus-beyond-earth-orbit/)
 
 ---
 
@@ -163,15 +136,6 @@ In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/)
-
----
-
-### Third New Glenn launch suffers upper stage malfunction
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/third-new-glenn-launch-suffers-upper-stage-malfunction/)
 
 ---
 
@@ -229,15 +193,6 @@ The Republic of&#160;Latvia&#160;signed the Artemis Accords&#160;Monday&#160;dur
 
 ---
 
-### Wheels Up for X-59
-**Fonte:** Nasa News
-
-NASA’s X-59 quiet supersonic research aircraft flies over the Mojave Desert in California in this April 14, 2026, image. The transition to flying with wheels up is a key milestone and an important step in the experimental aircraft&#8217;s test campaign. The X-59 has made its highest and fastest flights so far, expanding its operational range [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/wheels-up-for-x-59/)
-
----
-
 ### Widely Attended Gatherings (WAGs) Determinations
 **Fonte:** Nasa News
 
@@ -262,6 +217,159 @@ This shimmering region of star-formation, a close-up of the Trifid Nebula about 
 The coastal province features striking tropical karst landscapes and sandy beaches alongside a mix of natural land cover and developed areas....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/)
+
+---
+
+### Commerce Department budget proposal would halt work on TraCSS
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commerce-department-budget-proposal-would-halt-work-on-tracss/)
+
+---
+
+### China backs orbital data center startup with $8.4 billion in credit lines
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/)
+
+---
+
+### Northrop Grumman takes $71 million charge on Vulcan booster issue
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/)
+
+---
+
+### Trump taps Raytheon executive for top military space acquisition post
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/)
+
+---
+
+### Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/)
+
+---
+
+### The U.S. must defend the final frontier against cyberattacks
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-u-s-must-defend-the-final-frontier-against-cyberattacks/)
+
+---
+
+### NordSpace nets Canadian defense funding for VLEO satellite development
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/)
+
+---
+
+### Belts of Green in the Washington Suburbs
+**Fonte:** Nasa News
+
+Along the northeast side of the Capital Beltway in Maryland, green spaces weave through the developed landscape....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/)
+
+---
+
+### Artemis II Mission Milestones: An Image and Video Recap
+**Fonte:** Nasa News
+
+On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.&#160; At their farthest [&#823...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/)
+
+---
+
+### Curiosity Blog, Sols 4867-4872: Sand Fill In Antofagasta Crater and Finding Our Next Drill Target
+**Fonte:** Nasa News
+
+Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, April 17, 2026 At the beginning of the week, Curiosity arrived right on target on the rim of the 10-meter (33 feet) “Antofagasta” crater.   The crater looked fresh and deep as we had hoped with a nice well-defined […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4867-4872-sand-fill-in-antofagasta-crater-and-finding-our-next-drill-target/)
+
+---
+
+### NASA Invites Media to Jordan Artemis Accords Signing Ceremony
+**Fonte:** Nasa News
+
+The Hashemite Kingdom of Jordan will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, April 23, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Ambassador Dina Kawar of the Hashemite Kingdom of Jordan and U.S. Department of State Principal Deputy Assistant Secretary for Oceans and International Environmental and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/)
+
+---
+
+### New NASA Views of Earth, From (S)PACE
+**Fonte:** Nasa News
+
+NASA has a fleet of satellites in orbit, gathering data around the clock, to explore unique views of our home planet’s ocean, atmosphere, and land surfaces....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/new-nasa-views-of-earth-from-space/)
+
+---
+
+### NASA Invests in Small Businesses Innovating for Space and Earth
+**Fonte:** Nasa News
+
+Continuing NASA’s longtime support of American industry, the agency announced its selection of more than 30 companies to develop innovative technology through its  Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) program. With these awards, NASA is investing approximately $16.3 million in seed funding of technology solutions to benefit the agency and energize...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/)
+
+---
+
+### NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything
+**Fonte:** Nasa News
+
+On March 21, 2026, NASA’s Johnson Space Center Director Vanessa Wyche took the stage&#160;at the Space House event at South by Southwest&#160;in Austin, Texas, to outline NASA’s next giant leap in human spaceflight&#160;—&#160;from low Earth orbit to the Moon, and&#160;ultimately Mars.&#160; As NASA prepares for a new era of exploration, Wyche made clear that the&#160;agency’s&#160;Artemis [&#8230...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/)
+
+---
+
+### NASA, Organ Sharing Network UNOS to Study Faster Organ Transport
+**Fonte:** Nasa News
+
+Every second counts in the life-saving world of medical transplants. To help address that urgency, NASA’s Langley Research Center in Hampton, Virginia,&#160;is teaming up with&#160;the United Network for Organ Sharing (UNOS)&#160;to explore faster, more reliable ways to&#160;transport donor&#160;organs using advanced aviation technologies.&#160; NASA Langley and UNOS will collaborate under a new S...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/)
+
+---
+
+### What Are Ames’ Contributions to Artemis II? 
+**Fonte:** Nasa News
+
+NASA successfully sent four astronauts&#160;around the Moon for the first time in more than 50 years, setting the stage for future lunar landing missions.&#160;As the agency continues to push the bounds of space exploration,&#160;NASA’s&#160;Ames Research Center in California’s Silicon Valley&#160;provided essential support in preparing for the mission.&#160; Artemis II was the first crewed&#160;t...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/)
+
+---
+
+### NASA Wins Two Webby Awards, Five Webby People’s Voice Awards
+**Fonte:** Nasa News
+
+NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards and five Webby People’s Voice Awards, the latter of which&#160;are&#160;awarded&#160;by the voting public. Reflecting the tremendous growth of the Internet, The Webbys now honors excellence in 8 major media types: Websites &#38; Mobile Sites; Video &#38; Film; Advertising, Media &#38; PR; [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-wins-two-webby-awards-five-webby-peoples-voice-awards/)
 
 ---
 
