@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/04/2026 10:16
+# 📥 Balde de Notícias Brutas - 23/04/2026 10:19
 
-Atualmente existem **41** notícias aguardando a curadoria do Editor.
+Atualmente existem **52** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -94,15 +94,6 @@ In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen
 
 ---
 
-### Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/falcon-9-launches-final-gps-3-satellite-into-orbit-for-u-s-space-force/)
-
----
-
 ### Latvia joins the Artemis Accords
 **Fonte:** Space News
 
@@ -121,30 +112,12 @@ In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen
 
 ---
 
-### China ramps up satellite production capacity amid constellation ambitions
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-ramps-up-satellite-production-capacity-amid-constellation-ambitions/)
-
----
-
 ### Space Force weighs Vulcan flights without solid boosters 
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/)
-
----
-
-### Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rhea-space-activity-raises-6-million-to-develop-gps-free-spacecraft-navigation/)
 
 ---
 
@@ -163,15 +136,6 @@ The tadpole-shaped islands along the Absheron Peninsula were born by explosive m
 Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. The Artemis II test flight successfully [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/)
-
----
-
-### NASA Rolls Out Artemis III Moon Rocket Core Stage
-**Fonte:** Nasa News
-
-Following the recent successful test flight of NASA’s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency’s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency’s Michoud Assembly Facility in New Orleans on [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/)
 
 ---
 
@@ -226,15 +190,6 @@ The coastal province features striking tropical karst landscapes and sandy beach
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/commerce-department-budget-proposal-would-halt-work-on-tracss/)
-
----
-
-### China backs orbital data center startup with $8.4 billion in credit lines
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/)
 
 ---
 
@@ -370,6 +325,150 @@ NASA successfully sent four astronauts&#160;around the Moon for the first time i
 NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards and five Webby People’s Voice Awards, the latter of which&#160;are&#160;awarded&#160;by the voting public. Reflecting the tremendous growth of the Internet, The Webbys now honors excellence in 8 major media types: Websites &#38; Mobile Sites; Video &#38; Film; Advertising, Media &#38; PR; [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-wins-two-webby-awards-five-webby-peoples-voice-awards/)
+
+---
+
+### Electron launches Japanese cubesats
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/electron-launches-japanese-cubesats/)
+
+---
+
+### Univity funds VLEO 5G demonstrators with $32 million Series A
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/)
+
+---
+
+### Atmos Space Cargo raises $30 million for reentry missions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/)
+
+---
+
+### Trump picks industry executive Roger Mason to lead National Reconnaissance Office
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/)
+
+---
+
+### FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/)
+
+---
+
+### Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/)
+
+---
+
+### Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/kigali-to-host-iaf-global-space-conference-on-climate-change-2026-a-first-for-africa/)
+
+---
+
+### NASA sets early September launch date for Roman Space Telescope
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/)
+
+---
+
+### Hybridizing nuclear command, control and communications systems puts space infrastructure at risk
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/hybridizing-nuclear-command-control-and-communications-systems-puts-space-infrastructure-at-risk/)
+
+---
+
+### Smoke Shrouds Northern Thailand
+**Fonte:** Nasa News
+
+Seasonal fires have darkened skies over Southeast Asia....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/)
+
+---
+
+### NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
+**Fonte:** Nasa News
+
+https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/)
+
+---
+
+### NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon
+**Fonte:** Nasa News
+
+NASA’s Boeing 777 has returned to the agency’s fleet after undergoing heavy structural modifications as it transforms from a giant passenger plane into the agency’s next-generation airborne science laboratory. After a check flight and a three-hour transit from Waco, the aircraft returned to NASA’s Langley Research Center in Hampton, Virginia, on April 22. Since January [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/)
+
+---
+
+### NASA Targets Early September for Roman Space Telescope Launch
+**Fonte:** Nasa News
+
+NASA’s Nancy Grace Roman Space Telescope team now is targeting as soon as early September 2026 for launch, ahead of the agency’s commitment to flight no later than May 2027. “Roman&#8217;s accelerated development is a true success story of what we can achieve when public investment, institutional expertise, and private enterprise come together to take [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/)
+
+---
+
+### NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
+**Fonte:** Nasa News
+
+NASA will host a news conference at 1:45 p.m. EDT Wednesday, April 29, from the agency’s Johnson Space Center in Houston to preview astronaut Anil Menon’s upcoming mission to the International Space Station. Watch the news conference live on NASA’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/)
+
+---
+
+### Night and (Earth) Day
+**Fonte:** Nasa News
+
+This image, released in celebration of Earth Day, shows the terminator – the line between night and day – on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon. NASA science improves life on Earth every day. The agency provides insights on our home planet that [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/night-and-earth-day/)
+
+---
+
+### Advancing Earth Observation at NASA Since Release of Earthrise Photo
+**Fonte:** Nasa News
+
+From cameras pressed against spacecraft windows to the most powerful radar ever flown, imaging technology has taken giant leaps since 1968, but the drive to understand our home in the cosmos has remained....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/advancing-earth-observation-at-nasa-since-release-of-earthrise-photo/)
 
 ---
 
