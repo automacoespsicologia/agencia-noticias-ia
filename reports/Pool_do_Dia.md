@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/04/2026 10:19
+# 📥 Balde de Notícias Brutas - 24/04/2026 10:18
 
-Atualmente existem **52** notícias aguardando a curadoria do Editor.
+Atualmente existem **62** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -130,15 +130,6 @@ The tadpole-shaped islands along the Absheron Peninsula were born by explosive m
 
 ---
 
-### NASA on Track for Future Missions with Initial Artemis II Assessments
-**Fonte:** Nasa News
-
-Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. The Artemis II test flight successfully [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/)
-
----
-
 ### NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station
 **Fonte:** Nasa News
 
@@ -193,30 +184,12 @@ The coastal province features striking tropical karst landscapes and sandy beach
 
 ---
 
-### Northrop Grumman takes $71 million charge on Vulcan booster issue
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/)
-
----
-
 ### Trump taps Raytheon executive for top military space acquisition post
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/)
-
----
-
-### Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/)
 
 ---
 
@@ -364,15 +337,6 @@ NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards 
 
 ---
 
-### FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/)
-
----
-
 ### Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software
 **Fonte:** Space News
 
@@ -436,15 +400,6 @@ NASA’s Boeing 777 has returned to the agency’s fleet after undergoing heavy 
 
 ---
 
-### NASA Targets Early September for Roman Space Telescope Launch
-**Fonte:** Nasa News
-
-NASA’s Nancy Grace Roman Space Telescope team now is targeting as soon as early September 2026 for launch, ahead of the agency’s commitment to flight no later than May 2027. “Roman&#8217;s accelerated development is a true success story of what we can achieve when public investment, institutional expertise, and private enterprise come together to take [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/)
-
----
-
 ### NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
 **Fonte:** Nasa News
 
@@ -469,6 +424,141 @@ This image, released in celebration of Earth Day, shows the terminator – the l
 From cameras pressed against spacecraft windows to the most powerful radar ever flown, imaging technology has taken giant leaps since 1968, but the drive to understand our home in the cosmos has remained....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/advancing-earth-observation-at-nasa-since-release-of-earthrise-photo/)
+
+---
+
+### FCC throws out satellite spectrum challenges as D2D dealmaking heats up
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-throws-out-satellite-spectrum-challenges-as-d2d-dealmaking-heats-up/)
+
+---
+
+### SpaceX wins $57 million U.S. military contract for satellite crosslink demo
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-wins-57-million-u-s-military-contract-for-satellite-crosslink-demo/)
+
+---
+
+### Jordan signs the Artemis Accords
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/jordan-signs-the-artemis-accords/)
+
+---
+
+### Optical links in contested space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/optical-links-in-contested-space/)
+
+---
+
+### Pentagon seeks $2.3 billion for Maven AI battlefield system 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/)
+
+---
+
+### House Science Committee pans NASA budget request
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/house-science-committee-pans-nasa-budget-request/)
+
+---
+
+### Pentagon closes $1 billion investment in L3Harris missile unit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pentagon-closes-1-billion-investment-in-l3harris-missile-unit/)
+
+---
+
+### An Agricultural Mosaic in Taiwan
+**Fonte:** Nasa News
+
+Diversity reigns across the farmland of Yunlin County in southwestern Taiwan—a region that produces an array of crops on small farms....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/)
+
+---
+
+### Johnson Leaders Honored by National Space Club & Foundation 
+**Fonte:** Nasa News
+
+The National Space Club &#38; Foundation announced its annual award&#160;recipients&#160;March 13, 2026, in Washington, D.C.&#160;&#160; Two dedicated leaders from NASA’s Johnson Space Center were recognized for their contributions to human spaceflight.&#160; Orion Program Manager Howard Hu received the Norman L. Baker Astronautics Engineer Award for sustained technical contributions to multiple h...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/johnson-leaders-honored-by-national-space-club-foundation/)
+
+---
+
+### NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
+**Fonte:** Nasa News
+
+As part of NASA’s SpaceX Crew-13 mission, four crew members from three space agencies will launch no earlier than mid-September to the International Space Station for a long-duration science expedition. NASA astronauts Jessica Watkins and Luke Delaney will serve as spacecraft commander and pilot, respectively. They will be joined by CSA (Canadian Space Agency) astronaut [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/)
+
+---
+
+### NASA Kennedy Prepares Facility for Roman Space Telescope Arrival
+**Fonte:** Nasa News
+
+Preparations are underway for launch of NASA’s Nancy Grace Roman Space Telescope as soon as early September on a SpaceX Falcon Heavy rocket from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The Roman space telescope will provide deep, panoramic views of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/)
+
+---
+
+### NASA Welcomes Jordan as 63rd Artemis Accords Signatory  
+**Fonte:** Nasa News
+
+The Hashemite Kingdom of Jordan signed the Artemis Accords&#160;Thursday&#160;during a ceremony&#160;hosted by NASA&#160;at the agency’s headquarters in Washington,&#160;becoming the&#160;latest&#160;nation to commit to responsible space exploration to benefit humanity.&#160; &#8220;It is my privilege to welcome Jordan as the newest signatory to the Artemis Accords,&#8221; said NASA Administrator ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/)
+
+---
+
+### Liquid Lifeline: NASA Tech Could Create IV Fluid In Space
+**Fonte:** Nasa News
+
+On every crewed mission, NASA packs pouches of a potentially life-saving liquid in its cargo, known as IV (or intravenous) fluid. A simple mix of sodium chloride and purified water, it can treat up to 30% of medical conditions in flight, resolving things like dehydration, burns, and more. Crewed missions beyond low Earth orbit into [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/iv-fluid-in-space/)
+
+---
+
+### NASA Releases Powerful LAVA Software to US Aerospace Industry
+**Fonte:** Nasa News
+
+For years, NASA engineers have turned to a tool called the Launch, Ascent, and Vehicle Aerodynamics (LAVA) framework to solve airflow challenges that could mean the difference between mission success or failure. When engineers need to know how a spacecraft will navigate re-entry or whether a new aircraft wing design will create enough lift, they [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/)
+
+---
+
+### NASA’s Chandra Finds Young Stars Dim Quickly
+**Fonte:** Nasa News
+
+These images, released on April 14, 2026, show two open star clusters, Trumpler 3 (left) and NGC 2353 (right). They represent a recent study from NASA’s Chandra X-ray Observatory that shows how young Sun-like stars are dimmer in X-rays than previously thought. This latest study looked at eight clusters of stars between the ages of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/)
 
 ---
 
