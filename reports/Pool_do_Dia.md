@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/04/2026 10:18
+# 📥 Balde de Notícias Brutas - 25/04/2026 09:48
 
-Atualmente existem **62** notícias aguardando a curadoria do Editor.
+Atualmente existem **66** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -559,6 +559,42 @@ For years, NASA engineers have turned to a tool called the Launch, Ascent, and V
 These images, released on April 14, 2026, show two open star clusters, Trumpler 3 (left) and NGC 2353 (right). They represent a recent study from NASA’s Chandra X-ray Observatory that shows how young Sun-like stars are dimmer in X-rays than previously thought. This latest study looked at eight clusters of stars between the ages of [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/)
+
+---
+
+### I Am Artemis: Peter Rossoni
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/)
+
+---
+
+### The Day of the Trifid Nebula
+**Fonte:** Nasa News
+
+This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s&#160;Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission&#8217;s&#160;launch&#160;on April 24, are reminiscent of an underwater [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/)
+
+---
+
+### NASA Astronauts to Answer Questions from Missouri Students
+**Fonte:** Nasa News
+
+Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/)
+
+---
+
+### NASA Celebrates Decade of University Innovation in Aeronautics 
+**Fonte:** Nasa News
+
+For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the&#160;University Leadership Initiative&#160;(ULI) is still flying high, making awards with the potential to change 21st century air travel.&#160; Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them [&#8230...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/)
 
 ---
 
