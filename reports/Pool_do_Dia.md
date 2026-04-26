@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/04/2026 09:48
+# 📥 Balde de Notícias Brutas - 26/04/2026 09:51
 
-Atualmente existem **66** notícias aguardando a curadoria do Editor.
+Atualmente existem **71** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -595,6 +595,51 @@ Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaw
 For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the&#160;University Leadership Initiative&#160;(ULI) is still flying high, making awards with the potential to change 21st century air travel.&#160; Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them [&#8230...
 
 🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/)
+
+---
+
+### NASA reserves science payload space for Mars telecommunications mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-reserves-science-payload-space-for-mars-telecommunications-mission/)
+
+---
+
+### Space Force faces surge in demand for heavy-lift launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-faces-surge-in-demand-for-heavy-lift-launches/)
+
+---
+
+### Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-up-to-3-2-billion-for-golden-dome-interceptor-prototypes/)
+
+---
+
+### The governance gap: Why orbital data centers need certification before they scale
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/)
+
+---
+
+### Astrobotic tests advanced rocket engine
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astrobotic-tests-advanced-rocket-engine/)
 
 ---
 

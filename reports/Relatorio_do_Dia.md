@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 23/04/2026 10:19
+# 🚀 Relatório da Agência Espacial - 26/04/2026 09:51
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Targets Early September for Roman Space Telescope Launch
-**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
+## 1. Artemis II Mission Milestones: An Image and Video Recap
+**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acelerou o passo e o Telescópio Espacial Nancy Grace Roman já tem data para ganhar os céus: setembro de 2026. Com um campo de visão cem vezes superior ao do Hubble, essa nova joia da engenharia promete revolucionar nossa busca por exoplanetas e desvendar os mistérios da energia escura, chegando antes do prazo previsto pela agência.
+> A humanidade acaba de completar seu retorno triunfal à vizinhança lunar. A missão Artemis II concluiu com sucesso a primeira viagem tripulada ao redor da Lua em mais de 50 anos, validando todos os sistemas da cápsula Orion. Este marco não é apenas histórico, é o sinal verde definitivo para o próximo passo: o pouso humano na superfície do satélite.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/)
 
 ---
 
-## 2. FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up
-**Fonte:** Space News | **Categoria:** Negócios
+## 2. Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes
+**Fonte:** Space News | **Categoria:** Mercado e Defesa
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho está livre para a revolução do sinal de celular via satélite. A FCC aprovou oficialmente a constelação da AST SpaceMobile, permitindo o avanço do serviço 'direct-to-device'. Mesmo com desafios na produção, a decisão coloca a empresa em uma posição estratégica para desafiar o domínio da Starlink na conectividade global.
+> A corrida pela defesa orbital ganha um novo capítulo bilionário. A Força Espacial dos Estados Unidos destinou impressionantes 3,2 bilhões de dólares para o desenvolvimento dos interceptores 'Golden Dome'. O projeto foca em protótipos de alta tecnologia para neutralizar ameaças em tempo real, consolidando a infraestrutura de segurança na fronteira final.
 
-🔗 [Ler notícia completa](https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-up-to-3-2-billion-for-golden-dome-interceptor-prototypes/)
 
 ---
 
-## 3. NASA on Track for Future Missions with Initial Artemis II Assessments
-**Fonte:** Nasa News | **Categoria:** Exploração Humana
+## 3. Pentagon seeks $2.3 billion for Maven AI battlefield system 
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O retorno da humanidade à Lua agora é uma questão de análise de dados. Após o sucesso da missão Artemis II, os engenheiros da NASA mergulharam nos sistemas da cápsula Orion e do foguete SLS para refinar cada detalhe técnico. É o ajuste fino da tecnologia que permitirá o próximo grande salto: o pouso tripulado no solo lunar.
+> O Pentágono está integrando inteligência artificial de ponta ao teatro de operações espacial. Com um orçamento de 2,3 bilhões de dólares, o sistema Maven AI promete revolucionar o monitoramento de campos de batalha através de processamento de dados por satélite. É o maior investimento já visto em autonomia e análise preditiva para o setor militar.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/)
+🔗 [Ler notícia completa](https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/)
 
 ---
 
-## 4. Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 4. NASA sets early September launch date for Roman Space Telescope
+**Fonte:** Space News | **Categoria:** Ciência e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de defesa espacial está prestes a receber uma injeção de capital sem precedentes. O Pentágono detalhou a estratégia por trás da proposta de orçamento de 1,45 trilhão de dólares, sinalizando que a infraestrutura orbital e a segurança no espaço serão as prioridades máximas da nova política de defesa dos Estados Unidos.
+> O próximo sucessor dos grandes telescópios espaciais já tem data para brilhar. A NASA confirmou para o início de setembro o lançamento do Telescópio Espacial Nancy Grace Roman. Equipado com um campo de visão 100 vezes maior que o do Hubble, o Roman será nossa ferramenta mais poderosa para mapear a energia escura e descobrir novos exoplanetas.
 
-🔗 [Ler notícia completa](https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/)
 
 ---
 
-## 5. Northrop Grumman takes $71 million charge on Vulcan booster issue
-**Fonte:** Space News | **Categoria:** Indústria
+## 5. Univity funds VLEO 5G demonstrators with $32 million Series A
+**Fonte:** Space News | **Categoria:** Negócios e Inovação
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Alerta vermelho na cadeia de suprimentos aeroespacial. A Northrop Grumman reportou um impacto financeiro de 71 milhões de dólares devido a falhas técnicas nos boosters do foguete Vulcan. O revés técnico não afeta apenas o caixa da empresa, mas força a Força Espacial a repensar a logística de lançamentos críticos para a segurança nacional.
+> A conectividade global está prestes a invadir a órbita superbaixa. A startup Univity arrecadou 32 milhões de dólares em sua rodada Série A para lançar demonstradores de tecnologia 5G em VLEO. O objetivo é reduzir drasticamente a latência das comunicações via satélite, desafiando o modelo atual das grandes constelações em órbitas mais altas.
 
-🔗 [Ler notícia completa](https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/)
+🔗 [Ler notícia completa](https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/)
 
 ---
 
