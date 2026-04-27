@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 26/04/2026 09:51
+# 📥 Balde de Notícias Brutas - 27/04/2026 10:59
 
-Atualmente existem **71** notícias aguardando a curadoria do Editor.
+Atualmente existem **67** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -220,15 +220,6 @@ Along the northeast side of the Capital Beltway in Maryland, green spaces weave 
 
 ---
 
-### Artemis II Mission Milestones: An Image and Video Recap
-**Fonte:** Nasa News
-
-On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.&#160; At their farthest [&#823...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/)
-
----
-
 ### Curiosity Blog, Sols 4867-4872: Sand Fill In Antofagasta Crater and Finding Our Next Drill Target
 **Fonte:** Nasa News
 
@@ -310,15 +301,6 @@ NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards 
 
 ---
 
-### Univity funds VLEO 5G demonstrators with $32 million Series A
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/)
-
----
-
 ### Atmos Space Cargo raises $30 million for reentry missions
 **Fonte:** Space News
 
@@ -352,15 +334,6 @@ NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/kigali-to-host-iaf-global-space-conference-on-climate-change-2026-a-first-for-africa/)
-
----
-
-### NASA sets early September launch date for Roman Space Telescope
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/)
 
 ---
 
@@ -460,15 +433,6 @@ From cameras pressed against spacecraft windows to the most powerful radar ever 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/optical-links-in-contested-space/)
-
----
-
-### Pentagon seeks $2.3 billion for Maven AI battlefield system 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/)
 
 ---
 
@@ -616,15 +580,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-up-to-3-2-billion-for-golden-dome-interceptor-prototypes/)
-
----
-
 ### The governance gap: Why orbital data centers need certification before they scale
 **Fonte:** Space News
 
@@ -640,6 +595,15 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/astrobotic-tests-advanced-rocket-engine/)
+
+---
+
+### China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/)
 
 ---
 
