@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/04/2026 10:59
+# 📥 Balde de Notícias Brutas - 28/04/2026 11:01
 
-Atualmente existem **67** notícias aguardando a curadoria do Editor.
+Atualmente existem **74** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -409,15 +409,6 @@ From cameras pressed against spacecraft windows to the most powerful radar ever 
 
 ---
 
-### SpaceX wins $57 million U.S. military contract for satellite crosslink demo
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-wins-57-million-u-s-military-contract-for-satellite-crosslink-demo/)
-
----
-
 ### Jordan signs the Artemis Accords
 **Fonte:** Space News
 
@@ -442,15 +433,6 @@ From cameras pressed against spacecraft windows to the most powerful radar ever 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/house-science-committee-pans-nasa-budget-request/)
-
----
-
-### Pentagon closes $1 billion investment in L3Harris missile unit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/pentagon-closes-1-billion-investment-in-l3harris-missile-unit/)
 
 ---
 
@@ -481,30 +463,12 @@ As part of NASA’s SpaceX Crew-13 mission, four crew members from three space a
 
 ---
 
-### NASA Kennedy Prepares Facility for Roman Space Telescope Arrival
-**Fonte:** Nasa News
-
-Preparations are underway for launch of NASA’s Nancy Grace Roman Space Telescope as soon as early September on a SpaceX Falcon Heavy rocket from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The Roman space telescope will provide deep, panoramic views of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/)
-
----
-
 ### NASA Welcomes Jordan as 63rd Artemis Accords Signatory  
 **Fonte:** Nasa News
 
 The Hashemite Kingdom of Jordan signed the Artemis Accords&#160;Thursday&#160;during a ceremony&#160;hosted by NASA&#160;at the agency’s headquarters in Washington,&#160;becoming the&#160;latest&#160;nation to commit to responsible space exploration to benefit humanity.&#160; &#8220;It is my privilege to welcome Jordan as the newest signatory to the Artemis Accords,&#8221; said NASA Administrator ...
 
 🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/)
-
----
-
-### Liquid Lifeline: NASA Tech Could Create IV Fluid In Space
-**Fonte:** Nasa News
-
-On every crewed mission, NASA packs pouches of a potentially life-saving liquid in its cargo, known as IV (or intravenous) fluid. A simple mix of sodium chloride and purified water, it can treat up to 30% of medical conditions in flight, resolving things like dehydration, burns, and more. Crewed missions beyond low Earth orbit into [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/iv-fluid-in-space/)
 
 ---
 
@@ -562,15 +526,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### NASA reserves science payload space for Mars telecommunications mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-reserves-science-payload-space-for-mars-telecommunications-mission/)
-
----
-
 ### Space Force faces surge in demand for heavy-lift launches
 **Fonte:** Space News
 
@@ -604,6 +559,114 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/)
+
+---
+
+### True Anomaly raises $650 million, reaching $2.2 billion valuation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/true-anomaly-raises-650-million-reaching-2-2-billion-valuation/)
+
+---
+
+### Corrosion problem affects Gateway and commercial space station modules
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/corrosion-problem-affects-gateway-and-commercial-space-station-modules/)
+
+---
+
+### Startup targets radio segment of Golden Dome missile-defense network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/startup-targets-radio-segment-of-golden-dome-missile-defense-network/)
+
+---
+
+### Seraphim’s public trust seeks to raise up to $474 million
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/seraphims-public-trust-seeks-to-raise-up-to-474-million/)
+
+---
+
+### Overview Energy to provide space-based solar power for Meta data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/overview-energy-to-provide-space-based-solar-power-for-meta-data-centers/)
+
+---
+
+### Artemis 2 came home in triumph. Artemis 3 must survive the real test.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/)
+
+---
+
+### FAA to begin collecting user fees for commercial launches and reentries
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/faa-to-begin-collecting-user-fees-for-commercial-launches-and-reentries/)
+
+---
+
+### Fiery Fall Color in Southern Chile
+**Fonte:** Nasa News
+
+The beech forests of southern Patagonia put on vibrant autumn displays....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/)
+
+---
+
+### NASA’s X-59 Gets Freedom 250 Logo
+**Fonte:** Nasa News
+
+NASA’s X-59 is helping the nation celebrate the 250th anniversary of its independence with an update to its livery – its official paint job and insignia. The one-of-a-kind research aircraft is the centerpiece of NASA’s Quesst mission to demonstrate technology to fly supersonic, or faster than the speed of sound, without generating loud sonic booms. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-x-59-gets-freedom-250-logo/)
+
+---
+
+### NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars
+**Fonte:** Nasa News
+
+NASA’s Curiosity and Perseverance rovers have captured two 360-degree landscapes that highlight how the missions are revealing details of the Red Planet’s formation, watery past, and potential for life. Located 2,345 miles (3,775 kilometers) apart from each other on Mars — about the distance from Los Angeles to Washington, D.C. — both rovers are exploring [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/)
+
+---
+
+### You Can Help Humans Thrive in Space
+**Fonte:** Nasa News
+
+The second Artemis mission took four astronauts around the moon and back – the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space exploration story by doing NASA science!...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/)
+
+---
+
+### Volunteers Help NASA Astronauts Record Lunar Flashes
+**Fonte:** Nasa News
+
+As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon with their own telescopes and sent their videos to scientists to share what they saw from Earth....
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/)
 
 ---
 
