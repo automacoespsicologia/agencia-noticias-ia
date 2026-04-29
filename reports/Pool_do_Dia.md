@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/04/2026 11:01
+# 📥 Balde de Notícias Brutas - 29/04/2026 10:51
 
-Atualmente existem **74** notícias aguardando a curadoria do Editor.
+Atualmente existem **81** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -109,15 +109,6 @@ In this photo taken on April 6, 2026, a portion of the Moon’s far side is seen
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/in-the-wake-of-artemis-2-america-needs-to-consider-the-why-of-its-government-space-program/)
-
----
-
-### Space Force weighs Vulcan flights without solid boosters 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/)
 
 ---
 
@@ -562,24 +553,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### True Anomaly raises $650 million, reaching $2.2 billion valuation
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/true-anomaly-raises-650-million-reaching-2-2-billion-valuation/)
-
----
-
-### Corrosion problem affects Gateway and commercial space station modules
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/corrosion-problem-affects-gateway-and-commercial-space-station-modules/)
-
----
-
 ### Startup targets radio segment of Golden Dome missile-defense network
 **Fonte:** Space News
 
@@ -595,24 +568,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/seraphims-public-trust-seeks-to-raise-up-to-474-million/)
-
----
-
-### Overview Energy to provide space-based solar power for Meta data centers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/overview-energy-to-provide-space-based-solar-power-for-meta-data-centers/)
-
----
-
-### Artemis 2 came home in triumph. Artemis 3 must survive the real test.
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/)
 
 ---
 
@@ -667,6 +622,114 @@ The second Artemis mission took four astronauts around the moon and back – the
 As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon with their own telescopes and sent their videos to scientists to share what they saw from Earth....
 
 🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/)
+
+---
+
+### Space Foundation Premieres National Space Day Video May 1
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-foundation-premieres-national-space-day-video-may-1/)
+
+---
+
+### Pentagon budget affirms Space Force role tracking moving targets from orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/)
+
+---
+
+### EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/)
+
+---
+
+### Fires Rage in Georgia
+**Fonte:** Nasa News
+
+Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U.S. Southeast....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/)
+
+---
+
+### NASA Connects Little Red Dots with Chandra, Webb
+**Fonte:** Nasa News
+
+A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. A “X-ray dot” found by NASA’s Chandra X-ray Observatory could explain what the hundreds or potentially thousands of these objects are. A paper describing the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/)
+
+---
+
+### There’s No Place Like NASA’s New X-59 Hangar Home 
+**Fonte:** Nasa News
+
+There’s no sign reading “home sweet home” in the hangar where the X‑59 now sits, but the sentiment is unmistakable among those tending to the quiet supersonic aircraft. Located at NASA’s Armstrong Flight Research Center in Edwards, California, the X-59 hangar was built in 1968 but looks like new thanks to a full renovation and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/new-x-59-hangar-home/)
+
+---
+
+### Nighttime Imaging Grows Landsat’s Science Value
+**Fonte:** Nasa News
+
+By Earth Resources Observation and Science (EROS) Center  For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done.  Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/)
+
+---
+
+### Curiosity Captures a 360-Degree View at ‘Nevado Sajama’
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover captured this 360-degree view of a region filled with low ridges called boxwork formations between Nov. 9 and Dec. 7, 2025 (the 4,714th to 4,741st Martian days, or sols, of the mission). At 1.5 billion pixels, this is one of the largest panoramas Curiosity has ever taken (the rover’s largest […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/)
+
+---
+
+### NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
+**Fonte:** Nasa News
+
+A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and at power levels exceeding any previous test in the United States, a team fired up [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/)
+
+---
+
+### NASA Laser Terminal Enhances Views During Artemis II Mission
+**Fonte:** Nasa News
+
+Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the public’s ability to experience the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/)
+
+---
+
+### Six Years of Curiosity’s Wheels on the Move
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover used its right navigation camera — one of two on the rover’s mast, or head — to capture the images in this timelapse, which spans six years of driving. The images were snapped between Jan. 2, 2020, and March 8, 2026 (the 2,633rd and 4,830th Martian day, or sol, of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move/)
+
+---
+
+### Science in Space
+**Fonte:** Nasa News
+
+Astronauts Chris Williams of NASA and Sophie Adenot of the European Space Agency work together in the Kibo laboratory module’s Life Science Glovebox, processing genetic-material samples for the DNA Nano Therapeutics‑3 experiment. The investigation is exploring DNA‑inspired assembly techniques as a way to manufacture treatments—such as chemotherapy and immunotherapy—that can kill cancer cells and a...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/science-in-space/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 28/04/2026 11:01
+# 🚀 Relatório da Agência Espacial - 29/04/2026 10:51
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. True Anomaly raises $650 million, reaching $2.2 billion valuation
+## 1. NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O caminho para Marte acaba de ficar mais curto. A NASA testou com sucesso um propulsor de alta potência alimentado por lítio, atingindo níveis de performance inéditos nos Estados Unidos. Essa tecnologia de íons é a peça que faltava para viabilizar viagens tripuladas de longa duração e missões robóticas complexas pelo sistema solar.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/)
+
+---
+
+## 2. NASA Laser Terminal Enhances Views During Artemis II Mission
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A comunicação no espaço profundo entrou na era da banda larga. Durante a histórica jornada da Artemis II ao redor da Lua, a NASA validou seu sistema de terminais a laser, permitindo a transmissão de dados em alta velocidade. É o fim dos sinais de rádio lentos e o início de uma conectividade total para os futuros colonos lunares.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/)
+
+---
+
+## 3. NASA Connects Little Red Dots with Chandra, Webb
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Astrônomos acabam de decifrar um dos maiores enigmas do universo primitivo. Combinando os olhares dos telescópios Webb e Chandra, a NASA identificou a natureza dos misteriosos 'pontos vermelhos' no cosmos distante. A descoberta revela como buracos negros supermassivos se formaram e cresceram em uma velocidade impressionante logo após o Big Bang.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/)
+
+---
+
+## 4. Trump taps Raytheon executive for top military space acquisition post
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de defesa espacial acaba de ganhar um novo 'unicórnio' de peso. A startup True Anomaly levantou 650 milhões de dólares em uma rodada de investimentos, catapultando sua avaliação para 2,2 bilhões de dólares. O movimento consolida a segurança orbital como o segmento mais aquecido do mercado, atraindo capital pesado para tecnologias de proteção de ativos no espaço.
+> Movimentação de peso no tabuleiro do poder espacial em Washington. A nova administração indicou um alto executivo da Raytheon para liderar o setor de aquisições militares espaciais. A escolha sinaliza um alinhamento agressivo entre o Pentágono e as gigantes da indústria de defesa para acelerar o domínio dos EUA na fronteira final.
 
-🔗 [Ler notícia completa](https://spacenews.com/true-anomaly-raises-650-million-reaching-2-2-billion-valuation/)
-
----
-
-## 2. Corrosion problem affects Gateway and commercial space station modules
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Alerta vermelho na engenharia aeroespacial: um problema crítico de corrosão está afetando os módulos da estação lunar Gateway e de futuras estações comerciais. Especialistas agora correm para desenvolver novas soluções de materiais e revestimentos, já que a falha técnica ameaça a durabilidade das estruturas que servirão de base para a presença humana prolongada na Lua.
-
-🔗 [Ler notícia completa](https://spacenews.com/corrosion-problem-affects-gateway-and-commercial-space-station-modules/)
+🔗 [Ler notícia completa](https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/)
 
 ---
 
-## 3. Overview Energy to provide space-based solar power for Meta data centers
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 5. Atmos Space Cargo raises $30 million for reentry missions
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira entre o Big Tech e o espaço profundo acaba de ser rompida. A Overview Energy anunciou que fornecerá energia solar captada no espaço para alimentar os gigantescos data centers da Meta. É um marco histórico que transforma a energia solar espacial de uma promessa teórica em uma solução logística real para a demanda energética da inteligência artificial.
+> O gargalo da logística orbital pode estar com os dias contados. A startup Atmos Space Cargo captou 30 milhões de dólares para desenvolver suas cápsulas de reentrada. O investimento foca no bilionário mercado de manufatura em microgravidade, prometendo trazer de volta à Terra, com segurança, materiais e produtos fabricados no espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/overview-energy-to-provide-space-based-solar-power-for-meta-data-centers/)
-
----
-
-## 4. Artemis 2 came home in triumph. Artemis 3 must survive the real test.
-**Fonte:** Space News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Com o triunfo da Artemis 2, a humanidade acaba de provar que pode retornar à órbita lunar com segurança, mas o nível de dificuldade vai subir drasticamente. Agora, todos os esforços científicos e técnicos se voltam para a Artemis 3. O desafio não é mais apenas circular a Lua, mas garantir a sobrevivência e o sucesso operacional no primeiro pouso tripulado em mais de meio século.
-
-🔗 [Ler notícia completa](https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/)
-
----
-
-## 5. Space Force weighs Vulcan flights without solid boosters 
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Força Espacial dos Estados Unidos está redesenhando sua estratégia de acesso ao espaço com o foguete Vulcan. A nova diretriz avalia voos sem propulsores sólidos laterais, uma mudança técnica que promete simplificar a logística de lançamento e aumentar a flexibilidade para missões de defesa nacional, otimizando o desempenho do veículo para cargas específicas.
-
-🔗 [Ler notícia completa](https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/)
+🔗 [Ler notícia completa](https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/)
 
 ---
 
