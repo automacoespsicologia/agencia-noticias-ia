@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/04/2026 10:51
+# 📥 Balde de Notícias Brutas - 30/04/2026 10:51
 
-Atualmente existem **81** notícias aguardando a curadoria do Editor.
+Atualmente existem **85** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -175,15 +175,6 @@ The coastal province features striking tropical karst landscapes and sandy beach
 
 ---
 
-### Trump taps Raytheon executive for top military space acquisition post
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/)
-
----
-
 ### The U.S. must defend the final frontier against cyberattacks
 **Fonte:** Space News
 
@@ -289,15 +280,6 @@ NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/electron-launches-japanese-cubesats/)
-
----
-
-### Atmos Space Cargo raises $30 million for reentry missions
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/)
 
 ---
 
@@ -661,15 +643,6 @@ Firefighters are battling two destructive blazes in the southern part of the sta
 
 ---
 
-### NASA Connects Little Red Dots with Chandra, Webb
-**Fonte:** Nasa News
-
-A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. A “X-ray dot” found by NASA’s Chandra X-ray Observatory could explain what the hundreds or potentially thousands of these objects are. A paper describing the […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/)
-
----
-
 ### There’s No Place Like NASA’s New X-59 Hangar Home 
 **Fonte:** Nasa News
 
@@ -697,24 +670,6 @@ Description NASA’s Curiosity Mars rover captured this 360-degree view of a reg
 
 ---
 
-### NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
-**Fonte:** Nasa News
-
-A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and at power levels exceeding any previous test in the United States, a team fired up [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/)
-
----
-
-### NASA Laser Terminal Enhances Views During Artemis II Mission
-**Fonte:** Nasa News
-
-Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the public’s ability to experience the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/)
-
----
-
 ### Six Years of Curiosity’s Wheels on the Move
 **Fonte:** Nasa News
 
@@ -730,6 +685,87 @@ Description NASA’s Curiosity Mars rover used its right navigation camera — o
 Astronauts Chris Williams of NASA and Sophie Adenot of the European Space Agency work together in the Kibo laboratory module’s Life Science Glovebox, processing genetic-material samples for the DNA Nano Therapeutics‑3 experiment. The investigation is exploring DNA‑inspired assembly techniques as a way to manufacture treatments—such as chemotherapy and immunotherapy—that can kill cancer cells and a...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/science-in-space/)
+
+---
+
+### Winter’s End Is Written in the Clouds
+**Fonte:** Nasa News
+
+As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/)
+
+---
+
+### I Am Artemis: Ryan Schulte
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As&#160;the&#160;four&#160;Artemis II&#160;astronauts&#160;traveled on&#160;a&#160;694,481-mile journey around the Moon and back,&#160;the Orion spacecraft&#160;provided them with all the essentials&#160;for deep space life, including&#160;daily&#160;exercise. The crew used an exercise device called the flywheel throug...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/)
+
+---
+
+### US-Indian Spacecraft Captures Mexico City Subsidence
+**Fonte:** Nasa News
+
+Description A scientist produced this map of land subsidence (sinking) in Mexico City using data from the NISAR (NASA-ISRO Synthetic Aperture Radar) mission captured between Oct. 25, 2025, and Jan. 17, 2026. The region has been a well-known hot spot of subsidence for decades, and images like this help confirm that NISAR is performing as […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/)
+
+---
+
+### Curiosity Blog, Sols 4873-4878: Welcome to the Atacama Drill Target
+**Fonte:** Nasa News
+
+Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Friday, April 24, 2026 There was excitement in the air as the Curiosity Science Team kicked off a drill campaign at the Atacama site to characterize the first Mount Sharp layered-sulfate bedrock since leaving the boxwork terrain. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/)
+
+---
+
+### US-Indian Space Mission Maps Extreme Subsidence in Mexico City
+**Fonte:** Nasa News
+
+One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of fastest subsiding capitals in the world: Mexico City. The findings show how quickly and reliably the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite can track real-time changes across Earth’s surface from orbit, unhindered by clouds or vegetation [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/)
+
+---
+
+### A Gently Glowing Galaxy
+**Fonte:** Nasa News
+
+A luminous swirl set against the deep black of space, the barred spiral galaxy IC 486 glows with a soft, ethereal light in this NASA&#160;Hubble Space Telescope&#160;image from April 13, 2026. IC 486 lies right on the edge of the constellation Gemini (the Twins), around 380 million light-years from Earth. Classified as a barred spiral [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/a-gently-glowing-galaxy/)
+
+---
+
+### NASA, Boeing Advance Truss-Braced Wing Research in Test
+**Fonte:** Nasa News
+
+NASA and Boeing have completed wind tunnel testing to study an innovative advanced aircraft design intended to improve aerodynamic efficiency. A truss-braced wing configuration, involving a long, thin wing with aerodynamically shaped structural supports, has the potential to reduce fuel and operational costs for future airliners, which is why NASA has collaborated with Boeing to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/)
+
+---
+
+### NASA Demonstrates New Prescribed Burn Capability for Spaceport 
+**Fonte:** Nasa News
+
+Anyone who has seen a launch at NASA’s Kennedy Space Center in Florida knows the agency’s pursuit of the stars involves some smoke and fire. Sometimes, however, the smoke doesn’t come from the rockets that propel astronauts beyond Earth’s bounds. That was the case during the second weekend of January 2026, when NASA teamed up [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/)
+
+---
+
+### Council on Environmental Quality Permitting Innovators Program
+**Fonte:** Nasa News
+
+NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Council on Environmental Quality (CEQ), within the Executive Office of the President established by the National [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/)
 
 ---
 

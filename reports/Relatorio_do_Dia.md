@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 29/04/2026 10:51
+# 🚀 Relatório da Agência Espacial - 30/04/2026 10:51
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. US-Indian Space Mission Maps Extreme Subsidence in Mexico City
+**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho para Marte acaba de ficar mais curto. A NASA testou com sucesso um propulsor de alta potência alimentado por lítio, atingindo níveis de performance inéditos nos Estados Unidos. Essa tecnologia de íons é a peça que faltava para viabilizar viagens tripuladas de longa duração e missões robóticas complexas pelo sistema solar.
+> A missão NISAR acaba de elevar o nível da observação terrestre. Utilizando o sistema de radar mais potente já lançado ao espaço, cientistas mapearam o afundamento crítico do solo na Cidade do México com precisão inédita. É a validação de uma tecnologia que permite monitorar mudanças geológicas em tempo real, transformando nossa capacidade de prever desastres naturais.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/)
 
 ---
 
-## 2. NASA Laser Terminal Enhances Views During Artemis II Mission
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A comunicação no espaço profundo entrou na era da banda larga. Durante a histórica jornada da Artemis II ao redor da Lua, a NASA validou seu sistema de terminais a laser, permitindo a transmissão de dados em alta velocidade. É o fim dos sinais de rádio lentos e o início de uma conectividade total para os futuros colonos lunares.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/)
-
----
-
-## 3. NASA Connects Little Red Dots with Chandra, Webb
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Astrônomos acabam de decifrar um dos maiores enigmas do universo primitivo. Combinando os olhares dos telescópios Webb e Chandra, a NASA identificou a natureza dos misteriosos 'pontos vermelhos' no cosmos distante. A descoberta revela como buracos negros supermassivos se formaram e cresceram em uma velocidade impressionante logo após o Big Bang.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/)
-
----
-
-## 4. Trump taps Raytheon executive for top military space acquisition post
+## 2. EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Movimentação de peso no tabuleiro do poder espacial em Washington. A nova administração indicou um alto executivo da Raytheon para liderar o setor de aquisições militares espaciais. A escolha sinaliza um alinhamento agressivo entre o Pentágono e as gigantes da indústria de defesa para acelerar o domínio dos EUA na fronteira final.
+> A inteligência artificial está assumindo o controle da autonomia orbital. A EraDrive e a gigante Northrop Grumman anunciaram uma parceria estratégica para desenvolver sistemas de IA aplicados ao espaço. Esse movimento não é apenas técnico; ele redefine o mercado de defesa e exploração, sinalizando que o futuro das missões depende de softwares capazes de tomar decisões complexas sem intervenção humana.
 
-🔗 [Ler notícia completa](https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/)
+🔗 [Ler notícia completa](https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/)
 
 ---
 
-## 5. Atmos Space Cargo raises $30 million for reentry missions
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. Astrobotic tests advanced rocket engine
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O gargalo da logística orbital pode estar com os dias contados. A startup Atmos Space Cargo captou 30 milhões de dólares para desenvolver suas cápsulas de reentrada. O investimento foca no bilionário mercado de manufatura em microgravidade, prometendo trazer de volta à Terra, com segurança, materiais e produtos fabricados no espaço.
+> A Astrobotic atingiu um marco crucial para a nova economia lunar. Os testes com o avançado motor de foguete 'Chakram' foram concluídos com sucesso, apresentando uma inovação em propulsão que promete maior eficiência para pousadores espaciais. É a engenharia de ponta garantindo que a logística entre a Terra e a Lua se torne mais confiável e frequente.
 
-🔗 [Ler notícia completa](https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/)
+🔗 [Ler notícia completa](https://spacenews.com/astrobotic-tests-advanced-rocket-engine/)
+
+---
+
+## 4. Trump picks industry executive Roger Mason to lead National Reconnaissance Office
+**Fonte:** Space News | **Categoria:** Mercado/Defesa
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Uma movimentação de peso no tabuleiro do setor de inteligência: Roger Mason, um veterano do setor privado, foi escolhido para liderar o National Reconnaissance Office (NRO). A escolha de um executivo da indústria para comandar a agência de satélites espiões dos EUA acelera a integração do mercado comercial com as operações de segurança nacional mais sigilosas do planeta.
+
+🔗 [Ler notícia completa](https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/)
+
+---
+
+## 5. NASA Releases Powerful LAVA Software to US Aerospace Industry
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A NASA está liberando uma de suas ferramentas mais valiosas para o setor privado: o software LAVA. Esse framework de simulação aerodinâmica, essencial para prever o comportamento de veículos durante o lançamento e a reentrada, agora está nas mãos da indústria aeroespacial. O impacto é direto: redução de custos e aceleração no desenvolvimento de novos foguetes comerciais.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/)
 
 ---
 
