@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 30/04/2026 10:51
+# 📥 Balde de Notícias Brutas - 01/05/2026 10:20
 
-Atualmente existem **85** notícias aguardando a curadoria do Editor.
+Atualmente existem **98** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -283,15 +283,6 @@ NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards 
 
 ---
 
-### Trump picks industry executive Roger Mason to lead National Reconnaissance Office
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/)
-
----
-
 ### Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software
 **Fonte:** Space News
 
@@ -445,15 +436,6 @@ The Hashemite Kingdom of Jordan signed the Artemis Accords&#160;Thursday&#160;du
 
 ---
 
-### NASA Releases Powerful LAVA Software to US Aerospace Industry
-**Fonte:** Nasa News
-
-For years, NASA engineers have turned to a tool called the Launch, Ascent, and Vehicle Aerodynamics (LAVA) framework to solve airflow challenges that could mean the difference between mission success or failure. When engineers need to know how a spacecraft will navigate re-entry or whether a new aircraft wing design will create enough lift, they [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/)
-
----
-
 ### NASA’s Chandra Finds Young Stars Dim Quickly
 **Fonte:** Nasa News
 
@@ -514,15 +496,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/)
-
----
-
-### Astrobotic tests advanced rocket engine
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astrobotic-tests-advanced-rocket-engine/)
 
 ---
 
@@ -625,15 +598,6 @@ As NASA’s Artemis II astronauts zipped around the Moon in early April, they ob
 
 ---
 
-### EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/)
-
----
-
 ### Fires Rage in Georgia
 **Fonte:** Nasa News
 
@@ -724,15 +688,6 @@ Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National 
 
 ---
 
-### US-Indian Space Mission Maps Extreme Subsidence in Mexico City
-**Fonte:** Nasa News
-
-One of the most powerful radar systems ever launched into space has mapped the ground moving beneath one of fastest subsiding capitals in the world: Mexico City. The findings show how quickly and reliably the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite can track real-time changes across Earth’s surface from orbit, unhindered by clouds or vegetation [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/)
-
----
-
 ### A Gently Glowing Galaxy
 **Fonte:** Nasa News
 
@@ -766,6 +721,168 @@ Anyone who has seen a launch at NASA’s Kennedy Space Center in Florida knows t
 NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Council on Environmental Quality (CEQ), within the Executive Office of the President established by the National [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/)
+
+---
+
+### Space Force taps K2 satellites to test laser communications for missile-defense
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/)
+
+---
+
+### SpaceComputer to conduct on-orbit test of secure computing infrastructure
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacecomputer-to-conduct-on-orbit-test-of-secure-computing-infrastructure/)
+
+---
+
+### Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/northrop-grumman-delivers-sensor-for-missile-warning-satellite-as-pentagon-cancels-program/)
+
+---
+
+### U.S. investors dominate Europe’s private-led space scale-up rounds
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/)
+
+---
+
+### House appropriators keep NASA funding flat
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/house-appropriators-keep-nasa-funding-flat/)
+
+---
+
+### CEO Series: Arcfield’s Kevin Kelly on making Golden Dome a success.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ceo-series-arcfields-kevin-kelly-on-making-golden-dome-a-success/)
+
+---
+
+### York Space to buy satcom terminal manufacturer All.Space 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/)
+
+---
+
+### Planet and Carbon Mapper to fly SWIR Tanager
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/)
+
+---
+
+### America needs a space alliance
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/america-needs-a-space-alliance/)
+
+---
+
+### Morocco signs the Artemis Accords
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/morocco-signs-the-artemis-accords/)
+
+---
+
+### Cyclone Rains Spur Papua New Guinea Landslides
+**Fonte:** Nasa News
+
+Heavy rains from Tropical Cyclone Maila triggered a deadly landslide in the mountains of East New Britain....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/)
+
+---
+
+### NASA Invites Media to Ireland Artemis Accords Signing
+**Fonte:** Nasa News
+
+Ireland will sign the Artemis Accords during a ceremony at 3 p.m. EDT Monday, May 4, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Ambassador of Ireland to the United States of America Geraldine Byrne Nason; Minister for Enterprise, Tourism and Employment Peter Burke, T.D., of Ireland; and U.S. Department of State [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/)
+
+---
+
+### Odyssey Team Celebrates on a Global Map of Mars
+**Fonte:** Nasa News
+
+Description Team members past and present from NASA’s 2001 Mars Odyssey orbiter mission gathered on April 15, 2026, to celebrate 25 years since the spacecraft’s launch, which took place April 7, 2001. For the occasion, the team rolled out a giant global map of Mars created using imagery from Odyssey’s THEMIS (Thermal Emission Imaging System) […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/)
+
+---
+
+### What’s Up: May 2026 Skywatching Tips from NASA
+**Fonte:** Nasa News
+
+Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a rare blue moon to end the month....
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/)
+
+---
+
+### Artemis III Moon Rocket Core Stage on the Move
+**Fonte:** Nasa News
+
+Teams move the core stage, or largest section, of the SLS (Space Launch System) rocket for NASA’s Artemis III mission into the Vehicle Assembly Building at&#160;the agency’s Kennedy Space Center in Florida&#160;in this photo from&#160;April 27, 2026. The&#160;SLS core stage traveled&#160;900 miles&#160;on&#160;the Pegasus barge from NASA’s Michoud Assembly Facility&#160;in&#160;New Orleans&#160;wh...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/)
+
+---
+
+### NASA Welcomes Morocco as 64th Artemis Accords Signatory 
+**Fonte:** Nasa News
+
+The Kingdom of Morocco signed the Artemis Accords on April 29th during a ceremony in the country’s capital, Rabat, becoming the latest nation to commit to the responsible exploration of space. “It is my privilege to welcome the Kingdom of Morocco as the newest signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/)
+
+---
+
+### NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary
+**Fonte:** Nasa News
+
+Trimmed in bicentennial pageantry, NASA opened a visitor center at its Goddard campus in Greenbelt, Maryland, in May 1976. Fifty years on, the Goddard Visitor Center continues to inspire through exhibits and programs on the past, present, and future of space exploration. “NASA’s 1958 charter tasks us with sharing our work as broadly as we [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/)
+
+---
+
+### NASA Explores Prioritizing First Response Drones in Crowded Skies
+**Fonte:** Nasa News
+
+Our streets are crowded with commuters and delivery vehicles, but when a police car or fire engine approaches with its lights and sirens on, drivers clear the way. In the coming years, drones for deliveries and other commercial tasks will become common in the skies over our communities, and NASA is working to ensure first [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/)
 
 ---
 

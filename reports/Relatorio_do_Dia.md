@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 30/04/2026 10:51
+# 🚀 Relatório da Agência Espacial - 01/05/2026 10:20
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. US-Indian Space Mission Maps Extreme Subsidence in Mexico City
-**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A missão NISAR acaba de elevar o nível da observação terrestre. Utilizando o sistema de radar mais potente já lançado ao espaço, cientistas mapearam o afundamento crítico do solo na Cidade do México com precisão inédita. É a validação de uma tecnologia que permite monitorar mudanças geológicas em tempo real, transformando nossa capacidade de prever desastres naturais.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/)
-
----
-
-## 2. EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy
+## 1. FAA to begin collecting user fees for commercial launches and reentries
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A inteligência artificial está assumindo o controle da autonomia orbital. A EraDrive e a gigante Northrop Grumman anunciaram uma parceria estratégica para desenvolver sistemas de IA aplicados ao espaço. Esse movimento não é apenas técnico; ele redefine o mercado de defesa e exploração, sinalizando que o futuro das missões depende de softwares capazes de tomar decisões complexas sem intervenção humana.
+> A conta chegou para as gigantes do setor aeroespacial. A FAA confirmou que passará a cobrar taxas de usuários para lançamentos e reentradas comerciais, encerrando uma era de subsídios indiretos. A medida força as empresas a recalcular suas margens de lucro em um mercado que não para de crescer e se tornar mais congestionado.
 
-🔗 [Ler notícia completa](https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/)
-
----
-
-## 3. Astrobotic tests advanced rocket engine
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Astrobotic atingiu um marco crucial para a nova economia lunar. Os testes com o avançado motor de foguete 'Chakram' foram concluídos com sucesso, apresentando uma inovação em propulsão que promete maior eficiência para pousadores espaciais. É a engenharia de ponta garantindo que a logística entre a Terra e a Lua se torne mais confiável e frequente.
-
-🔗 [Ler notícia completa](https://spacenews.com/astrobotic-tests-advanced-rocket-engine/)
+🔗 [Ler notícia completa](https://spacenews.com/faa-to-begin-collecting-user-fees-for-commercial-launches-and-reentries/)
 
 ---
 
-## 4. Trump picks industry executive Roger Mason to lead National Reconnaissance Office
-**Fonte:** Space News | **Categoria:** Mercado/Defesa
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Uma movimentação de peso no tabuleiro do setor de inteligência: Roger Mason, um veterano do setor privado, foi escolhido para liderar o National Reconnaissance Office (NRO). A escolha de um executivo da indústria para comandar a agência de satélites espiões dos EUA acelera a integração do mercado comercial com as operações de segurança nacional mais sigilosas do planeta.
-
-🔗 [Ler notícia completa](https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/)
-
----
-
-## 5. NASA Releases Powerful LAVA Software to US Aerospace Industry
+## 2. NASA, Boeing Advance Truss-Braced Wing Research in Test
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está liberando uma de suas ferramentas mais valiosas para o setor privado: o software LAVA. Esse framework de simulação aerodinâmica, essencial para prever o comportamento de veículos durante o lançamento e a reentrada, agora está nas mãos da indústria aeroespacial. O impacto é direto: redução de custos e aceleração no desenvolvimento de novos foguetes comerciais.
+> A NASA e a Boeing elevaram o conceito de eficiência aerodinâmica a um novo patamar. Testes em túnel de vento validaram o design da asa treliçada ultrafina, uma inovação técnica que promete reduzir drasticamente o consumo de combustível e as emissões, redefinindo o futuro da aviação e das operações de transporte aeroespacial.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/)
+
+---
+
+## 3. York Space to buy satcom terminal manufacturer All.Space 
+**Fonte:** Space News | **Categoria:** Negócios
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Em uma movimentação estratégica agressiva, a York Space anunciou a aquisição da fabricante de terminais All.Space. A manobra consolida a cadeia de suprimentos de comunicação via satélite, integrando infraestrutura de solo e órbita para dominar o crescente mercado de conectividade multi-órbita.
+
+🔗 [Ler notícia completa](https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/)
+
+---
+
+## 4. Pentagon budget affirms Space Force role tracking moving targets from orbit
+**Fonte:** Space News | **Categoria:** Defesa
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O Pentágono acaba de sinalizar uma mudança de paradigma na inteligência orbital. O novo orçamento reafirma o papel da Força Espacial no rastreamento de alvos móveis diretamente do espaço, transformando satélites em ferramentas táticas dinâmicas capazes de monitorar ameaças em tempo real no campo de batalha.
+
+🔗 [Ler notícia completa](https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/)
+
+---
+
+## 5. SpaceComputer to conduct on-orbit test of secure computing infrastructure
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A segurança da informação está subindo para a órbita terrestre. A SpaceComputer prepara um teste inédito de infraestrutura de computação segura no espaço, um avanço crítico para processar dados sensíveis longe das vulnerabilidades terrestres e estabelecer uma rede de dados resiliente para a nova economia espacial.
+
+🔗 [Ler notícia completa](https://spacenews.com/spacecomputer-to-conduct-on-orbit-test-of-secure-computing-infrastructure/)
 
 ---
 
