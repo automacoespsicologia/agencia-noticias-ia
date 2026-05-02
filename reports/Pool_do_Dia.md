@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 01/05/2026 10:20
+# 📥 Balde de Notícias Brutas - 02/05/2026 09:56
 
-Atualmente existem **98** notícias aguardando a curadoria do Editor.
+Atualmente existem **105** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -526,15 +526,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### FAA to begin collecting user fees for commercial launches and reentries
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/faa-to-begin-collecting-user-fees-for-commercial-launches-and-reentries/)
-
----
-
 ### Fiery Fall Color in Southern Chile
 **Fonte:** Nasa News
 
@@ -586,15 +577,6 @@ As NASA’s Artemis II astronauts zipped around the Moon in early April, they ob
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/space-foundation-premieres-national-space-day-video-may-1/)
-
----
-
-### Pentagon budget affirms Space Force role tracking moving targets from orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/)
 
 ---
 
@@ -697,15 +679,6 @@ A luminous swirl set against the deep black of space, the barred spiral galaxy I
 
 ---
 
-### NASA, Boeing Advance Truss-Braced Wing Research in Test
-**Fonte:** Nasa News
-
-NASA and Boeing have completed wind tunnel testing to study an innovative advanced aircraft design intended to improve aerodynamic efficiency. A truss-braced wing configuration, involving a long, thin wing with aerodynamically shaped structural supports, has the potential to reduce fuel and operational costs for future airliners, which is why NASA has collaborated with Boeing to [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/)
-
----
-
 ### NASA Demonstrates New Prescribed Burn Capability for Spaceport 
 **Fonte:** Nasa News
 
@@ -730,15 +703,6 @@ NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in th
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/)
-
----
-
-### SpaceComputer to conduct on-orbit test of secure computing infrastructure
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacecomputer-to-conduct-on-orbit-test-of-secure-computing-infrastructure/)
 
 ---
 
@@ -775,15 +739,6 @@ NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in th
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/ceo-series-arcfields-kevin-kelly-on-making-golden-dome-a-success/)
-
----
-
-### York Space to buy satcom terminal manufacturer All.Space 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/)
 
 ---
 
@@ -883,6 +838,114 @@ Trimmed in bicentennial pageantry, NASA opened a visitor center at its Goddard c
 Our streets are crowded with commuters and delivery vehicles, but when a police car or fire engine approaches with its lights and sirens on, drivers clear the way. In the coming years, drones for deliveries and other commercial tasks will become common in the skies over our communities, and NASA is working to ensure first [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/)
+
+---
+
+### NASA to increase value of CLPS contract to support surge of lunar lander missions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/)
+
+---
+
+### The opportunity beyond orbital data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-opportunity-beyond-orbital-data-centers/)
+
+---
+
+### Starcloud seeks more orbital data center funding shortly after unicorn status
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/)
+
+---
+
+### Trump nominates Schiess as next Space Force chief
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/)
+
+---
+
+### Amazon Leo passes 300 satellites with Atlas and Ariane launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/)
+
+---
+
+### DARPA selects three companies for lunar orbiter studies
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/)
+
+---
+
+### NASA Kennedy Center Director Announces Plans to Retire
+**Fonte:** Nasa News
+
+NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring. Prior to joining NASA, Petro worked in a variety of military and industry positions, ultimately beginning her career at the agency in 2007 and working her way up to center director, as well as serving as acting administrator [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/)
+
+---
+
+### NASA Artemis II Crew Rings Nasdaq Closing Bell
+**Fonte:** Nasa News
+
+Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA’s Artemis II crewmembers CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman, right, ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026. NASA’s Artemis II mission took Wiseman, Glover, Koch, and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/)
+
+---
+
+### Key Support Equipment Arrives at Kennedy for Roman Space Telescope
+**Fonte:** Nasa News
+
+Technicians at NASA’s Payload Hazardous Servicing Facility (PHSF) at the agency’s Kennedy Space Center in Florida offloaded eight high-efficiency particulate air (HEPA) wall modules and other ground support equipment on April 27. The equipment will support launch processing of the agency’s Nancy Grace Roman Space Telescope. Each 1,800-pound module enhances the&#160;PHSF’s&#160;clean room systems, ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/)
+
+---
+
+### NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current
+**Fonte:** Nasa News
+
+Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged particles plays an important role in how Earth reacts to changing conditions in space, called space weather, which […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/)
+
+---
+
+### Space Out This Summer with Variety of NASA STEM Activities
+**Fonte:** Nasa News
+
+Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offers ways to take your interests to the next level.&#160; Here are some opportunities [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/)
+
+---
+
+### Hubble Spots a Starry Spiral
+**Fonte:** Nasa News
+
+In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/)
 
 ---
 
