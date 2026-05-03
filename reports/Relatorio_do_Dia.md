@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 02/05/2026 09:56
+# 🚀 Relatório da Agência Espacial - 03/05/2026 10:01
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Starcloud seeks more orbital data center funding shortly after unicorn status
-**Fonte:** Space News | **Categoria:** Inovação e Mercado
+## 1. Artemis 3 plans remain uncertain as schedule slips
+**Fonte:** Space News | **Categoria:** Exploração Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A computação em nuvem acaba de ganhar uma nova estratosfera. A Starcloud, após atingir o cobiçado status de 'unicórnio', já abriu uma nova rodada de investimentos para escalar seus data centers orbitais. O movimento sinaliza uma mudança radical na infraestrutura digital global, prometendo processar volumes massivos de dados diretamente no espaço, eliminando os gargalos de transmissão entre a Terra e a órbita.
+> O caminho de volta à Lua acaba de ganhar novas turbulências. Com o cronograma da missão Artemis 3 sofrendo deslizamentos críticos, a NASA admite incertezas sobre o pouso tripulado. O atraso no hardware da Starship e nos trajes espaciais coloca a agência sob pressão máxima para manter a meta de 2026, redefinindo as prioridades da maior coalizão espacial da história.
 
-🔗 [Ler notícia completa](https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/)
+🔗 [Ler notícia completa](https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/)
 
 ---
 
-## 2. Artemis III Moon Rocket Core Stage on the Move
-**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O gigante despertou: o estágio central do foguete SLS para a missão Artemis III já está no Centro Espacial Kennedy. Com 65 metros de altura, esta é a peça fundamental que levará a humanidade de volta à superfície da Lua. O transporte de mais de mil quilômetros até o prédio de montagem marca o início da contagem regressiva técnica para o próximo grande salto da nossa espécie.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/)
-
----
-
-## 3. Amazon Leo passes 300 satellites with Atlas and Ariane launches
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A disputa pelo domínio da internet satelital atingiu um novo patamar de intensidade. O Amazon Kuiper ultrapassou a marca de 300 satélites em órbita após uma sequência de lançamentos bem-sucedidos com os foguetes Atlas e Ariane. Agora, a Amazon consolida sua infraestrutura para desafiar diretamente a Starlink, transformando a órbita baixa da Terra no campo de batalha mais valioso da economia conectada.
-
-🔗 [Ler notícia completa](https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/)
-
----
-
-## 4. NordSpace nets Canadian defense funding for VLEO satellite development
+## 2. Space Force taps K2 satellites to test laser communications for missile-defense
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A defesa aeroespacial está descendo de altitude para ganhar precisão. A NordSpace recebeu aporte do governo canadense para desenvolver satélites de Órbita Muito Baixa, a VLEO. Operando mais perto da Terra do que nunca, essa tecnologia promete imagens com resolução sem precedentes e comunicações de latência quase zero, redefinindo o que é possível em termos de vigilância e inteligência tática.
+> A Força Espacial dos Estados Unidos está elevando o nível da defesa orbital. Através de novos contratos com a K2 Space, o Pentágono vai testar links de comunicação a laser em satélites de grande porte. A tecnologia promete uma largura de banda sem precedentes e resistência total a interferências, essencial para a nova rede de defesa contra mísseis em ambientes contestados.
 
-🔗 [Ler notícia completa](https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/)
 
 ---
 
-## 5. NASA to increase value of CLPS contract to support surge of lunar lander missions
+## 3. Space Force faces surge in demand for heavy-lift launches
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O setor de lançamentos pesados está operando em capacidade máxima. A Força Espacial reporta uma explosão na demanda por foguetes de alta carga, impulsionada pela necessidade de posicionar infraestruturas massivas em órbita. Este gargalo logístico sinaliza uma era de ouro para empresas como SpaceX e United Launch Alliance, que agora correm para acelerar suas cadências de voo.
+
+🔗 [Ler notícia completa](https://spacenews.com/space-force-faces-surge-in-demand-for-heavy-lift-launches/)
+
+---
+
+## 4. Planet and Carbon Mapper to fly SWIR Tanager
+**Fonte:** Space News | **Categoria:** Ciência e Tecnologia
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A vigilância climática acaba de ganhar um aliado hiperespectral. A Planet, em parceria com a Carbon Mapper, prepara o lançamento do satélite Tanager, equipado com sensores de infravermelho de ondas curtas capazes de detectar fontes individuais de metano com precisão cirúrgica. É a tecnologia espacial transformando dados invisíveis em ações diretas contra o aquecimento global.
+
+🔗 [Ler notícia completa](https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/)
+
+---
+
+## 5. DARPA selects three companies for lunar orbiter studies
 **Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Preparem-se para um engarrafamento comercial no solo lunar. A NASA anunciou um aumento bilionário no valor dos contratos do programa CLPS para acomodar uma explosão na demanda por sondas e landers privados. Este ajuste financeiro é a prova de que a Lua não é mais um destino científico isolado, mas o novo polo de crescimento de um mercado multibilionário que envolve logística e mineração espacial.
+> A economia cislunar está saindo das pranchetas. A DARPA selecionou três empresas para liderar estudos sobre infraestrutura de órbita lunar, focando em logística e serviços para naves que operarão entre a Terra e a Lua. O movimento marca o início oficial da ocupação comercial do espaço profundo, onde a permanência e a manutenção se tornam os novos pilares do mercado.
 
-🔗 [Ler notícia completa](https://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/)
+🔗 [Ler notícia completa](https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/)
 
 ---
 

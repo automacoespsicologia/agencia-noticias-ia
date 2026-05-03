@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 02/05/2026 09:56
+# 📥 Balde de Notícias Brutas - 03/05/2026 10:01
 
-Atualmente existem **105** notícias aguardando a curadoria do Editor.
+Atualmente existem **101** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -181,15 +181,6 @@ The coastal province features striking tropical karst landscapes and sandy beach
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-u-s-must-defend-the-final-frontier-against-cyberattacks/)
-
----
-
-### NordSpace nets Canadian defense funding for VLEO satellite development
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/)
 
 ---
 
@@ -805,15 +796,6 @@ Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a 
 
 ---
 
-### Artemis III Moon Rocket Core Stage on the Move
-**Fonte:** Nasa News
-
-Teams move the core stage, or largest section, of the SLS (Space Launch System) rocket for NASA’s Artemis III mission into the Vehicle Assembly Building at&#160;the agency’s Kennedy Space Center in Florida&#160;in this photo from&#160;April 27, 2026. The&#160;SLS core stage traveled&#160;900 miles&#160;on&#160;the Pegasus barge from NASA’s Michoud Assembly Facility&#160;in&#160;New Orleans&#160;wh...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/)
-
----
-
 ### NASA Welcomes Morocco as 64th Artemis Accords Signatory 
 **Fonte:** Nasa News
 
@@ -841,15 +823,6 @@ Our streets are crowded with commuters and delivery vehicles, but when a police 
 
 ---
 
-### NASA to increase value of CLPS contract to support surge of lunar lander missions
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/)
-
----
-
 ### The opportunity beyond orbital data centers
 **Fonte:** Space News
 
@@ -859,30 +832,12 @@ Our streets are crowded with commuters and delivery vehicles, but when a police 
 
 ---
 
-### Starcloud seeks more orbital data center funding shortly after unicorn status
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/)
-
----
-
 ### Trump nominates Schiess as next Space Force chief
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/)
-
----
-
-### Amazon Leo passes 300 satellites with Atlas and Ariane launches
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/)
 
 ---
 
@@ -946,6 +901,15 @@ Summer is “Go” for launch, and NASA has a universe of ways to help you to ju
 In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/)
+
+---
+
+### Artemis 3 plans remain uncertain as schedule slips
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/)
 
 ---
 
