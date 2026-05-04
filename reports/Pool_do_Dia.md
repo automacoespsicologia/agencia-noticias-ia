@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/05/2026 10:01
+# 📥 Balde de Notícias Brutas - 04/05/2026 11:03
 
-Atualmente existem **101** notícias aguardando a curadoria do Editor.
+Atualmente existem **100** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -472,15 +472,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### Space Force faces surge in demand for heavy-lift launches
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-faces-surge-in-demand-for-heavy-lift-launches/)
-
----
-
 ### The governance gap: Why orbital data centers need certification before they scale
 **Fonte:** Space News
 
@@ -688,15 +679,6 @@ NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in th
 
 ---
 
-### Space Force taps K2 satellites to test laser communications for missile-defense
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/)
-
----
-
 ### Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program
 **Fonte:** Space News
 
@@ -730,15 +712,6 @@ NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in th
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/ceo-series-arcfields-kevin-kelly-on-making-golden-dome-a-success/)
-
----
-
-### Planet and Carbon Mapper to fly SWIR Tanager
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/)
 
 ---
 
@@ -841,15 +814,6 @@ Our streets are crowded with commuters and delivery vehicles, but when a police 
 
 ---
 
-### DARPA selects three companies for lunar orbiter studies
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/)
-
----
-
 ### NASA Kennedy Center Director Announces Plans to Retire
 **Fonte:** Nasa News
 
@@ -904,12 +868,39 @@ In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glitte
 
 ---
 
-### Artemis 3 plans remain uncertain as schedule slips
+### Vantor wins $70 million award to enhance NGA data-delivery platform
 **Fonte:** Space News
 
 ...
 
-🔗 [Link da Notícia](https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/)
+🔗 [Link da Notícia](https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/)
+
+---
+
+### Falcon 9 launches South Korean satellite and 45 rideshare payloads
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/)
+
+---
+
+### National Geospatial-Intelligence Agency to open programs to more vendors
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/national-geospatial-intelligence-agency-to-open-programs-to-more-vendors/)
+
+---
+
+### NGA pushes AI adoption as demand grows for ‘always-on’ intelligence 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/)
 
 ---
 
