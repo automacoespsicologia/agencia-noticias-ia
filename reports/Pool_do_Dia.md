@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/05/2026 11:03
+# 📥 Balde de Notícias Brutas - 05/05/2026 10:42
 
-Atualmente existem **100** notícias aguardando a curadoria do Editor.
+Atualmente existem **105** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -355,15 +355,6 @@ From cameras pressed against spacecraft windows to the most powerful radar ever 
 
 ---
 
-### FCC throws out satellite spectrum challenges as D2D dealmaking heats up
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-throws-out-satellite-spectrum-challenges-as-d2d-dealmaking-heats-up/)
-
----
-
 ### Jordan signs the Artemis Accords
 **Fonte:** Space News
 
@@ -472,15 +463,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### The governance gap: Why orbital data centers need certification before they scale
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/)
-
----
-
 ### China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites
 **Fonte:** Space News
 
@@ -523,15 +505,6 @@ The beech forests of southern Patagonia put on vibrant autumn displays....
 NASA’s X-59 is helping the nation celebrate the 250th anniversary of its independence with an update to its livery – its official paint job and insignia. The one-of-a-kind research aircraft is the centerpiece of NASA’s Quesst mission to demonstrate technology to fly supersonic, or faster than the speed of sound, without generating loud sonic booms. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-x-59-gets-freedom-250-logo/)
-
----
-
-### NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars
-**Fonte:** Nasa News
-
-NASA’s Curiosity and Perseverance rovers have captured two 360-degree landscapes that highlight how the missions are revealing details of the Red Planet’s formation, watery past, and potential for life. Located 2,345 miles (3,775 kilometers) apart from each other on Mars — about the distance from Los Angeles to Washington, D.C. — both rovers are exploring [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/)
 
 ---
 
@@ -769,15 +742,6 @@ Shooting stars before dawn, a brilliant meetup between the Moon and Venus and a 
 
 ---
 
-### NASA Welcomes Morocco as 64th Artemis Accords Signatory 
-**Fonte:** Nasa News
-
-The Kingdom of Morocco signed the Artemis Accords on April 29th during a ceremony in the country’s capital, Rabat, becoming the latest nation to commit to the responsible exploration of space. “It is my privilege to welcome the Kingdom of Morocco as the newest signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman in [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/)
-
----
-
 ### NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary
 **Fonte:** Nasa News
 
@@ -802,15 +766,6 @@ Our streets are crowded with commuters and delivery vehicles, but when a police 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-opportunity-beyond-orbital-data-centers/)
-
----
-
-### Trump nominates Schiess as next Space Force chief
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/)
 
 ---
 
@@ -901,6 +856,96 @@ In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glitte
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/)
+
+---
+
+### Ahuachapán and Its Restive Neighbors
+**Fonte:** Nasa News
+
+From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/)
+
+---
+
+### NASA Welcomes Ireland as Newest Artemis Accords Signatory
+**Fonte:** Nasa News
+
+Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/)
+
+---
+
+### NASA Fosters Development of Lunar Resource-Seeking Technologies
+**Fonte:** Nasa News
+
+To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other planetary bodies, from water ice to minerals. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/)
+
+---
+
+### NASA Welcomes Malta as Newest Artemis Accords Signatory
+**Fonte:** Nasa News
+
+The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. Department of State officials present. “Today, it’s my pleasure to welcome the Republic of Malta to the Artemis Accords community,” NASA Administrator Jared Isaacman said in recorded remarks. “By [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/)
+
+---
+
+### Breaking Barriers at 3rd Annual Findings from the Field Symposium
+**Fonte:** Nasa News
+
+This year’s Findings from the Field Student Research Symposium welcomed 106 students, grades four through eight, 29 educators, and 15 Subject Matter Experts, and it featured 68 research posters, 14 lightning talks, and 5 discussion sessions. ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/)
+
+---
+
+### Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
+**Fonte:** Nasa News
+
+Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/)
+
+---
+
+### Hubble Spots a Starry Spiral
+**Fonte:** Nasa News
+
+In this new picture from NASA&#8217;s&#160;Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation&#160;Antlia&#160;(the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, as [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/)
+
+---
+
+### For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
+**Fonte:** Nasa News
+
+A study of NASA’s TESS (Transiting Exoplanet Survey Satellite) data on stellar pairs undergoing mutual eclipses has uncovered more than two dozen candidate exoplanets, or worlds beyond our solar system. This method allows the mission to locate planets it couldn’t otherwise detect.  To date, TESS has discovered 885 confirmed exoplanets and identified more than 7,900 […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/)
+
+---
+
+### LAGEOS: An Earth Science Mission Built for Enduring Precision
+**Fonte:** Nasa News
+
+On May 4, 1976, a spacecraft resembling a disco ball entered orbit almost 3,700 miles (6,000 kilometers) above Earth. This shiny, two‑foot‑wide (60‑centimeter) sphere called the Laser Geodynamics Satellite, or LAGEOS, is covered with 426 retroreflectors—small mirrored prisms designed to bounce laser light directly back to where it came from. Beneath its aluminum exterior sits [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/)
+
+---
+
+### Record-Setting Retreat of Hektoria Glacier
+**Fonte:** Nasa News
+
+Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/)
 
 ---
 
