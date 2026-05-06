@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 05/05/2026 10:42
+# 📥 Balde de Notícias Brutas - 06/05/2026 11:02
 
-Atualmente existem **105** notícias aguardando a curadoria do Editor.
+Atualmente existem **120** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -481,15 +481,6 @@ For 10 years, a NASA initiative has helped the agency produce breakthrough aeron
 
 ---
 
-### Seraphim’s public trust seeks to raise up to $474 million
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/seraphims-public-trust-seeks-to-raise-up-to-474-million/)
-
----
-
 ### Fiery Fall Color in Southern Chile
 **Fonte:** Nasa News
 
@@ -832,15 +823,6 @@ In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glitte
 
 ---
 
-### Falcon 9 launches South Korean satellite and 45 rideshare payloads
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/)
-
----
-
 ### National Geospatial-Intelligence Agency to open programs to more vendors
 **Fonte:** Space News
 
@@ -886,15 +868,6 @@ To support long-duration missions to the Moon and Mars, NASA and industry are de
 
 ---
 
-### NASA Welcomes Malta as Newest Artemis Accords Signatory
-**Fonte:** Nasa News
-
-The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. Department of State officials present. “Today, it’s my pleasure to welcome the Republic of Malta to the Artemis Accords community,” NASA Administrator Jared Isaacman said in recorded remarks. “By [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/)
-
----
-
 ### Breaking Barriers at 3rd Annual Findings from the Field Symposium
 **Fonte:** Nasa News
 
@@ -904,30 +877,12 @@ This year’s Findings from the Field Student Research Symposium welcomed 106 st
 
 ---
 
-### Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
-**Fonte:** Nasa News
-
-Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/)
-
----
-
 ### Hubble Spots a Starry Spiral
 **Fonte:** Nasa News
 
 In this new picture from NASA&#8217;s&#160;Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation&#160;Antlia&#160;(the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, as [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/)
-
----
-
-### For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
-**Fonte:** Nasa News
-
-A study of NASA’s TESS (Transiting Exoplanet Survey Satellite) data on stellar pairs undergoing mutual eclipses has uncovered more than two dozen candidate exoplanets, or worlds beyond our solar system. This method allows the mission to locate planets it couldn’t otherwise detect.  To date, TESS has discovered 885 confirmed exoplanets and identified more than 7,900 […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/)
 
 ---
 
@@ -946,6 +901,186 @@ On May 4, 1976, a spacecraft resembling a disco ball entered orbit almost 3,700 
 Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/)
+
+---
+
+### Ground station operators grapple with military targeting
+**Fonte:** Space News
+
+Recent strikes on cloud facilities and satellite ground infrastructure are sharpening concerns that some of the space industry’s most critical assets are becoming targets in modern conflict. Despite being the essential link between satellites and users, ground stations have largely operated outside the limelight enjoyed by assets in orbit and the rockets that launch them [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/ground-station-operators-grapple-with-military-targeting/)
+
+---
+
+### Scout Space raises $18 million to expand orbital tracking technology
+**Fonte:** Space News
+
+Series A funding will support manufacturing expansion in Northern Virginia...
+
+🔗 [Link da Notícia](https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/)
+
+---
+
+### Voyager ‘very optimistic’ about Starlab amid potential NASA changes
+**Fonte:** Space News
+
+Voyager Technologies says it is ready should NASA change plans for supporting development of commercial space stations....
+
+🔗 [Link da Notícia](https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/)
+
+---
+
+### Ukrainian forces test direct-to-device satellite imagery for frontline troops
+**Fonte:** Space News
+
+Vantor executive: ‘We have more imagery, more sensors but much of that data still isn&#8217;t reaching the people who need it’...
+
+🔗 [Link da Notícia](https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/)
+
+---
+
+### New NGA head makes industry debut at GEOINT Symposium 2026
+**Fonte:** Space News
+
+When Lt. Gen. Michele Bredenkamp takes the stage for the closing keynote at GEOINT Wednesday, it will mark her first as the director of the National Geospatial-Intelligence Agency (NGA) — a role she assumed with little fanfare during the government shutdown in November. The appearance will also serve as an opportunity for industry to learn [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/)
+
+---
+
+### Startup develops software to help military tap commercial imaging satellites
+**Fonte:** Space News
+
+Divergent Space platform would automate imagery requests across multiple providers...
+
+🔗 [Link da Notícia](https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/)
+
+---
+
+### Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement
+**Fonte:** Space News
+
+In a 2022 address to the Intelligence and National Security Alliance, the director of the National Reconnaissance Office, Chris Scolese, sounded a warning.  Record numbers of satellites were being launched, he said, and competitors including China and Russia were developing tools, on the ground and in orbit, that put American space infrastructure at risk. But [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/)
+
+---
+
+### Loft Orbital expands into full-service constellation deals
+**Fonte:** Space News
+
+EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’...
+
+🔗 [Link da Notícia](https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/)
+
+---
+
+### Polish space company Eycore launches first SAR Earth observation satellite
+**Fonte:** Space News
+
+WARSAW, Poland — Polish space company Eycore has launched Eycore-1, an Earth observation satellite equipped with the company’s synthetic aperture radar (SAR) technology. The May 3 launch of a Falcon 9 rocket from Vandenberg Space Force Base made Eycore the second privately-owned business in Europe to own its own SAR satellite.    The move will allow [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/)
+
+---
+
+### Facing AI, data and scale imperatives at the 2026 GEOINT Symposium
+**Fonte:** Space News
+
+Each year, the GEOINT Symposium brings together the people who make geospatial intelligence possible — the analysts, engineers, mission commanders, innovators and policy leaders who collectively ensure that decision-makers have the understanding of our world they need when they need it. This year in Aurora, Colorado, more than 4,000 of them will gather at what [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/)
+
+---
+
+### Melting Snow Off Shivelyuch
+**Fonte:** Nasa News
+
+Near-constant activity continues on the volcano in Russia....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/)
+
+---
+
+### NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
+**Fonte:** Nasa News
+
+Thirty-eight science educators representing seven school districts across Virginia’s Tidewater region joined forces with community organizations, such as the Elizabeth River Project, to deepen their instructional practice through a dynamic collaboration between NASA eClips and the GLOBE (Global Learning and Observation to Benefit the Environment) Program. Together, these groups are cultivating a r...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/)
+
+---
+
+### NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’
+**Fonte:** Nasa News
+
+Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken on Dec. 18, 2025, the 1,717th Martian day, or sol, of the mission. An additional nine were […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/)
+
+---
+
+### Curiosity Blog, Sols 4879-4885: Struggle at Atacama
+**Fonte:** Nasa News
+
+Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, May 1, 2026 Chile’s Atacama desert is the driest mid-latitude desert in the world, receiving only 15 millimeters (0.59 inches) of precipitation per year. Only the dry valleys of Antarctica receive less precipitation. These environmental conditions have made the Atacama a […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/)
+
+---
+
+### 650 NASA Volunteers Have Co-Authored Scientific Papers
+**Fonte:** Nasa News
+
+After a recent count, NASA Citizen Science is proud to report that more than 650 people who have volunteered to participate in NASA citizen science projects have co-authored peer-reviewed research papers with scientists on those project teams. These volunteers made incredible contributions like: And all of them saw their passion and dedication translated into lasting […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/)
+
+---
+
+### NASA’s Curiosity Rover Frees Its Drill From a Rock
+**Fonte:** Nasa News
+
+Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock. The imagery showing the entire process was captured by the black-and-white hazard cameras […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/)
+
+---
+
+### NASA Astronaut to Answer Questions from Students in Florida
+**Fonte:** Nasa News
+
+Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11 a.m. EDT Friday, May 8, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/)
+
+---
+
+### NASA Research Shows Early Life Relied on Rare Metal
+**Fonte:** Nasa News
+
+NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the first to show that molybdenum was used by ancient life this far back in our planet’s history. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/)
+
+---
+
+### Building on America’s 65-Year Legacy of Human Spaceflight
+**Fonte:** Nasa News
+
+On the morning of May 5, 1961, the Mercury-Redstone 3 launch vehicle lifted into the sky from Cape Canaveral, Florida, carrying astronaut Alan B. Shepard Jr. Over the next 15 minutes, Shepard ascended to an altitude of 116 miles (187 kilometers) in his Freedom 7 spacecraft, becoming the first American to fly into space before [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/)
+
+---
+
+### NASA’S Juno Misson Captures Jupiter Moon Thebe
+**Fonte:** Nasa News
+
+Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The spacecraft’s Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilometers) per pixel. Thebe resides […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/)
 
 ---
 

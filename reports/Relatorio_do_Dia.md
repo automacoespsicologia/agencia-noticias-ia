@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 05/05/2026 10:42
+# 🚀 Relatório da Agência Espacial - 06/05/2026 11:02
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. Ukrainian forces test direct-to-device satellite imagery for frontline troops
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho de volta à Lua acaba de ganhar um reforço de peso. O lander MK1 da Blue Origin, apelidado de Endurance, superou com sucesso os rigorosos testes térmicos e de vácuo nas câmaras da NASA. Essa é a prova de fogo para o cargueiro que promete ser o braço logístico comercial das futuras missões Artemis, garantindo que a infraestrutura necessária chegue ao solo lunar antes mesmo dos astronautas.
+> A agilidade no campo de batalha acaba de ganhar uma dimensão orbital. Forças ucranianas iniciaram testes com tecnologia de recepção direta de imagens de satélite em dispositivos móveis, eliminando intermediários e entregando inteligência tática em tempo real para tropas na linha de frente. É o fim do atraso no processamento de dados e o início de uma era onde o espaço é uma ferramenta de bolso para o soldado.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/)
+🔗 [Ler notícia completa](https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/)
 
 ---
 
-## 2. Seraphim’s public trust seeks to raise up to $474 million
-**Fonte:** Space News | **Categoria:** Mercado
+## 2. Ground station operators grapple with military targeting
+**Fonte:** Space News | **Categoria:** Segurança e Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de capitais está injetando uma dose massiva de confiança na economia orbital. O fundo britânico Seraphim Space anunciou uma meta de captação de 474 milhões de dólares para escalar startups do setor. É uma das maiores movimentações financeiras do ano, sinalizando que a 'Space Economy' não é mais uma promessa futura, mas um setor de crescimento explosivo e alta maturidade para investidores globais.
+> O setor de infraestrutura terrestre entrou em alerta máximo. Com ataques recentes visando instalações de nuvem e terminais de satélite, operadores de estações de solo agora enfrentam o desafio de proteger o elo mais vulnerável — e essencial — da economia espacial. O mercado de defesa e cibersegurança corre para blindar esses ativos, que deixaram de ser apenas suporte para se tornarem alvos estratégicos em conflitos modernos.
 
-🔗 [Ler notícia completa](https://spacenews.com/seraphims-public-trust-seeks-to-raise-up-to-474-million/)
+🔗 [Ler notícia completa](https://spacenews.com/ground-station-operators-grapple-with-military-targeting/)
 
 ---
 
-## 3. For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 3. NASA’S Juno Misson Captures Jupiter Moon Thebe
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A caça por novos mundos acaba de se tornar muito mais precisa. Utilizando uma técnica inovadora de análise de eclipses em sistemas binários, o satélite TESS, da NASA, identificou mais de duas dezenas de candidatos a exoplanetas que antes passavam despercebidos. Essa descoberta valida um novo método científico que pode revelar centenas de planetas ocultos em vizinhanças estelares complexas, expandindo nosso mapa do cosmos.
+> A sonda Juno acaba de nos proporcionar um encontro raro nas profundezas do sistema joviano. Em uma manobra de alta precisão a apenas 5 mil quilômetros de distância, a espaçonave capturou imagens inéditas de Tebe, a segunda maior das luas internas de Júpiter. Os dados revelam detalhes nunca vistos da superfície desse satélite misterioso, ampliando drasticamente nosso entendimento sobre a formação dos ambientes mais extremos do sistema solar.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/)
 
 ---
 
-## 4. Falcon 9 launches South Korean satellite and 45 rideshare payloads
-**Fonte:** Space News | **Categoria:** Mercado
+## 4. U.S. investors dominate Europe’s private-led space scale-up rounds
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX reafirma sua dominância logística com um lançamento que é uma verdadeira aula de eficiência. Um único Falcon 9 colocou em órbita o satélite principal da Coreia do Sul e outras 45 cargas úteis de diversos países. Esse modelo de 'carona espacial' em massa está transformando o mercado, permitindo que nações e empresas menores tenham acesso ao espaço com custos e prazos sem precedentes na história da astronáutica.
+> O domínio financeiro dos Estados Unidos está redesenhando o ecossistema espacial europeu. Novos dados confirmam que investidores norte-americanos estão liderando a maioria das rodadas de investimento 'scale-up' no continente, consolidando uma dependência transatlântica que levanta debates sobre a soberania tecnológica europeia frente ao apetite voraz do capital privado de Wall Street.
 
-🔗 [Ler notícia completa](https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/)
+🔗 [Ler notícia completa](https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/)
 
 ---
 
-## 5. NASA Welcomes Malta as Newest Artemis Accords Signatory
-**Fonte:** Nasa News | **Categoria:** Geopolítica
+## 5. Polish space company Eycore launches first SAR Earth observation satellite
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A coalizão para a exploração lunar atingiu um novo patamar diplomático. Com a adesão da República de Malta, os Acordos Artemis somam agora 65 nações comprometidas com normas de exploração pacífica e sustentável. Esse crescimento acelerado consolida os Acordos como o padrão de ouro da governança espacial moderna, isolando competidores e unificando a infraestrutura política para a futura presença humana permanente na Lua.
+> A Polônia acaba de elevar seu status na corrida espacial privada com o lançamento bem-sucedido do Eycore-1. Equipado com tecnologia proprietária de radar de abertura sintética (SAR), o satélite coloca a startup polonesa Eycore em um grupo seleto de empresas europeias capazes de observar a Terra através de nuvens ou escuridão total, desafiando o monopólio das gigantes do setor.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/)
 
 ---
 
