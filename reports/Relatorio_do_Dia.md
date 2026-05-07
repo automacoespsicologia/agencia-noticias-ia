@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 06/05/2026 11:02
+# 🚀 Relatório da Agência Espacial - 07/05/2026 11:06
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Ukrainian forces test direct-to-device satellite imagery for frontline troops
+## 1. NASA Research Shows Early Life Relied on Rare Metal
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Uma descoberta fundamental acaba de reescrever os capítulos iniciais da vida na Terra. Cientistas da NASA validaram que, há mais de 3 bilhões de anos, nossos ancestrais biológicos dependiam do molibdênio — um metal extremamente escasso na época. Esse estudo, publicado na Nature Communications, revela como a vida encontrou caminhos improváveis para florescer em um ambiente hostil.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/)
+
+---
+
+## 2. China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket 
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A agilidade no campo de batalha acaba de ganhar uma dimensão orbital. Forças ucranianas iniciaram testes com tecnologia de recepção direta de imagens de satélite em dispositivos móveis, eliminando intermediários e entregando inteligência tática em tempo real para tropas na linha de frente. É o fim do atraso no processamento de dados e o início de uma era onde o espaço é uma ferramenta de bolso para o soldado.
+> A hegemonia da SpaceX no reaproveitamento de foguetes pode enfrentar um desafio vindo do Oriente. A startup chinesa Nayuta Space garantiu novos investimentos para tirar do papel o Xuanniao-R, um conceito de foguete que utiliza recuperação aerodinâmica não convencional. É a engenharia espacial tentando reinventar a economia orbital com designs que fogem do óbvio.
 
-🔗 [Ler notícia completa](https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/)
-
----
-
-## 2. Ground station operators grapple with military targeting
-**Fonte:** Space News | **Categoria:** Segurança e Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de infraestrutura terrestre entrou em alerta máximo. Com ataques recentes visando instalações de nuvem e terminais de satélite, operadores de estações de solo agora enfrentam o desafio de proteger o elo mais vulnerável — e essencial — da economia espacial. O mercado de defesa e cibersegurança corre para blindar esses ativos, que deixaram de ser apenas suporte para se tornarem alvos estratégicos em conflitos modernos.
-
-🔗 [Ler notícia completa](https://spacenews.com/ground-station-operators-grapple-with-military-targeting/)
+🔗 [Ler notícia completa](https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/)
 
 ---
 
-## 3. NASA’S Juno Misson Captures Jupiter Moon Thebe
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 3. Unlocking the Mystery of X-ray Dots
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A sonda Juno acaba de nos proporcionar um encontro raro nas profundezas do sistema joviano. Em uma manobra de alta precisão a apenas 5 mil quilômetros de distância, a espaçonave capturou imagens inéditas de Tebe, a segunda maior das luas internas de Júpiter. Os dados revelam detalhes nunca vistos da superfície desse satélite misterioso, ampliando drasticamente nosso entendimento sobre a formação dos ambientes mais extremos do sistema solar.
+> O James Webb encontrou o mistério, e o Observatório Chandra pode ter achado a resposta. Astrônomos identificaram 'pontos de raios-X' que explicam objetos enigmáticos detectados nos primórdios do universo. Essa sinergia entre os maiores telescópios da humanidade está nos dando uma visão sem precedentes sobre o comportamento de buracos negros e galáxias ancestrais.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/)
 
 ---
 
-## 4. U.S. investors dominate Europe’s private-led space scale-up rounds
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 4. Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O domínio financeiro dos Estados Unidos está redesenhando o ecossistema espacial europeu. Novos dados confirmam que investidores norte-americanos estão liderando a maioria das rodadas de investimento 'scale-up' no continente, consolidando uma dependência transatlântica que levanta debates sobre a soberania tecnológica europeia frente ao apetite voraz do capital privado de Wall Street.
+> O Pentágono está digitalizando o tabuleiro de xadrez orbital. A Força Espacial dos EUA acaba de conceder contratos estratégicos à Leidos e à MapLarge para o desenvolvimento de softwares de 'planejamento de batalha'. O movimento sinaliza uma mudança crítica no mercado: a prioridade agora é o comando e controle ágil em um ambiente espacial cada vez mais disputado.
 
-🔗 [Ler notícia completa](https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/)
 
 ---
 
-## 5. Polish space company Eycore launches first SAR Earth observation satellite
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 5. NASA Welcomes Ireland as Newest Artemis Accords Signatory
+**Fonte:** Nasa News | **Categoria:** Mercado/Geopolítica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Polônia acaba de elevar seu status na corrida espacial privada com o lançamento bem-sucedido do Eycore-1. Equipado com tecnologia proprietária de radar de abertura sintética (SAR), o satélite coloca a startup polonesa Eycore em um grupo seleto de empresas europeias capazes de observar a Terra através de nuvens ou escuridão total, desafiando o monopólio das gigantes do setor.
+> A diplomacia lunar ganha um novo fôlego com a expansão dos Acordos Artemis. A Irlanda acaba de se tornar a mais nova nação a se comprometer com a exploração responsável do espaço sob a liderança da NASA. Com isso, o bloco Artemis se consolida como a maior aliança internacional de exploração espacial da história, isolando competidores e definindo as regras do jogo para a futura economia da Lua.
 
-🔗 [Ler notícia completa](https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/)
 
 ---
 

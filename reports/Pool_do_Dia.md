@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/05/2026 11:02
+# 📥 Balde de Notícias Brutas - 07/05/2026 11:06
 
-Atualmente existem **120** notícias aguardando a curadoria do Editor.
+Atualmente existem **134** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -652,15 +652,6 @@ NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in th
 
 ---
 
-### U.S. investors dominate Europe’s private-led space scale-up rounds
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/)
-
----
-
 ### House appropriators keep NASA funding flat
 **Fonte:** Space News
 
@@ -904,15 +895,6 @@ Scientists relied on satellite data to understand how the Antarctic glacier lost
 
 ---
 
-### Ground station operators grapple with military targeting
-**Fonte:** Space News
-
-Recent strikes on cloud facilities and satellite ground infrastructure are sharpening concerns that some of the space industry’s most critical assets are becoming targets in modern conflict. Despite being the essential link between satellites and users, ground stations have largely operated outside the limelight enjoyed by assets in orbit and the rockets that launch them [&hellip;]...
-
-🔗 [Link da Notícia](https://spacenews.com/ground-station-operators-grapple-with-military-targeting/)
-
----
-
 ### Scout Space raises $18 million to expand orbital tracking technology
 **Fonte:** Space News
 
@@ -928,15 +910,6 @@ Series A funding will support manufacturing expansion in Northern Virginia...
 Voyager Technologies says it is ready should NASA change plans for supporting development of commercial space stations....
 
 🔗 [Link da Notícia](https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/)
-
----
-
-### Ukrainian forces test direct-to-device satellite imagery for frontline troops
-**Fonte:** Space News
-
-Vantor executive: ‘We have more imagery, more sensors but much of that data still isn&#8217;t reaching the people who need it’...
-
-🔗 [Link da Notícia](https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/)
 
 ---
 
@@ -973,15 +946,6 @@ In a 2022 address to the Intelligence and National Security Alliance, the direct
 EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’...
 
 🔗 [Link da Notícia](https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/)
-
----
-
-### Polish space company Eycore launches first SAR Earth observation satellite
-**Fonte:** Space News
-
-WARSAW, Poland — Polish space company Eycore has launched Eycore-1, an Earth observation satellite equipped with the company’s synthetic aperture radar (SAR) technology. The May 3 launch of a Falcon 9 rocket from Vandenberg Space Force Base made Eycore the second privately-owned business in Europe to own its own SAR satellite.    The move will allow [&hellip;]...
-
-🔗 [Link da Notícia](https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/)
 
 ---
 
@@ -1075,12 +1039,174 @@ On the morning of May 5, 1961, the Mercury-Redstone 3 launch vehicle lifted into
 
 ---
 
-### NASA’S Juno Misson Captures Jupiter Moon Thebe
+### Speed tops price in national security contracting decisions
+**Fonte:** Space News
+
+A decade ago, the space technology company Stellar Exploration needed about three years to build, test and deliver a small satellite propulsion system. Today, the same system takes about a year. Increasingly, customers are requesting deliveries in half that time. “That’s not reasonable, but people have no hesitation asking,” said CEO Tomas Svitek. “In the [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/)
+
+---
+
+### As satellite imagery evolves, its role in operations comes into view
+**Fonte:** Space News
+
+DENVER – In the last year, leaders from the Republic of the Marshall Islands, a 181-square kilometer landmass surrounded by two million square kilometers of water, wanted to reduce the time it takes to detect of vessels suspected of illegal fishing. During a 12-day campaign by the Marshall Islands Marine Resources Authority, satellite radar and [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/)
+
+---
+
+### NGA Rapid Capabilities Office to embrace speed and risk-taking
+**Fonte:** Space News
+
+DENVER – The job of the National Geospatial-Intelligence Agency’s Rapid Capabilities Office (RCO) is to &#8220;deliver disruptive capabilities to our warfighters faster than emerging threats,&#8221; NGA Director Lt. Gen. Michele Bredenkamp said May 6 in 2026 GEOINT Symposium keynote. Achieving that goal will require the new office to “take a lot of risk in acquisition,” [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/nga-rapid-capabilities-office-to-embrace-speed-and-risk-taking/)
+
+---
+
+### Scolese puts talent at center of NRO transition as he prepares to step down
+**Fonte:** Space News
+
+Agency seeks data scientists, AI specialists and quantum physicists amid surge in space-based intelligence collection...
+
+🔗 [Link da Notícia](https://spacenews.com/scolese-puts-talent-at-center-of-nro-transition-as-he-prepares-to-step-down/)
+
+---
+
+### Bringing imagery and communications under one roof
+**Fonte:** Space News
+
+As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit....
+
+🔗 [Link da Notícia](https://spacenews.com/bringing-imagery-and-communications-under-one-roof/)
+
+---
+
+### Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet
+**Fonte:** Space News
+
+MILAN – French-led satellite operator Eutelsat and Indian maritime service provider Station Satcom have signed a multi-year agreement to expand Eutelsat-owned OneWeb LEO connectivity services across Station Satcom’s maritime fleet, the companies announced April 30. The agreement builds on a previous activation in 2025 covering hundreds of Station Satcom vessels and broadens the number of [&hellip;...
+
+🔗 [Link da Notícia](https://spacenews.com/eutelsat-and-station-satcom-sign-agreement-to-scale-leo-services-for-maritime-fleet/)
+
+---
+
+### China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket 
+**Fonte:** Space News
+
+Chinese commercial launch startup Nayuta Space has completed consecutive Pre-A financing rounds to support development of its unconventional Xuanniao-R rocket concept....
+
+🔗 [Link da Notícia](https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/)
+
+---
+
+### Riding the orbital data center wave
+**Fonte:** Space News
+
+The orbital data center boom is promising opportunities well beyond the pioneers hoping to build colossal, AI-driven computing platforms in space. A mix of ventures developing novel space technologies are looking to ride a wave of investment and dealmaking in the early innings of this emerging market, even as SpaceX and others behind some of [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/riding-the-orbital-data-center-wave/)
+
+---
+
+### Powering Unified Space Systems Operations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/powering-unified-space-systems-operations/)
+
+---
+
+### Between resource scarcity and orbital inflation: rethinking the space model
+**Fonte:** Space News
+
+The space sector is booming. But it is also running up against limits we are only beginning to acknowledge. Like many industries, it is expanding as if resources such as materials, energy and orbital capacity were eternally abundant, when in reality all three are becoming more constrained, more contested and more expensive. At the same [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/between-resource-scarcity-and-orbital-inflation-rethinking-the-space-model/)
+
+---
+
+### Cornell Students Aid NASA with Drone Safety in Sky
 **Fonte:** Nasa News
 
-Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The spacecraft’s Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilometers) per pixel. Thebe resides […]...
+A team of Cornell University students are turning heads within industry and the federal government with the results of their research into creating a national air transportation management system in which thousands of drones could safely operate together. NASA is sponsoring their work through the University Student Research Challenge (USRC), which provides grants to college [&#8230;]...
 
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/)
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/)
+
+---
+
+### A Sea of Spinning Clouds
+**Fonte:** Nasa News
+
+Icy, isolated Peter I Island stirred up a show in the atmosphere off the West Antarctic coast....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/)
+
+---
+
+### Ames Science Stars of the Month May 2026
+**Fonte:** Nasa News
+
+NASA Ames Science Directorate Stars of the Month: May 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Lora Jovanović, Tammy Moore, Frances Donovan, and Jaden Ta. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/)
+
+---
+
+### NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions
+**Fonte:** Nasa News
+
+NASA advances aeronautics and space technologies through experimental aircraft and flight research at the agency’s Armstrong Flight Research Center in Edwards, California. Behind those efforts is the Dryden Aeronautical Test Range (DATR), which provides the communications, tracking, and data services that enable safe and effective missions. For most NASA Armstrong research flights, the DATR suppli...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/)
+
+---
+
+### NASA Wallops to Host Public Information Session May 13
+**Fonte:** Nasa News
+
+To&#160;facilitate&#160;discussion and information sharing on activities at NASA’s Wallops Flight Facility&#160;in Virginia, a public information session is being held&#160;4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center.&#160; During the event, NASA will have information booths on the status on the causeway bridge construction, updates on beach replenishment,&#160;and&#160;a&#160;...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/)
+
+---
+
+### NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival
+**Fonte:** Nasa News
+
+NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/)
+
+---
+
+### Unlocking the Mystery of X-ray Dots
+**Fonte:** Nasa News
+
+A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist&#8217;s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/)
+
+---
+
+### NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
+**Fonte:** Nasa News
+
+Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/)
+
+---
+
+### New NASA Technology Mimics Extreme Cold of the Lunar Night 
+**Fonte:** Nasa News
+
+As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.&#160; Gaining a deeper understanding of how [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/)
 
 ---
 
