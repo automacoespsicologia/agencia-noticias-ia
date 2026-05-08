@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 07/05/2026 11:06
+# 🚀 Relatório da Agência Espacial - 08/05/2026 10:22
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Research Shows Early Life Relied on Rare Metal
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 1. NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Uma descoberta fundamental acaba de reescrever os capítulos iniciais da vida na Terra. Cientistas da NASA validaram que, há mais de 3 bilhões de anos, nossos ancestrais biológicos dependiam do molibdênio — um metal extremamente escasso na época. Esse estudo, publicado na Nature Communications, revela como a vida encontrou caminhos improváveis para florescer em um ambiente hostil.
+> A inteligência artificial acaba de conquistar a última fronteira: o modelo Prithvi, desenvolvido pela NASA e IBM, tornou-se o primeiro modelo fundacional de IA geoespacial a operar diretamente em órbita. Esta inovação permite que satélites processem dados complexos em tempo real, eliminando o gargalo de transmissão para a Terra e transformando satélites em centros de decisão inteligentes para monitoramento climático e desastres.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/)
 
 ---
 
-## 2. China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket 
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 2. Anthropic to consider using SpaceX orbital data center satellites
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A hegemonia da SpaceX no reaproveitamento de foguetes pode enfrentar um desafio vindo do Oriente. A startup chinesa Nayuta Space garantiu novos investimentos para tirar do papel o Xuanniao-R, um conceito de foguete que utiliza recuperação aerodinâmica não convencional. É a engenharia espacial tentando reinventar a economia orbital com designs que fogem do óbvio.
+> O futuro da computação pode estar fora do planeta. A Anthropic, gigante da inteligência artificial, anunciou que está avaliando o uso dos novos data centers orbitais da SpaceX. O movimento sinaliza uma fusão sem precedentes entre a infraestrutura de satélites de Elon Musk e a demanda voraz de processamento das IAs, abrindo caminho para uma nova arquitetura de internet espacial de baixa latência.
 
-🔗 [Ler notícia completa](https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/)
+🔗 [Ler notícia completa](https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/)
 
 ---
 
-## 3. Unlocking the Mystery of X-ray Dots
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 3. NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O James Webb encontrou o mistério, e o Observatório Chandra pode ter achado a resposta. Astrônomos identificaram 'pontos de raios-X' que explicam objetos enigmáticos detectados nos primórdios do universo. Essa sinergia entre os maiores telescópios da humanidade está nos dando uma visão sem precedentes sobre o comportamento de buracos negros e galáxias ancestrais.
+> Engenheiros do JPL atingiram um marco crítico para a futura exploração de Marte: as hélices da próxima geração de helicópteros marcianos romperam a barreira do som em testes de simulação. Ao superar Mach 1 na atmosfera rarefeita do planeta vermelho, a NASA prova que drones maiores e mais velozes poderão realizar o reconhecimento de áreas antes inacessíveis, acelerando a busca por sinais de vida.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/)
+🔗 [Ler notícia completa](https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/)
 
 ---
 
-## 4. Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software
-**Fonte:** Space News | **Categoria:** Mercado
+## 4. Rocket Lab joins Raytheon on space interceptor program for Golden Dome
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Pentágono está digitalizando o tabuleiro de xadrez orbital. A Força Espacial dos EUA acaba de conceder contratos estratégicos à Leidos e à MapLarge para o desenvolvimento de softwares de 'planejamento de batalha'. O movimento sinaliza uma mudança crítica no mercado: a prioridade agora é o comando e controle ágil em um ambiente espacial cada vez mais disputado.
+> A Rocket Lab consolida seu papel como pilar da defesa aeroespacial ao se unir à Raytheon no desenvolvimento de interceptores para o programa 'Golden Dome'. O contrato bilionário reforça uma mudança tectônica no mercado: empresas que nasceram no setor comercial agora lideram o fornecimento de tecnologias estratégicas e hipersônicas para a segurança nacional dos Estados Unidos.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/)
+🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/)
 
 ---
 
-## 5. NASA Welcomes Ireland as Newest Artemis Accords Signatory
-**Fonte:** Nasa News | **Categoria:** Mercado/Geopolítica
+## 5. NASA Fosters Development of Lunar Resource-Seeking Technologies
+**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A diplomacia lunar ganha um novo fôlego com a expansão dos Acordos Artemis. A Irlanda acaba de se tornar a mais nova nação a se comprometer com a exploração responsável do espaço sob a liderança da NASA. Com isso, o bloco Artemis se consolida como a maior aliança internacional de exploração espacial da história, isolando competidores e definindo as regras do jogo para a futura economia da Lua.
+> A autonomia humana no espaço profundo deu um passo decisivo com novos avanços na extração de recursos lunares 'in-situ'. A NASA e parceiros privados estão validando tecnologias para minerar hidrogênio e hélio-3 diretamente do regolito lunar. É a peça que faltava no quebra-cabeça de Artemis: transformar a Lua em um posto de abastecimento autossustentável para as futuras missões tripuladas rumo a Marte.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/)
 
 ---
 

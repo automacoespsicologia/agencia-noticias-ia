@@ -1117,6 +1117,71 @@
       "lead": "A diplomacia lunar ganha um novo fôlego com a expansão dos Acordos Artemis. A Irlanda acaba de se tornar a mais nova nação a se comprometer com a exploração responsável do espaço sob a liderança da NASA. Com isso, o bloco Artemis se consolida como a maior aliança internacional de exploração espacial da história, isolando competidores e definindo as regras do jogo para a futura economia da Lua.",
       "category": "Mercado/Geopolítica",
       "data_publicacao": "2026-05-07 11:06"
+    },
+    {
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit",
+      "link": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/",
+      "description": "A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms.",
+      "pub_date": "Thu, 07 May 2026 14:23:35 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A inteligência artificial acaba de conquistar a última fronteira: o modelo Prithvi, desenvolvido pela NASA e IBM, tornou-se o primeiro modelo fundacional de IA geoespacial a operar diretamente em órbita. Esta inovação permite que satélites processem dados complexos em tempo real, eliminando o gargalo de transmissão para a Terra e transformando satélites em centros de decisão inteligentes para monitoramento climático e desastres.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-08 10:22"
+    },
+    {
+      "title": "Anthropic to consider using SpaceX orbital data center satellites",
+      "link": "https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/",
+      "description": "<p>Artificial intelligence company Anthropic will study use of orbital data centers being developed by SpaceX.</p>",
+      "pub_date": "Thu, 07 May 2026 12:05:57 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O futuro da computação pode estar fora do planeta. A Anthropic, gigante da inteligência artificial, anunciou que está avaliando o uso dos novos data centers orbitais da SpaceX. O movimento sinaliza uma fusão sem precedentes entre a infraestrutura de satélites de Elon Musk e a demanda voraz de processamento das IAs, abrindo caminho para uma nova arquitetura de internet espacial de baixa latência.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-08 10:22"
+    },
+    {
+      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
+      "description": "The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of [&#8230;]",
+      "pub_date": "Thu, 07 May 2026 18:28:59 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Engenheiros do JPL atingiram um marco crítico para a futura exploração de Marte: as hélices da próxima geração de helicópteros marcianos romperam a barreira do som em testes de simulação. Ao superar Mach 1 na atmosfera rarefeita do planeta vermelho, a NASA prova que drones maiores e mais velozes poderão realizar o reconhecimento de áreas antes inacessíveis, acelerando a busca por sinais de vida.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-08 10:22"
+    },
+    {
+      "title": "Rocket Lab joins Raytheon on space interceptor program for Golden Dome",
+      "link": "https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/",
+      "description": "<p>The company also announced a new contract to fly hypersonic test flights for Anduril </p>",
+      "pub_date": "Thu, 07 May 2026 22:00:18 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A Rocket Lab consolida seu papel como pilar da defesa aeroespacial ao se unir à Raytheon no desenvolvimento de interceptores para o programa 'Golden Dome'. O contrato bilionário reforça uma mudança tectônica no mercado: empresas que nasceram no setor comercial agora lideram o fornecimento de tecnologias estratégicas e hipersônicas para a segurança nacional dos Estados Unidos.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-08 10:22"
+    },
+    {
+      "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
+      "link": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
+      "description": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other planetary bodies, from water ice to minerals. [&#8230;]",
+      "pub_date": "Mon, 04 May 2026 20:32:47 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-05",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A autonomia humana no espaço profundo deu um passo decisivo com novos avanços na extração de recursos lunares 'in-situ'. A NASA e parceiros privados estão validando tecnologias para minerar hidrogênio e hélio-3 diretamente do regolito lunar. É a peça que faltava no quebra-cabeça de Artemis: transformar a Lua em um posto de abastecimento autossustentável para as futuras missões tripuladas rumo a Marte.",
+      "category": "Ciência e Tecnologia",
+      "data_publicacao": "2026-05-08 10:22"
     }
   ]
 }

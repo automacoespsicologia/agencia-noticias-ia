@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 07/05/2026 11:06
+# 📥 Balde de Notícias Brutas - 08/05/2026 10:22
 
-Atualmente existem **134** notícias aguardando a curadoria do Editor.
+Atualmente existem **149** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -271,15 +271,6 @@ NASA was recognized today by the 30th Annual Webby Awards with two Webby Awards 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/electron-launches-japanese-cubesats/)
-
----
-
-### Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/)
 
 ---
 
@@ -841,15 +832,6 @@ From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the h
 
 ---
 
-### NASA Welcomes Ireland as Newest Artemis Accords Signatory
-**Fonte:** Nasa News
-
-Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/)
-
----
-
 ### NASA Fosters Development of Lunar Resource-Seeking Technologies
 **Fonte:** Nasa News
 
@@ -1021,15 +1003,6 @@ Students in Florida will hear from NASA astronaut Chris Williams as he answers p
 
 ---
 
-### NASA Research Shows Early Life Relied on Rare Metal
-**Fonte:** Nasa News
-
-NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the first to show that molybdenum was used by ancient life this far back in our planet’s history. […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/)
-
----
-
 ### Building on America’s 65-Year Legacy of Human Spaceflight
 **Fonte:** Nasa News
 
@@ -1090,15 +1063,6 @@ As direct-to-smartphone services blur the line between space and terrestrial con
 MILAN – French-led satellite operator Eutelsat and Indian maritime service provider Station Satcom have signed a multi-year agreement to expand Eutelsat-owned OneWeb LEO connectivity services across Station Satcom’s maritime fleet, the companies announced April 30. The agreement builds on a previous activation in 2025 covering hundreds of Station Satcom vessels and broadens the number of [&hellip;...
 
 🔗 [Link da Notícia](https://spacenews.com/eutelsat-and-station-satcom-sign-agreement-to-scale-leo-services-for-maritime-fleet/)
-
----
-
-### China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket 
-**Fonte:** Space News
-
-Chinese commercial launch startup Nayuta Space has completed consecutive Pre-A financing rounds to support development of its unconventional Xuanniao-R rocket concept....
-
-🔗 [Link da Notícia](https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/)
 
 ---
 
@@ -1183,15 +1147,6 @@ NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch
 
 ---
 
-### Unlocking the Mystery of X-ray Dots
-**Fonte:** Nasa News
-
-A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist&#8217;s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/)
-
----
-
 ### NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
 **Fonte:** Nasa News
 
@@ -1207,6 +1162,186 @@ Astronomers have long known that neutron stars, the crushed cores left behind af
 As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.&#160; Gaining a deeper understanding of how [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/)
+
+---
+
+### SatVu zooms in energy facilities in Cuba, India and Australia
+**Fonte:** Space News
+
+SAN FRANCISCO – British startup SatVu released imagery from HotSat-2, a thermal satellite built to keep tabs on energy infrastructure. HotSat-2, built by Surrey Satellite Technology Ltd., is the second satellite in SatVu’s commercial high-resolution thermal-imaging constellation. The first, HotSat-1, failed six months after launch. HotSat-2 images released May 7 show refining of domestic crude [&h...
+
+🔗 [Link da Notícia](https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/)
+
+---
+
+### Lunar Outpost raises $30 million
+**Fonte:** Space News
+
+Lunar Outpost, a developer of lunar rovers, has raised $30 million as it works to revamp designs to meet NASA’s revised Artemis architecture....
+
+🔗 [Link da Notícia](https://spacenews.com/lunar-outpost-raises-30-million/)
+
+---
+
+### Rocket Lab joins Raytheon on space interceptor program for Golden Dome
+**Fonte:** Space News
+
+The company also announced a new contract to fly hypersonic test flights for Anduril ...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/)
+
+---
+
+### Redwire pursues opportunities in landers and power systems for NASA’s moon base plans
+**Fonte:** Space News
+
+Redwire is taking a renewed interest in lunar landers given the demand signal from NASA to support the agency’s ambitions to develop a moon base....
+
+🔗 [Link da Notícia](https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/)
+
+---
+
+### Military space boom meets Beltway friction
+**Fonte:** Space News
+
+Garrant: &#8216;We are ready to award and execute at speeds that have never been seen before, but that would be for naught if we aren’t able to produce and deliver at speed and scale&#8217;...
+
+🔗 [Link da Notícia](https://spacenews.com/military-space-boom-meets-beltway-friction/)
+
+---
+
+### CEO Series: Terran Orbital’s Peter Krauss on understanding scalability in space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ceo-series-terran-orbitals-peter-krauss-on-understanding-scalability-in-space/)
+
+---
+
+### Odin Space opens U.S. office in Los Angeles
+**Fonte:** Space News
+
+DENVER – Odin Space, a British startup focused on mapping and analyzing sub-centimeter orbital debris, announced plans May 7 to establish its first U.S. office in Los Angeles. “We are expanding in the United States because that is where the demand has moved fastest, and where the strategic stakes of attribution are highest,” James New, [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/)
+
+---
+
+### Roadmap for a space-to-space economy
+**Fonte:** Space News
+
+Launch is the foundation of the space industry, to the point that many conflate it with the space industry in entirety because it is literally the loudest, most spectacular element we see. But the quietly orbiting satellites overhead are what really drive the space economy. Even if launch capabilities drastically increase as SpaceX promises with [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/roadmap-for-a-space-to-space-economy/)
+
+---
+
+### Anthropic to consider using SpaceX orbital data center satellites
+**Fonte:** Space News
+
+Artificial intelligence company Anthropic will study use of orbital data centers being developed by SpaceX....
+
+🔗 [Link da Notícia](https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/)
+
+---
+
+### Starfighters hires Blue Origin veterans to accelerate air-launch platform
+**Fonte:** Space News
+
+Starfighters Space has hired two former Blue Origin New Glenn managers to help advance its air-launch system toward flight demonstrations and operational cadence....
+
+🔗 [Link da Notícia](https://spacenews.com/starfighters-hires-blue-origin-veterans-to-accelerate-air-launch-platform/)
+
+---
+
+### Tracy Arm’s Post-Tsunami Landscape
+**Fonte:** Nasa News
+
+A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/)
+
+---
+
+### Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research
+**Fonte:** Nasa News
+
+NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions – continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/)
+
+---
+
+### NASA Welcomes Paraguay as 67th Artemis Accords Signatory
+**Fonte:** Nasa News
+
+The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “They join an ever-growing coalition of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/)
+
+---
+
+### NASA Sends Mars Helicopter Blades Beyond Mach 1
+**Fonte:** Nasa News
+
+Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/)
+
+---
+
+### NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
+**Fonte:** Nasa News
+
+Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enablin...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/)
+
+---
+
+### NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
+**Fonte:** Nasa News
+
+The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/)
+
+---
+
+### Industry Moon Lander Training Cabin Lands at NASA for Artemis
+**Fonte:** Nasa News
+
+A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/)
+
+---
+
+### A Light in the Dark
+**Fonte:** Nasa News
+
+A thin sliver of Earth&#8217;s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II mission. Artemis II was the first crewed flight in a series of missions to test NASA’s human deep space capabilities, paving the way for future lunar surface missions. See [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/a-light-in-the-dark/)
+
+---
+
+### NASA-Supported Small Spacecraft Launches to Study Solar Particles
+**Fonte:** Nasa News
+
+Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/)
+
+---
+
+### NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
+**Fonte:** Nasa News
+
+A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/)
 
 ---
 
