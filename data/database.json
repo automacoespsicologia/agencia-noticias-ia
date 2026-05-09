@@ -1182,6 +1182,71 @@
       "lead": "A autonomia humana no espaço profundo deu um passo decisivo com novos avanços na extração de recursos lunares 'in-situ'. A NASA e parceiros privados estão validando tecnologias para minerar hidrogênio e hélio-3 diretamente do regolito lunar. É a peça que faltava no quebra-cabeça de Artemis: transformar a Lua em um posto de abastecimento autossustentável para as futuras missões tripuladas rumo a Marte.",
       "category": "Ciência e Tecnologia",
       "data_publicacao": "2026-05-08 10:22"
+    },
+    {
+      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
+      "link": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
+      "description": "Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]",
+      "pub_date": "Thu, 07 May 2026 18:33:32 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A NASA acaba de quebrar a barreira do som... pensando em Marte. Testes com as hélices de última geração para os sucessores do Ingenuity atingiram velocidades supersônicas em simuladores, provando que a próxima era da aviação em outros planetas será muito mais veloz e capaz do que qualquer coisa que já vimos.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-09 10:03"
+    },
+    {
+      "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
+      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
+      "description": "Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for […]",
+      "pub_date": "Fri, 08 May 2026 18:11:39 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Olho no alvo: a missão Psyche da NASA capturou imagens impressionantes de Marte enquanto realizava uma manobra crítica de assistência gravitacional. O 'estilingue' espacial não apenas deu à sonda a velocidade necessária rumo ao cinturão de asteroides, mas confirmou que todos os sistemas de navegação profunda estão operando com precisão cirúrgica.",
+      "category": "Ciência",
+      "data_publicacao": "2026-05-09 10:03"
+    },
+    {
+      "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+      "description": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of [&#8230;]",
+      "pub_date": "Wed, 06 May 2026 14:00:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-07",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O universo está prestes a revelar seus segredos mais densos. Um novo estudo valida que o futuro telescópio Nancy Grace Roman terá o poder de caçar as 'estrelas fantasmas' — núcleos de nêutrons de estrelas mortas que hoje são invisíveis. É uma promessa de revolução na astrofísica e na nossa compreensão sobre o ciclo de vida do cosmos.",
+      "category": "Ciência",
+      "data_publicacao": "2026-05-09 10:03"
+    },
+    {
+      "title": "Loft Orbital expands into full-service constellation deals",
+      "link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
+      "description": "<p>EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’</p>",
+      "pub_date": "Tue, 05 May 2026 17:00:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-06",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O modelo de negócios espacial está sendo hackeado. A Loft Orbital está expandindo sua operação para oferecer 'constelações como serviço', permitindo que governos e empresas lancem infraestruturas complexas sem precisar construir cada satélite do zero. É a transição definitiva do hardware proprietário para o espaço compartilhado e sob demanda.",
+      "category": "Mercado",
+      "data_publicacao": "2026-05-09 10:03"
+    },
+    {
+      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night ",
+      "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
+      "description": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.&#160; Gaining a deeper understanding of how [&#8230;]",
+      "pub_date": "Wed, 06 May 2026 14:00:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-07",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Sobreviver à congelante noite lunar é o 'santo graal' da exploração atual, e a NASA acaba de apresentar uma tecnologia de materiais que imita o frio extremo do espaço. Esse novo avanço permite que componentes eletrônicos e estruturas de borracha não estilhacem como vidro a menos 200 graus, garantindo que a base lunar da Artemis seja durável e segura.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-09 10:03"
     }
   ]
 }

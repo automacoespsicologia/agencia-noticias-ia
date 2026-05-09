@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/05/2026 10:22
+# 📥 Balde de Notícias Brutas - 09/05/2026 10:02
 
-Atualmente existem **149** notícias aguardando a curadoria do Editor.
+Atualmente existem **151** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -832,15 +832,6 @@ From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the h
 
 ---
 
-### NASA Fosters Development of Lunar Resource-Seeking Technologies
-**Fonte:** Nasa News
-
-To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other planetary bodies, from water ice to minerals. [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/)
-
----
-
 ### Breaking Barriers at 3rd Annual Findings from the Field Symposium
 **Fonte:** Nasa News
 
@@ -1183,15 +1174,6 @@ Lunar Outpost, a developer of lunar rovers, has raised $30 million as it works t
 
 ---
 
-### Rocket Lab joins Raytheon on space interceptor program for Golden Dome
-**Fonte:** Space News
-
-The company also announced a new contract to fly hypersonic test flights for Anduril ...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/)
-
----
-
 ### Redwire pursues opportunities in landers and power systems for NASA’s moon base plans
 **Fonte:** Space News
 
@@ -1234,15 +1216,6 @@ DENVER – Odin Space, a British startup focused on mapping and analyzing sub-ce
 Launch is the foundation of the space industry, to the point that many conflate it with the space industry in entirety because it is literally the loudest, most spectacular element we see. But the quietly orbiting satellites overhead are what really drive the space economy. Even if launch capabilities drastically increase as SpaceX promises with [&hellip;]...
 
 🔗 [Link da Notícia](https://spacenews.com/roadmap-for-a-space-to-space-economy/)
-
----
-
-### Anthropic to consider using SpaceX orbital data center satellites
-**Fonte:** Space News
-
-Artificial intelligence company Anthropic will study use of orbital data centers being developed by SpaceX....
-
-🔗 [Link da Notícia](https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/)
 
 ---
 
@@ -1300,15 +1273,6 @@ Description Engineer Jaakko Karras inspects a next-generation Mars helicopter ro
 
 ---
 
-### NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
-**Fonte:** Nasa News
-
-The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/)
-
----
-
 ### Industry Moon Lander Training Cabin Lands at NASA for Artemis
 **Fonte:** Nasa News
 
@@ -1336,12 +1300,66 @@ Through NASA, a university-designed small spacecraft is paving the way to studyi
 
 ---
 
-### NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
+### NASA’s SpaceX 34th Commercial Resupply Mission Overview
 **Fonte:** Nasa News
 
-A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms....
+NASA and SpaceX are targeting&#160;a&#160;mid-May&#160;launch&#160;to deliver scientific investigations, supplies, and equipment to the International Space Station.&#160; Loaded&#160;with&#160;about 6,500&#160;pounds of supplies, the SpaceX Dragon spacecraft&#160;will lift off aboard&#160;the company’s Falcon 9 rocket&#160;from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.&#1...
 
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/)
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/)
+
+---
+
+### NASA’s Psyche Mission Captures Mars During Gravity Assist Approach
+**Fonte:** Nasa News
+
+Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/)
+
+---
+
+### I Am Artemis: Anton Kiriwas
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/)
+
+---
+
+### NASA, Industry Advance High Performance Spaceflight Computing
+**Fonte:** Nasa News
+
+For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of th...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/)
+
+---
+
+### Glowing Views from the Space Station
+**Fonte:** Nasa News
+
+NASA astronaut Chris Williams captured the Milky Way rising above Earth&#8217;s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/glowing-views-from-the-space-station/)
+
+---
+
+### NASA Names Brian Hughes to Launch Operations Role
+**Fonte:** Nasa News
+
+NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for [&#82...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/)
+
+---
+
+### NASA Fuel Cell Tests Pave Way for Energy Storage on Moon
+**Fonte:** Nasa News
+
+With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/)
 
 ---
 

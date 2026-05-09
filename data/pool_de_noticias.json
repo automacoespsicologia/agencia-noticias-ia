@@ -910,15 +910,6 @@
       "tentativas": 0
     },
     {
-      "title": "Loft Orbital expands into full-service constellation deals",
-      "link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
-      "description": "<p>EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’</p>",
-      "pub_date": "Tue, 05 May 2026 17:00:00 +0000",
-      "source": "Space News",
-      "data_coleta": "2026-05-06",
-      "tentativas": 0
-    },
-    {
       "title": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
       "link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/",
       "description": "<p>Each year, the GEOINT Symposium brings together the people who make geospatial intelligence possible — the analysts, engineers, mission commanders, innovators and policy leaders who collectively ensure that decision-makers have the understanding of our world they need when they need it. This year in Aurora, Colorado, more than 4,000 of them will gather at what [&hellip;]</p>",
@@ -1135,24 +1126,6 @@
       "tentativas": 0
     },
     {
-      "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
-      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
-      "description": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of [&#8230;]",
-      "pub_date": "Wed, 06 May 2026 14:00:00 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-05-07",
-      "tentativas": 0
-    },
-    {
-      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night ",
-      "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
-      "description": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.&#160; Gaining a deeper understanding of how [&#8230;]",
-      "pub_date": "Wed, 06 May 2026 14:00:00 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-05-07",
-      "tentativas": 0
-    },
-    {
       "title": "SatVu zooms in energy facilities in Cuba, India and Australia",
       "link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
       "description": "<p>SAN FRANCISCO – British startup SatVu released imagery from HotSat-2, a thermal satellite built to keep tabs on energy infrastructure. HotSat-2, built by Surrey Satellite Technology Ltd., is the second satellite in SatVu’s commercial high-resolution thermal-imaging constellation. The first, HotSat-1, failed six months after launch. HotSat-2 images released May 7 show refining of domestic crude [&hellip;]</p>",
@@ -1252,15 +1225,6 @@
       "tentativas": 0
     },
     {
-      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
-      "link": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
-      "description": "Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]",
-      "pub_date": "Thu, 07 May 2026 18:33:32 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-05-08",
-      "tentativas": 0
-    },
-    {
       "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
       "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
       "description": "Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling […]",
@@ -1294,6 +1258,60 @@
       "pub_date": "Thu, 07 May 2026 14:44:59 +0000",
       "source": "Nasa News",
       "data_coleta": "2026-05-08",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+      "link": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+      "description": "NASA and SpaceX are targeting&#160;a&#160;mid-May&#160;launch&#160;to deliver scientific investigations, supplies, and equipment to the International Space Station.&#160; Loaded&#160;with&#160;about 6,500&#160;pounds of supplies, the SpaceX Dragon spacecraft&#160;will lift off aboard&#160;the company’s Falcon 9 rocket&#160;from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.&#160;Following its arrival to the&#160;orbital complex,&#160;Dragon will dock autonomously to the forward port of [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 22:50:03 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0
+    },
+    {
+      "title": "I Am Artemis: Anton Kiriwas",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/",
+      "description": "Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 17:36:13 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA, Industry Advance High Performance Spaceflight Computing",
+      "link": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
+      "description": "For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of the [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 17:05:21 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0
+    },
+    {
+      "title": "Glowing Views from the Space Station",
+      "link": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
+      "description": "NASA astronaut Chris Williams captured the Milky Way rising above Earth&#8217;s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 15:21:17 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA Names Brian Hughes to Launch Operations Role",
+      "link": "https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/",
+      "description": "NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 14:00:15 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
+      "link": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/",
+      "description": "With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 14:00:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
       "tentativas": 0
     }
   ]
