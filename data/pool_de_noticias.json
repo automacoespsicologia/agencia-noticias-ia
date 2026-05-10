@@ -1225,15 +1225,6 @@
       "tentativas": 0
     },
     {
-      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
-      "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
-      "description": "Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling […]",
-      "pub_date": "Thu, 07 May 2026 18:32:37 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-05-08",
-      "tentativas": 0
-    },
-    {
       "title": "Industry Moon Lander Training Cabin Lands at NASA for Artemis",
       "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/",
       "description": "A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in [&#8230;]",
@@ -1306,12 +1297,21 @@
       "tentativas": 0
     },
     {
-      "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
-      "link": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/",
-      "description": "With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]",
-      "pub_date": "Fri, 08 May 2026 14:00:00 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-05-09",
+      "title": "MDA Space continues work on Gateway robotic arm",
+      "link": "https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/",
+      "description": "<p>MDA Space is continuing work on a robotic arm for the lunar Gateway while it discusses the future of the project with the Canadian Space Agency.</p>",
+      "pub_date": "Sat, 09 May 2026 23:35:03 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-10",
+      "tentativas": 0
+    },
+    {
+      "title": "Paraguay signs the Artemis Accords",
+      "link": "https://spacenews.com/paraguay-signs-the-artemis-accords/",
+      "description": "<p>Paraguay signed the Artemis Accords May 7, the sixth country to do so in the last two and a half weeks.</p>",
+      "pub_date": "Fri, 08 May 2026 15:04:32 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-10",
       "tentativas": 0
     }
   ]

@@ -1,4 +1,4 @@
-# 📥 Balde de Notícias Brutas - 09/05/2026 10:02
+# 📥 Balde de Notícias Brutas - 10/05/2026 10:09
 
 Atualmente existem **151** notícias aguardando a curadoria do Editor.
 
@@ -913,15 +913,6 @@ In a 2022 address to the Intelligence and National Security Alliance, the direct
 
 ---
 
-### Loft Orbital expands into full-service constellation deals
-**Fonte:** Space News
-
-EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’...
-
-🔗 [Link da Notícia](https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/)
-
----
-
 ### Facing AI, data and scale imperatives at the 2026 GEOINT Symposium
 **Fonte:** Space News
 
@@ -1138,24 +1129,6 @@ NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch
 
 ---
 
-### NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
-**Fonte:** Nasa News
-
-Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/)
-
----
-
-### New NASA Technology Mimics Extreme Cold of the Lunar Night 
-**Fonte:** Nasa News
-
-As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.&#160; Gaining a deeper understanding of how [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/)
-
----
-
 ### SatVu zooms in energy facilities in Cuba, India and Australia
 **Fonte:** Space News
 
@@ -1255,15 +1228,6 @@ The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremon
 
 ---
 
-### NASA Sends Mars Helicopter Blades Beyond Mach 1
-**Fonte:** Nasa News
-
-Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/)
-
----
-
 ### NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
 **Fonte:** Nasa News
 
@@ -1309,15 +1273,6 @@ NASA and SpaceX are targeting&#160;a&#160;mid-May&#160;launch&#160;to deliver sc
 
 ---
 
-### NASA’s Psyche Mission Captures Mars During Gravity Assist Approach
-**Fonte:** Nasa News
-
-Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/)
-
----
-
 ### I Am Artemis: Anton Kiriwas
 **Fonte:** Nasa News
 
@@ -1360,6 +1315,51 @@ NASA announced Friday that Brian Hughes will return to the agency as senior dire
 With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/)
+
+---
+
+### MDA Space continues work on Gateway robotic arm
+**Fonte:** Space News
+
+MDA Space is continuing work on a robotic arm for the lunar Gateway while it discusses the future of the project with the Canadian Space Agency....
+
+🔗 [Link da Notícia](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)
+
+---
+
+### Viasat wins $307 million Marine Corps satellite communications contract
+**Fonte:** Space News
+
+Five-year MECS2 award covers multi-orbit, multi-band commercial satellite services worldwide...
+
+🔗 [Link da Notícia](https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/)
+
+---
+
+### Swift reboost mission completes environmental tests
+**Fonte:** Space News
+
+A spacecraft designed to raise the decaying orbit of a NASA astrophysics satellite has passed environmental tests ahead of a launch as soon as June....
+
+🔗 [Link da Notícia](https://spacenews.com/swift-reboost-mission-completes-environmental-tests/)
+
+---
+
+### Paraguay signs the Artemis Accords
+**Fonte:** Space News
+
+Paraguay signed the Artemis Accords May 7, the sixth country to do so in the last two and a half weeks....
+
+🔗 [Link da Notícia](https://spacenews.com/paraguay-signs-the-artemis-accords/)
+
+---
+
+### Rocket Lab announces large launch contract and plans to acquire space robotics company
+**Fonte:** Space News
+
+Rocket Lab announced May 7 the largest launch contract in the company’s history as it also moves to acquire a space robotics company....
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)
 
 ---
 

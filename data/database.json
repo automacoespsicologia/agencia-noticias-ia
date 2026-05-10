@@ -1247,6 +1247,71 @@
       "lead": "Sobreviver à congelante noite lunar é o 'santo graal' da exploração atual, e a NASA acaba de apresentar uma tecnologia de materiais que imita o frio extremo do espaço. Esse novo avanço permite que componentes eletrônicos e estruturas de borracha não estilhacem como vidro a menos 200 graus, garantindo que a base lunar da Artemis seja durável e segura.",
       "category": "Inovação Técnica",
       "data_publicacao": "2026-05-09 10:03"
+    },
+    {
+      "title": "Rocket Lab announces large launch contract and plans to acquire space robotics company",
+      "link": "https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/",
+      "description": "<p>Rocket Lab announced May 7 the largest launch contract in the company’s history as it also moves to acquire a space robotics company.</p>",
+      "pub_date": "Fri, 08 May 2026 11:40:09 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-10",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A Rocket Lab acaba de consolidar sua posição como gigante do setor: a empresa anunciou o maior contrato de lançamentos de sua história e, em um movimento agressivo de expansão, confirmou a aquisição de uma companhia de robótica espacial. É a prova definitiva da verticalização do mercado rumo a missões cada vez mais complexas.",
+      "category": "Mercado",
+      "data_publicacao": "2026-05-10 10:10"
+    },
+    {
+      "title": "Viasat wins $307 million Marine Corps satellite communications contract",
+      "link": "https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/",
+      "description": "<p>Five-year MECS2 award covers multi-orbit, multi-band commercial satellite services worldwide</p>",
+      "pub_date": "Sat, 09 May 2026 15:34:25 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-10",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A conectividade global subiu de patamar. A Viasat fechou um contrato massivo de 307 milhões de dólares com o Corpo de Fuzileiros Navais dos EUA. O objetivo? Fornecer comunicações por satélite em múltiplas órbitas e bandas, garantindo que as forças de defesa tenham rede de alta performance em qualquer ponto cego do planeta.",
+      "category": "Negócios",
+      "data_publicacao": "2026-05-10 10:10"
+    },
+    {
+      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
+      "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
+      "description": "Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling […]",
+      "pub_date": "Thu, 07 May 2026 18:32:37 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O futuro da exploração aérea em Marte está ganhando velocidade — velocidade supersônica. Engenheiros da NASA testaram com sucesso os rotores da próxima geração de helicópteros marcianos, projetados para voar na atmosfera rarefeita do Planeta Vermelho com uma eficiência e agilidade que desafiam os limites da aerodinâmica atual.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-10 10:10"
+    },
+    {
+      "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
+      "link": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/",
+      "description": "With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]",
+      "pub_date": "Fri, 08 May 2026 14:00:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-09",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A sobrevivência humana na Lua depende de energia, e a NASA pode ter encontrado a solução para as longas noites lunares. Novos testes com células de combustível de alta performance mostraram um sistema robusto de armazenamento de energia que promete manter bases tripuladas operacionais em ambientes onde baterias convencionais simplesmente falhariam.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-10 10:10"
+    },
+    {
+      "title": "Swift reboost mission completes environmental tests",
+      "link": "https://spacenews.com/swift-reboost-mission-completes-environmental-tests/",
+      "description": "<p>A spacecraft designed to raise the decaying orbit of a NASA astrophysics satellite has passed environmental tests ahead of a launch as soon as June.</p>",
+      "pub_date": "Fri, 08 May 2026 20:22:15 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-10",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A era dos 'mecânicos espaciais' começou. Uma missão inédita de reboost passou nos testes finais e será lançada em junho para resgatar um satélite de astrofísica da NASA que estava perdendo altitude. A manobra pode estender a vida útil de equipamentos multimilionários e mudar a forma como gerenciamos a infraestrutura em órbita.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-10 10:10"
     }
   ]
 }
