@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 10/05/2026 10:09
+# 📥 Balde de Notícias Brutas - 11/05/2026 12:07
 
-Atualmente existem **151** notícias aguardando a curadoria do Editor.
+Atualmente existem **146** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1228,15 +1228,6 @@ The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremon
 
 ---
 
-### NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
-**Fonte:** Nasa News
-
-Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enablin...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/)
-
----
-
 ### Industry Moon Lander Training Cabin Lands at NASA for Artemis
 **Fonte:** Nasa News
 
@@ -1309,15 +1300,6 @@ NASA announced Friday that Brian Hughes will return to the agency as senior dire
 
 ---
 
-### NASA Fuel Cell Tests Pave Way for Energy Storage on Moon
-**Fonte:** Nasa News
-
-With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/)
-
----
-
 ### MDA Space continues work on Gateway robotic arm
 **Fonte:** Space News
 
@@ -1327,39 +1309,12 @@ MDA Space is continuing work on a robotic arm for the lunar Gateway while it dis
 
 ---
 
-### Viasat wins $307 million Marine Corps satellite communications contract
-**Fonte:** Space News
-
-Five-year MECS2 award covers multi-orbit, multi-band commercial satellite services worldwide...
-
-🔗 [Link da Notícia](https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/)
-
----
-
-### Swift reboost mission completes environmental tests
-**Fonte:** Space News
-
-A spacecraft designed to raise the decaying orbit of a NASA astrophysics satellite has passed environmental tests ahead of a launch as soon as June....
-
-🔗 [Link da Notícia](https://spacenews.com/swift-reboost-mission-completes-environmental-tests/)
-
----
-
 ### Paraguay signs the Artemis Accords
 **Fonte:** Space News
 
 Paraguay signed the Artemis Accords May 7, the sixth country to do so in the last two and a half weeks....
 
 🔗 [Link da Notícia](https://spacenews.com/paraguay-signs-the-artemis-accords/)
-
----
-
-### Rocket Lab announces large launch contract and plans to acquire space robotics company
-**Fonte:** Space News
-
-Rocket Lab announced May 7 the largest launch contract in the company’s history as it also moves to acquire a space robotics company....
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)
 
 ---
 
