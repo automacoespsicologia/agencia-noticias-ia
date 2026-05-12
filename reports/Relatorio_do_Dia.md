@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 11/05/2026 12:08
+# 🚀 Relatório da Agência Espacial - 12/05/2026 11:18
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Industry Moon Lander Training Cabin Lands at NASA for Artemis
-**Fonte:** Nasa News | **Categoria:** Exploração Espacial
+## 1. Cowboy raises $275 million to build rockets with orbital data center upper stages
+**Fonte:** Space News | **Categoria:** Mercado e Inovação
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O retorno da humanidade à Lua acaba de ganhar um rosto concreto. A Blue Origin entregou à NASA o protótipo em tamanho real da cabine de tripulação Blue Moon Mark 2. Já operacional para treinamentos no Kennedy Space Center, essa estrutura é o coração da estratégia de pouso lunar da Artemis, permitindo que astronautas simulem, ainda na Terra, os desafios de habitar e operar no polo sul da Lua.
+> A fronteira entre lançadores e infraestrutura digital acaba de desaparecer. A startup Cowboy Space captou 275 milhões de dólares para uma missão audaciosa: construir foguetes cujos estágios superiores se transformam em data centers orbitais assim que atingem a órbita terrestre. Com uma avaliação de 2 bilhões de dólares, a empresa promete levar o processamento de dados literalmente para as estrelas.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/)
+🔗 [Ler notícia completa](https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/)
 
 ---
 
-## 2. NASA, Industry Advance High Performance Spaceflight Computing
+## 2. ESA and JAXA finalize agreement on Apophis asteroid mission
+**Fonte:** Space News | **Categoria:** Ciência e Exploração
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O mundo se prepara para o rasante do asteroide Apophis em 2029, e agora com uma aliança de peso. A Agência Espacial Europeia e a JAXA, do Japão, oficializaram uma missão conjunta para estudar de perto essa rocha espacial durante sua passagem histórica pela Terra. É a ciência planetária unindo forças para transformar uma potencial ameaça em uma oportunidade científica sem precedentes.
+
+🔗 [Ler notícia completa](https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/)
+
+---
+
+## 3. Tianzhou-10 cargo spacecraft arrives at Tiangong space station
+**Fonte:** Space News | **Categoria:** Operações Espaciais
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A China demonstra mais uma vez sua eficiência logística no cosmos. A nave de carga Tianzhou-10 completou com sucesso seu acoplamento à estação espacial Tiangong apenas algumas horas após o lançamento. O comboio espacial entregou toneladas de suprimentos, novos experimentos científicos e propelente, garantindo a continuidade das operações da presença permanente de Pequim na órbita baixa.
+
+🔗 [Ler notícia completa](https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/)
+
+---
+
+## 4. Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
+**Fonte:** Nasa News | **Categoria:** Ciência e Astronomia
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O veterano telescópio Hubble está preparando o terreno para a próxima geração de caçadores de planetas. Um novo e detalhado levantamento do bulbo galático da Via Láctea acaba de ser concluído, servindo como o mapa de navegação essencial para o futuro telescópio Nancy Grace Roman. Estamos prestes a olhar através da densa poeira estelar para revelar os segredos do coração da nossa galáxia.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/)
+
+---
+
+## 5. NASA-Supported Small Spacecraft Launches to Study Solar Particles
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A computação espacial está saindo da era do Apollo para entrar na era do superprocessamento. A NASA e líderes da indústria anunciaram avanços críticos no 'High Performance Spaceflight Computing'. Essa nova geração de processadores promete multiplicar por cem o poder de cálculo a bordo das naves, permitindo que futuras missões para Marte tomem decisões autônomas e complexas sem depender do atraso de sinal com a Terra.
+> Tamanho não é documento quando o assunto é física de ponta. O SNAPPY, um pequeno CubeSat universitário apoiado pela NASA, já está no espaço com a missão de caçar neutrinos — partículas que viajam quase à velocidade da luz. Essa tecnologia miniaturizada prova que satélites de baixo custo agora são capazes de realizar pesquisas de física fundamental que antes exigiam laboratórios colossais.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/)
-
----
-
-## 3. Paraguay signs the Artemis Accords
-**Fonte:** Space News | **Categoria:** Geopolítica e Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A coalizão internacional liderada pelos Estados Unidos para a exploração lunar atinge um novo patamar de influência. Com a assinatura do Paraguai, os Acordos Artemis chegam à marca histórica de 67 nações aliadas. Esse movimento consolida um padrão global de governança espacial e abre portas para que países em desenvolvimento integrem a cadeia de suprimentos da nova economia lunar.
-
-🔗 [Ler notícia completa](https://spacenews.com/paraguay-signs-the-artemis-accords/)
-
----
-
-## 4. Riding the orbital data center wave
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça a nuvem como a conhecemos; o futuro do processamento de dados está em órbita. Uma nova onda de investimentos bilionários está impulsionando os 'Centros de Dados Orbitais'. O setor está deixando de ser apenas sobre coletar imagens para se tornar uma infraestrutura de computação pesada no espaço, processando inteligência artificial em tempo real antes mesmo dos dados tocarem o solo terrestre.
-
-🔗 [Ler notícia completa](https://spacenews.com/riding-the-orbital-data-center-wave/)
-
----
-
-## 5. NGA pushes AI adoption as demand grows for ‘always-on’ intelligence 
-**Fonte:** Space News | **Categoria:** Segurança e Tecnologia
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A era da vigilância 'sempre ativa' chegou. A Agência Nacional de Inteligência Geoespacial dos EUA, a NGA, revelou uma mudança radical em sua estratégia: a adoção massiva de IA para monitoramento global ininterrupto. O objetivo é eliminar o tempo de análise humana e criar um sistema de alerta automatizado capaz de detectar movimentações críticas em qualquer lugar do planeta, no exato momento em que ocorrem.
-
-🔗 [Ler notícia completa](https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/)
 
 ---
 

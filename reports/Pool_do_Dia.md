@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/05/2026 12:07
+# 📥 Balde de Notícias Brutas - 12/05/2026 11:17
 
-Atualmente existem **146** notícias aguardando a curadoria do Editor.
+Atualmente existem **160** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -814,15 +814,6 @@ In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glitte
 
 ---
 
-### NGA pushes AI adoption as demand grows for ‘always-on’ intelligence 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/)
-
----
-
 ### Ahuachapán and Its Restive Neighbors
 **Fonte:** Nasa News
 
@@ -1048,15 +1039,6 @@ MILAN – French-led satellite operator Eutelsat and Indian maritime service pro
 
 ---
 
-### Riding the orbital data center wave
-**Fonte:** Space News
-
-The orbital data center boom is promising opportunities well beyond the pioneers hoping to build colossal, AI-driven computing platforms in space. A mix of ventures developing novel space technologies are looking to ride a wave of investment and dealmaking in the early innings of this emerging market, even as SpaceX and others behind some of [&hellip;]...
-
-🔗 [Link da Notícia](https://spacenews.com/riding-the-orbital-data-center-wave/)
-
----
-
 ### Powering Unified Space Systems Operations
 **Fonte:** Space News
 
@@ -1228,15 +1210,6 @@ The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremon
 
 ---
 
-### Industry Moon Lander Training Cabin Lands at NASA for Artemis
-**Fonte:** Nasa News
-
-A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/)
-
----
-
 ### A Light in the Dark
 **Fonte:** Nasa News
 
@@ -1273,15 +1246,6 @@ Listen to this audio excerpt from Anton Kiriwas, senior technical integration ma
 
 ---
 
-### NASA, Industry Advance High Performance Spaceflight Computing
-**Fonte:** Nasa News
-
-For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA’s first Moon missions. For decades, radiation-hardened processors have been the backbone of th...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/)
-
----
-
 ### Glowing Views from the Space Station
 **Fonte:** Nasa News
 
@@ -1309,12 +1273,174 @@ MDA Space is continuing work on a robotic arm for the lunar Gateway while it dis
 
 ---
 
-### Paraguay signs the Artemis Accords
+### Space is having its internet moment. Investors should act accordingly.
 **Fonte:** Space News
 
-Paraguay signed the Artemis Accords May 7, the sixth country to do so in the last two and a half weeks....
+In the 1990s, the internet stopped being a novelty and started to resemble what it is today. The release of the Mosaic browser in 1993 made the web usable for ordinary people. Amazon listed on Nasdaq in 1997. And by 2000, Cisco briefly became the most valuable company in the world. The bubble later burst [&hellip;]...
 
-🔗 [Link da Notícia](https://spacenews.com/paraguay-signs-the-artemis-accords/)
+🔗 [Link da Notícia](https://spacenews.com/space-is-having-its-internet-moment-investors-should-act-accordingly/)
+
+---
+
+### NASA retaining six-month ISS missions
+**Fonte:** Space News
+
+NASA plans to continue exchanging International Space Station crews about every six months after considering longer stays....
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-retaining-six-month-iss-missions/)
+
+---
+
+### BlackSky’s Lyn Chassagne on using satellite imagery to solve problems
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blackskys-lyn-chassagne-on-using-satellite-imagery-to-solve-problems/)
+
+---
+
+### Creotech plans $118 million capital raise, investment in new satellite factory
+**Fonte:** Space News
+
+WARSAW, Poland — Polish space technology company Creotech Instruments has announced plans for a $118 million fundraise that will allow the company to open a new satellite production facility in Poland by 2029 as part of a new long term development strategy. Creotech Instruments hopes to quadruple its manufacturing capacities to around 40 satellites annually [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/)
+
+---
+
+### Special Operations Forces test mobile platform for direct satellite imagery access
+**Fonte:** Space News
+
+The software, developed by SkyFi, operates on tactical Android devices...
+
+🔗 [Link da Notícia](https://spacenews.com/special-operations-forces-test-mobile-platform-for-direct-satellite-imagery-access/)
+
+---
+
+### Cowboy raises $275 million to build rockets with orbital data center upper stages
+**Fonte:** Space News
+
+Cowboy Space, founded less than two years ago as Aetherflux to develop space-based solar power, has raised $275 million at a $2 billion valuation to build rockets with upper stages that would serve as data centers once in low Earth orbit....
+
+🔗 [Link da Notícia](https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/)
+
+---
+
+### Failing to pass a defense budget is a self-inflicted wound in the space race
+**Fonte:** Space News
+
+As we have learned from the current conflicts in Ukraine and Iran, space-enabled capability has become critical to all we do in the military. It is persistent (always there) and operates in denied areas (first in the battlefield). These capabilities provide critical combat effects: intelligence, missile threat warning, rapid communications and necessary and amazingly accurate [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/failing-to-pass-a-defense-budget-is-a-self-inflicted-wound-in-the-space-race/)
+
+---
+
+### Former NASA chief of staff returns to lead agency launch operations
+**Fonte:** Space News
+
+NASA’s former chief of staff has returned to the agency in a new role overseeing launch operations, a move that raised some concerns on Capitol Hill....
+
+🔗 [Link da Notícia](https://spacenews.com/former-nasa-chief-of-staff-returns-to-lead-agency-launch-operations/)
+
+---
+
+### Tianzhou-10 cargo spacecraft arrives at Tiangong space station
+**Fonte:** Space News
+
+China launched the Tianzhou-10 cargo spacecraft late Sunday, docking with the Tiangong space station hours later to deliver supplies, equipment, experiments and propellant....
+
+🔗 [Link da Notícia](https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/)
+
+---
+
+### ESA and JAXA finalize agreement on Apophis asteroid mission
+**Fonte:** Space News
+
+ESA and JAXA have finalized an agreement to collaborate on a mission to study the asteroid Apophis during its close flyby of Earth in 2029....
+
+🔗 [Link da Notícia](https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/)
+
+---
+
+### Australia’s Cloudy Beauty
+**Fonte:** Nasa News
+
+Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
+
+---
+
+### Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
+**Fonte:** Nasa News
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
+
+---
+
+### NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
+
+---
+
+### May 2026 Satellite Puzzler
+**Fonte:** Nasa News
+
+Your challenge is to tell us the location of the satellite image and why it is interesting....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
+
+---
+
+### Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+**Fonte:** Nasa News
+
+Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton&#160;later&#160;became&#160;a full-time engineer on the Orion Crew Survival Systems (OCSS) [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
+
+---
+
+### NASA Invites Media to Annual Lunabotics Robotics Competition 
+**Fonte:** Nasa News
+
+NASA&#160;will hold its&#160;2026&#160;Lunabotics&#160;Challenge&#160;Tuesday,&#160;May 19, to Thursday, May&#160;21,&#160;at the&#160;Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.&#160;&#160; Links to view the Lunabotics&#160;competition live can be found on the agency&#8217;s Lunabotics page. The competition is slated to run b...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/)
+
+---
+
+### Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released
+**Fonte:** Nasa News
+
+The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/)
+
+---
+
+### Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
+**Fonte:** Nasa News
+
+The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/)
+
+---
+
+### NASA Astronaut Jessica Meir
+**Fonte:** Nasa News
+
+NASA Astronaut Jessica Meir sits for a portrait at NASA&#8217;s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/)
 
 ---
 

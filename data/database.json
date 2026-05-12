@@ -1377,6 +1377,71 @@
       "lead": "A era da vigilância 'sempre ativa' chegou. A Agência Nacional de Inteligência Geoespacial dos EUA, a NGA, revelou uma mudança radical em sua estratégia: a adoção massiva de IA para monitoramento global ininterrupto. O objetivo é eliminar o tempo de análise humana e criar um sistema de alerta automatizado capaz de detectar movimentações críticas em qualquer lugar do planeta, no exato momento em que ocorrem.",
       "category": "Segurança e Tecnologia",
       "data_publicacao": "2026-05-11 12:08"
+    },
+    {
+      "title": "Cowboy raises $275 million to build rockets with orbital data center upper stages",
+      "link": "https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/",
+      "description": "<p>Cowboy Space, founded less than two years ago as Aetherflux to develop space-based solar power, has raised $275 million at a $2 billion valuation to build rockets with upper stages that would serve as data centers once in low Earth orbit.</p>",
+      "pub_date": "Mon, 11 May 2026 13:00:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-12",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A fronteira entre lançadores e infraestrutura digital acaba de desaparecer. A startup Cowboy Space captou 275 milhões de dólares para uma missão audaciosa: construir foguetes cujos estágios superiores se transformam em data centers orbitais assim que atingem a órbita terrestre. Com uma avaliação de 2 bilhões de dólares, a empresa promete levar o processamento de dados literalmente para as estrelas.",
+      "category": "Mercado e Inovação",
+      "data_publicacao": "2026-05-12 11:18"
+    },
+    {
+      "title": "ESA and JAXA finalize agreement on Apophis asteroid mission",
+      "link": "https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/",
+      "description": "<p>ESA and JAXA have finalized an agreement to collaborate on a mission to study the asteroid Apophis during its close flyby of Earth in 2029.</p>",
+      "pub_date": "Sun, 10 May 2026 15:55:52 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-12",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O mundo se prepara para o rasante do asteroide Apophis em 2029, e agora com uma aliança de peso. A Agência Espacial Europeia e a JAXA, do Japão, oficializaram uma missão conjunta para estudar de perto essa rocha espacial durante sua passagem histórica pela Terra. É a ciência planetária unindo forças para transformar uma potencial ameaça em uma oportunidade científica sem precedentes.",
+      "category": "Ciência e Exploração",
+      "data_publicacao": "2026-05-12 11:18"
+    },
+    {
+      "title": "Tianzhou-10 cargo spacecraft arrives at Tiangong space station",
+      "link": "https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/",
+      "description": "<p>China launched the Tianzhou-10 cargo spacecraft late Sunday, docking with the Tiangong space station hours later to deliver supplies, equipment, experiments and propellant.</p>",
+      "pub_date": "Mon, 11 May 2026 10:44:46 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-12",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A China demonstra mais uma vez sua eficiência logística no cosmos. A nave de carga Tianzhou-10 completou com sucesso seu acoplamento à estação espacial Tiangong apenas algumas horas após o lançamento. O comboio espacial entregou toneladas de suprimentos, novos experimentos científicos e propelente, garantindo a continuidade das operações da presença permanente de Pequim na órbita baixa.",
+      "category": "Operações Espaciais",
+      "data_publicacao": "2026-05-12 11:18"
+    },
+    {
+      "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
+      "description": "The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]",
+      "pub_date": "Mon, 11 May 2026 14:00:39 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-12",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O veterano telescópio Hubble está preparando o terreno para a próxima geração de caçadores de planetas. Um novo e detalhado levantamento do bulbo galático da Via Láctea acaba de ser concluído, servindo como o mapa de navegação essencial para o futuro telescópio Nancy Grace Roman. Estamos prestes a olhar através da densa poeira estelar para revelar os segredos do coração da nossa galáxia.",
+      "category": "Ciência e Astronomia",
+      "data_publicacao": "2026-05-12 11:18"
+    },
+    {
+      "title": "NASA-Supported Small Spacecraft Launches to Study Solar Particles",
+      "link": "https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/",
+      "description": "Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space [&#8230;]",
+      "pub_date": "Thu, 07 May 2026 14:44:59 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Tamanho não é documento quando o assunto é física de ponta. O SNAPPY, um pequeno CubeSat universitário apoiado pela NASA, já está no espaço com a missão de caçar neutrinos — partículas que viajam quase à velocidade da luz. Essa tecnologia miniaturizada prova que satélites de baixo custo agora são capazes de realizar pesquisas de física fundamental que antes exigiam laboratórios colossais.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-12 11:18"
     }
   ]
 }
