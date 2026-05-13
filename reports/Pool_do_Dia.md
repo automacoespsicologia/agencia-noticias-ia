@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/05/2026 11:17
+# 📥 Balde de Notícias Brutas - 13/05/2026 11:28
 
-Atualmente existem **160** notícias aguardando a curadoria do Editor.
+Atualmente existem **171** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1219,15 +1219,6 @@ A thin sliver of Earth&#8217;s edge is brightly illuminated against the vast dar
 
 ---
 
-### NASA-Supported Small Spacecraft Launches to Study Solar Particles
-**Fonte:** Nasa News
-
-Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/)
-
----
-
 ### NASA’s SpaceX 34th Commercial Resupply Mission Overview
 **Fonte:** Nasa News
 
@@ -1318,15 +1309,6 @@ The software, developed by SkyFi, operates on tactical Android devices...
 
 ---
 
-### Cowboy raises $275 million to build rockets with orbital data center upper stages
-**Fonte:** Space News
-
-Cowboy Space, founded less than two years ago as Aetherflux to develop space-based solar power, has raised $275 million at a $2 billion valuation to build rockets with upper stages that would serve as data centers once in low Earth orbit....
-
-🔗 [Link da Notícia](https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/)
-
----
-
 ### Failing to pass a defense budget is a self-inflicted wound in the space race
 **Fonte:** Space News
 
@@ -1342,24 +1324,6 @@ As we have learned from the current conflicts in Ukraine and Iran, space-enabled
 NASA’s former chief of staff has returned to the agency in a new role overseeing launch operations, a move that raised some concerns on Capitol Hill....
 
 🔗 [Link da Notícia](https://spacenews.com/former-nasa-chief-of-staff-returns-to-lead-agency-launch-operations/)
-
----
-
-### Tianzhou-10 cargo spacecraft arrives at Tiangong space station
-**Fonte:** Space News
-
-China launched the Tianzhou-10 cargo spacecraft late Sunday, docking with the Tiangong space station hours later to deliver supplies, equipment, experiments and propellant....
-
-🔗 [Link da Notícia](https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/)
-
----
-
-### ESA and JAXA finalize agreement on Apophis asteroid mission
-**Fonte:** Space News
-
-ESA and JAXA have finalized an agreement to collaborate on a mission to study the asteroid Apophis during its close flyby of Earth in 2029....
-
-🔗 [Link da Notícia](https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/)
 
 ---
 
@@ -1426,21 +1390,156 @@ The Optical Guidelines document provides standardized, transparent, and repeatab
 
 ---
 
-### Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
-**Fonte:** Nasa News
-
-The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/)
-
----
-
 ### NASA Astronaut Jessica Meir
 **Fonte:** Nasa News
 
 NASA Astronaut Jessica Meir sits for a portrait at NASA&#8217;s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/)
+
+---
+
+### SpaceX sets date for first Starship version 3 launch
+**Fonte:** Space News
+
+SpaceX has set a date for the long-delayed first launch of its next-generation Starship vehicle, which is critical to the company’s ambitions as well as NASA’s lunar plans....
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/)
+
+---
+
+### Varda to collaborate with United Therapeutics on microgravity drug research
+**Fonte:** Space News
+
+Varda Space Industries has signed its first major agreement with a pharmaceutical company to develop improved drugs in microgravity....
+
+🔗 [Link da Notícia](https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/)
+
+---
+
+### FCC approves SpaceX spectrum deal with $2.4 billion escrow condition
+**Fonte:** Space News
+
+SpaceX has the FCC’s blessing to buy EchoStar spectrum to improve direct-to-device services in the United States, subject to a $2.4 billion escrow tied to disputes over the seller’s abandoned terrestrial 5G network buildout....
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/)
+
+---
+
+### Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome
+**Fonte:** Space News
+
+The estimate is over 20 years; space-based interceptors would account for most of the cost...
+
+🔗 [Link da Notícia](https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/)
+
+---
+
+### Quantum Space to build spacecraft in Tulsa
+**Fonte:** Space News
+
+Quantum Space announced May 12 it will build the company’s highly maneuverable spacecraft in Tulsa, Oklahoma, home to the company’s new chief executive....
+
+🔗 [Link da Notícia](https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/)
+
+---
+
+### Space Force awards TrustPoint $4 million for LEO navigation demonstration
+**Fonte:** Space News
+
+The startup is developing C-band system as alternative to GPS...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/)
+
+---
+
+### Star Catcher raises $65 million for space power grid
+**Fonte:** Space News
+
+Star Catcher Industries, a company developing power-beaming technology for satellites, has raised $65 million to validate the technology in space....
+
+🔗 [Link da Notícia](https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/)
+
+---
+
+### Transcelestial tests space-to-ground laser communications technologies
+**Fonte:** Space News
+
+Transcelestial has advanced its work to provide space-to-ground optical communications with a test of laser transmissions from a satellite to ground stations....
+
+🔗 [Link da Notícia](https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/)
+
+---
+
+### America’s Emerald Isle
+**Fonte:** Nasa News
+
+Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/)
+
+---
+
+### NASA Langley Engineer Attends FAA Training
+**Fonte:** Nasa News
+
+At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like &#8220;clearance delivery,&#8221; which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/)
+
+---
+
+### Perseverance Stuns in New Selfie
+**Fonte:** Nasa News
+
+NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/)
+
+---
+
+### NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier 
+**Fonte:** Nasa News
+
+NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/)
+
+---
+
+### NASA’s Perseverance Captures Panorama at ‘Arbot’
+**Fonte:** Nasa News
+
+Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/)
+
+---
+
+### NASA’s Perseverance Rover Snaps Westernmost Selfie
+**Fonte:** Nasa News
+
+Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/)
+
+---
+
+### Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing
+**Fonte:** Nasa News
+
+NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/)
+
+---
+
+### I Am Artemis: Kathleen Harmon
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA&#8217;s Deep Space Network: Captivated by Apollo launches on her television as a child, Kathleen Harmon now plays a key role in NASA’s Artemis program. Harmon serves as the Artemis II mission interface manager for NASA’s Deep Space Network, an [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/)
 
 ---
 

@@ -1442,6 +1442,71 @@
       "lead": "Tamanho não é documento quando o assunto é física de ponta. O SNAPPY, um pequeno CubeSat universitário apoiado pela NASA, já está no espaço com a missão de caçar neutrinos — partículas que viajam quase à velocidade da luz. Essa tecnologia miniaturizada prova que satélites de baixo custo agora são capazes de realizar pesquisas de física fundamental que antes exigiam laboratórios colossais.",
       "category": "Inovação Técnica",
       "data_publicacao": "2026-05-12 11:18"
+    },
+    {
+      "title": "SpaceX sets date for first Starship version 3 launch",
+      "link": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
+      "description": "<p>SpaceX has set a date for the long-delayed first launch of its next-generation Starship vehicle, which is critical to the company’s ambitions as well as NASA’s lunar plans.</p>",
+      "pub_date": "Wed, 13 May 2026 11:24:22 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O futuro da exploração interplanetária acaba de ganhar um novo cronograma: a SpaceX definiu a data para o primeiro lançamento do Starship Versão 3. Mais potente e refinado, este veículo não é apenas um foguete, mas a peça-chave para a estratégia da NASA na Lua e o passaporte definitivo de Elon Musk para Marte.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-13 11:28"
+    },
+    {
+      "title": "FCC approves SpaceX spectrum deal with $2.4 billion escrow condition",
+      "link": "https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/",
+      "description": "<p>SpaceX has the FCC’s blessing to buy EchoStar spectrum to improve direct-to-device services in the United States, subject to a $2.4 billion escrow tied to disputes over the seller’s abandoned terrestrial 5G network buildout.</p>",
+      "pub_date": "Tue, 12 May 2026 22:03:05 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Bilhões de dólares e o futuro da conectividade global estão em jogo. A FCC aprovou o acordo de espectro entre SpaceX e EchoStar, mas com uma condição sem precedentes: um depósito de garantia de 2,4 bilhões de dólares. O movimento acelera a corrida para transformar smartphones comuns em dispositivos satelitais em qualquer lugar do planeta.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-13 11:28"
+    },
+    {
+      "title": "Star Catcher raises $65 million for space power grid",
+      "link": "https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/",
+      "description": "<p>Star Catcher Industries, a company developing power-beaming technology for satellites, has raised $65 million to validate the technology in space.</p>",
+      "pub_date": "Tue, 12 May 2026 13:00:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Esqueça a dependência total de painéis solares individuais; a rede elétrica orbital está chegando. A Star Catcher levantou 65 milhões de dólares para validar sua tecnologia de transmissão de energia por feixes no espaço. Se funcionar, poderemos alimentar constelações inteiras a partir de uma infraestrutura centralizada no vácuo.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-13 11:28"
+    },
+    {
+      "title": "Varda to collaborate with United Therapeutics on microgravity drug research",
+      "link": "https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/",
+      "description": "<p>Varda Space Industries has signed its first major agreement with a pharmaceutical company to develop improved drugs in microgravity.</p>",
+      "pub_date": "Wed, 13 May 2026 10:00:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A próxima grande revolução farmacêutica pode não acontecer na Terra, mas em órbita. A Varda Space Industries selou um acordo estratégico com a United Therapeutics para processar medicamentos na microgravidade. É a validação comercial de que o espaço é o laboratório definitivo para criar compostos químicos impossíveis de replicar sob a força da gravidade.",
+      "category": "Ciência e Mercado",
+      "data_publicacao": "2026-05-13 11:28"
+    },
+    {
+      "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
+      "link": "https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
+      "description": "NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery [&#8230;]",
+      "pub_date": "Tue, 12 May 2026 15:02:47 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A computação espacial está prestes a sair da 'idade da pedra'. A NASA iniciou os testes de seu novo processador de alto desempenho, projetado para oferecer um salto massivo em poder de processamento sem sacrificar a resistência à radiação. É o upgrade cerebral necessário para que as futuras sondas autônomas tomem decisões em milissegundos no espaço profundo.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-13 11:28"
     }
   ]
 }

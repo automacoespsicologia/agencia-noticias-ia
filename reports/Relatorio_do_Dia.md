@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 12/05/2026 11:18
+# 🚀 Relatório da Agência Espacial - 13/05/2026 11:28
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Cowboy raises $275 million to build rockets with orbital data center upper stages
-**Fonte:** Space News | **Categoria:** Mercado e Inovação
+## 1. SpaceX sets date for first Starship version 3 launch
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira entre lançadores e infraestrutura digital acaba de desaparecer. A startup Cowboy Space captou 275 milhões de dólares para uma missão audaciosa: construir foguetes cujos estágios superiores se transformam em data centers orbitais assim que atingem a órbita terrestre. Com uma avaliação de 2 bilhões de dólares, a empresa promete levar o processamento de dados literalmente para as estrelas.
+> O futuro da exploração interplanetária acaba de ganhar um novo cronograma: a SpaceX definiu a data para o primeiro lançamento do Starship Versão 3. Mais potente e refinado, este veículo não é apenas um foguete, mas a peça-chave para a estratégia da NASA na Lua e o passaporte definitivo de Elon Musk para Marte.
 
-🔗 [Ler notícia completa](https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/)
 
 ---
 
-## 2. ESA and JAXA finalize agreement on Apophis asteroid mission
-**Fonte:** Space News | **Categoria:** Ciência e Exploração
+## 2. FCC approves SpaceX spectrum deal with $2.4 billion escrow condition
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mundo se prepara para o rasante do asteroide Apophis em 2029, e agora com uma aliança de peso. A Agência Espacial Europeia e a JAXA, do Japão, oficializaram uma missão conjunta para estudar de perto essa rocha espacial durante sua passagem histórica pela Terra. É a ciência planetária unindo forças para transformar uma potencial ameaça em uma oportunidade científica sem precedentes.
+> Bilhões de dólares e o futuro da conectividade global estão em jogo. A FCC aprovou o acordo de espectro entre SpaceX e EchoStar, mas com uma condição sem precedentes: um depósito de garantia de 2,4 bilhões de dólares. O movimento acelera a corrida para transformar smartphones comuns em dispositivos satelitais em qualquer lugar do planeta.
 
-🔗 [Ler notícia completa](https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/)
+🔗 [Ler notícia completa](https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/)
 
 ---
 
-## 3. Tianzhou-10 cargo spacecraft arrives at Tiangong space station
-**Fonte:** Space News | **Categoria:** Operações Espaciais
+## 3. Star Catcher raises $65 million for space power grid
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China demonstra mais uma vez sua eficiência logística no cosmos. A nave de carga Tianzhou-10 completou com sucesso seu acoplamento à estação espacial Tiangong apenas algumas horas após o lançamento. O comboio espacial entregou toneladas de suprimentos, novos experimentos científicos e propelente, garantindo a continuidade das operações da presença permanente de Pequim na órbita baixa.
+> Esqueça a dependência total de painéis solares individuais; a rede elétrica orbital está chegando. A Star Catcher levantou 65 milhões de dólares para validar sua tecnologia de transmissão de energia por feixes no espaço. Se funcionar, poderemos alimentar constelações inteiras a partir de uma infraestrutura centralizada no vácuo.
 
-🔗 [Ler notícia completa](https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/)
+🔗 [Ler notícia completa](https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/)
 
 ---
 
-## 4. Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
-**Fonte:** Nasa News | **Categoria:** Ciência e Astronomia
+## 4. Varda to collaborate with United Therapeutics on microgravity drug research
+**Fonte:** Space News | **Categoria:** Ciência e Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O veterano telescópio Hubble está preparando o terreno para a próxima geração de caçadores de planetas. Um novo e detalhado levantamento do bulbo galático da Via Láctea acaba de ser concluído, servindo como o mapa de navegação essencial para o futuro telescópio Nancy Grace Roman. Estamos prestes a olhar através da densa poeira estelar para revelar os segredos do coração da nossa galáxia.
+> A próxima grande revolução farmacêutica pode não acontecer na Terra, mas em órbita. A Varda Space Industries selou um acordo estratégico com a United Therapeutics para processar medicamentos na microgravidade. É a validação comercial de que o espaço é o laboratório definitivo para criar compostos químicos impossíveis de replicar sob a força da gravidade.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/)
+🔗 [Ler notícia completa](https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/)
 
 ---
 
-## 5. NASA-Supported Small Spacecraft Launches to Study Solar Particles
+## 5. Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Tamanho não é documento quando o assunto é física de ponta. O SNAPPY, um pequeno CubeSat universitário apoiado pela NASA, já está no espaço com a missão de caçar neutrinos — partículas que viajam quase à velocidade da luz. Essa tecnologia miniaturizada prova que satélites de baixo custo agora são capazes de realizar pesquisas de física fundamental que antes exigiam laboratórios colossais.
+> A computação espacial está prestes a sair da 'idade da pedra'. A NASA iniciou os testes de seu novo processador de alto desempenho, projetado para oferecer um salto massivo em poder de processamento sem sacrificar a resistência à radiação. É o upgrade cerebral necessário para que as futuras sondas autônomas tomem decisões em milissegundos no espaço profundo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/)
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/)
 
 ---
 

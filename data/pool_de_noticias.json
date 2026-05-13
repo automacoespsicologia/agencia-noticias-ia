@@ -1394,6 +1394,105 @@
       "source": "Nasa News",
       "data_coleta": "2026-05-12",
       "tentativas": 0
+    },
+    {
+      "title": "Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome",
+      "link": "https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/",
+      "description": "<p>The estimate is over 20 years; space-based interceptors would account for most of the cost</p>",
+      "pub_date": "Tue, 12 May 2026 21:33:31 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "Quantum Space to build spacecraft in Tulsa",
+      "link": "https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/",
+      "description": "<p>Quantum Space announced May 12 it will build the company’s highly maneuverable spacecraft in Tulsa, Oklahoma, home to the company’s new chief executive.</p>",
+      "pub_date": "Tue, 12 May 2026 18:30:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "Space Force awards TrustPoint $4 million for LEO navigation demonstration",
+      "link": "https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/",
+      "description": "<p>The startup is developing C-band system as alternative to GPS</p>",
+      "pub_date": "Tue, 12 May 2026 14:00:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "Transcelestial tests space-to-ground laser communications technologies",
+      "link": "https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/",
+      "description": "<p>Transcelestial has advanced its work to provide space-to-ground optical communications with a test of laser transmissions from a satellite to ground stations.</p>",
+      "pub_date": "Tue, 12 May 2026 12:00:00 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "America’s Emerald Isle",
+      "link": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+      "description": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
+      "pub_date": "Wed, 13 May 2026 04:00:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA Langley Engineer Attends FAA Training",
+      "link": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
+      "description": "At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like &#8220;clearance delivery,&#8221; which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require [&#8230;]",
+      "pub_date": "Tue, 12 May 2026 18:57:31 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "Perseverance Stuns in New Selfie",
+      "link": "https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/",
+      "description": "NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of [&#8230;]",
+      "pub_date": "Tue, 12 May 2026 17:22:51 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier ",
+      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+      "description": "NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western [&#8230;]",
+      "pub_date": "Tue, 12 May 2026 16:48:31 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
+      "description": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the […]",
+      "pub_date": "Tue, 12 May 2026 16:46:56 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s Perseverance Rover Snaps Westernmost Selfie",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/",
+      "description": "Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The […]",
+      "pub_date": "Tue, 12 May 2026 16:45:58 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "I Am Artemis: Kathleen Harmon",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/",
+      "description": "Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA&#8217;s Deep Space Network: Captivated by Apollo launches on her television as a child, Kathleen Harmon now plays a key role in NASA’s Artemis program. Harmon serves as the Artemis II mission interface manager for NASA’s Deep Space Network, an [&#8230;]",
+      "pub_date": "Tue, 12 May 2026 14:40:56 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-13",
+      "tentativas": 0
     }
   ]
 }
