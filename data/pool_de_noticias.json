@@ -1288,15 +1288,6 @@
       "tentativas": 0
     },
     {
-      "title": "Creotech plans $118 million capital raise, investment in new satellite factory",
-      "link": "https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/",
-      "description": "<p>WARSAW, Poland — Polish space technology company Creotech Instruments has announced plans for a $118 million fundraise that will allow the company to open a new satellite production facility in Poland by 2029 as part of a new long term development strategy. Creotech Instruments hopes to quadruple its manufacturing capacities to around 40 satellites annually [&hellip;]</p>",
-      "pub_date": "Mon, 11 May 2026 16:55:55 +0000",
-      "source": "Space News",
-      "data_coleta": "2026-05-12",
-      "tentativas": 0
-    },
-    {
       "title": "Special Operations Forces test mobile platform for direct satellite imagery access",
       "link": "https://spacenews.com/special-operations-forces-test-mobile-platform-for-direct-satellite-imagery-access/",
       "description": "<p>The software, developed by SkyFi, operates on tactical Android devices</p>",
@@ -1396,37 +1387,10 @@
       "tentativas": 0
     },
     {
-      "title": "Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome",
-      "link": "https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/",
-      "description": "<p>The estimate is over 20 years; space-based interceptors would account for most of the cost</p>",
-      "pub_date": "Tue, 12 May 2026 21:33:31 +0000",
-      "source": "Space News",
-      "data_coleta": "2026-05-13",
-      "tentativas": 0
-    },
-    {
       "title": "Quantum Space to build spacecraft in Tulsa",
       "link": "https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/",
       "description": "<p>Quantum Space announced May 12 it will build the company’s highly maneuverable spacecraft in Tulsa, Oklahoma, home to the company’s new chief executive.</p>",
       "pub_date": "Tue, 12 May 2026 18:30:00 +0000",
-      "source": "Space News",
-      "data_coleta": "2026-05-13",
-      "tentativas": 0
-    },
-    {
-      "title": "Space Force awards TrustPoint $4 million for LEO navigation demonstration",
-      "link": "https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/",
-      "description": "<p>The startup is developing C-band system as alternative to GPS</p>",
-      "pub_date": "Tue, 12 May 2026 14:00:00 +0000",
-      "source": "Space News",
-      "data_coleta": "2026-05-13",
-      "tentativas": 0
-    },
-    {
-      "title": "Transcelestial tests space-to-ground laser communications technologies",
-      "link": "https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/",
-      "description": "<p>Transcelestial has advanced its work to provide space-to-ground optical communications with a test of laser transmissions from a satellite to ground stations.</p>",
-      "pub_date": "Tue, 12 May 2026 12:00:00 +0000",
       "source": "Space News",
       "data_coleta": "2026-05-13",
       "tentativas": 0
@@ -1492,6 +1456,51 @@
       "pub_date": "Tue, 12 May 2026 14:40:56 +0000",
       "source": "Nasa News",
       "data_coleta": "2026-05-13",
+      "tentativas": 0
+    },
+    {
+      "title": "Ice Moves Out of Aniak",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/",
+      "description": "Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding.",
+      "pub_date": "Thu, 14 May 2026 04:01:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "description": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.&#160; Instead of building&#160;structures&#160;layer by layer, Branch Technology Inc.&#160;of&#160;Chattanooga,&#160;Tennessee,&#160;has developed&#160;a&#160;process&#160;the company&#160;calls&#160;Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture [&#8230;]",
+      "pub_date": "Wed, 13 May 2026 19:47:08 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0
+    },
+    {
+      "title": "Rise Goes to Washington",
+      "link": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
+      "description": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day [&#8230;]",
+      "pub_date": "Wed, 13 May 2026 19:17:12 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0
+    },
+    {
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "description": "Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria [&#8230;]",
+      "pub_date": "Wed, 13 May 2026 14:45:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
+      "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
+      "description": "NASA’s TESS has released its most complete view of the starry sky to date",
+      "pub_date": "Wed, 13 May 2026 14:15:23 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
       "tentativas": 0
     }
   ]

@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/05/2026 11:28
+# 📥 Balde de Notícias Brutas - 14/05/2026 11:11
 
-Atualmente existem **171** notícias aguardando a curadoria do Editor.
+Atualmente existem **172** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1399,33 +1399,6 @@ NASA Astronaut Jessica Meir sits for a portrait at NASA&#8217;s Johnson Space Ce
 
 ---
 
-### SpaceX sets date for first Starship version 3 launch
-**Fonte:** Space News
-
-SpaceX has set a date for the long-delayed first launch of its next-generation Starship vehicle, which is critical to the company’s ambitions as well as NASA’s lunar plans....
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/)
-
----
-
-### Varda to collaborate with United Therapeutics on microgravity drug research
-**Fonte:** Space News
-
-Varda Space Industries has signed its first major agreement with a pharmaceutical company to develop improved drugs in microgravity....
-
-🔗 [Link da Notícia](https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/)
-
----
-
-### FCC approves SpaceX spectrum deal with $2.4 billion escrow condition
-**Fonte:** Space News
-
-SpaceX has the FCC’s blessing to buy EchoStar spectrum to improve direct-to-device services in the United States, subject to a $2.4 billion escrow tied to disputes over the seller’s abandoned terrestrial 5G network buildout....
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/)
-
----
-
 ### Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome
 **Fonte:** Space News
 
@@ -1450,15 +1423,6 @@ Quantum Space announced May 12 it will build the company’s highly maneuverable
 The startup is developing C-band system as alternative to GPS...
 
 🔗 [Link da Notícia](https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/)
-
----
-
-### Star Catcher raises $65 million for space power grid
-**Fonte:** Space News
-
-Star Catcher Industries, a company developing power-beaming technology for satellites, has raised $65 million to validate the technology in space....
-
-🔗 [Link da Notícia](https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/)
 
 ---
 
@@ -1525,21 +1489,66 @@ Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026,
 
 ---
 
-### Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing
-**Fonte:** Nasa News
-
-NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/)
-
----
-
 ### I Am Artemis: Kathleen Harmon
 **Fonte:** Nasa News
 
 Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA&#8217;s Deep Space Network: Captivated by Apollo launches on her television as a child, Kathleen Harmon now plays a key role in NASA’s Artemis program. Harmon serves as the Artemis II mission interface manager for NASA’s Deep Space Network, an [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/)
+
+---
+
+### Ice Moves Out of Aniak
+**Fonte:** Nasa News
+
+Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/)
+
+---
+
+### NASA-Supported Space Tech Advances Earthly Construction
+**Fonte:** Nasa News
+
+An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.&#160; Instead of building&#160;structures&#160;layer by layer, Branch Technology Inc.&#160;of&#160;Chattanooga,&#160;Tennessee,&#160;has developed&#160;a&#160;process&#160;the company&#160;calls&#160;Freeform 3D Printing, which creates shapes ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/)
+
+---
+
+### Rise Goes to Washington
+**Fonte:** Nasa News
+
+“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/rise-goes-to-washington/)
+
+---
+
+### NASA Outlines Preliminary Artemis III Mission Plans
+**Fonte:** Nasa News
+
+NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a&#160;February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/)
+
+---
+
+### Studying Pneumonia in Space for Heart Health on Earth
+**Fonte:** Nasa News
+
+Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/)
+
+---
+
+### NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
+**Fonte:** Nasa News
+
+NASA’s TESS has released its most complete view of the starry sky to date...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/)
 
 ---
 
