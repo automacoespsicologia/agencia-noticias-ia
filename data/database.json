@@ -1572,6 +1572,71 @@
       "lead": "A dependência global do GPS tradicional pode estar com os dias contados para operações críticas. A startup TrustPoint garantiu um contrato de 4 milhões de dólares com a Força Espacial dos EUA para demonstrar um sistema de navegação em órbita baixa operando em banda C. Mais preciso e difícil de ser interferido, o sistema representa uma movimentação estratégica vital para manter a soberania tecnológica em ambientes de conflito.",
       "category": "Mercado e Defesa",
       "data_publicacao": "2026-05-14 11:12"
+    },
+    {
+      "title": "Cowboy files plans for up to 20,000 orbital data centers",
+      "link": "https://spacenews.com/cowboy-files-plans-for-up-to-20000-orbital-data-centers/",
+      "description": "<p>Cowboy Space has filed plans with the Federal Communications Commission for a 20,000-satellite “Stampede” orbital data center constellation, shortly after raising $275 million to develop rockets whose upper stages would serve as the computing platforms.</p>",
+      "pub_date": "Thu, 14 May 2026 21:58:48 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A Cowboy Space acaba de elevar a fasquia da infraestrutura orbital ao protocolar planos para uma megaconstelação colossal de 20 mil satélites. Batizado de 'Stampede', o projeto visa transformar estágios superiores de foguetes em centros de processamento de dados em órbita. Com um aporte recente de 275 milhões de dólares, a startup sinaliza que o futuro da computação em nuvem pode, literalmente, deixar a atmosfera terrestre.",
+      "category": "Mercado e Infraestrutura",
+      "data_publicacao": "2026-05-15 11:19"
+    },
+    {
+      "title": "NASA Draws on Industry for Mars Telecommunications Network",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
+      "description": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. [&#8230;]",
+      "pub_date": "Thu, 14 May 2026 20:53:24 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A NASA deu o primeiro passo oficial para construir a 'internet interplanetária'. A agência emitiu uma solicitação formal para que a indústria privada desenvolva a Rede de Telecomunicações de Marte. O objetivo é estabelecer um sistema de alta banda larga capaz de retransmitir vídeos em altíssima definição e dados científicos críticos, criando a espinha dorsal de comunicações necessária para a presença humana permanente no Planeta Vermelho.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-15 11:19"
+    },
+    {
+      "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+      "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+      "description": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a [&#8230;]",
+      "pub_date": "Thu, 14 May 2026 16:32:09 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O desafio de manter combustível gelado no vácuo do espaço está prestes a ser vencido. A NASA, em parceria com a Eta Space, prepara a missão LOXSAT para demonstrar o gerenciamento de fluidos criogênicos em órbita. Essa tecnologia é considerada o 'santo graal' para missões de longa duração, permitindo que espaçonaves sejam reabastecidas no espaço e viabilizando saltos mais profundos rumo ao sistema solar.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-15 11:19"
+    },
+    {
+      "title": "Chinese satellite maker MinoSpace seeks $736 million in IPO",
+      "link": "https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/",
+      "description": "<p>Chinese satellite maker MinoSpace has seen its initial public offering application accepted, seeking $736 million for constellation and product expansion plans.</p>",
+      "pub_date": "Fri, 15 May 2026 09:00:11 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A gigante chinesa MinoSpace sacudiu o mercado financeiro espacial ao buscar um IPO de 736 milhões de dólares. O movimento visa financiar uma expansão massiva de sua capacidade de fabricação de satélites e o lançamento de novas constelações. Este é um dos maiores movimentos de capital do ano e reforça a agressiva estratégia da China para dominar a cadeia de suprimentos da economia espacial comercial global.",
+      "category": "Negócios",
+      "data_publicacao": "2026-05-15 11:19"
+    },
+    {
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "description": "Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria [&#8230;]",
+      "pub_date": "Wed, 13 May 2026 14:45:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Uma pesquisa pioneira na Estação Espacial Internacional está revelando conexões perigosas entre infecções respiratórias e falhas cardíacas. Astronautas da Expedição 74 estão utilizando tecidos de células-tronco para observar como a bactéria da pneumonia causa danos de longo prazo ao coração na microgravidade. A descoberta valida o uso do espaço como um laboratório único para acelerar tratamentos médicos que podem revolucionar a cardiologia aqui na Terra.",
+      "category": "Ciência",
+      "data_publicacao": "2026-05-15 11:19"
     }
   ]
 }

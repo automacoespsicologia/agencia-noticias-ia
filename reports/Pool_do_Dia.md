@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 14/05/2026 11:11
+# 📥 Balde de Notícias Brutas - 15/05/2026 11:18
 
-Atualmente existem **172** notícias aguardando a curadoria do Editor.
+Atualmente existem **181** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1291,15 +1291,6 @@ NASA plans to continue exchanging International Space Station crews about every 
 
 ---
 
-### Creotech plans $118 million capital raise, investment in new satellite factory
-**Fonte:** Space News
-
-WARSAW, Poland — Polish space technology company Creotech Instruments has announced plans for a $118 million fundraise that will allow the company to open a new satellite production facility in Poland by 2029 as part of a new long term development strategy. Creotech Instruments hopes to quadruple its manufacturing capacities to around 40 satellites annually [&hellip;]...
-
-🔗 [Link da Notícia](https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/)
-
----
-
 ### Special Operations Forces test mobile platform for direct satellite imagery access
 **Fonte:** Space News
 
@@ -1399,39 +1390,12 @@ NASA Astronaut Jessica Meir sits for a portrait at NASA&#8217;s Johnson Space Ce
 
 ---
 
-### Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome
-**Fonte:** Space News
-
-The estimate is over 20 years; space-based interceptors would account for most of the cost...
-
-🔗 [Link da Notícia](https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/)
-
----
-
 ### Quantum Space to build spacecraft in Tulsa
 **Fonte:** Space News
 
 Quantum Space announced May 12 it will build the company’s highly maneuverable spacecraft in Tulsa, Oklahoma, home to the company’s new chief executive....
 
 🔗 [Link da Notícia](https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/)
-
----
-
-### Space Force awards TrustPoint $4 million for LEO navigation demonstration
-**Fonte:** Space News
-
-The startup is developing C-band system as alternative to GPS...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/)
-
----
-
-### Transcelestial tests space-to-ground laser communications technologies
-**Fonte:** Space News
-
-Transcelestial has advanced its work to provide space-to-ground optical communications with a test of laser transmissions from a satellite to ground stations....
-
-🔗 [Link da Notícia](https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/)
 
 ---
 
@@ -1525,15 +1489,6 @@ An innovative 3D printing process that advanced NASA’s approach to outfitting 
 
 ---
 
-### NASA Outlines Preliminary Artemis III Mission Plans
-**Fonte:** Nasa News
-
-NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a&#160;February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/)
-
----
-
 ### Studying Pneumonia in Space for Heart Health on Earth
 **Fonte:** Nasa News
 
@@ -1549,6 +1504,132 @@ Expedition 74 astronauts aboard the International Space Station are uncovering h
 NASA’s TESS has released its most complete view of the starry sky to date...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/)
+
+---
+
+### Chinese satellite maker MinoSpace seeks $736 million in IPO
+**Fonte:** Space News
+
+Chinese satellite maker MinoSpace has seen its initial public offering application accepted, seeking $736 million for constellation and product expansion plans....
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/)
+
+---
+
+### Cowboy files plans for up to 20,000 orbital data centers
+**Fonte:** Space News
+
+Cowboy Space has filed plans with the Federal Communications Commission for a 20,000-satellite “Stampede” orbital data center constellation, shortly after raising $275 million to develop rockets whose upper stages would serve as the computing platforms....
+
+🔗 [Link da Notícia](https://spacenews.com/cowboy-files-plans-for-up-to-20000-orbital-data-centers/)
+
+---
+
+### Intuitive Machines to buy ground station company
+**Fonte:** Space News
+
+Intuitive Machines has agreed to purchase a company that operates ground stations in the United States and United Kingdom to help build out a lunar communications network....
+
+🔗 [Link da Notícia](https://spacenews.com/intuitive-machines-to-buy-ground-station-company/)
+
+---
+
+### Golden Dome chief pushes back on $1.2 trillion CBO estimate
+**Fonte:** Space News
+
+Gen. Michael Guetlein defends plan to pursue space-based interceptors but warns affordability remains central challenge...
+
+🔗 [Link da Notícia](https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/)
+
+---
+
+### Iridium to take over Aireon to expand aviation safety business
+**Fonte:** Space News
+
+Iridium Communications is buying the rest of the Aireon aircraft-tracking venture its connectivity constellation hosts to push further into aviation safety, surveillance and data services....
+
+🔗 [Link da Notícia](https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/)
+
+---
+
+### CEO Series: Chris Quilty looks at the future of the space industry
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ceo-series-chris-quilty-looks-at-the-future-of-the-space-industry/)
+
+---
+
+### AST SpaceMobile may use ULA’s Vulcan
+**Fonte:** Space News
+
+AST SpaceMobile may launch some of its direct-to-device satellites on United Launch Alliance’s Vulcan rocket to expand the launch options for its constellation....
+
+🔗 [Link da Notícia](https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/)
+
+---
+
+### House appropriators approve spending bill that keeps NASA budget flat
+**Fonte:** Space News
+
+The House Appropriations Committee advanced a spending bill May 13 that rejects many of the cuts to NASA proposed by the administration....
+
+🔗 [Link da Notícia](https://spacenews.com/house-appropriators-approve-spending-bill-that-keeps-nasa-budget-flat/)
+
+---
+
+### Why Earth observation data is getting stuck in orbit
+**Fonte:** Space News
+
+With the proliferation of Earth observation satellites in orbit, the increasing sophistication of sensors and surging demand for imagery and geospatial intelligence across a growing number of sectors, it is no surprise that more data is now collected than ever before. But what is perhaps surprising is that the main obstacle to the smooth operation [&hellip;]...
+
+🔗 [Link da Notícia](https://spacenews.com/why-earth-observation-data-is-getting-stuck-in-orbit/)
+
+---
+
+### Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group
+**Fonte:** Space News
+
+China has added a new batch of satellites to the Qianfan megaconstellation, while the commercial Zhuque-2E made a return-to-flight featuring numerous improvements....
+
+🔗 [Link da Notícia](https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/)
+
+---
+
+### Picturing Earth in a New Light
+**Fonte:** Nasa News
+
+A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/)
+
+---
+
+### NASA Draws on Industry for Mars Telecommunications Network
+**Fonte:** Nasa News
+
+On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/)
+
+---
+
+### NASA, Industry Prepare Cryogenic Fuel Technology Demo
+**Fonte:** Nasa News
+
+NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a [&...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/)
+
+---
+
+### Fresh Food Delivery for Space Station
+**Fonte:** Nasa News
+
+NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/)
 
 ---
 
