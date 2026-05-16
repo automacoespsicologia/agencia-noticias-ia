@@ -1637,6 +1637,71 @@
       "lead": "Uma pesquisa pioneira na Estação Espacial Internacional está revelando conexões perigosas entre infecções respiratórias e falhas cardíacas. Astronautas da Expedição 74 estão utilizando tecidos de células-tronco para observar como a bactéria da pneumonia causa danos de longo prazo ao coração na microgravidade. A descoberta valida o uso do espaço como um laboratório único para acelerar tratamentos médicos que podem revolucionar a cardiologia aqui na Terra.",
       "category": "Ciência",
       "data_publicacao": "2026-05-15 11:19"
+    },
+    {
+      "title": "Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield",
+      "link": "https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/",
+      "description": "<p>A pioneering joint ESA-China science mission to study Earth’s magnetosphere is set to launch May 19, after a decade of preparations.</p>",
+      "pub_date": "Fri, 15 May 2026 18:08:19 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-16",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Uma colaboração épica de uma década está prestes a ganhar os céus. A missão SMILE, uma parceria sem precedentes entre a Agência Espacial Europeia e a China, será lançada para desvendar os segredos do escudo magnético da Terra. É a ciência global se unindo para entender como o vento solar interage com o nosso campo magnético, protegendo a vida no planeta.",
+      "category": "Ciência e Exploração",
+      "data_publicacao": "2026-05-16 10:11"
+    },
+    {
+      "title": "Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group",
+      "link": "https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/",
+      "description": "<p>China has added a new batch of satellites to the Qianfan megaconstellation, while the commercial Zhuque-2E made a return-to-flight featuring numerous improvements.</p>",
+      "pub_date": "Thu, 14 May 2026 09:52:47 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A China acaba de subir o nível na corrida das megaconstelações comerciais. Com o lançamento bem-sucedido de novos satélites Qianfan e a estreia da versão aprimorada do foguete Zhuque-2E, o país demonstra uma maturidade técnica impressionante em propulsão a metano e logística de lançamento em larga escala, desafiando o domínio ocidental no setor de internet via satélite.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-16 10:11"
+    },
+    {
+      "title": "Iridium to take over Aireon to expand aviation safety business",
+      "link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
+      "description": "<p>Iridium Communications is buying the rest of the Aireon aircraft-tracking venture its connectivity constellation hosts to push further into aviation safety, surveillance and data services.</p>",
+      "pub_date": "Thu, 14 May 2026 15:25:19 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Consolidação pesada no monitoramento aéreo global: a Iridium assumiu o controle total da Aireon. Esse movimento estratégico coloca a gigante das comunicações no comando absoluto do rastreamento de voos em tempo real via satélite, prometendo transformar a segurança e a eficiência da aviação civil em escala planetária.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-16 10:11"
+    },
+    {
+      "title": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
+      "link": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/",
+      "description": "<p>A planned direct-to-device joint venture between AT&#038;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space.</p>",
+      "pub_date": "Fri, 15 May 2026 22:06:07 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-16",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A guerra pela conectividade direta no seu bolso atingiu um novo patamar. Gigantes das telecomunicações como AT&T, T-Mobile e Verizon estão unindo forças em uma joint venture histórica para bater de frente com a Starlink. O objetivo? Garantir que o seu smartphone se conecte diretamente aos satélites, eliminando de vez as zonas mortas de sinal no globo.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-16 10:11"
+    },
+    {
+      "title": "Lunar Outpost raises $30 million",
+      "link": "https://spacenews.com/lunar-outpost-raises-30-million/",
+      "description": "<p>Lunar Outpost, a developer of lunar rovers, has raised $30 million as it works to revamp designs to meet NASA’s revised Artemis architecture.</p>",
+      "pub_date": "Fri, 08 May 2026 01:43:07 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A economia lunar está atraindo capital de risco real. A startup Lunar Outpost acaba de levantar 30 milhões de dólares para redesenhar e fabricar rovers que atenderão à nova arquitetura do programa Artemis da NASA. É um sinal claro de que o mercado de mobilidade fora da Terra está amadurecendo e pronto para a infraestrutura de longo prazo na Lua.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-16 10:11"
     }
   ]
 }

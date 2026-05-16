@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 15/05/2026 11:19
+# 🚀 Relatório da Agência Espacial - 16/05/2026 10:11
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Cowboy files plans for up to 20,000 orbital data centers
-**Fonte:** Space News | **Categoria:** Mercado e Infraestrutura
+## 1. Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield
+**Fonte:** Space News | **Categoria:** Ciência e Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Cowboy Space acaba de elevar a fasquia da infraestrutura orbital ao protocolar planos para uma megaconstelação colossal de 20 mil satélites. Batizado de 'Stampede', o projeto visa transformar estágios superiores de foguetes em centros de processamento de dados em órbita. Com um aporte recente de 275 milhões de dólares, a startup sinaliza que o futuro da computação em nuvem pode, literalmente, deixar a atmosfera terrestre.
+> Uma colaboração épica de uma década está prestes a ganhar os céus. A missão SMILE, uma parceria sem precedentes entre a Agência Espacial Europeia e a China, será lançada para desvendar os segredos do escudo magnético da Terra. É a ciência global se unindo para entender como o vento solar interage com o nosso campo magnético, protegendo a vida no planeta.
 
-🔗 [Ler notícia completa](https://spacenews.com/cowboy-files-plans-for-up-to-20000-orbital-data-centers/)
+🔗 [Ler notícia completa](https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/)
 
 ---
 
-## 2. NASA Draws on Industry for Mars Telecommunications Network
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 2. Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA deu o primeiro passo oficial para construir a 'internet interplanetária'. A agência emitiu uma solicitação formal para que a indústria privada desenvolva a Rede de Telecomunicações de Marte. O objetivo é estabelecer um sistema de alta banda larga capaz de retransmitir vídeos em altíssima definição e dados científicos críticos, criando a espinha dorsal de comunicações necessária para a presença humana permanente no Planeta Vermelho.
+> A China acaba de subir o nível na corrida das megaconstelações comerciais. Com o lançamento bem-sucedido de novos satélites Qianfan e a estreia da versão aprimorada do foguete Zhuque-2E, o país demonstra uma maturidade técnica impressionante em propulsão a metano e logística de lançamento em larga escala, desafiando o domínio ocidental no setor de internet via satélite.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/)
+🔗 [Ler notícia completa](https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/)
 
 ---
 
-## 3. NASA, Industry Prepare Cryogenic Fuel Technology Demo
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 3. Iridium to take over Aireon to expand aviation safety business
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O desafio de manter combustível gelado no vácuo do espaço está prestes a ser vencido. A NASA, em parceria com a Eta Space, prepara a missão LOXSAT para demonstrar o gerenciamento de fluidos criogênicos em órbita. Essa tecnologia é considerada o 'santo graal' para missões de longa duração, permitindo que espaçonaves sejam reabastecidas no espaço e viabilizando saltos mais profundos rumo ao sistema solar.
+> Consolidação pesada no monitoramento aéreo global: a Iridium assumiu o controle total da Aireon. Esse movimento estratégico coloca a gigante das comunicações no comando absoluto do rastreamento de voos em tempo real via satélite, prometendo transformar a segurança e a eficiência da aviação civil em escala planetária.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/)
+🔗 [Ler notícia completa](https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/)
 
 ---
 
-## 4. Chinese satellite maker MinoSpace seeks $736 million in IPO
-**Fonte:** Space News | **Categoria:** Negócios
+## 4. Starlink Mobile challengers back proposed telco-led D2D joint venture
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A gigante chinesa MinoSpace sacudiu o mercado financeiro espacial ao buscar um IPO de 736 milhões de dólares. O movimento visa financiar uma expansão massiva de sua capacidade de fabricação de satélites e o lançamento de novas constelações. Este é um dos maiores movimentos de capital do ano e reforça a agressiva estratégia da China para dominar a cadeia de suprimentos da economia espacial comercial global.
+> A guerra pela conectividade direta no seu bolso atingiu um novo patamar. Gigantes das telecomunicações como AT&T, T-Mobile e Verizon estão unindo forças em uma joint venture histórica para bater de frente com a Starlink. O objetivo? Garantir que o seu smartphone se conecte diretamente aos satélites, eliminando de vez as zonas mortas de sinal no globo.
 
-🔗 [Ler notícia completa](https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/)
+🔗 [Ler notícia completa](https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/)
 
 ---
 
-## 5. Studying Pneumonia in Space for Heart Health on Earth
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. Lunar Outpost raises $30 million
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Uma pesquisa pioneira na Estação Espacial Internacional está revelando conexões perigosas entre infecções respiratórias e falhas cardíacas. Astronautas da Expedição 74 estão utilizando tecidos de células-tronco para observar como a bactéria da pneumonia causa danos de longo prazo ao coração na microgravidade. A descoberta valida o uso do espaço como um laboratório único para acelerar tratamentos médicos que podem revolucionar a cardiologia aqui na Terra.
+> A economia lunar está atraindo capital de risco real. A startup Lunar Outpost acaba de levantar 30 milhões de dólares para redesenhar e fabricar rovers que atenderão à nova arquitetura do programa Artemis da NASA. É um sinal claro de que o mercado de mobilidade fora da Terra está amadurecendo e pronto para a infraestrutura de longo prazo na Lua.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/)
+🔗 [Ler notícia completa](https://spacenews.com/lunar-outpost-raises-30-million/)
 
 ---
 

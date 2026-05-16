@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/05/2026 11:18
+# 📥 Balde de Notícias Brutas - 16/05/2026 10:10
 
-Atualmente existem **181** notícias aguardando a curadoria do Editor.
+Atualmente existem **183** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1489,39 +1489,12 @@ An innovative 3D printing process that advanced NASA’s approach to outfitting 
 
 ---
 
-### Studying Pneumonia in Space for Heart Health on Earth
-**Fonte:** Nasa News
-
-Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/)
-
----
-
 ### NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
 **Fonte:** Nasa News
 
 NASA’s TESS has released its most complete view of the starry sky to date...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/)
-
----
-
-### Chinese satellite maker MinoSpace seeks $736 million in IPO
-**Fonte:** Space News
-
-Chinese satellite maker MinoSpace has seen its initial public offering application accepted, seeking $736 million for constellation and product expansion plans....
-
-🔗 [Link da Notícia](https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/)
-
----
-
-### Cowboy files plans for up to 20,000 orbital data centers
-**Fonte:** Space News
-
-Cowboy Space has filed plans with the Federal Communications Commission for a 20,000-satellite “Stampede” orbital data center constellation, shortly after raising $275 million to develop rockets whose upper stages would serve as the computing platforms....
-
-🔗 [Link da Notícia](https://spacenews.com/cowboy-files-plans-for-up-to-20000-orbital-data-centers/)
 
 ---
 
@@ -1606,30 +1579,75 @@ A recent analysis revealed where artificial light at night has intensified, as w
 
 ---
 
-### NASA Draws on Industry for Mars Telecommunications Network
-**Fonte:** Nasa News
-
-On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/)
-
----
-
-### NASA, Industry Prepare Cryogenic Fuel Technology Demo
-**Fonte:** Nasa News
-
-NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a [&...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/)
-
----
-
 ### Fresh Food Delivery for Space Station
 **Fonte:** Nasa News
 
 NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/)
+
+---
+
+### SpaceX launches CRS-34 cargo mission to ISS
+**Fonte:** Space News
+
+A Falcon 9 launched a Dragon cargo spacecraft May 15 carrying nearly 3,000 kilograms of cargo to the International Space Station....
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/)
+
+---
+
+### Starlink Mobile challengers back proposed telco-led D2D joint venture
+**Fonte:** Space News
+
+A planned direct-to-device joint venture between AT&#038;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space....
+
+🔗 [Link da Notícia](https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/)
+
+---
+
+### Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield
+**Fonte:** Space News
+
+A pioneering joint ESA-China science mission to study Earth’s magnetosphere is set to launch May 19, after a decade of preparations....
+
+🔗 [Link da Notícia](https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/)
+
+---
+
+### Virgin Galactic reaffirms plans to begin commercial service this year
+**Fonte:** Space News
+
+Virgin Galactic said May 14 it remains on track, technically and financially, to start commercial flights of its next-generation suborbital spaceplane before the end of the year....
+
+🔗 [Link da Notícia](https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/)
+
+---
+
+### NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
+**Fonte:** Nasa News
+
+The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The SpaceX spacecraft, loaded with nearly 6,500 pounds [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/)
+
+---
+
+### Curiosity Shakes Loose a Pesky Rock
+**Fonte:** Nasa News
+
+After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose. When it finally detached on May 1, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/)
+
+---
+
+### Hubble Sights Galaxy in Transition
+**Fonte:** Nasa News
+
+This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/)
 
 ---
 
