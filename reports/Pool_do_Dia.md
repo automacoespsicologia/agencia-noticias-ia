@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/05/2026 10:10
+# 📥 Balde de Notícias Brutas - 17/05/2026 10:20
 
-Atualmente existem **183** notícias aguardando a curadoria do Editor.
+Atualmente existem **181** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1120,15 +1120,6 @@ SAN FRANCISCO – British startup SatVu released imagery from HotSat-2, a therma
 
 ---
 
-### Lunar Outpost raises $30 million
-**Fonte:** Space News
-
-Lunar Outpost, a developer of lunar rovers, has raised $30 million as it works to revamp designs to meet NASA’s revised Artemis architecture....
-
-🔗 [Link da Notícia](https://spacenews.com/lunar-outpost-raises-30-million/)
-
----
-
 ### Redwire pursues opportunities in landers and power systems for NASA’s moon base plans
 **Fonte:** Space News
 
@@ -1516,15 +1507,6 @@ Gen. Michael Guetlein defends plan to pursue space-based interceptors but warns 
 
 ---
 
-### Iridium to take over Aireon to expand aviation safety business
-**Fonte:** Space News
-
-Iridium Communications is buying the rest of the Aireon aircraft-tracking venture its connectivity constellation hosts to push further into aviation safety, surveillance and data services....
-
-🔗 [Link da Notícia](https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/)
-
----
-
 ### CEO Series: Chris Quilty looks at the future of the space industry
 **Fonte:** Space News
 
@@ -1561,15 +1543,6 @@ With the proliferation of Earth observation satellites in orbit, the increasing 
 
 ---
 
-### Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group
-**Fonte:** Space News
-
-China has added a new batch of satellites to the Qianfan megaconstellation, while the commercial Zhuque-2E made a return-to-flight featuring numerous improvements....
-
-🔗 [Link da Notícia](https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/)
-
----
-
 ### Picturing Earth in a New Light
 **Fonte:** Nasa News
 
@@ -1594,24 +1567,6 @@ NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chr
 A Falcon 9 launched a Dragon cargo spacecraft May 15 carrying nearly 3,000 kilograms of cargo to the International Space Station....
 
 🔗 [Link da Notícia](https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/)
-
----
-
-### Starlink Mobile challengers back proposed telco-led D2D joint venture
-**Fonte:** Space News
-
-A planned direct-to-device joint venture between AT&#038;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space....
-
-🔗 [Link da Notícia](https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/)
-
----
-
-### Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield
-**Fonte:** Space News
-
-A pioneering joint ESA-China science mission to study Earth’s magnetosphere is set to launch May 19, after a decade of preparations....
-
-🔗 [Link da Notícia](https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/)
 
 ---
 
@@ -1648,6 +1603,33 @@ After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25,
 This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/)
+
+---
+
+### NASA releases final RFP for Mars communications orbiter
+**Fonte:** Space News
+
+NASA has released the final request for proposals for a Mars telecommunications system, confirming requirements that limit the companies that can bid on it....
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/)
+
+---
+
+### York Space defends growth strategy as SDA programs are reshaped
+**Fonte:** Space News
+
+Company executives acknowledge ‘investor confusion’ as Space Force reorganizes York&#8217;s primary customer, the Space Development Agency...
+
+🔗 [Link da Notícia](https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/)
+
+---
+
+### Space Force awards Northrop Grumman $398 million satellite contract
+**Fonte:** Space News
+
+The company will build a communications satellite to test protected communications technologies for contested environments...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/)
 
 ---
 

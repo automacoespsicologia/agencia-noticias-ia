@@ -1702,6 +1702,71 @@
       "lead": "A economia lunar está atraindo capital de risco real. A startup Lunar Outpost acaba de levantar 30 milhões de dólares para redesenhar e fabricar rovers que atenderão à nova arquitetura do programa Artemis da NASA. É um sinal claro de que o mercado de mobilidade fora da Terra está amadurecendo e pronto para a infraestrutura de longo prazo na Lua.",
       "category": "Mercado Espacial",
       "data_publicacao": "2026-05-16 10:11"
+    },
+    {
+      "title": "Space Force awards Northrop Grumman $398 million satellite contract",
+      "link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
+      "description": "<p>The company will build a communications satellite to test protected communications technologies for contested environments</p>",
+      "pub_date": "Sat, 16 May 2026 14:40:02 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-17",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A Northrop Grumman acaba de consolidar sua posição estratégica na defesa orbital com um novo contrato de 398 milhões de dólares da Força Espacial dos Estados Unidos. O projeto foca no desenvolvimento de um satélite de comunicações protegido, projetado especificamente para resistir a ataques e interferências em ambientes de combate. É um movimento massivo que sinaliza a prioridade máxima do Pentágono em blindar a infraestrutura de dados no espaço.",
+      "category": "Mercado e Defesa",
+      "data_publicacao": "2026-05-17 10:20"
+    },
+    {
+      "title": "NASA releases final RFP for Mars communications orbiter",
+      "link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
+      "description": "<p>NASA has released the final request for proposals for a Mars telecommunications system, confirming requirements that limit the companies that can bid on it.</p>",
+      "pub_date": "Sat, 16 May 2026 22:33:24 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-17",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A ponte de comunicação entre a Terra e Marte está prestes a se tornar um negócio privado. A NASA lançou o edital final para a contratação de um orbitador de comunicações comercial para o Planeta Vermelho. Ao invés de construir seu próprio satélite, a agência quer comprar serviços de empresas que possam garantir o fluxo de dados das futuras missões tripuladas, abrindo um mercado sem precedentes no espaço profundo.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-17 10:20"
+    },
+    {
+      "title": "Intuitive Machines to buy ground station company",
+      "link": "https://spacenews.com/intuitive-machines-to-buy-ground-station-company/",
+      "description": "<p>Intuitive Machines has agreed to purchase a company that operates ground stations in the United States and United Kingdom to help build out a lunar communications network.</p>",
+      "pub_date": "Thu, 14 May 2026 19:51:37 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A Intuitive Machines deu um passo agressivo para dominar a logística lunar ao adquirir uma operadora estratégica de estações terrestres. O objetivo é claro: construir a primeira rede de comunicação privada Terra-Lua. Com essa integração vertical, a empresa deixa de ser apenas uma fabricante de landers para se tornar a provedora da infraestrutura essencial de conectividade que sustentará a economia lunar nos próximos anos.",
+      "category": "Negócios",
+      "data_publicacao": "2026-05-17 10:20"
+    },
+    {
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "description": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.&#160; Instead of building&#160;structures&#160;layer by layer, Branch Technology Inc.&#160;of&#160;Chattanooga,&#160;Tennessee,&#160;has developed&#160;a&#160;process&#160;the company&#160;calls&#160;Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture [&#8230;]",
+      "pub_date": "Wed, 13 May 2026 19:47:08 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Uma tecnologia de impressão 3D desenvolvida para erguer bases na Lua está saltando dos laboratórios espaciais para canteiros de obras terrestres. A técnica, que dispensa o empilhamento tradicional de camadas em favor de estruturas mais eficientes e resistentes, já está sendo aplicada pela Branch Technology para criar edifícios sustentáveis aqui na Terra. É a prova cabal de que a engenharia para o ambiente lunar é o novo motor de produtividade da construção civil global.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-17 10:20"
+    },
+    {
+      "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
+      "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
+      "description": "NASA’s TESS has released its most complete view of the starry sky to date",
+      "pub_date": "Wed, 13 May 2026 14:15:23 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-14",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O telescópio caçador de mundos, TESS, acaba de entregar sua visão mais completa e deslumbrante do cosmos até agora. Este novo mosaico panorâmico do céu estrelado é um tesouro de dados validados para a astronomia moderna, permitindo a identificação precisa de novos exoplanetas em escalas antes impossíveis. É um marco científico que redefine nosso mapa do universo e as metas de exploração para a próxima década.",
+      "category": "Ciência",
+      "data_publicacao": "2026-05-17 10:20"
     }
   ]
 }
