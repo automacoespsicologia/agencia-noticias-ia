@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/05/2026 10:20
+# 📥 Balde de Notícias Brutas - 18/05/2026 12:25
 
-Atualmente existem **181** notícias aguardando a curadoria do Editor.
+Atualmente existem **176** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1462,39 +1462,12 @@ Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding....
 
 ---
 
-### NASA-Supported Space Tech Advances Earthly Construction
-**Fonte:** Nasa News
-
-An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.&#160; Instead of building&#160;structures&#160;layer by layer, Branch Technology Inc.&#160;of&#160;Chattanooga,&#160;Tennessee,&#160;has developed&#160;a&#160;process&#160;the company&#160;calls&#160;Freeform 3D Printing, which creates shapes ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/)
-
----
-
 ### Rise Goes to Washington
 **Fonte:** Nasa News
 
 “Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/rise-goes-to-washington/)
-
----
-
-### NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
-**Fonte:** Nasa News
-
-NASA’s TESS has released its most complete view of the starry sky to date...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/)
-
----
-
-### Intuitive Machines to buy ground station company
-**Fonte:** Space News
-
-Intuitive Machines has agreed to purchase a company that operates ground stations in the United States and United Kingdom to help build out a lunar communications network....
-
-🔗 [Link da Notícia](https://spacenews.com/intuitive-machines-to-buy-ground-station-company/)
 
 ---
 
@@ -1606,30 +1579,12 @@ This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright
 
 ---
 
-### NASA releases final RFP for Mars communications orbiter
-**Fonte:** Space News
-
-NASA has released the final request for proposals for a Mars telecommunications system, confirming requirements that limit the companies that can bid on it....
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/)
-
----
-
 ### York Space defends growth strategy as SDA programs are reshaped
 **Fonte:** Space News
 
 Company executives acknowledge ‘investor confusion’ as Space Force reorganizes York&#8217;s primary customer, the Space Development Agency...
 
 🔗 [Link da Notícia](https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/)
-
----
-
-### Space Force awards Northrop Grumman $398 million satellite contract
-**Fonte:** Space News
-
-The company will build a communications satellite to test protected communications technologies for contested environments...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/)
 
 ---
 

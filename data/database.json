@@ -1767,6 +1767,71 @@
       "lead": "O telescópio caçador de mundos, TESS, acaba de entregar sua visão mais completa e deslumbrante do cosmos até agora. Este novo mosaico panorâmico do céu estrelado é um tesouro de dados validados para a astronomia moderna, permitindo a identificação precisa de novos exoplanetas em escalas antes impossíveis. É um marco científico que redefine nosso mapa do universo e as metas de exploração para a próxima década.",
       "category": "Ciência",
       "data_publicacao": "2026-05-17 10:20"
+    },
+    {
+      "title": "Golden Dome chief pushes back on $1.2 trillion CBO estimate",
+      "link": "https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/",
+      "description": "<p>Gen. Michael Guetlein defends plan to pursue space-based interceptors but warns affordability remains central challenge</p>",
+      "pub_date": "Thu, 14 May 2026 15:56:42 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-15",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O futuro da defesa orbital está em xeque. O comando do ambicioso projeto 'Golden Dome' rebateu publicamente as estimativas trilionárias para a implementação de interceptadores espaciais. Em um momento de tensão geopolítica, o debate agora foca no equilíbrio impossível: como garantir a soberania no espaço sem implodir o orçamento nacional? A defesa americana insiste que a infraestrutura é vital, mas admite que a acessibilidade financeira é o desafio final da nova fronteira militar.",
+      "category": "Defesa e Estratégia",
+      "data_publicacao": "2026-05-18 12:26"
+    },
+    {
+      "title": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
+      "link": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
+      "description": "<p>Voyager Technologies says it is ready should NASA change plans for supporting development of commercial space stations.</p>",
+      "pub_date": "Tue, 05 May 2026 20:29:20 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-06",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A sucessão da Estação Espacial Internacional acaba de ganhar um novo capítulo de urgência. A Voyager Space reafirmou sua prontidão para o projeto Starlab, sinalizando que o setor privado pode ter que assumir as rédeas mais cedo do que o esperado caso a NASA altere seus planos de apoio. Com o fim da ISS no horizonte, a viabilidade das estações comerciais tornou-se o termômetro de sobrevivência para a economia da órbita baixa.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-18 12:26"
+    },
+    {
+      "title": "Bringing imagery and communications under one roof",
+      "link": "https://spacenews.com/bringing-imagery-and-communications-under-one-roof/",
+      "description": "<p>As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit.</p>",
+      "pub_date": "Wed, 06 May 2026 17:37:46 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-07",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A fronteira entre observar a Terra e transmitir dados está desaparecendo. Uma nova arquitetura de constelações híbridas está integrando sistemas de imagem e comunicação direta sob o mesmo teto orbital. Essa inovação técnica promete acabar com o gargalo de latência, permitindo que a inteligência geoespacial seja processada e enviada para dispositivos terrestres em tempo real — uma mudança de paradigma para missões críticas e serviços de emergência.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-05-18 12:26"
+    },
+    {
+      "title": "York Space defends growth strategy as SDA programs are reshaped",
+      "link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
+      "description": "<p>Company executives acknowledge ‘investor confusion’ as Space Force reorganizes York&#8217;s primary customer, the Space Development Agency</p>",
+      "pub_date": "Sat, 16 May 2026 21:55:25 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-17",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Agitação nos bastidores do mercado de satélites militares: a York Space foi a público acalmar investidores e defender sua estratégia de expansão. Enquanto o Pentágono reorganiza a Space Development Agency — sua maior compradora —, a empresa enfrenta o desafio de escalar a produção em um ritmo nunca antes visto na indústria. É um teste de fogo para o modelo de 'produção em massa' de tecnologia espacial de ponta.",
+      "category": "Negócios",
+      "data_publicacao": "2026-05-18 12:26"
+    },
+    {
+      "title": "Virgin Galactic reaffirms plans to begin commercial service this year",
+      "link": "https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/",
+      "description": "<p>Virgin Galactic said May 14 it remains on track, technically and financially, to start commercial flights of its next-generation suborbital spaceplane before the end of the year.</p>",
+      "pub_date": "Fri, 15 May 2026 11:48:54 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-05-16",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O turismo espacial de elite está pronto para o seu próximo grande salto. A Virgin Galactic confirmou que mantém o cronograma — técnica e financeiramente — para iniciar os voos comerciais de sua nova geração de espaçonaves suborbitais ainda este ano. Após anos de desenvolvimento e testes rigorosos, o mercado aguarda para ver se a cadência operacional prometida será capaz de transformar o espaço em um destino de negócios recorrente.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-05-18 12:26"
     }
   ]
 }
