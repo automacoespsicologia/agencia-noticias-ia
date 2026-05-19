@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/05/2026 12:25
+# 📥 Balde de Notícias Brutas - 19/05/2026 11:58
 
-Atualmente existem **176** notícias aguardando a curadoria do Editor.
+Atualmente existem **187** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -868,15 +868,6 @@ Series A funding will support manufacturing expansion in Northern Virginia...
 
 ---
 
-### Voyager ‘very optimistic’ about Starlab amid potential NASA changes
-**Fonte:** Space News
-
-Voyager Technologies says it is ready should NASA change plans for supporting development of commercial space stations....
-
-🔗 [Link da Notícia](https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/)
-
----
-
 ### New NGA head makes industry debut at GEOINT Symposium 2026
 **Fonte:** Space News
 
@@ -1018,15 +1009,6 @@ DENVER – The job of the National Geospatial-Intelligence Agency’s Rapid Capa
 Agency seeks data scientists, AI specialists and quantum physicists amid surge in space-based intelligence collection...
 
 🔗 [Link da Notícia](https://spacenews.com/scolese-puts-talent-at-center-of-nro-transition-as-he-prepares-to-step-down/)
-
----
-
-### Bringing imagery and communications under one roof
-**Fonte:** Space News
-
-As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit....
-
-🔗 [Link da Notícia](https://spacenews.com/bringing-imagery-and-communications-under-one-roof/)
 
 ---
 
@@ -1471,15 +1453,6 @@ Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding....
 
 ---
 
-### Golden Dome chief pushes back on $1.2 trillion CBO estimate
-**Fonte:** Space News
-
-Gen. Michael Guetlein defends plan to pursue space-based interceptors but warns affordability remains central challenge...
-
-🔗 [Link da Notícia](https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/)
-
----
-
 ### CEO Series: Chris Quilty looks at the future of the space industry
 **Fonte:** Space News
 
@@ -1543,15 +1516,6 @@ A Falcon 9 launched a Dragon cargo spacecraft May 15 carrying nearly 3,000 kilog
 
 ---
 
-### Virgin Galactic reaffirms plans to begin commercial service this year
-**Fonte:** Space News
-
-Virgin Galactic said May 14 it remains on track, technically and financially, to start commercial flights of its next-generation suborbital spaceplane before the end of the year....
-
-🔗 [Link da Notícia](https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/)
-
----
-
 ### NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
 **Fonte:** Nasa News
 
@@ -1579,12 +1543,156 @@ This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright
 
 ---
 
-### York Space defends growth strategy as SDA programs are reshaped
+### Anderson confirmed as NASA deputy administrator
 **Fonte:** Space News
 
-Company executives acknowledge ‘investor confusion’ as Space Force reorganizes York&#8217;s primary customer, the Space Development Agency...
 
-🔗 [Link da Notícia](https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/)
+WASHINGTON — The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency....
+
+🔗 [Link da Notícia](https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/)
+
+---
+
+### ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere
+**Fonte:** Space News
+
+
+KOUROU, French Guiana — The SMILE mission developed jointly by the European Space Agency and China has reached orbit after more than a decade of preparations and cooperation....
+
+🔗 [Link da Notícia](https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/)
+
+---
+
+### European imaging companies step in to fill warzone gap
+**Fonte:** Space News
+
+
+MILAN – As U.S. satellite imagery companies have pulled back from sharing visuals of Iran and the broader area around the Gulf conflict, European Earth-observation firms are moving to fill the vacuum....
+
+🔗 [Link da Notícia](https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/)
+
+---
+
+### Four NASA payloads to fly on Astrolab’s first lunar rover
+**Fonte:** Space News
+
+
+WASHINGTON — Astrolab’s first lunar rover will carry four NASA payloads on a mission planned to launch later this year....
+
+🔗 [Link da Notícia](https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/)
+
+---
+
+### Inside Golden Dome’s push to court commercial tech firms and investors
+**Fonte:** Space News
+
+
+WASHINGTON — Pentagon officials overseeing Golden Dome are trying to convince commercial space founders, venture investors and software companies that missile defense can be built more like a modern technology platform than a traditional weapons system....
+
+🔗 [Link da Notícia](https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/)
+
+---
+
+### Tomorrow.io adds $35 million to DeepSky funding round
+**Fonte:** Space News
+
+
+TAMPA, Fla. — Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data....
+
+🔗 [Link da Notícia](https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/)
+
+---
+
+### House bill restores funding for TraCSS
+**Fonte:** Space News
+
+
+WASHINGTON — A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system....
+
+🔗 [Link da Notícia](https://spacenews.com/house-bill-restores-funding-for-tracss/)
+
+---
+
+### New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/)
+
+---
+
+### The next war will be won — or lost — in orbit
+**Fonte:** Space News
+
+
+We in the West have learned many things from the conflict in Ukraine. Four years on from its full-scale invasion — the war in fact having started in 2014 — we find ourselves, or should find ourselves, with a far better grasp of the nature of war, and a far greater sense of the dangers we face. That is reflected most visibly in promises across Western Europe to increase defense spending. But what ...
+
+🔗 [Link da Notícia](https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/)
+
+---
+
+### Zenk Space raises $26 million, targets June debut launch 
+**Fonte:** Space News
+
+
+KOUROU, French Guiana — China’s Zenk Space has secured 180 million yuan ahead of the planned June debut of its Zhihang-1 kerolox rocket, the company&#8217;s first orbital launch attempt....
+
+🔗 [Link da Notícia](https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/)
+
+---
+
+### Farming in Ancient Lake Agassiz
+**Fonte:** Nasa News
+
+The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/)
+
+---
+
+### Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft
+**Fonte:** Nasa News
+
+Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, which is the layered sulfate unit above the boxwork […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/)
+
+---
+
+### Johnson Photographers Honored for Award-Winning Portraits 
+**Fonte:** Nasa News
+
+Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.&#160; “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precisio...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/)
+
+---
+
+### NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
+**Fonte:** Nasa News
+
+In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothp...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/)
+
+---
+
+### NASA Selects Next Class of Space Health Postdoctoral Fellows
+**Fonte:** Nasa News
+
+The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approa...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/)
+
+---
+
+### Beacon of Light
+**Fonte:** Nasa News
+
+The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA&#8217;s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/beacon-of-light/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 18/05/2026 12:26
+# 🚀 Relatório da Agência Espacial - 19/05/2026 11:59
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Golden Dome chief pushes back on $1.2 trillion CBO estimate
-**Fonte:** Space News | **Categoria:** Defesa e Estratégia
+## 1. ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere
+**Fonte:** Space News | **Categoria:** Ciência e Cooperação Internacional
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da defesa orbital está em xeque. O comando do ambicioso projeto 'Golden Dome' rebateu publicamente as estimativas trilionárias para a implementação de interceptadores espaciais. Em um momento de tensão geopolítica, o debate agora foca no equilíbrio impossível: como garantir a soberania no espaço sem implodir o orçamento nacional? A defesa americana insiste que a infraestrutura é vital, mas admite que a acessibilidade financeira é o desafio final da nova fronteira militar.
+> História feita em Kourou: a missão SMILE, fruto de uma rara colaboração de mais de uma década entre a Agência Espacial Europeia e a China, acaba de chegar à órbita. Este é o primeiro passo para obtermos imagens globais inéditas da magnetosfera terrestre, um marco técnico e diplomático que promete revolucionar nossa compreensão sobre como a Terra se protege do vento solar.
 
-🔗 [Ler notícia completa](https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/)
+🔗 [Ler notícia completa](https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/)
 
 ---
 
-## 2. Voyager ‘very optimistic’ about Starlab amid potential NASA changes
+## 2. NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Marte acaba de surpreender a comunidade científica com um fenômeno atmosférico jamais visto. Dados da sonda MAVEN, da NASA, revelaram um efeito inesperado na interação entre o Sol e a atmosfera marciana, abrindo um novo capítulo crucial para entendermos a evolução climática do Planeta Vermelho e os desafios para a futura exploração humana.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/)
+
+---
+
+## 3. Tomorrow.io adds $35 million to DeepSky funding round
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A sucessão da Estação Espacial Internacional acaba de ganhar um novo capítulo de urgência. A Voyager Space reafirmou sua prontidão para o projeto Starlab, sinalizando que o setor privado pode ter que assumir as rédeas mais cedo do que o esperado caso a NASA altere seus planos de apoio. Com o fim da ISS no horizonte, a viabilidade das estações comerciais tornou-se o termômetro de sobrevivência para a economia da órbita baixa.
+> O setor privado espacial demonstra força máxima: a Tomorrow.io garantiu um novo aporte de 35 milhões de dólares, elevando seu financiamento total para impressionantes 210 milhões. O capital será injetado diretamente na aceleração de sua constelação de satélites meteorológicos de última geração, visando transformar a precisão da previsão climática global via radar.
 
-🔗 [Ler notícia completa](https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/)
+🔗 [Ler notícia completa](https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/)
 
 ---
 
-## 3. Bringing imagery and communications under one roof
+## 4. MDA Space continues work on Gateway robotic arm
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira entre observar a Terra e transmitir dados está desaparecendo. Uma nova arquitetura de constelações híbridas está integrando sistemas de imagem e comunicação direta sob o mesmo teto orbital. Essa inovação técnica promete acabar com o gargalo de latência, permitindo que a inteligência geoespacial seja processada e enviada para dispositivos terrestres em tempo real — uma mudança de paradigma para missões críticas e serviços de emergência.
+> A infraestrutura da futura estação lunar Gateway deu um passo decisivo. A MDA Space confirmou o progresso no desenvolvimento do braço robótico que será o coração logístico da estação na órbita da Lua. Essa peça-chave da arquitetura Artemis permitirá manutenções autônomas e suporte vital para os astronautas que farão da Lua sua nova base de operações.
 
-🔗 [Ler notícia completa](https://spacenews.com/bringing-imagery-and-communications-under-one-roof/)
-
----
-
-## 4. York Space defends growth strategy as SDA programs are reshaped
-**Fonte:** Space News | **Categoria:** Negócios
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Agitação nos bastidores do mercado de satélites militares: a York Space foi a público acalmar investidores e defender sua estratégia de expansão. Enquanto o Pentágono reorganiza a Space Development Agency — sua maior compradora —, a empresa enfrenta o desafio de escalar a produção em um ritmo nunca antes visto na indústria. É um teste de fogo para o modelo de 'produção em massa' de tecnologia espacial de ponta.
-
-🔗 [Ler notícia completa](https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/)
+🔗 [Ler notícia completa](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)
 
 ---
 
-## 5. Virgin Galactic reaffirms plans to begin commercial service this year
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 5. China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O turismo espacial de elite está pronto para o seu próximo grande salto. A Virgin Galactic confirmou que mantém o cronograma — técnica e financeiramente — para iniciar os voos comerciais de sua nova geração de espaçonaves suborbitais ainda este ano. Após anos de desenvolvimento e testes rigorosos, o mercado aguarda para ver se a cadência operacional prometida será capaz de transformar o espaço em um destino de negócios recorrente.
+> A China expande sua hegemonia em serviços orbitais com o lançamento bem-sucedido do satélite PRSC-EO3 para o Paquistão. Além de cumprir contratos internacionais, a missão colocou em órbita novos protótipos para testes de internet via satélite e monitoramento ambiental, reforçando a velocidade com que a infraestrutura digital está sendo reconstruída no espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/)
+🔗 [Ler notícia completa](https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/)
 
 ---
 
