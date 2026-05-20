@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/05/2026 11:58
+# 📥 Balde de Notícias Brutas - 20/05/2026 11:46
 
-Atualmente existem **187** notícias aguardando a curadoria do Editor.
+Atualmente existem **198** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -451,15 +451,6 @@ Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaw
 For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the&#160;University Leadership Initiative&#160;(ULI) is still flying high, making awards with the potential to change 21st century air travel.&#160; Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them [&#8230...
 
 🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/)
-
----
-
-### China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/)
 
 ---
 
@@ -1228,15 +1219,6 @@ NASA announced Friday that Brian Hughes will return to the agency as senior dire
 
 ---
 
-### MDA Space continues work on Gateway robotic arm
-**Fonte:** Space News
-
-MDA Space is continuing work on a robotic arm for the lunar Gateway while it discusses the future of the project with the Canadian Space Agency....
-
-🔗 [Link da Notícia](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)
-
----
-
 ### Space is having its internet moment. Investors should act accordingly.
 **Fonte:** Space News
 
@@ -1553,16 +1535,6 @@ WASHINGTON — The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s dep
 
 ---
 
-### ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere
-**Fonte:** Space News
-
-
-KOUROU, French Guiana — The SMILE mission developed jointly by the European Space Agency and China has reached orbit after more than a decade of preparations and cooperation....
-
-🔗 [Link da Notícia](https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/)
-
----
-
 ### European imaging companies step in to fill warzone gap
 **Fonte:** Space News
 
@@ -1590,16 +1562,6 @@ WASHINGTON — Astrolab’s first lunar rover will carry four NASA payloads on a
 WASHINGTON — Pentagon officials overseeing Golden Dome are trying to convince commercial space founders, venture investors and software companies that missile defense can be built more like a modern technology platform than a traditional weapons system....
 
 🔗 [Link da Notícia](https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/)
-
----
-
-### Tomorrow.io adds $35 million to DeepSky funding round
-**Fonte:** Space News
-
-
-TAMPA, Fla. — Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data....
-
-🔗 [Link da Notícia](https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/)
 
 ---
 
@@ -1669,15 +1631,6 @@ Three photographers at NASA’s Johnson Space Center who inspire the world throu
 
 ---
 
-### NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
-**Fonte:** Nasa News
-
-In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothp...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/)
-
----
-
 ### NASA Selects Next Class of Space Health Postdoctoral Fellows
 **Fonte:** Nasa News
 
@@ -1693,6 +1646,150 @@ The NASA-funded Translational Research Institute for Space Health (TRISH) has se
 The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA&#8217;s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/beacon-of-light/)
+
+---
+
+### Isaacman expects Chinese crewed mission around the moon in 2027
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/)
+
+---
+
+### SDA director Sandhoo takes on broader Space Force missile warning portfolio
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/)
+
+---
+
+### Startup challenging satellite industry’s multi-orbit playbook
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/)
+
+---
+
+### Portal Space taps Quindar for ground mission support of its maneuvering spacecraft
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/)
+
+---
+
+### Vast announces line of high-power satellite buses
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/)
+
+---
+
+### Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/)
+
+---
+
+### Fire Chars Santa Rosa Island
+**Fonte:** Nasa News
+
+The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/)
+
+---
+
+### NASA’s Psyche Mission Images Mars’ Huygens Crater
+**Fonte:** Nasa News
+
+Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near 15 degrees south latitude. The various colors in this dramatic scene are likely due to […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/)
+
+---
+
+### NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
+**Fonte:** Nasa News
+
+Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) long, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/)
+
+---
+
+### Psyche’s High-Resolution View of Mars’ South Pole
+**Fonte:** Nasa News
+
+Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The cap itself extends across more than 430 miles […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/)
+
+---
+
+### NASA’s Psyche Mission Sees Mars’ South Pole After Flyby
+**Fonte:** Nasa News
+
+Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mirror, the spacecraft will soon resume use of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/)
+
+---
+
+### NASA’s Psyche Mission Images the Crescent of Mars
+**Fonte:** Nasa News
+
+Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before it began to overfill the field of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/)
+
+---
+
+### NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
+**Fonte:** Nasa News
+
+NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/)
+
+---
+
+### Moon-Venus Conjunction
+**Fonte:** Nasa News
+
+The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington. The Moon and Venus look close together because they line up from our point of view on Earth. In reality, they are separated by millions of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/moon-venus-conjunction/)
+
+---
+
+### Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science
+**Fonte:** Nasa News
+
+NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/)
+
+---
+
+### NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind
+**Fonte:** Nasa News
+
+NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues....
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/)
 
 ---
 

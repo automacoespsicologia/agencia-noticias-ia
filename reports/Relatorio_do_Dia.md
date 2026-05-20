@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 19/05/2026 11:59
+# 🚀 Relatório da Agência Espacial - 20/05/2026 11:47
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere
-**Fonte:** Space News | **Categoria:** Ciência e Cooperação Internacional
+## 1. NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> História feita em Kourou: a missão SMILE, fruto de uma rara colaboração de mais de uma década entre a Agência Espacial Europeia e a China, acaba de chegar à órbita. Este é o primeiro passo para obtermos imagens globais inéditas da magnetosfera terrestre, um marco técnico e diplomático que promete revolucionar nossa compreensão sobre como a Terra se protege do vento solar.
+> A missão Psyche da NASA acaba de cravar um marco crítico na navegação interplanetária. Utilizando Marte como um estilingue gravitacional, a sonda passou a menos de 5 mil quilômetros da superfície do Planeta Vermelho para ganhar o impulso necessário rumo ao asteroide metálico. O sucesso da manobra não só poupou combustível precioso, como também rendeu imagens de altíssima resolução dos polos marcianos, validando uma nova era de missões de longa distância.
 
-🔗 [Ler notícia completa](https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/)
 
 ---
 
-## 2. NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Marte acaba de surpreender a comunidade científica com um fenômeno atmosférico jamais visto. Dados da sonda MAVEN, da NASA, revelaram um efeito inesperado na interação entre o Sol e a atmosfera marciana, abrindo um novo capítulo crucial para entendermos a evolução climática do Planeta Vermelho e os desafios para a futura exploração humana.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/)
-
----
-
-## 3. Tomorrow.io adds $35 million to DeepSky funding round
+## 2. AST SpaceMobile may use ULA’s Vulcan
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O setor privado espacial demonstra força máxima: a Tomorrow.io garantiu um novo aporte de 35 milhões de dólares, elevando seu financiamento total para impressionantes 210 milhões. O capital será injetado diretamente na aceleração de sua constelação de satélites meteorológicos de última geração, visando transformar a precisão da previsão climática global via radar.
+> A disputa pela conectividade direta entre satélites e smartphones acaba de ganhar um novo capítulo de peso. A AST SpaceMobile está em negociações para utilizar o foguete Vulcan, da ULA, no lançamento de sua constelação de banda larga. O movimento sinaliza uma mudança estratégica para lançadores de carga pesada, evidenciando que a escala industrial da internet espacial superou a capacidade dos foguetes de pequeno porte.
 
-🔗 [Ler notícia completa](https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/)
+🔗 [Ler notícia completa](https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/)
 
 ---
 
-## 4. MDA Space continues work on Gateway robotic arm
+## 3. Vast announces line of high-power satellite buses
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A infraestrutura da futura estação lunar Gateway deu um passo decisivo. A MDA Space confirmou o progresso no desenvolvimento do braço robótico que será o coração logístico da estação na órbita da Lua. Essa peça-chave da arquitetura Artemis permitirá manutenções autônomas e suporte vital para os astronautas que farão da Lua sua nova base de operações.
+> A startup Vast, que planeja as primeiras estações espaciais comerciais com gravidade artificial, revelou hoje sua nova linha de 'ônibus espaciais' de alta potência. Projetados para sustentar uma economia de órbita para órbita, esses sistemas oferecem uma capacidade energética sem precedentes, servindo como a espinha dorsal para futuras infraestruturas que precisam de manobrabilidade e força bruta no vácuo.
 
-🔗 [Ler notícia completa](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)
+🔗 [Ler notícia completa](https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/)
 
 ---
 
-## 5. China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 4. European imaging companies step in to fill warzone gap
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China expande sua hegemonia em serviços orbitais com o lançamento bem-sucedido do satélite PRSC-EO3 para o Paquistão. Além de cumprir contratos internacionais, a missão colocou em órbita novos protótipos para testes de internet via satélite e monitoramento ambiental, reforçando a velocidade com que a infraestrutura digital está sendo reconstruída no espaço.
+> O tabuleiro geopolítico da observação terrestre está mudando. Com as empresas de imagens dos Estados Unidos restringindo dados sobre zonas críticas de conflito no Golfo, gigantes europeus de sensoriamento remoto estão ocupando o vácuo. Esse reposicionamento comercial destaca como a soberania de dados espaciais tornou-se a nova moeda de troca em tempos de crise global.
 
-🔗 [Ler notícia completa](https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/)
+🔗 [Ler notícia completa](https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/)
+
+---
+
+## 5. Beacon of Light
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O Telescópio James Webb revelou o coração pulsante da galáxia M77 em detalhes nunca antes vistos. A nova imagem captura o momento exato em que gases são acelerados a velocidades extremas antes de serem devorados pelo buraco negro supermassivo central. É a ciência de ponta validando modelos físicos complexos e nos dando um assento na primeira fila para observar os processos mais violentos da evolução galáctica.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/beacon-of-light/)
 
 ---
 
