@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/05/2026 11:46
+# 📥 Balde de Notícias Brutas - 21/05/2026 12:11
 
-Atualmente existem **198** notícias aguardando a curadoria do Editor.
+Atualmente existem **203** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1444,15 +1444,6 @@ Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding....
 
 ---
 
-### AST SpaceMobile may use ULA’s Vulcan
-**Fonte:** Space News
-
-AST SpaceMobile may launch some of its direct-to-device satellites on United Launch Alliance’s Vulcan rocket to expand the launch options for its constellation....
-
-🔗 [Link da Notícia](https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/)
-
----
-
 ### House appropriators approve spending bill that keeps NASA budget flat
 **Fonte:** Space News
 
@@ -1532,16 +1523,6 @@ This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright
 WASHINGTON — The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency....
 
 🔗 [Link da Notícia](https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/)
-
----
-
-### European imaging companies step in to fill warzone gap
-**Fonte:** Space News
-
-
-MILAN – As U.S. satellite imagery companies have pulled back from sharing visuals of Iran and the broader area around the Gulf conflict, European Earth-observation firms are moving to fill the vacuum....
-
-🔗 [Link da Notícia](https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/)
 
 ---
 
@@ -1640,15 +1621,6 @@ The NASA-funded Translational Research Institute for Space Health (TRISH) has se
 
 ---
 
-### Beacon of Light
-**Fonte:** Nasa News
-
-The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA&#8217;s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/beacon-of-light/)
-
----
-
 ### Isaacman expects Chinese crewed mission around the moon in 2027
 **Fonte:** Space News
 
@@ -1682,15 +1654,6 @@ The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA&#82
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/)
-
----
-
-### Vast announces line of high-power satellite buses
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/)
 
 ---
 
@@ -1757,15 +1720,6 @@ Description This view of a crescent Mars was captured on May 15, 2026, at about 
 
 ---
 
-### NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
-**Fonte:** Nasa News
-
-NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/)
-
----
-
 ### Moon-Venus Conjunction
 **Fonte:** Nasa News
 
@@ -1790,6 +1744,96 @@ NASA’s Artemis II crew had many technical and operational responsibilities dur
 NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues....
 
 🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/)
+
+---
+
+### Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition
+**Fonte:** Nasa News
+
+Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future. That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/)
+
+---
+
+### New Eruption in the Bismarck Sea
+**Fonte:** Nasa News
+
+Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/)
+
+---
+
+### NASA Announces Winners in University Aeronautics Competition
+**Fonte:** Nasa News
+
+The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could &#160;advance commercial a...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/)
+
+---
+
+### La NASA informará sobre su estrategia y misiones para la Base Lunar
+**Fonte:** Nasa News
+
+Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/)
+
+---
+
+### NASA TechLeap Prize: Robotically Manipulated Payload Challenge
+**Fonte:** Nasa News
+
+The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing.&#160;NASA Flight Opportunities&#160;invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/)
+
+---
+
+### Psyche Spacecraft Completes Mars Flyby
+**Fonte:** Nasa News
+
+NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche&#8217;s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands. This flyby [&#8230...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/)
+
+---
+
+### NASA-developed AI Could Help Track Harmful Algae
+**Fonte:** Nasa News
+
+NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/)
+
+---
+
+### NASA to Provide Update on Moon Base Strategy, Missions
+**Fonte:** Nasa News
+
+NASA will host a news conference at 2 p.m. EDT, Tuesday, May 26, to share Moon Base plans and highlight progress toward a sustained presence on the lunar surface. The media briefing will take place at the agency’s Headquarters in Washington. Leadership will discuss program progress, including new industry partners and mission plans. Subject matter [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/)
+
+---
+
+### NASA Releases Technology Priorities to Energize Space Industry
+**Fonte:** Nasa News
+
+NASA released the 2026 Civil Space Shortfall&#160;Ranking&#160;list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia.&#160;Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/)
+
+---
+
+### I Am Artemis: Tim Goddard
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/)
 
 ---
 
