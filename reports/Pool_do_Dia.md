@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/05/2026 12:11
+# 📥 Balde de Notícias Brutas - 22/05/2026 11:42
 
-Atualmente existem **203** notícias aguardando a curadoria do Editor.
+Atualmente existem **207** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1556,15 +1556,6 @@ WASHINGTON — A House appropriations bill would reverse plans by the administra
 
 ---
 
-### New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/)
-
----
-
 ### The next war will be won — or lost — in orbit
 **Fonte:** Space News
 
@@ -1618,15 +1609,6 @@ Three photographers at NASA’s Johnson Space Center who inspire the world throu
 The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approa...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/)
-
----
-
-### Isaacman expects Chinese crewed mission around the moon in 2027
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/)
 
 ---
 
@@ -1792,33 +1774,6 @@ The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap
 
 ---
 
-### Psyche Spacecraft Completes Mars Flyby
-**Fonte:** Nasa News
-
-NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche&#8217;s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands. This flyby [&#8230...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/)
-
----
-
-### NASA-developed AI Could Help Track Harmful Algae
-**Fonte:** Nasa News
-
-NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/)
-
----
-
-### NASA to Provide Update on Moon Base Strategy, Missions
-**Fonte:** Nasa News
-
-NASA will host a news conference at 2 p.m. EDT, Tuesday, May 26, to share Moon Base plans and highlight progress toward a sustained presence on the lunar surface. The media briefing will take place at the agency’s Headquarters in Washington. Leadership will discuss program progress, including new industry partners and mission plans. Subject matter [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/)
-
----
-
 ### NASA Releases Technology Priorities to Energize Space Industry
 **Fonte:** Nasa News
 
@@ -1834,6 +1789,87 @@ NASA released the 2026 Civil Space Shortfall&#160;Ranking&#160;list on Wednesday
 Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/)
+
+---
+
+### Tornado Draws a Jagged Line in Mississippi
+**Fonte:** Nasa News
+
+The strongest of several twisters to touch down in the southern part of the state in early May 2026 left a visible path of damaged vegetation....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/)
+
+---
+
+### NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
+**Fonte:** Nasa News
+
+Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/)
+
+---
+
+### NASA Joins Artemis Accords Workshop as Global Signings Rise
+**Fonte:** Nasa News
+
+The United States participated in an Artemis Accords workshop in Lima, Peru, last week, following a new wave of nations committing to safe and responsible exploration of the Moon, Mars, and beyond. Leading up to the event, six countries, including Latvia, Jordan, Morocco, Malta, Ireland, and Paraguay, joined the growing coalition of Artemis Accords signatories [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/)
+
+---
+
+### NASA Seeks Interest for Artemis Mission CubeSats
+**Fonte:** Nasa News
+
+Organizations interested in launching CubeSats&#160;on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration. “The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and technology investigations that contribute to the expansion of human space exploration...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/)
+
+---
+
+### NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
+**Fonte:** Nasa News
+
+On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission. Installed on the exterior of the International Space Station since November 2023, AWE studied atmospheric gravity waves, which are giant ripples in the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/)
+
+---
+
+### NASA Wins Four Telly Awards for Artemis Moon Coverage, More
+**Fonte:** Nasa News
+
+NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/)
+
+---
+
+### Hubble Sights Galaxy in Transition
+**Fonte:** Nasa News
+
+This NASA&#160;Hubble Space Telescope&#160;image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/)
+
+---
+
+### NASA Welcomes 16th Deputy Administrator Matt Anderson
+**Fonte:** Nasa News
+
+Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington. As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/)
+
+---
+
+### NASA Highlights 2025 International Space Station Science Results
+**Fonte:** Nasa News
+
+To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/)
 
 ---
 
