@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/05/2026 11:42
+# 📥 Balde de Notícias Brutas - 23/05/2026 10:24
 
-Atualmente existem **207** notícias aguardando a curadoria do Editor.
+Atualmente existem **220** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1536,16 +1536,6 @@ WASHINGTON — Astrolab’s first lunar rover will carry four NASA payloads on a
 
 ---
 
-### Inside Golden Dome’s push to court commercial tech firms and investors
-**Fonte:** Space News
-
-
-WASHINGTON — Pentagon officials overseeing Golden Dome are trying to convince commercial space founders, venture investors and software companies that missile defense can be built more like a modern technology platform than a traditional weapons system....
-
-🔗 [Link da Notícia](https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/)
-
----
-
 ### House bill restores funding for TraCSS
 **Fonte:** Space News
 
@@ -1684,15 +1674,6 @@ Description This is the highest-resolution view of the water ice-rich south pola
 
 ---
 
-### NASA’s Psyche Mission Sees Mars’ South Pole After Flyby
-**Fonte:** Nasa News
-
-Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mirror, the spacecraft will soon resume use of […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/)
-
----
-
 ### NASA’s Psyche Mission Images the Crescent of Mars
 **Fonte:** Nasa News
 
@@ -1801,24 +1782,6 @@ The strongest of several twisters to touch down in the southern part of the stat
 
 ---
 
-### NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
-**Fonte:** Nasa News
-
-Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/)
-
----
-
-### NASA Joins Artemis Accords Workshop as Global Signings Rise
-**Fonte:** Nasa News
-
-The United States participated in an Artemis Accords workshop in Lima, Peru, last week, following a new wave of nations committing to safe and responsible exploration of the Moon, Mars, and beyond. Leading up to the event, six countries, including Latvia, Jordan, Morocco, Malta, Ireland, and Paraguay, joined the growing coalition of Artemis Accords signatories [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/)
-
----
-
 ### NASA Seeks Interest for Artemis Mission CubeSats
 **Fonte:** Nasa News
 
@@ -1855,21 +1818,174 @@ This NASA&#160;Hubble Space Telescope&#160;image reveals an enigmatic galaxy wit
 
 ---
 
-### NASA Welcomes 16th Deputy Administrator Matt Anderson
-**Fonte:** Nasa News
-
-Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington. As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/)
-
----
-
 ### NASA Highlights 2025 International Space Station Science Results
 **Fonte:** Nasa News
 
 To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/)
+
+---
+
+### Blue Origin completes investigation into New Glenn launch failure
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/)
+
+---
+
+### SpaceX launches first Starship V3
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-launches-first-starship-v3/)
+
+---
+
+### Space Force awards Viasat, SES $437 million for military satellite network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/)
+
+---
+
+### NASA unveils sweeping reorganization
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-unveils-sweeping-reorganization/)
+
+---
+
+### Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/leveraging-aukus-and-southern-geography-building-australias-dual-use-space-infrastructure-for-strategic-resilience/)
+
+---
+
+### SpaceX IPO filing casts Starlink Mobile as future wireless challenger
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/)
+
+---
+
+### Rocket Lab launches ninth Synspective satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/)
+
+---
+
+### Rocket Lab wins first GEO satellite production contract from U.S. Space Force
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-wins-first-geo-satellite-production-contract-from-u-s-space-force/)
+
+---
+
+### Ground equipment problem scrubs Starship launch attempt
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/)
+
+---
+
+### Sixth Varda mission successfully returns
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sixth-varda-mission-successfully-returns/)
+
+---
+
+### Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
+**Fonte:** Nasa News
+
+As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/)
+
+---
+
+### NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
+**Fonte:** Nasa News
+
+NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonauts conduct a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 10:15 a.m. EDT and last roughly five hours. Watch NASA’s live coverage beginning at 9:45 a.m. on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/)
+
+---
+
+### Webb Studies Star Clusters
+**Fonte:** Nasa News
+
+This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA&#8217;s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-studies-star-clusters/)
+
+---
+
+### Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
+**Fonte:** Nasa News
+
+From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/)
+
+---
+
+### NASA to Compete Contract for Jet Propulsion Laboratory Management
+**Fonte:** Nasa News
+
+NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
+
+---
+
+### NASA Announces Realignment to Accelerate Mission Delivery
+**Fonte:** Nasa News
+
+Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/)
+
+---
+
+### New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources
+**Fonte:** Nasa News
+
+A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar resources, including melting Moon rocks to extract metals for building infrastructure and oxygen for fuel and life support. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/new-material-melt-moon-rocks/)
+
+---
+
+### Hubble Captures Galaxy Cluster
+**Fonte:** Nasa News
+
+Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/)
 
 ---
 
