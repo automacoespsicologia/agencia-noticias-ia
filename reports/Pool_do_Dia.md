@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/05/2026 10:24
+# 📥 Balde de Notícias Brutas - 24/05/2026 10:27
 
-Atualmente existem **220** notícias aguardando a curadoria do Editor.
+Atualmente existem **216** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1674,15 +1674,6 @@ Description This is the highest-resolution view of the water ice-rich south pola
 
 ---
 
-### NASA’s Psyche Mission Images the Crescent of Mars
-**Fonte:** Nasa News
-
-Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before it began to overfill the field of […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/)
-
----
-
 ### Moon-Venus Conjunction
 **Fonte:** Nasa News
 
@@ -1836,15 +1827,6 @@ To dive deeper into the International Space Station research achievements from t
 
 ---
 
-### SpaceX launches first Starship V3
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-launches-first-starship-v3/)
-
----
-
 ### Space Force awards Viasat, SES $437 million for military satellite network
 **Fonte:** Space News
 
@@ -1872,30 +1854,12 @@ To dive deeper into the International Space Station research achievements from t
 
 ---
 
-### SpaceX IPO filing casts Starlink Mobile as future wireless challenger
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/)
-
----
-
 ### Rocket Lab launches ninth Synspective satellite
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/)
-
----
-
-### Rocket Lab wins first GEO satellite production contract from U.S. Space Force
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-wins-first-geo-satellite-production-contract-from-u-s-space-force/)
 
 ---
 
@@ -1971,21 +1935,21 @@ Editor’s Note: This advisory was updated May 22, 2026 to include a retirement.
 
 ---
 
-### New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources
-**Fonte:** Nasa News
-
-A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar resources, including melting Moon rocks to extract metals for building infrastructure and oxygen for fuel and life support. [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/new-material-melt-moon-rocks/)
-
----
-
 ### Hubble Captures Galaxy Cluster
 **Fonte:** Nasa News
 
 Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/)
+
+---
+
+### NASA to add missions to SpaceX commercial crew contract
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/)
 
 ---
 
