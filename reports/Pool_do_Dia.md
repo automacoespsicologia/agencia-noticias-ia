@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/05/2026 10:27
+# 📥 Balde de Notícias Brutas - 25/05/2026 12:25
 
-Atualmente existem **216** notícias aguardando a curadoria do Editor.
+Atualmente existem **211** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1818,24 +1818,6 @@ To dive deeper into the International Space Station research achievements from t
 
 ---
 
-### Blue Origin completes investigation into New Glenn launch failure
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/)
-
----
-
-### Space Force awards Viasat, SES $437 million for military satellite network
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/)
-
----
-
 ### NASA unveils sweeping reorganization
 **Fonte:** Space News
 
@@ -1860,24 +1842,6 @@ To dive deeper into the International Space Station research achievements from t
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/)
-
----
-
-### Ground equipment problem scrubs Starship launch attempt
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/)
-
----
-
-### Sixth Varda mission successfully returns
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/sixth-varda-mission-successfully-returns/)
 
 ---
 
@@ -1923,15 +1887,6 @@ From high‑speed research flights to high‑altitude science campaigns, NASA de
 NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
-
----
-
-### NASA Announces Realignment to Accelerate Mission Delivery
-**Fonte:** Nasa News
-
-Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/)
 
 ---
 

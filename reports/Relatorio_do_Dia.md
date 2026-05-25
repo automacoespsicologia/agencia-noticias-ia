@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 24/05/2026 10:28
+# 🚀 Relatório da Agência Espacial - 25/05/2026 12:25
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Blue Origin completes investigation into New Glenn launch failure
-**Fonte:** Space News | **Categoria:** Mercado
+## 1. NASA unveils sweeping reorganization
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho para o aguardado voo orbital do New Glenn está finalmente mais claro. A Blue Origin encerrou a investigação sobre a falha recente em seus testes, removendo um dos últimos obstáculos técnicos para que o gigante de Jeff Bezos possa desafiar a hegemonia da SpaceX no setor de lançamentos pesados.
+> Uma nova era para a exploração espacial começa agora. A NASA acaba de anunciar uma reorganização estrutural profunda, a maior em décadas, redesenhando suas diretorias para acelerar as missões Artemis e a integração com o setor privado. É o tabuleiro do poder espacial sendo redesenhado diretamente de Washington para o cosmos.
 
-🔗 [Ler notícia completa](https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-unveils-sweeping-reorganization/)
 
 ---
 
-## 2. Ground equipment problem scrubs Starship launch attempt
+## 2. Four NASA payloads to fly on Astrolab’s first lunar rover
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Tensão na Starbase: a SpaceX interrompeu a contagem regressiva para o décimo segundo voo de teste da Starship. Um problema detectado nos sistemas de solo forçou o adiamento, reforçando o nível de precisão extrema exigido para operar o foguete mais potente do mundo antes de seu próximo salto histórico rumo à Lua.
+> A logística lunar deu um salto comercial definitivo. Quatro cargas úteis da NASA já têm assento confirmado no primeiro rover da Astrolab, com lançamento previsto ainda para este ano. É a prova de que a superfície da Lua não é mais exclusividade de governos, mas um novo mercado aberto para robótica de alta performance.
 
-🔗 [Ler notícia completa](https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/)
+🔗 [Ler notícia completa](https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/)
 
 ---
 
-## 3. Space Force awards Viasat, SES $437 million for military satellite network
-**Fonte:** Space News | **Categoria:** Negócios
+## 3. NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Pentágono está fortalecendo sua infraestrutura orbital com um investimento pesado. A Força Espacial dos Estados Unidos concedeu um contrato de 437 milhões de dólares às gigantes Viasat e SES para blindar a rede de satélites militares, garantindo comunicações resilientes e de alta velocidade em cenários de defesa estratégica.
+> Enquanto viaja rumo ao seu asteroide de metal, a sonda Psyche resolveu dar um show em Marte. Durante uma manobra de assistência gravitacional, a espaçonave capturou imagens de alta resolução que revelam detalhes inéditos sobre a dinâmica dos ventos e crateras marcianas. Ciência pura em pleno movimento interplanetário.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/)
-
----
-
-## 4. Sixth Varda mission successfully returns
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A manufatura espacial acaba de provar sua viabilidade mais uma vez. A sexta missão da startup Varda Space retornou à Terra com sucesso, consolidando a técnica de processamento de materiais em microgravidade como o novo padrão para a produção industrial de ponta fora do nosso planeta.
-
-🔗 [Ler notícia completa](https://spacenews.com/sixth-varda-mission-successfully-returns/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/)
 
 ---
 
-## 5. NASA Announces Realignment to Accelerate Mission Delivery
+## 4. NASA to Compete Contract for Jet Propulsion Laboratory Management
 **Fonte:** Nasa News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA anunciou uma reorganização estrutural profunda para acelerar o ritmo das missões Artemis e Mars. Esta mudança estratégica visa reduzir a burocracia interna e alinhar a agência às prioridades da política espacial nacional, sinalizando uma era de entregas mais ágeis na exploração do espaço profundo.
+> O gerenciamento de um dos laboratórios mais icônicos da humanidade está em disputa. A NASA confirmou que abrirá concorrência para o novo contrato de gestão do JPL, o Jet Propulsion Laboratory. Uma movimentação de mercado colossal que pode redefinir como a ciência robótica de elite será administrada nos próximos anos.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
+
+---
+
+## 5. NASA Releases Technology Priorities to Energize Space Industry
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O roteiro para a próxima década de inovações acaba de ser publicado. A NASA liberou o ranking oficial de 'lacunas tecnológicas' para 2026, mapeando mais de 400 áreas que precisam de soluções urgentes da indústria e academia. Para as startups do setor, este é, literalmente, o mapa do tesouro para investimentos e desenvolvimento.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/)
 
 ---
 
