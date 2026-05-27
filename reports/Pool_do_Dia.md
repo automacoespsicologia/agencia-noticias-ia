@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/05/2026 12:25
+# 📥 Balde de Notícias Brutas - 27/05/2026 12:16
 
-Atualmente existem **211** notícias aguardando a curadoria do Editor.
+Atualmente existem **225** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1526,16 +1526,6 @@ WASHINGTON — The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s dep
 
 ---
 
-### Four NASA payloads to fly on Astrolab’s first lunar rover
-**Fonte:** Space News
-
-
-WASHINGTON — Astrolab’s first lunar rover will carry four NASA payloads on a mission planned to launch later this year....
-
-🔗 [Link da Notícia](https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/)
-
----
-
 ### House bill restores funding for TraCSS
 **Fonte:** Space News
 
@@ -1656,15 +1646,6 @@ Description Captured by the multispectral imager instrument on NASA’s Psyche m
 
 ---
 
-### NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
-**Fonte:** Nasa News
-
-Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) long, […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/)
-
----
-
 ### Psyche’s High-Resolution View of Mars’ South Pole
 **Fonte:** Nasa News
 
@@ -1746,15 +1727,6 @@ The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap
 
 ---
 
-### NASA Releases Technology Priorities to Energize Space Industry
-**Fonte:** Nasa News
-
-NASA released the 2026 Civil Space Shortfall&#160;Ranking&#160;list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia.&#160;Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/)
-
----
-
 ### I Am Artemis: Tim Goddard
 **Fonte:** Nasa News
 
@@ -1818,15 +1790,6 @@ To dive deeper into the International Space Station research achievements from t
 
 ---
 
-### NASA unveils sweeping reorganization
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-unveils-sweeping-reorganization/)
-
----
-
 ### Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience 
 **Fonte:** Space News
 
@@ -1881,15 +1844,6 @@ From high‑speed research flights to high‑altitude science campaigns, NASA de
 
 ---
 
-### NASA to Compete Contract for Jet Propulsion Laboratory Management
-**Fonte:** Nasa News
-
-NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
-
----
-
 ### Hubble Captures Galaxy Cluster
 **Fonte:** Nasa News
 
@@ -1905,6 +1859,177 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/)
+
+---
+
+### World’s smallest deployable operational optical ground station proves capability in successful trials
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/)
+
+---
+
+### European space industry watching SpaceX IPO plans
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/)
+
+---
+
+### Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/)
+
+---
+
+### SpaceX wins $2.29 billion Space Force contract for military data network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/)
+
+---
+
+### NASA selects four companies for initial moon base awards
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/)
+
+---
+
+### Open Cosmos’ CEO on what it takes to bring IoT to space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/)
+
+---
+
+### Starcloud orders Starlink lasers for orbital data center network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/)
+
+---
+
+### The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/)
+
+---
+
+### Voyager wins DARPA contract for solid rocket propellant technology
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/)
+
+---
+
+### Regulations and access to capital continue to hinder Europe’s smallsat industry
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/)
+
+---
+
+### Ever Restless Mount Dukono Erupts
+**Fonte:** Nasa News
+
+The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/)
+
+---
+
+### NASA to Announce Artemis III Crew, Provide Mission Progress Update
+**Fonte:** Nasa News
+
+NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency’s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency’s YouTube channel. Learn how to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/)
+
+---
+
+### NASA Astronauts to Answer Questions from Students in New York
+**Fonte:** Nasa News
+
+Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/)
+
+---
+
+### NASA Provides Update on Moon Base Rovers, Landers, Missions
+**Fonte:** Nasa News
+
+During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch timeframes and upcoming milestones for the first Moon Base infrastructure and exploration missions to the lunar South Pole [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/)
+
+---
+
+### Chennai City Lights
+**Fonte:** Nasa News
+
+Chennai, on India&#8217;s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station. Earth observations from the space station let us see how our planet [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/chennai-city-lights/)
+
+---
+
+### New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
+**Fonte:** Nasa News
+
+The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe. ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/)
+
+---
+
+### A Full Moon Checkup
+**Fonte:** Nasa News
+
+Once a month during the full Moon, Landsat 9 turns from Earth to image the lunar surface, helping keep the spacecraft’s data accurate and consistent....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-full-moon-checkup/)
+
+---
+
+### Jaclyn Kagey Shapes Humanity’s Return to the Moon 
+**Fonte:** Nasa News
+
+For Jaclyn Kagey,&#160;preparing&#160;astronauts&#160;to&#160;put boots on the Moon is part of her daily work.&#160; As the Artemis&#160;extravehicular&#160;activity&#160;lead in NASA’s Flight Operations Directorate, Kagey plays&#160;a central role&#160;in preparing astronauts&#160;to&#160;safely&#160;explore the lunar surface.&#160; During&#160;Artemis&#160;missions, astronauts will explore the M...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/)
+
+---
+
+### An Early “Decoration Day” Celebration
+**Fonte:** Nasa News
+
+In a precursor to Memorial Day, people in Charleston, South Carolina, honored fallen Civil War troops with flowers, songs, and marches at an event at a racetrack on May 1, 1865....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-early-decoration-day-celebration/)
 
 ---
 
