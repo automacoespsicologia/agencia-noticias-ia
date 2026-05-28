@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/05/2026 12:16
+# 📥 Balde de Notícias Brutas - 28/05/2026 12:22
 
-Atualmente existem **225** notícias aguardando a curadoria do Editor.
+Atualmente existem **240** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1546,16 +1546,6 @@ We in the West have learned many things from the conflict in Ukraine. Four years
 
 ---
 
-### Zenk Space raises $26 million, targets June debut launch 
-**Fonte:** Space News
-
-
-KOUROU, French Guiana — China’s Zenk Space has secured 180 million yuan ahead of the planned June debut of its Zhihang-1 kerolox rocket, the company&#8217;s first orbital launch attempt....
-
-🔗 [Link da Notícia](https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/)
-
----
-
 ### Farming in Ancient Lake Agassiz
 **Fonte:** Nasa News
 
@@ -1862,15 +1852,6 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 
 ---
 
-### World’s smallest deployable operational optical ground station proves capability in successful trials
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/)
-
----
-
 ### European space industry watching SpaceX IPO plans
 **Fonte:** Space News
 
@@ -1889,39 +1870,12 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 
 ---
 
-### SpaceX wins $2.29 billion Space Force contract for military data network
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/)
-
----
-
-### NASA selects four companies for initial moon base awards
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/)
-
----
-
 ### Open Cosmos’ CEO on what it takes to bring IoT to space
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/)
-
----
-
-### Starcloud orders Starlink lasers for orbital data center network
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/)
 
 ---
 
@@ -2030,6 +1984,186 @@ For Jaclyn Kagey,&#160;preparing&#160;astronauts&#160;to&#160;put boots on the M
 In a precursor to Memorial Day, people in Charleston, South Carolina, honored fallen Civil War troops with flowers, songs, and marches at an event at a racetrack on May 1, 1865....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-early-decoration-day-celebration/)
+
+---
+
+### Europe’s biggest space opportunity comes after launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/)
+
+---
+
+### Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/)
+
+---
+
+### FAA requires mishap investigation into latest Starship launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/)
+
+---
+
+### House Armed Services draft bill eliminates SDA, Space RCO as separate entities
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/)
+
+---
+
+### Mars to Titan: the next rallying call?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/mars-to-titan-the-next-rallying-call/)
+
+---
+
+### European space industry warns EU Space Act could slow competitiveness
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/)
+
+---
+
+### As geopolitics reshape space, SpinLaunch sees an opening
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/)
+
+---
+
+### Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/)
+
+---
+
+### Former Ukraine official calls for stricter restrictions on Russian use of Starlink
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/)
+
+---
+
+### Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/)
+
+---
+
+### A Shift in What’s Shaping U.S. Landscapes
+**Fonte:** Nasa News
+
+Wild disturbances are on the rise, while land disturbed by human activity has been decreasing....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/)
+
+---
+
+### NASA Develops Sensor to Improve Firefighter Safety
+**Fonte:** Nasa News
+
+With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/)
+
+---
+
+### Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
+**Fonte:** Nasa News
+
+The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/)
+
+---
+
+### La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
+**Fonte:** Nasa News
+
+Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/)
+
+---
+
+### Girl Scouts Event Brings Space Science to the Next Generation
+**Fonte:** Nasa News
+
+In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments....
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/)
+
+---
+
+### La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
+**Fonte:** Nasa News
+
+La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/)
+
+---
+
+### Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge
+**Fonte:** Nasa News
+
+Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while [&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/)
+
+---
+
+### NASA-European Sea Level Mission Homes in on El Niño
+**Fonte:** Nasa News
+
+Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/)
+
+---
+
+### Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
+**Fonte:** Nasa News
+
+Learn how to use the Satellite Data Explorer to search, access, and task commercial Earth Observation data....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/)
+
+---
+
+### NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy
+**Fonte:** Nasa News
+
+Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/)
 
 ---
 

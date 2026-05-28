@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 27/05/2026 12:17
+# 🚀 Relatório da Agência Espacial - 28/05/2026 12:23
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceX wins $2.29 billion Space Force contract for military data network
+## 1. NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O telescópio James Webb acaba de abalar os pilares da cosmologia. Novos dados revelam um buraco negro supermassivo que se formou antes de sua própria galáxia hospedeira, desafiando a teoria clássica de que as galáxias precisariam nascer primeiro para então abrigar esses gigantes no centro.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/)
+
+---
+
+## 2. NASA Provides Update on Moon Base Rovers, Landers, Missions
+**Fonte:** Nasa News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A infraestrutura para a permanência humana na Lua ganha corpo com novos contratos bilionários. A NASA oficializou a seleção de empresas para o desenvolvimento de rovers tripulados e módulos de pouso de carga pesada, definindo quem serão os pilares logísticos da futura Base Lunar Artemis.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/)
+
+---
+
+## 3. NASA to add missions to SpaceX commercial crew contract
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX acaba de consolidar sua dominância absoluta na infraestrutura de defesa. A empresa de Elon Musk abocanhou um contrato colossal de 2,29 bilhões de dólares com a Força Espacial dos Estados Unidos para construir uma rede de dados militar em órbita. O movimento não apenas reforça o caixa da companhia, mas coloca a tecnologia de satélites comerciais no coração da segurança nacional norte-americana.
+> A SpaceX consolida seu domínio absoluto no transporte espacial humano. A NASA anunciou a expansão do contrato de tripulações comerciais com a empresa de Elon Musk, adicionando missões extras que garantem a continuidade operacional da Estação Espacial Internacional em um cenário de crescente demanda.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/)
-
----
-
-## 2. NASA selects four companies for initial moon base awards
-**Fonte:** Space News | **Categoria:** Inovação e Exploração
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O sonho da presença permanente na Lua acaba de ganhar contornos reais. A NASA selecionou oficialmente as quatro empresas que darão o pontapé inicial na construção da Base Lunar. Os contratos focam no desenvolvimento de rovers tripulados e sistemas de pouso para cargas pesadas, sinalizando que a agência mudou a marcha: o objetivo agora não é apenas visitar, mas estabelecer uma economia sustentada no solo lunar.
-
-🔗 [Ler notícia completa](https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/)
 
 ---
 
-## 3. Starcloud orders Starlink lasers for orbital data center network
-**Fonte:** Space News | **Categoria:** Tecnologia
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Estamos presenciando o nascimento dos data centers orbitais. A Starcloud fechou uma parceria estratégica para utilizar os lasers de comunicação da Starlink em sua rede de processamento de dados no espaço. Essa tecnologia de links ópticos permite que informações sejam processadas e compartilhadas entre satélites em velocidades luz, eliminando a dependência constante de estações terrestres e inaugurando a era da computação em nuvem fora da Terra.
-
-🔗 [Ler notícia completa](https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/)
-
----
-
-## 4. World’s smallest deployable operational optical ground station proves capability in successful trials
+## 4. Odin Space opens U.S. office in Los Angeles
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A barreira das comunicações espaciais lentas acaba de ser quebrada por um dispositivo que cabe em qualquer lugar. Testes bem-sucedidos com a menor estação terrestre óptica do mundo provaram que é possível transmitir volumes massivos de dados usando lasers em vez de ondas de rádio. Compacta e implantável, essa inovação técnica promete resolver o maior gargalo da inteligência geoespacial moderna: a velocidade de download de satélites de alta resolução.
+> O combate ao lixo espacial ganha uma tecnologia de precisão inédita. A startup Odin Space está instalando sua sede em Los Angeles para expandir um sistema capaz de rastrear detritos subcentimétricos em órbita — ameaças invisíveis que podem causar danos catastróficos, mas que até agora eram impossíveis de monitorar.
 
-🔗 [Ler notícia completa](https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/)
+🔗 [Ler notícia completa](https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/)
 
 ---
 
-## 5. Zenk Space raises $26 million, targets June debut launch 
-**Fonte:** Space News | **Categoria:** Mercado Internacional
+## 5. Psyche’s High-Resolution View of Mars’ South Pole
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China acelera o passo na corrida espacial privada. A startup Zenk Space captou 26 milhões de dólares e confirmou para junho o lançamento inaugural de seu foguete orbital movido a querosene e oxigênio líquido. O avanço da Zenk mostra que o ecossistema comercial chinês está amadurecendo rapidamente, desafiando o monopólio ocidental em lançamentos de baixo custo e alta eficiência.
+> Em um bônus científico inesperado, a missão Psyche capturou as imagens de maior resolução já registradas do polo sul de Marte. Durante uma manobra de assistência gravitacional, a sonda revelou detalhes minuciosos da calota de gelo hídrico do planeta, fornecendo dados valiosos para o planejamento de futuras missões tripuladas.
 
-🔗 [Ler notícia completa](https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/)
 
 ---
 
