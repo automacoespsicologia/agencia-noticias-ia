@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/05/2026 12:22
+# 📥 Balde de Notícias Brutas - 29/05/2026 12:11
 
-Atualmente existem **240** notícias aguardando a curadoria do Editor.
+Atualmente existem **245** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1120,15 +1120,6 @@ Garrant: &#8216;We are ready to award and execute at speeds that have never been
 
 ---
 
-### Odin Space opens U.S. office in Los Angeles
-**Fonte:** Space News
-
-DENVER – Odin Space, a British startup focused on mapping and analyzing sub-centimeter orbital debris, announced plans May 7 to establish its first U.S. office in Los Angeles. “We are expanding in the United States because that is where the demand has moved fastest, and where the strategic stakes of attribution are highest,” James New, [&hellip;]...
-
-🔗 [Link da Notícia](https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/)
-
----
-
 ### Roadmap for a space-to-space economy
 **Fonte:** Space News
 
@@ -1636,15 +1627,6 @@ Description Captured by the multispectral imager instrument on NASA’s Psyche m
 
 ---
 
-### Psyche’s High-Resolution View of Mars’ South Pole
-**Fonte:** Nasa News
-
-Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The cap itself extends across more than 430 miles […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/)
-
----
-
 ### Moon-Venus Conjunction
 **Fonte:** Nasa News
 
@@ -1843,15 +1825,6 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 
 ---
 
-### NASA to add missions to SpaceX commercial crew contract
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/)
-
----
-
 ### European space industry watching SpaceX IPO plans
 **Fonte:** Space News
 
@@ -1930,15 +1903,6 @@ NASA will provide an update on the agency’s Artemis III mission and announce t
 Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/)
-
----
-
-### NASA Provides Update on Moon Base Rovers, Landers, Missions
-**Fonte:** Nasa News
-
-During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch timeframes and upcoming milestones for the first Moon Base infrastructure and exploration missions to the lunar South Pole [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/)
 
 ---
 
@@ -2158,12 +2122,93 @@ Learn how to use the Satellite Data Explorer to search, access, and task commerc
 
 ---
 
-### NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy
+### Hubble Captures M88 on Journey to Center of Virgo Cluster
 **Fonte:** Nasa News
 
-Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities. But it’s hard […]...
+This NASA Hubble Space Telescope image features the active spiral galaxy Messier 88 (M88), located about 63 million light-years away....
 
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/)
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/)
+
+---
+
+### Painting the Growing Season in the Maize Triangle
+**Fonte:** Nasa News
+
+Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/)
+
+---
+
+### NASA’s X-59 Prepares for First Supersonic Flight  
+**Fonte:** Nasa News
+
+NASA’s X-59 quiet supersonic research aircraft is preparing for some of its most significant flights yet. The X-plane is about to begin a new block of test flights that will include its first time flying faster than the speed of sound and other mission-critical objectives. “What comes next is the first time this one-of-a-kind aircraft [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/)
+
+---
+
+### I Am Artemis: Daniel Stubbs
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Daniel Stubbs, NASA aerospace engineer: If you’ve driven through a cloud of dust and dirt that temporarily obscured your view, you’ve gotten a partial picture of a potential problem that NASA’s human landing systems for Artemis will face when they land on the Moon. Daniel Stubbs, an aerospace engineer [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/)
+
+---
+
+### New Landsat Science Team Holds First In-Person Meeting
+**Fonte:** Nasa News
+
+From May 5 to 7, the Landsat Science Team meeting convened at the Earth Resources Observation and Science (EROS) Center in Sioux Falls, SD. Co-moderated by Landsat 8, 9, and 10 Project Scientist Chris Neigh, the three-day event officially introduced the new 2026–2030 Science Team members....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/)
+
+---
+
+### Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!
+**Fonte:** Nasa News
+
+Written by Abigail Fraeman, Deputy Project Scientist at Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, May 22, 2026 I spent this past weekend eagerly awaiting the downlink from Mars that would show us the results of Curiosity’s drill attempt at “Campo Marte.” A few weeks ago, when Curiosity drilled the “Atacama” […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/)
+
+---
+
+### NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
+**Fonte:** Nasa News
+
+Scientists analyzed 20 Martian samples collected by NASA’s Curiosity Rover and found that differences in hematite crystallite size at varying elevations could serve as a new mineralogical marker for understanding Mars’ ancient climate....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/)
+
+---
+
+### Nancy Grace Roman Space Telescope Poster
+**Fonte:** Nasa News
+
+NASA/Jenny Mottar Downloads Print high resolution PDF May 28, 2026 PDF (144.47 MB) Print high resolution image May 28, 2026 PNG (45.60 MB) Smaller image for web view May 28, 2026 PNG (3.75 MB)...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/)
+
+---
+
+### Contractor to Civil Servant: NASA Welcomes Kenny Heckle
+**Fonte:** Nasa News
+
+Kenny Heckle grew up in Orlando, just west of NASA’s Kennedy Space Center in Florida. An 80s child, he comes from a long line of union pipefitters and fabricators. Heckle recalls the day 42 years ago at KARS Park, which is a NASA Exchange–run recreation area for the agency’s workforce and their guests, when he [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/)
+
+---
+
+### NASA Astronaut Andrew Morgan Retires
+**Fonte:** Nasa News
+
+May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morgan has retired from the agency to continue his military service. Morgan spent 272 days in space aboard the International Space Station. NASA selected Morgan to join its 21st astronaut class in August 2013. He launched to the space station [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/)
 
 ---
 
