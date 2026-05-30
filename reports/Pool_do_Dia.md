@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/05/2026 12:11
+# 📥 Balde de Notícias Brutas - 30/05/2026 10:46
 
-Atualmente existem **245** notícias aguardando a curadoria do Editor.
+Atualmente existem **259** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2209,6 +2209,132 @@ Kenny Heckle grew up in Orlando, just west of NASA’s Kennedy Space Center in F
 May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morgan has retired from the agency to continue his military service. Morgan spent 272 days in space aboard the International Space Station. NASA selected Morgan to join its 21st astronaut class in August 2013. He launched to the space station [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/)
+
+---
+
+### Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/)
+
+---
+
+### Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/)
+
+---
+
+### Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/)
+
+---
+
+### Spatial data has become a weapon of war in the US-Iran war
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/)
+
+---
+
+### China’s latest batch of new and reusable rockets are close to launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/)
+
+---
+
+### New Glenn rocket explodes on Cape Canaveral pad
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/)
+
+---
+
+### Space Force plans nationwide network of ‘resilient operations centers’ 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/)
+
+---
+
+### Observable Space raises $90 million and wins Space Force contract for optical systems
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/)
+
+---
+
+### Setting up a permanent lunar presence needs investment in biology
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/)
+
+---
+
+### Revolv Space enters in-orbit servicing market with Infinite Orbits deal
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/)
+
+---
+
+### NASA Awards Contract for Johnson Space Center Infrastructure
+**Fonte:** Nasa News
+
+NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. [&#8230...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/)
+
+---
+
+### NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters
+**Fonte:** Nasa News
+
+NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/)
+
+---
+
+### NASA’s Roman Space Telescope Primary Mirror Gets Last Look
+**Fonte:** Nasa News
+
+Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. &#8220;The Roman engineering [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/)
+
+---
+
+### Hubble Spies Faint Irregular Galaxy
+**Fonte:** Nasa News
+
+This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years&#160;away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their&#160;diffractio...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/)
 
 ---
 

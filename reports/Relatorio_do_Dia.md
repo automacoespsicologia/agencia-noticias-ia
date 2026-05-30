@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 28/05/2026 12:23
+# 🚀 Relatório da Agência Espacial - 30/05/2026 10:46
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 1. New Glenn rocket explodes on Cape Canaveral pad
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb acaba de abalar os pilares da cosmologia. Novos dados revelam um buraco negro supermassivo que se formou antes de sua própria galáxia hospedeira, desafiando a teoria clássica de que as galáxias precisariam nascer primeiro para então abrigar esses gigantes no centro.
+> Um revés dramático abala as ambições da Blue Origin. O foguete New Glenn explodiu na plataforma de lançamento em Cabo Canaveral, um evento que promete redesenhar o cronograma da empresa de Jeff Bezos e impactar diretamente a competitividade no mercado de lançamentos pesados globais.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/)
+🔗 [Ler notícia completa](https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/)
 
 ---
 
-## 2. NASA Provides Update on Moon Base Rovers, Landers, Missions
-**Fonte:** Nasa News | **Categoria:** Mercado
+## 2. Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A infraestrutura para a permanência humana na Lua ganha corpo com novos contratos bilionários. A NASA oficializou a seleção de empresas para o desenvolvimento de rovers tripulados e módulos de pouso de carga pesada, definindo quem serão os pilares logísticos da futura Base Lunar Artemis.
+> A SpaceX consolida sua hegemonia no setor de defesa com um contrato histórico de 4,16 bilhões de dólares. A Força Espacial dos EUA selecionou a empresa para construir uma rede de satélites de rastreamento de alvos aéreos, fundindo tecnologia comercial de ponta com segurança estratégica de alta escala.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/)
 
 ---
 
-## 3. NASA to add missions to SpaceX commercial crew contract
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. NASA’s X-59 Prepares for First Supersonic Flight  
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX consolida seu domínio absoluto no transporte espacial humano. A NASA anunciou a expansão do contrato de tripulações comerciais com a empresa de Elon Musk, adicionando missões extras que garantem a continuidade operacional da Estação Espacial Internacional em um cenário de crescente demanda.
+> O futuro da aviação está prestes a cruzar a barreira do som em silêncio. O avião experimental X-59 da NASA entra na fase crítica de testes para seu primeiro voo supersônico, buscando provar que é possível voar acima de Mach 1 sem o estrondo sônico que baniu os voos rápidos sobre o continente por décadas.
 
-🔗 [Ler notícia completa](https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/)
 
 ---
 
-## 4. Odin Space opens U.S. office in Los Angeles
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. Webb Studies Star Clusters
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O combate ao lixo espacial ganha uma tecnologia de precisão inédita. A startup Odin Space está instalando sua sede em Los Angeles para expandir um sistema capaz de rastrear detritos subcentimétricos em órbita — ameaças invisíveis que podem causar danos catastróficos, mas que até agora eram impossíveis de monitorar.
+> O telescópio James Webb acaba de reescrever parte da evolução estelar. Uma nova análise de quase 9 mil aglomerados na galáxia M51 revela dados inéditos sobre a formação de estrelas massivas, fornecendo aos astrônomos a visão mais detalhada já obtida sobre como as galáxias moldam suas populações estelares.
 
-🔗 [Ler notícia completa](https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/webb-studies-star-clusters/)
 
 ---
 
-## 5. Psyche’s High-Resolution View of Mars’ South Pole
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. NASA to Announce Artemis III Crew, Provide Mission Progress Update
+**Fonte:** Nasa News | **Categoria:** Exploração Humana
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Em um bônus científico inesperado, a missão Psyche capturou as imagens de maior resolução já registradas do polo sul de Marte. Durante uma manobra de assistência gravitacional, a sonda revelou detalhes minuciosos da calota de gelo hídrico do planeta, fornecendo dados valiosos para o planejamento de futuras missões tripuladas.
+> O próximo capítulo do retorno da humanidade à Lua já tem data marcada. A NASA confirmou para o dia 9 de junho o anúncio oficial da tripulação da Artemis III, a missão que levará seres humanos de volta à superfície lunar pela primeira vez em mais de meio século, definindo os novos ícones da exploração espacial.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/)
 
 ---
 
