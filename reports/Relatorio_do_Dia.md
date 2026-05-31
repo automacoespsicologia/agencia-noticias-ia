@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 30/05/2026 10:46
+# 🚀 Relatório da Agência Espacial - 31/05/2026 10:55
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. New Glenn rocket explodes on Cape Canaveral pad
+## 1. Blue Origin gets national security launch task order hours before New Glenn explosion
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Um revés dramático abala as ambições da Blue Origin. O foguete New Glenn explodiu na plataforma de lançamento em Cabo Canaveral, um evento que promete redesenhar o cronograma da empresa de Jeff Bezos e impactar diretamente a competitividade no mercado de lançamentos pesados globais.
+> Uma montanha-russa de emoções para a Blue Origin: a empresa de Jeff Bezos garantiu um contrato estratégico de segurança nacional apenas horas antes de uma explosão atingir o foguete New Glenn durante testes. O incidente coloca em xeque o cronograma da gigante espacial em um momento em que a pressão por lançamentos pesados nunca foi tão alta.
 
-🔗 [Ler notícia completa](https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/)
+🔗 [Ler notícia completa](https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/)
 
 ---
 
-## 2. Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
+## 2. FAA documents outline SpaceX plans for Starfall reentry vehicles
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A SpaceX está preparando o próximo salto na logística orbital com o misterioso projeto 'Starfall'. Documentos da FAA revelaram planos para novos veículos de reentrada que prometem revolucionar a forma como cargas retornam do espaço. É a engenharia de Elon Musk focada em fechar o ciclo de transporte entre a Terra e a órbita com eficiência sem precedentes.
+
+🔗 [Ler notícia completa](https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/)
+
+---
+
+## 3. China’s latest batch of new and reusable rockets are close to launch
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX consolida sua hegemonia no setor de defesa com um contrato histórico de 4,16 bilhões de dólares. A Força Espacial dos EUA selecionou a empresa para construir uma rede de satélites de rastreamento de alvos aéreos, fundindo tecnologia comercial de ponta com segurança estratégica de alta escala.
+> A hegemonia da reutilização está sob ataque. A China prepara o lançamento de sua mais nova safra de foguetes reutilizáveis, sinalizando que a superpotência asiática dominou a tecnologia necessária para derrubar os custos de acesso ao espaço. Essa movimentação promete redesenhar o equilíbrio de poder no mercado global de lançamentos ainda este ano.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/)
+🔗 [Ler notícia completa](https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/)
 
 ---
 
-## 3. NASA’s X-59 Prepares for First Supersonic Flight  
+## 4. NASA’s Roman Space Telescope Primary Mirror Gets Last Look
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da aviação está prestes a cruzar a barreira do som em silêncio. O avião experimental X-59 da NASA entra na fase crítica de testes para seu primeiro voo supersônico, buscando provar que é possível voar acima de Mach 1 sem o estrondo sônico que baniu os voos rápidos sobre o continente por décadas.
+> O sucessor espiritual do Hubble deu seu passo final em terra firme. Engenheiros da NASA concluíram a última inspeção do espelho primário do telescópio Nancy Grace Roman. Com um campo de visão cem vezes maior que o de seus antecessores, essa maravilha técnica está pronta para mapear o cosmos e buscar respostas sobre a misteriosa energia escura.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/)
-
----
-
-## 4. Webb Studies Star Clusters
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb acaba de reescrever parte da evolução estelar. Uma nova análise de quase 9 mil aglomerados na galáxia M51 revela dados inéditos sobre a formação de estrelas massivas, fornecendo aos astrônomos a visão mais detalhada já obtida sobre como as galáxias moldam suas populações estelares.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/webb-studies-star-clusters/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/)
 
 ---
 
-## 5. NASA to Announce Artemis III Crew, Provide Mission Progress Update
-**Fonte:** Nasa News | **Categoria:** Exploração Humana
+## 5. Observable Space raises $90 million and wins Space Force contract for optical systems
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O próximo capítulo do retorno da humanidade à Lua já tem data marcada. A NASA confirmou para o dia 9 de junho o anúncio oficial da tripulação da Artemis III, a missão que levará seres humanos de volta à superfície lunar pela primeira vez em mais de meio século, definindo os novos ícones da exploração espacial.
+> O setor de defesa espacial tem um novo protagonista: a Observable Space acaba de levantar 90 milhões de dólares em uma rodada de investimentos massiva, impulsionada por um novo contrato com a Força Espacial dos EUA. O objetivo é implementar sistemas ópticos avançados para rastreio orbital, provando que a agilidade das startups é agora o braço direito do Pentágono.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/)
+🔗 [Ler notícia completa](https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 30/05/2026 10:46
+# 📥 Balde de Notícias Brutas - 31/05/2026 10:54
 
-Atualmente existem **259** notícias aguardando a curadoria do Editor.
+Atualmente existem **256** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1798,15 +1798,6 @@ NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonaut
 
 ---
 
-### Webb Studies Star Clusters
-**Fonte:** Nasa News
-
-This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA&#8217;s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-studies-star-clusters/)
-
----
-
 ### Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
 **Fonte:** Nasa News
 
@@ -1885,15 +1876,6 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/)
-
----
-
-### NASA to Announce Artemis III Crew, Provide Mission Progress Update
-**Fonte:** Nasa News
-
-NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency’s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency’s YouTube channel. Learn how to [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/)
 
 ---
 
@@ -2140,15 +2122,6 @@ Radar data from an agricultural area in South Africa, shown in a vivid color pal
 
 ---
 
-### NASA’s X-59 Prepares for First Supersonic Flight  
-**Fonte:** Nasa News
-
-NASA’s X-59 quiet supersonic research aircraft is preparing for some of its most significant flights yet. The X-plane is about to begin a new block of test flights that will include its first time flying faster than the speed of sound and other mission-critical objectives. “What comes next is the first time this one-of-a-kind aircraft [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/)
-
----
-
 ### I Am Artemis: Daniel Stubbs
 **Fonte:** Nasa News
 
@@ -2212,15 +2185,6 @@ May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morg
 
 ---
 
-### Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/)
-
----
-
 ### Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business
 **Fonte:** Space News
 
@@ -2254,15 +2218,6 @@ May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morg
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/)
-
----
-
-### New Glenn rocket explodes on Cape Canaveral pad
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/)
 
 ---
 
@@ -2335,6 +2290,24 @@ Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have c
 This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years&#160;away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their&#160;diffractio...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/)
+
+---
+
+### FAA documents outline SpaceX plans for Starfall reentry vehicles
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/)
+
+---
+
+### Blue Origin gets national security launch task order hours before New Glenn explosion
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/)
 
 ---
 
