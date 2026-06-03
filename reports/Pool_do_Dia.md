@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 02/06/2026 12:37
+# 📥 Balde de Notícias Brutas - 03/06/2026 13:12
 
-Atualmente existem **263** notícias aguardando a curadoria do Editor.
+Atualmente existem **279** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2371,6 +2371,150 @@ Five research&#160;aircraft&#160;will support a Student Airborne Research Progra
 Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer begins, and deep-sky treasures rise into view....
 
 🔗 [Link da Notícia](https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/)
+
+---
+
+### Europe is rearming together — except in space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/europe-is-rearming-together-except-in-space/)
+
+---
+
+### Muon Space unveils Starship-class satellite platform for orbital data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/)
+
+---
+
+### Blue Origin seeks to resume New Glenn launches by year’s end
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/)
+
+---
+
+### NRO nominee says commercial space, AI are reshaping spy satellite agency
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/)
+
+---
+
+### Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/)
+
+---
+
+### The importance of determining an equilibrium state for space traffic management
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/)
+
+---
+
+### UK explores Vast space station mission for astronaut with physical disability
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/)
+
+---
+
+### Impulse Space raises $500 million
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/impulse-space-raises-500-million/)
+
+---
+
+### Voyager to acquire lunar lander developer Astrobotic
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/)
+
+---
+
+### Researchers call for regulations to protect low Earth orbit environment
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/)
+
+---
+
+### NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today
+**Fonte:** Nasa News
+
+The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/)
+
+---
+
+### Typhoon Jangmi
+**Fonte:** Nasa News
+
+The sprawling storm promised to deliver torrential rain across a wide swath of southern Japan....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/)
+
+---
+
+### NASA Space Roboticist Challenge
+**Fonte:** Nasa News
+
+The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a compelling experiment and the capability [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/)
+
+---
+
+### Look Up!
+**Fonte:** Nasa News
+
+Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola, monitoring the automated approach and docking of the SpaceX Dragon cargo spacecraft to the International Space Station on May 17, 2026. The orbital outpost was soaring 259 miles above the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/look-up/)
+
+---
+
+### NASA Testing Wastewater Treatment Facility for Future Moon Base      
+**Fonte:** Nasa News
+
+A mobile wastewater treatment system built at NASA&#8217;s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditions designed to closely mimic the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/)
+
+---
+
+### Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries
+**Fonte:** Nasa News
+
+Help identify star-forming clumps in galaxy images, and help train machines to do the same....
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/)
 
 ---
 
