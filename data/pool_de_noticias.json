@@ -2510,6 +2510,60 @@
       "source": "Nasa News",
       "data_coleta": "2026-06-03",
       "tentativas": 0
+    },
+    {
+      "title": "A Moonlit Earth as Seen From Artemis II",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+      "description": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
+      "pub_date": "Thu, 04 Jun 2026 04:01:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-06-04",
+      "tentativas": 0
+    },
+    {
+      "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
+      "description": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wisely and on top of the drilling, we also […]",
+      "pub_date": "Thu, 04 Jun 2026 01:28:11 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-06-04",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+      "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+      "description": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]",
+      "pub_date": "Wed, 03 Jun 2026 18:01:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-06-04",
+      "tentativas": 0
+    },
+    {
+      "title": "International Sea Level Satellite Observes El Niño Precursor",
+      "link": "https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/",
+      "description": "Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]",
+      "pub_date": "Wed, 03 Jun 2026 17:27:22 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-06-04",
+      "tentativas": 0
+    },
+    {
+      "title": "Journey to the Center of the Virgo Cluster",
+      "link": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
+      "description": "The focus of this NASA/ESA&#160;Hubble&#160;Space Telescope&#160;image&#160;released on May 29, 2026, is an active&#160;spiral galaxy&#160;on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation&#160;Coma Berenices&#160;(Berenice’s Hair). M88 is an active galaxy, which means that its center harbors [&#8230;]",
+      "pub_date": "Wed, 03 Jun 2026 15:48:44 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-06-04",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
+      "description": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of [&#8230;]",
+      "pub_date": "Wed, 03 Jun 2026 13:50:10 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-06-04",
+      "tentativas": 0
     }
   ]
 }

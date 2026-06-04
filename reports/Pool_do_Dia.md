@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/06/2026 13:12
+# 📥 Balde de Notícias Brutas - 04/06/2026 11:48
 
-Atualmente existem **279** notícias aguardando a curadoria do Editor.
+Atualmente existem **285** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2515,6 +2515,60 @@ A mobile wastewater treatment system built at NASA&#8217;s Kennedy Space Center 
 Help identify star-forming clumps in galaxy images, and help train machines to do the same....
 
 🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/)
+
+---
+
+### A Moonlit Earth as Seen From Artemis II
+**Fonte:** Nasa News
+
+An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/)
+
+---
+
+### Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!
+**Fonte:** Nasa News
+
+By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wisely and on top of the drilling, we also […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/)
+
+---
+
+### NASA Finds New Way Earth May Have Received Elements Needed for Life
+**Fonte:** Nasa News
+
+NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/)
+
+---
+
+### International Sea Level Satellite Observes El Niño Precursor
+**Fonte:** Nasa News
+
+Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/)
+
+---
+
+### Journey to the Center of the Virgo Cluster
+**Fonte:** Nasa News
+
+The focus of this NASA/ESA&#160;Hubble&#160;Space Telescope&#160;image&#160;released on May 29, 2026, is an active&#160;spiral galaxy&#160;on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation&#160;Coma Berenices&#160;(Berenice’s Hair). M88 is an active galaxy, which means that its ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/)
+
+---
+
+### NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System
+**Fonte:** Nasa News
+
+A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/)
 
 ---
 
