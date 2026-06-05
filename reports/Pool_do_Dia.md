@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/06/2026 11:48
+# 📥 Balde de Notícias Brutas - 05/06/2026 11:59
 
-Atualmente existem **285** notícias aguardando a curadoria do Editor.
+Atualmente existem **299** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2569,6 +2569,132 @@ The focus of this NASA/ESA&#160;Hubble&#160;Space Telescope&#160;image&#160;rele
 A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/)
+
+---
+
+### Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/)
+
+---
+
+### Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/)
+
+---
+
+### The Exploration Company completes drop test of Nyx capsule
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/)
+
+---
+
+### Axiom Space adds more than $175 million to funding round
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/)
+
+---
+
+### HASC NDAA markup challenges Space Force on satellite programs
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/)
+
+---
+
+### AstroForge completes DeepSpace-2 spacecraft
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/)
+
+---
+
+### Delian Asparouhov and Philip Johnston on making the case for orbital data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/)
+
+---
+
+### NASA working to streamline development of nuclear electric propulsion demo mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/)
+
+---
+
+### China builds institutional framework for space computing push
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/)
+
+---
+
+### SpaceX to raise at least $75 billion in IPO
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/)
+
+---
+
+### Fighting Fire With Fire
+**Fonte:** Nasa News
+
+In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/)
+
+---
+
+### NASA Hosts 2026 Review on Advanced Composite Manufacturing
+**Fonte:** Nasa News
+
+NASA’s&#160;Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for&#160;a&#160;2026&#160;spring&#160;review at NASA’s Langley Research Center in Hampton, Virginia.&#160;&#160; The meeting took place May 5-7, bringing together&#160;about 150 people from the&#160;consortium, a&#160;22-member public-private partnership.&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/)
+
+---
+
+### NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll
+**Fonte:** Nasa News
+
+Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/)
+
+---
+
+### Colorful, Chaotic Jupiter
+**Fonte:** Nasa News
+
+NASA&#8217;s Juno spacecraft captured this color-enhanced view of Jupiter&#8217;s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity. It provides a detailed view of chaotic clouds [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/colorful-chaotic-jupiter/)
 
 ---
 

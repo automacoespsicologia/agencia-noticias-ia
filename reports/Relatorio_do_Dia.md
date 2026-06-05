@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 31/05/2026 10:55
+# 🚀 Relatório da Agência Espacial - 05/06/2026 12:00
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Blue Origin gets national security launch task order hours before New Glenn explosion
+## 1. SpaceX to raise at least $75 billion in IPO
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Uma montanha-russa de emoções para a Blue Origin: a empresa de Jeff Bezos garantiu um contrato estratégico de segurança nacional apenas horas antes de uma explosão atingir o foguete New Glenn durante testes. O incidente coloca em xeque o cronograma da gigante espacial em um momento em que a pressão por lançamentos pesados nunca foi tão alta.
+> A SpaceX está prestes a quebrar todos os recordes financeiros do setor. A gigante de Elon Musk planeja levantar 75 bilhões de dólares em um IPO histórico, uma movimentação que promete redefinir o mercado de capitais e consolidar o Starship como o motor principal da nova economia orbital. O espaço nunca foi um negócio tão lucrativo.
 
-🔗 [Ler notícia completa](https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/)
 
 ---
 
-## 2. FAA documents outline SpaceX plans for Starfall reentry vehicles
+## 2. New Glenn failure worsens constrained launch market
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX está preparando o próximo salto na logística orbital com o misterioso projeto 'Starfall'. Documentos da FAA revelaram planos para novos veículos de reentrada que prometem revolucionar a forma como cargas retornam do espaço. É a engenharia de Elon Musk focada em fechar o ciclo de transporte entre a Terra e a órbita com eficiência sem precedentes.
+> O mercado global de lançamentos sofre um revés crítico com a falha do New Glenn. O incidente com o foguete da Blue Origin não apenas adia as ambições de Jeff Bezos, mas agrava a escassez de veículos pesados em um setor que já opera no limite da capacidade. Agora, o mundo observa como a empresa responderá ao desafio técnico para garantir sua viabilidade.
 
-🔗 [Ler notícia completa](https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/)
+🔗 [Ler notícia completa](https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/)
 
 ---
 
-## 3. China’s latest batch of new and reusable rockets are close to launch
+## 3. China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A China enviou um recado claro ao Ocidente com a estreia surpresa do Long March 12B. O lançamento bem-sucedido marca o início da implantação acelerada da constelação Qianfan, a resposta direta de Pequim ao domínio da Starlink. É o tabuleiro geopolítico se movendo para o espaço em uma velocidade sem precedentes.
+
+🔗 [Ler notícia completa](https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/)
+
+---
+
+## 4. Voyager to acquire lunar lander developer Astrobotic
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A hegemonia da reutilização está sob ataque. A China prepara o lançamento de sua mais nova safra de foguetes reutilizáveis, sinalizando que a superpotência asiática dominou a tecnologia necessária para derrubar os custos de acesso ao espaço. Essa movimentação promete redesenhar o equilíbrio de poder no mercado global de lançamentos ainda este ano.
+> Consolidação pesada na economia lunar: a Voyager Space anunciou a aquisição da Astrobotic. Ao unir o desenvolvimento de pousadores e infraestrutura cislunar sob um único teto, a Voyager se posiciona como a principal fornecedora para as futuras bases na Lua, sinalizando que a exploração comercial do nosso satélite atingiu um novo nível de maturidade corporativa.
 
-🔗 [Ler notícia completa](https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/)
-
----
-
-## 4. NASA’s Roman Space Telescope Primary Mirror Gets Last Look
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O sucessor espiritual do Hubble deu seu passo final em terra firme. Engenheiros da NASA concluíram a última inspeção do espelho primário do telescópio Nancy Grace Roman. Com um campo de visão cem vezes maior que o de seus antecessores, essa maravilha técnica está pronta para mapear o cosmos e buscar respostas sobre a misteriosa energia escura.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/)
+🔗 [Ler notícia completa](https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/)
 
 ---
 
-## 5. Observable Space raises $90 million and wins Space Force contract for optical systems
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 5. Muon Space unveils Starship-class satellite platform for orbital data centers
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de defesa espacial tem um novo protagonista: a Observable Space acaba de levantar 90 milhões de dólares em uma rodada de investimentos massiva, impulsionada por um novo contrato com a Força Espacial dos EUA. O objetivo é implementar sistemas ópticos avançados para rastreio orbital, provando que a agilidade das startups é agora o braço direito do Pentágono.
+> A Muon Space acaba de revelar o que pode ser o futuro da infraestrutura digital: uma plataforma de satélites de 'classe Starship' para data centers orbitais. Projetada para aproveitar o enorme volume de carga dos novos foguetes, a tecnologia promete levar o processamento de dados para o espaço, eliminando latências e revolucionando a inteligência geoespacial em tempo real.
 
-🔗 [Ler notícia completa](https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/)
+🔗 [Ler notícia completa](https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/)
 
 ---
 
