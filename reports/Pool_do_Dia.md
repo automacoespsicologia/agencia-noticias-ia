@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 05/06/2026 11:59
+# 📥 Balde de Notícias Brutas - 06/06/2026 10:51
 
-Atualmente existem **299** notícias aguardando a curadoria do Editor.
+Atualmente existem **303** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2275,24 +2275,6 @@ This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, featu
 
 ---
 
-### China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/)
-
----
-
-### New Glenn failure worsens constrained launch market
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/)
-
----
-
 ### China launches test direct-to-device satellites for multiple projects
 **Fonte:** Space News
 
@@ -2383,15 +2365,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 
 ---
 
-### Muon Space unveils Starship-class satellite platform for orbital data centers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/)
-
----
-
 ### Blue Origin seeks to resume New Glenn launches by year’s end
 **Fonte:** Space News
 
@@ -2443,15 +2416,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/impulse-space-raises-500-million/)
-
----
-
-### Voyager to acquire lunar lander developer Astrobotic
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/)
 
 ---
 
@@ -2653,15 +2617,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 
 ---
 
-### SpaceX to raise at least $75 billion in IPO
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/)
-
----
-
 ### Fighting Fire With Fire
 **Fonte:** Nasa News
 
@@ -2695,6 +2650,87 @@ Over the last decade, wildfires have worsened ground-level ozone pollution acros
 NASA&#8217;s Juno spacecraft captured this color-enhanced view of Jupiter&#8217;s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity. It provides a detailed view of chaotic clouds [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/colorful-chaotic-jupiter/)
+
+---
+
+### Leaf Space partners with D-Orbit and EnduroSat to test connectivity service
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/)
+
+---
+
+### Astronauts briefly shelter in Dragon during ISS leak repair
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/)
+
+---
+
+### Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/)
+
+---
+
+### Let’s build the moon base, but not lose sight of Mars
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/)
+
+---
+
+### NASA’s X-59 Aircraft Flies Supersonic for First Time
+**Fonte:** Nasa News
+
+NASA’s&#160;experimental&#160;X-59&#160;aircraft&#160;marked&#160;a major milestone&#160;Friday,&#160;June&#160;5,&#160;when it&#160;flew faster than the speed of sound for the first time,&#160;setting the stage for&#160;demonstrating&#160;its quiet supersonic capabilities&#160;later this year.&#160; NASA test pilot Jim “Clue” Less&#160;took off&#160;and landed&#160;at Edwards Air Force Base&#160;...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/)
+
+---
+
+### NASA Announces Winners of 2026 University Innovation Competition 
+**Fonte:** Nasa News
+
+NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes.  Another&#160;team&#160;from&#160;the same unive...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/)
+
+---
+
+### NASA’s Artemis II Moon Mission Research Continues on Earth
+**Fonte:** Nasa News
+
+Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
+
+---
+
+### NASA Concludes Antenna Mishap Investigation, Releases Report
+**Fonte:** Nasa News
+
+NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communications Complex near Barstow, California. The agency has classified the event as a Type A mishap based on the total cost of damages. The antenna will [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/)
+
+---
+
+### First Steps: America’s Grueling Second Spacewalk
+**Fonte:** Nasa News
+
+One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, 1966—the mission’s third day—Cernan exited [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/)
 
 ---
 
