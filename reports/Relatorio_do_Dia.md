@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 06/06/2026 10:51
+# 🚀 Relatório da Agência Espacial - 07/06/2026 11:05
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s X-59 Aircraft Flies Supersonic for First Time
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de quebrar o silêncio — e a barreira do som! O avião experimental X-59 realizou seu primeiro voo supersônico, provando que é possível voar mais rápido que a velocidade do som sem o estrondo ensurdecedor que conhecemos. Esse marco técnico abre caminho para uma nova era de aviação comercial ultrarrápida sobre os continentes.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/)
-
----
-
-## 2. Impulse Space raises $500 million
+## 1. Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de logística orbital está fervendo. A Impulse Space garantiu um aporte colossal de 500 milhões de dólares para acelerar suas soluções de transporte no espaço. Esse movimento sinaliza que os investidores estão apostando pesado na infraestrutura necessária para movimentar cargas entre diferentes órbitas, o pilar da futura economia espacial.
+> O mercado de satélites tem um novo titã: a startup Apex acaba de atingir a marca de 2,3 bilhões de dólares em valor de mercado. Com um novo aporte de 200 milhões, a empresa acelera sua linha de montagem para atender a demanda explosiva por ônibus espaciais padronizados, consolidando-se como peça-chave na infraestrutura da nova economia orbital.
 
-🔗 [Ler notícia completa](https://spacenews.com/impulse-space-raises-500-million/)
-
----
-
-## 3. Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pelas megaconstelações de internet atingiu uma nova fase. A China alcançou a marca de 200 satélites em órbita para a rede Qianfan, após lançamentos bem-sucedidos dos foguetes Longa Marcha 8 e 6A. O projeto avança em ritmo acelerado, consolidando-se como o principal desafiante global ao domínio da Starlink.
-
-🔗 [Ler notícia completa](https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/)
+🔗 [Ler notícia completa](https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/)
 
 ---
 
-## 4. AstroForge completes DeepSpace-2 spacecraft
+## 2. NASA working to streamline development of nuclear electric propulsion demo mission
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A mineração de asteroides deu um passo decisivo de engenharia. A startup AstroForge concluiu a construção da sonda DeepSpace-2, projetada especificamente para operar em espaço profundo e validar tecnologias de extração mineral fora da Terra. O hardware está pronto, transformando o que era ficção científica em uma estratégia comercial concreta.
+> A NASA está pisando no acelerador para tornar realidade a propulsão nuclear elétrica. A agência busca simplificar o desenvolvimento de missões de demonstração que podem cortar drasticamente o tempo de viagem até Marte. É a inovação técnica que promete transformar nossa espécie em um povo verdadeiramente interplanetário.
 
-🔗 [Ler notícia completa](https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/)
 
 ---
 
-## 5. NASA-European Sea Level Mission Homes in on El Niño
+## 3. Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Céu aberto para o turismo espacial: a Virgin Galactic trouxe a nave VSS Unity de volta aos voos operacionais. Mais do que levar civis ao limite do espaço, essa missão é o campo de testes crítico para a próxima geração de aviões espaciais da classe Delta, que prometem uma cadência de lançamentos sem precedentes na indústria.
+
+🔗 [Ler notícia completa](https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/)
+
+---
+
+## 4. NASA Finds New Way Earth May Have Received Elements Needed for Life
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Sentinelas espaciais confirmam um alerta climático global. Dados do satélite Sentinel-6 revelaram uma imensa onda de calor se movendo pelo Oceano Pacífico, o precursor definitivo de um novo evento El Niño. Essa descoberta científica validada é crucial para previsões meteorológicas que afetarão a agricultura e a economia em todo o planeta este ano.
+> Uma nova descoberta científica revela que devemos nossa existência a Júpiter. Pesquisadores da NASA identificaram como o gigante gasoso atuou como um 'estilingue cósmico', arremessando elementos essenciais para a vida em direção à Terra primitiva. A descoberta redefine o que sabemos sobre a formação de mundos habitáveis.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/)
+
+---
+
+## 5. Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A Europa e a Amazon unem forças no próximo grande salto do foguete Ariane 6. O lançador usará propulsores atualizados para colocar em órbita 36 satélites da constelação de internet da Amazon. É uma movimentação de mercado colossal que testa a nova capacidade de carga pesada europeia contra o domínio das megaconstelações globais.
+
+🔗 [Ler notícia completa](https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/)
 
 ---
 

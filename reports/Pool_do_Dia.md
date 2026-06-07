@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/06/2026 10:51
+# 📥 Balde de Notícias Brutas - 07/06/2026 11:05
 
-Atualmente existem **303** notícias aguardando a curadoria do Editor.
+Atualmente existem **301** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2086,15 +2086,6 @@ Katherine Rauscher of Michigan Technological University prepares her team’s pr
 
 ---
 
-### NASA-European Sea Level Mission Homes in on El Niño
-**Fonte:** Nasa News
-
-Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/)
-
----
-
 ### Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
 **Fonte:** Nasa News
 
@@ -2410,15 +2401,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 
 ---
 
-### Impulse Space raises $500 million
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/impulse-space-raises-500-million/)
-
----
-
 ### Researchers call for regulations to protect low Earth orbit environment
 **Fonte:** Space News
 
@@ -2536,15 +2518,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 
 ---
 
-### Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/)
-
----
-
 ### Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
 **Fonte:** Space News
 
@@ -2578,15 +2551,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/)
-
----
-
-### AstroForge completes DeepSpace-2 spacecraft
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/)
 
 ---
 
@@ -2689,15 +2653,6 @@ NASA&#8217;s Juno spacecraft captured this color-enhanced view of Jupiter&#8217;
 
 ---
 
-### NASA’s X-59 Aircraft Flies Supersonic for First Time
-**Fonte:** Nasa News
-
-NASA’s&#160;experimental&#160;X-59&#160;aircraft&#160;marked&#160;a major milestone&#160;Friday,&#160;June&#160;5,&#160;when it&#160;flew faster than the speed of sound for the first time,&#160;setting the stage for&#160;demonstrating&#160;its quiet supersonic capabilities&#160;later this year.&#160; NASA test pilot Jim “Clue” Less&#160;took off&#160;and landed&#160;at Edwards Air Force Base&#160;...
-
-🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/)
-
----
-
 ### NASA Announces Winners of 2026 University Innovation Competition 
 **Fonte:** Nasa News
 
@@ -2731,6 +2686,33 @@ NASA has completed the investigation into the damage sustained last year at its 
 One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, 1966—the mission’s third day—Cernan exited [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/)
+
+---
+
+### Rounding up the space unicorns
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rounding-up-the-space-unicorns/)
+
+---
+
+### NASA interested in Hubble reboost if costs can be reduced
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/)
+
+---
+
+### NASA concerns about Russian repairs prompted ISS safe haven decision
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/)
 
 ---
 
