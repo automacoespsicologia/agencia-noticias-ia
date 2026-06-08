@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 07/06/2026 11:05
+# 📥 Balde de Notícias Brutas - 08/06/2026 13:02
 
-Atualmente existem **301** notícias aguardando a curadoria do Editor.
+Atualmente existem **302** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1942,15 +1942,6 @@ In a precursor to Memorial Day, people in Charleston, South Carolina, honored fa
 
 ---
 
-### Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/)
-
----
-
 ### FAA requires mishap investigation into latest Starship launch
 **Fonte:** Space News
 
@@ -2482,15 +2473,6 @@ By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open Universit
 
 ---
 
-### NASA Finds New Way Earth May Have Received Elements Needed for Life
-**Fonte:** Nasa News
-
-NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/)
-
----
-
 ### International Sea Level Satellite Observes El Niño Precursor
 **Fonte:** Nasa News
 
@@ -2515,15 +2497,6 @@ The focus of this NASA/ESA&#160;Hubble&#160;Space Telescope&#160;image&#160;rele
 A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/)
-
----
-
-### Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/)
 
 ---
 
@@ -2560,15 +2533,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/)
-
----
-
-### NASA working to streamline development of nuclear electric propulsion demo mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/)
 
 ---
 
@@ -2632,15 +2596,6 @@ NASA&#8217;s Juno spacecraft captured this color-enhanced view of Jupiter&#8217;
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/)
-
----
-
-### Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/)
 
 ---
 
@@ -2713,6 +2668,60 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/)
+
+---
+
+### WRC-27: the next arena for U.S.-China space competition
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/)
+
+---
+
+### Axiom and Prada advance design of spacesuit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/)
+
+---
+
+### Speed as a Strategic Advantage in Border Monitoring
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/)
+
+---
+
+### UK startup NewOrbit raises $18.5 million in Series A round
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/)
+
+---
+
+### OQ Technology plans direct-to-smartphone demo with cellular spectrum
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/)
+
+---
+
+### NASA to select new headquarters building by end of year
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/)
 
 ---
 
