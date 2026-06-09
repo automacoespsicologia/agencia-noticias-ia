@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/06/2026 13:02
+# 📥 Balde de Notícias Brutas - 09/06/2026 11:57
 
-Atualmente existem **302** notícias aguardando a curadoria do Editor.
+Atualmente existem **315** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2722,6 +2722,123 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/)
+
+---
+
+### Iceye raises 1 billion euros to expand SAR satellite systems
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/)
+
+---
+
+### Isar Aerospace raises 270 million euros for global launch expansion
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/)
+
+---
+
+### Commercial launch providers shortlisted for China’s low-cost cargo spacecraft
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/)
+
+---
+
+### Let’s procure in-orbit services like Earth observation data and services
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/)
+
+---
+
+### FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/)
+
+---
+
+### Russia is jamming GPS from space 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/russia-is-jamming-gps-from-space/)
+
+---
+
+### Quantum Space to go public in SPAC deal
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/quantum-space-to-go-public-in-spac-deal/)
+
+---
+
+### San Francisco’s Metropolitan Mosaic
+**Fonte:** Nasa News
+
+Urban development, green spaces, and maritime activity converge in this Northern California city....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/)
+
+---
+
+### How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup 
+**Fonte:** Nasa News
+
+As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the International Space Station benefits life on Earth&#160;and&#160;experience missio...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/)
+
+---
+
+### Supersonic!
+**Fonte:** Nasa News
+
+On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/supersonic/)
+
+---
+
+### NASA’s INCUS Satellites Progress Toward Launch
+**Fonte:** Nasa News
+
+Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/)
+
+---
+
+### Digging Back in Time in the UAE
+**Fonte:** Nasa News
+
+Once below a shallow sea, Jabal al Fāyah now stands above the desert in the United Arab Emirates as a reminder of a watery past and early human survival....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/)
+
+---
+
+### NASA’s Artemis II Moon Mission Research Continues on Earth
+**Fonte:** Nasa News
+
+Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
 
 ---
 
