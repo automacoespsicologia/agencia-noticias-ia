@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 07/06/2026 11:05
+# 🚀 Relatório da Agência Espacial - 10/06/2026 12:18
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise
-**Fonte:** Space News | **Categoria:** Mercado
+## 1. Supersonic!
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de satélites tem um novo titã: a startup Apex acaba de atingir a marca de 2,3 bilhões de dólares em valor de mercado. Com um novo aporte de 200 milhões, a empresa acelera sua linha de montagem para atender a demanda explosiva por ônibus espaciais padronizados, consolidando-se como peça-chave na infraestrutura da nova economia orbital.
+> O silêncio é o novo estrondo na aviação. A NASA acaba de quebrar a barreira do som com o experimental X-59, provando que voos supersônicos sem o estrondo sonoro destrutivo não são mais ficção, mas o futuro imediato das viagens comerciais rápidas.
 
-🔗 [Ler notícia completa](https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/supersonic/)
 
 ---
 
-## 2. NASA working to streamline development of nuclear electric propulsion demo mission
+## 2. Iceye raises 1 billion euros to expand SAR satellite systems
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O mercado de inteligência orbital atingiu um novo patamar de peso. A finlandesa Iceye levantou impressionantes 1 bilhão de euros para expandir sua frota de satélites de radar, consolidando a Europa como um polo de monitoramento global em tempo real sob qualquer condição climática.
+
+🔗 [Ler notícia completa](https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/)
+
+---
+
+## 3. NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
+**Fonte:** Nasa News | **Categoria:** Grandes Missões
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O caminho de volta à Lua ganhou rostos oficiais. A NASA revelou a tripulação da missão Artemis 3, os astronautas que realizarão os testes críticos de sistemas em órbita antes do pouso histórico, marcando a transição definitiva do programa lunar para sua fase operacional mais complexa.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/)
+
+---
+
+## 4. New Glenn forced an explosive rewrite for NASA’s plans to build a moon base
+**Fonte:** Space News | **Categoria:** Tecnologia e Segurança
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Alerta vermelho na Blue Origin. Uma explosão durante testes estáticos com o foguete New Glenn forçou a NASA a reescrever planos inteiros para a logística da futura base lunar, expondo os riscos extremos e a volatilidade da nova economia espacial.
+
+🔗 [Ler notícia completa](https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/)
+
+---
+
+## 5. China launches test direct-to-device satellites for multiple projects
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está pisando no acelerador para tornar realidade a propulsão nuclear elétrica. A agência busca simplificar o desenvolvimento de missões de demonstração que podem cortar drasticamente o tempo de viagem até Marte. É a inovação técnica que promete transformar nossa espécie em um povo verdadeiramente interplanetário.
+> A China acelera na corrida pela conectividade total. Com o lançamento de novos satélites experimentais de comunicação direta com smartphones, Pequim desafia abertamente o domínio ocidental e redefine as regras da infraestrutura de rede global a partir do espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/)
-
----
-
-## 3. Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Céu aberto para o turismo espacial: a Virgin Galactic trouxe a nave VSS Unity de volta aos voos operacionais. Mais do que levar civis ao limite do espaço, essa missão é o campo de testes crítico para a próxima geração de aviões espaciais da classe Delta, que prometem uma cadência de lançamentos sem precedentes na indústria.
-
-🔗 [Ler notícia completa](https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/)
-
----
-
-## 4. NASA Finds New Way Earth May Have Received Elements Needed for Life
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Uma nova descoberta científica revela que devemos nossa existência a Júpiter. Pesquisadores da NASA identificaram como o gigante gasoso atuou como um 'estilingue cósmico', arremessando elementos essenciais para a vida em direção à Terra primitiva. A descoberta redefine o que sabemos sobre a formação de mundos habitáveis.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/)
-
----
-
-## 5. Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Europa e a Amazon unem forças no próximo grande salto do foguete Ariane 6. O lançador usará propulsores atualizados para colocar em órbita 36 satélites da constelação de internet da Amazon. É uma movimentação de mercado colossal que testa a nova capacidade de carga pesada europeia contra o domínio das megaconstelações globais.
-
-🔗 [Ler notícia completa](https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/)
+🔗 [Ler notícia completa](https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/)
 
 ---
 

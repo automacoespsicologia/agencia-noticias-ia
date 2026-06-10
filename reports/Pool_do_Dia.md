@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 09/06/2026 11:57
+# 📥 Balde de Notícias Brutas - 10/06/2026 12:17
 
-Atualmente existem **315** notícias aguardando a curadoria do Editor.
+Atualmente existem **328** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2839,6 +2839,123 @@ Once below a shallow sea, Jabal al Fāyah now stands above the desert in the Uni
 Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
+
+---
+
+### Spaceport crunch reviving interest in sea-based launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/)
+
+---
+
+### After the launch: Why Europe’s space ambitions depend on what comes next
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/)
+
+---
+
+### NASA names crew for Artemis 3 mission to test lunar landers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/)
+
+---
+
+### Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/)
+
+---
+
+### BlackSky to accelerate broad-area collection work under NRO contract modification
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/)
+
+---
+
+### New Glenn forced an explosive rewrite for NASA’s plans to build a moon base
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/)
+
+---
+
+### Tyndall’s Trail of Bergs
+**Fonte:** Nasa News
+
+Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/)
+
+---
+
+### Flight Dynamics Research Facility Characteristics
+**Fonte:** Nasa News
+
+HomeCharacteristics The Flight Dynamics Research Facility (FDRF) is a large, subsonic wind tunnel with a vertical test section for conducting flight dynamics research for stability, controllability, free-fall and aircraft spin, and spin recovery testing of atmospheric vehicles. Characteristics Flight Dynamics Flight Research Aerosciences Evaluation and Test Capabilities...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/)
+
+---
+
+### Artemis III Crew Announced
+**Fonte:** Nasa News
+
+NASA astronaut Andre Douglas, ESA (European Space Agency) astronaut Luca Parmitano, and NASA astronauts Randy Bresnik and Frank Rubio take a photo together on June 9, 2026. The four were announced as the Artemis III crew. NASA&#8217;s Artemis III mission in low Earth orbit will test integrated operations between the Orion spacecraft and one or [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-crew-announced/)
+
+---
+
+### La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
+**Fonte:** Nasa News
+
+Read this release in English here. La NASA dio el martes otro paso hacia una de las misiones tripuladas más complejas de la historia reciente al ofrecer nuevos detalles sobre Artemis III y anunciar a los cuatro miembros principales de la tripulación y a un suplente para este vuelo de prueba. En 2027, la misión [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/)
+
+---
+
+### NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
+**Fonte:** Nasa News
+
+Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis&#160;III details and announced the four prime crew members and a backup for the test flight. The mission will undertake a series of challenging tests in Earth orbit in 2027, essential for Artemis IV, the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/)
+
+---
+
+### June 2026 Satellite Puzzler
+**Fonte:** Nasa News
+
+Your challenge is to tell us the location of the satellite image and why it is interesting....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/)
+
+---
+
+### NASA Knows: What Is Mass Distribution?
+**Fonte:** Nasa News
+
+This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and even to determine how luggage is loaded onto an airplane. Mass distribution can be a tricky thing to understand. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/)
 
 ---
 
