@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 10/06/2026 12:17
+# 📥 Balde de Notícias Brutas - 11/06/2026 12:40
 
-Atualmente existem **328** notícias aguardando a curadoria do Editor.
+Atualmente existem **343** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2257,15 +2257,6 @@ This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, featu
 
 ---
 
-### China launches test direct-to-device satellites for multiple projects
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/)
-
----
-
 ### Pretty in Pink
 **Fonte:** Nasa News
 
@@ -2725,15 +2716,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### Iceye raises 1 billion euros to expand SAR satellite systems
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/)
-
----
-
 ### Isar Aerospace raises 270 million euros for global launch expansion
 **Fonte:** Space News
 
@@ -2803,15 +2785,6 @@ Urban development, green spaces, and maritime activity converge in this Northern
 As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA will&#160;host an&#160;exhibit&#160;at FIFA Fan Festival™&#160;Houston where visitors can learn how research aboard the International Space Station benefits life on Earth&#160;and&#160;experience missio...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/)
-
----
-
-### Supersonic!
-**Fonte:** Nasa News
-
-On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/supersonic/)
 
 ---
 
@@ -2887,15 +2860,6 @@ Results from Artemis II’s science investigations will help support safe human 
 
 ---
 
-### New Glenn forced an explosive rewrite for NASA’s plans to build a moon base
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/)
-
----
-
 ### Tyndall’s Trail of Bergs
 **Fonte:** Nasa News
 
@@ -2932,15 +2896,6 @@ Read this release in English here. La NASA dio el martes otro paso hacia una de 
 
 ---
 
-### NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
-**Fonte:** Nasa News
-
-Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis&#160;III details and announced the four prime crew members and a backup for the test flight. The mission will undertake a series of challenging tests in Earth orbit in 2027, essential for Artemis IV, the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/)
-
----
-
 ### June 2026 Satellite Puzzler
 **Fonte:** Nasa News
 
@@ -2956,6 +2911,186 @@ Your challenge is to tell us the location of the satellite image and why it is i
 This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and even to determine how luggage is loaded onto an airplane. Mass distribution can be a tricky thing to understand. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/)
+
+---
+
+### ESA awards contract for next-generation radar imaging satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/)
+
+---
+
+### Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/)
+
+---
+
+### Missile defense in the age of saturation warfare
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/)
+
+---
+
+### Artemis 3 commander confident crew will be ready for 2027 mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/)
+
+---
+
+### House appropriators back $55.5 billion Space Force budget, omit reconciliation funds
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/)
+
+---
+
+### Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/)
+
+---
+
+### Spire to pursue space-based missile warning in partnership with German defense firm
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/)
+
+---
+
+### UK startup Applied Atomics to enter US market with focus on military space mobility
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/)
+
+---
+
+### Orbital raises $5 million to join orbital data center race
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/)
+
+---
+
+### LeoLabs deploys mobile space-tracking radar in Indo-Pacific 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/)
+
+---
+
+### Air Pollution’s Daily Pulse Over the Northeast
+**Fonte:** Nasa News
+
+The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/)
+
+---
+
+### Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!
+**Fonte:** Nasa News
+
+Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science – one centred around a defined science campaign (such as the recent boxwork campaign) and the other as we move […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/)
+
+---
+
+### NASA Awards Contract for Construction Services in California
+**Fonte:** Nasa News
+
+NASA has selected multiple small businesses for the Western Regional Multiple Award Construction Contract, which supports a broad range of facility enhancement, modernization, and sustainment work at NASA’s Armstrong Flight Research Center in Edwards, California, NASA’s Ames Research Center in California’s Silicon Valley, and other federal agencies in the region. The contract provides general cons...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/)
+
+---
+
+### NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems
+**Fonte:** Nasa News
+
+Abstracts are now being accepted for the session, which will take place at the 2027 AMS Annual Meeting....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/)
+
+---
+
+### NASA Equips Astronauts, Industry with Robotic Intelligence 
+**Fonte:** Nasa News
+
+As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration. However, robotic motion control requires complex technology and advances in features like robotic decision-making and object recognition. These are the challenges a Boulder, Colorado-based robotics company is [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/)
+
+---
+
+### Train Ride to NASA Kennedy for Artemis III Booster Segments
+**Fonte:** Nasa News
+
+The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/)
+
+---
+
+### NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’
+**Fonte:** Nasa News
+
+The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/)
+
+---
+
+### Jim Irons, Former Landsat Project Scientist, Wins Pecora Award
+**Fonte:** Nasa News
+
+Landsat’s Jim Irons won the prestigious William T. Pecora Award. Irons, now an emeritus scientist at NASA Goddard Space Flight Center, played an integral role in shaping the Landsat program into what it is today....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/)
+
+---
+
+### GLOBE Mission Earth Educators Participate in Land Cover Community of Practice
+**Fonte:** Nasa News
+
+During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of Practice led by NASA Langley Research Center to refine how students interact with NASA’s land cover data (MODIS, Landsat, and Sentinel-2)....
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/)
+
+---
+
+### NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation
+**Fonte:** Nasa News
+
+A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes. ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/)
 
 ---
 
