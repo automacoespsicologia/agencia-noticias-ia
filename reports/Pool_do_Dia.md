@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/06/2026 12:40
+# 📥 Balde de Notícias Brutas - 12/06/2026 12:14
 
-Atualmente existem **343** notícias aguardando a curadoria do Editor.
+Atualmente existem **363** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3091,6 +3091,186 @@ During the 2025-2026 school year, educators from the NASA Science Activation Pro
 A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes. ...
 
 🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/)
+
+---
+
+### In aerospace, AI isn’t replacing workers. It’s filling a shortage
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/)
+
+---
+
+### AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/)
+
+---
+
+### Vandenberg offers new launch site for small and medium rockets
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/)
+
+---
+
+### Understanding what’s next for orbital data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/understanding-whats-next-for-orbital-data-centers/)
+
+---
+
+### Senate NDAA backs plan to fold SDA, Space RCO into Space Force
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/)
+
+---
+
+### ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/)
+
+---
+
+### HyImpulse signs letter of intent with Oman’s spaceport
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/)
+
+---
+
+### Tilebox Launches Verifiable AI Workflows for Satellite Data
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/)
+
+---
+
+### K2 Space, Rocket Lab win key supplier roles in Space Force satcom program
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/)
+
+---
+
+### GEO cancellations complicate space insurance recovery
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/)
+
+---
+
+### Hubble Sees Swarm of Galaxies
+**Fonte:** Nasa News
+
+Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/)
+
+---
+
+### World Cup Fever in Guadalajara
+**Fonte:** Nasa News
+
+The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/)
+
+---
+
+### NASA Award Boosts Space Technology Research Capabilities
+**Fonte:** Nasa News
+
+NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the [&#823...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/)
+
+---
+
+### NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
+**Fonte:** Nasa News
+
+Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/)
+
+---
+
+### I Am Artemis: Elkin Norena
+**Fonte:** Nasa News
+
+Listen to this audio excerpt from Elkin Norena, resident management officer, NASA&#8217;s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/)
+
+---
+
+### NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors
+**Fonte:** Nasa News
+
+A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)
+
+---
+
+### Soccer Meets Space Science
+**Fonte:** Nasa News
+
+A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/soccer-meets-space-science/)
+
+---
+
+### NASA’s Career Technical Education Day Highlights Technical Careers
+**Fonte:** Nasa News
+
+At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementho...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/)
+
+---
+
+### NASA, USGS Scientists Go Rock Hounding in California’s High Desert
+**Fonte:** Nasa News
+
+Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The geologists weren’t searching for gem-grade treasure. Rather, the presence of topaz could hint at a more valuable [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/)
+
+---
+
+### NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit
+**Fonte:** Nasa News
+
+NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its science mission lifespan and advancing a key [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/)
 
 ---
 
