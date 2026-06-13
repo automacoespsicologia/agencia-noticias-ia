@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/06/2026 12:14
+# 📥 Balde de Notícias Brutas - 13/06/2026 11:11
 
-Atualmente existem **363** notícias aguardando a curadoria do Editor.
+Atualmente existem **370** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3271,6 +3271,69 @@ Equipped with rock picks and hand lenses, a team of geoscientists deployed to th
 NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its science mission lifespan and advancing a key [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/)
+
+---
+
+### SpaceX shares rise nearly 20% in historic IPO
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/)
+
+---
+
+### Avanti trims GEO exposure with Hylas-3 sale
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/)
+
+---
+
+### Astronomers fear orbital data centers will interfere with observations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/)
+
+---
+
+### All in on AI at Astra
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/all-in-on-ai-at-astra/)
+
+---
+
+### H3 successfully returns to flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/h3-successfully-returns-to-flight/)
+
+---
+
+### NASA to Cover 34th SpaceX Resupply Mission Space Station Departure
+**Fonte:** Nasa News
+
+NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/)
+
+---
+
+### Black Eye Galaxy
+**Fonte:** Nasa News
+
+This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/black-eye-galaxy/)
 
 ---
 
