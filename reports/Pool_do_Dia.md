@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/06/2026 11:11
+# 📥 Balde de Notícias Brutas - 14/06/2026 11:26
 
-Atualmente existem **370** notícias aguardando a curadoria do Editor.
+Atualmente existem **372** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3334,6 +3334,24 @@ NASA and its international partners are set to receive scientific research sampl
 This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/black-eye-galaxy/)
+
+---
+
+### Missile production push runs into solid rocket motor bottleneck
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/)
+
+---
+
+### Revised Artemis lunar lander plans take shape
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/)
 
 ---
 

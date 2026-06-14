@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 10/06/2026 12:18
+# 🚀 Relatório da Agência Espacial - 14/06/2026 11:27
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Supersonic!
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. SpaceX shares rise nearly 20% in historic IPO
+**Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O silêncio é o novo estrondo na aviação. A NASA acaba de quebrar a barreira do som com o experimental X-59, provando que voos supersônicos sem o estrondo sonoro destrutivo não são mais ficção, mas o futuro imediato das viagens comerciais rápidas.
+> O mercado financeiro global acaba de entrar em uma nova era com o histórico IPO da SpaceX. As ações da gigante de Elon Musk dispararam quase 20% logo na estreia, consolidando a empresa não apenas como líder técnica, mas como a potência econômica absoluta que dita o ritmo da nova economia espacial. O setor privado nunca viu tamanha movimentação de capital em órbita.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/supersonic/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/)
 
 ---
 
-## 2. Iceye raises 1 billion euros to expand SAR satellite systems
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 2. NASA names crew for Artemis 3 mission to test lunar landers
+**Fonte:** Space News | **Categoria:** Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de inteligência orbital atingiu um novo patamar de peso. A finlandesa Iceye levantou impressionantes 1 bilhão de euros para expandir sua frota de satélites de radar, consolidando a Europa como um polo de monitoramento global em tempo real sob qualquer condição climática.
+> A NASA deu o passo definitivo para o retorno à Lua ao anunciar oficialmente a tripulação da missão Artemis III. Com nomes confirmados para testar os novos módulos de pouso em 2027, a agência transforma o sonho do retorno lunar em um cronograma operacional de alta precisão. Esta é a seleção de elite que carregará a responsabilidade de restabelecer a presença humana em outro mundo.
 
-🔗 [Ler notícia completa](https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/)
 
 ---
 
-## 3. NASA Marches Toward Artemis III Mission in 2027, Names Crew Members
-**Fonte:** Nasa News | **Categoria:** Grandes Missões
+## 3. NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho de volta à Lua ganhou rostos oficiais. A NASA revelou a tripulação da missão Artemis 3, os astronautas que realizarão os testes críticos de sistemas em órbita antes do pouso histórico, marcando a transição definitiva do programa lunar para sua fase operacional mais complexa.
+> Em uma descoberta que pode redefinir a cosmologia, o Telescópio James Webb encontrou as evidências mais robustas até agora das chamadas 'Estrelas de Buraco Negro'. Os dados revelam como esses objetos colossais podem ter se formado no início do universo, resolvendo o mistério de como buracos negros supermassivos atingiram tamanhos recordes em tempo recorde após o Big Bang.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/)
 
 ---
 
-## 4. New Glenn forced an explosive rewrite for NASA’s plans to build a moon base
-**Fonte:** Space News | **Categoria:** Tecnologia e Segurança
+## 4. Russia is jamming GPS from space 
+**Fonte:** Space News | **Categoria:** Segurança Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Alerta vermelho na Blue Origin. Uma explosão durante testes estáticos com o foguete New Glenn forçou a NASA a reescrever planos inteiros para a logística da futura base lunar, expondo os riscos extremos e a volatilidade da nova economia espacial.
+> O alerta vermelho foi ligado na órbita baixa: novos relatórios técnicos confirmam que a Rússia está realizando interferências sistemáticas em sinais de GPS diretamente do espaço. A tática de jamming representa um salto perigoso na guerra eletrônica, ameaçando a infraestrutura de navegação global e transformando a resiliência de satélites na maior prioridade estratégica das potências atuais.
 
-🔗 [Ler notícia completa](https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/)
+🔗 [Ler notícia completa](https://spacenews.com/russia-is-jamming-gps-from-space/)
 
 ---
 
-## 5. China launches test direct-to-device satellites for multiple projects
+## 5. The Exploration Company completes drop test of Nyx capsule
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China acelera na corrida pela conectividade total. Com o lançamento de novos satélites experimentais de comunicação direta com smartphones, Pequim desafia abertamente o domínio ocidental e redefine as regras da infraestrutura de rede global a partir do espaço.
+> A autonomia espacial europeia ganhou um novo fôlego com o sucesso dos testes da cápsula Nyx. A startup The Exploration Company completou o teste crítico de queda do seu veículo reutilizável, provando que a tecnologia de transporte orbital de carga não é mais exclusividade das grandes agências governamentais. É o marco inicial de um novo player de peso na logística entre a Terra e a Lua.
 
-🔗 [Ler notícia completa](https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/)
+🔗 [Ler notícia completa](https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/)
 
 ---
 
