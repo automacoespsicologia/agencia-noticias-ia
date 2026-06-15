@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 14/06/2026 11:26
+# 📥 Balde de Notícias Brutas - 15/06/2026 15:10
 
-Atualmente existem **372** notícias aguardando a curadoria do Editor.
+Atualmente existem **375** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2491,15 +2491,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 
 ---
 
-### The Exploration Company completes drop test of Nyx capsule
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/)
-
----
-
 ### Axiom Space adds more than $175 million to funding round
 **Fonte:** Space News
 
@@ -2752,15 +2743,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### Russia is jamming GPS from space 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/russia-is-jamming-gps-from-space/)
-
----
-
 ### Quantum Space to go public in SPAC deal
 **Fonte:** Space News
 
@@ -2830,15 +2812,6 @@ Results from Artemis II’s science investigations will help support safe human 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/)
-
----
-
-### NASA names crew for Artemis 3 mission to test lunar landers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/)
 
 ---
 
@@ -3058,15 +3031,6 @@ The final booster motor segments for NASA’s SLS (Space Launch System) rocket t
 
 ---
 
-### NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’
-**Fonte:** Nasa News
-
-The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces. A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/)
-
----
-
 ### Jim Irons, Former Landsat Project Scientist, Wins Pecora Award
 **Fonte:** Nasa News
 
@@ -3274,15 +3238,6 @@ NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, Jun
 
 ---
 
-### SpaceX shares rise nearly 20% in historic IPO
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/)
-
----
-
 ### Avanti trims GEO exposure with Hylas-3 sale
 **Fonte:** Space News
 
@@ -3352,6 +3307,78 @@ This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composit
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/)
+
+---
+
+### DARPA to explore ways to rapidly rebuild satellite networks if attacked
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/)
+
+---
+
+### What’s the Best Way to Monetize Space Energy?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/whats-the-best-way-to-monetize-space-energy/)
+
+---
+
+### Sustained maneuver has a propulsion problem
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/)
+
+---
+
+### NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews
+**Fonte:** Nasa News
+
+NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the International Space Station as part of Expeditions 74/75. The virtual interviews will take place from the Gagarin Cosmonaut Training Center in Star City, Russia, and will stream live on [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/)
+
+---
+
+### San Francisco’s Patchwork Streets
+**Fonte:** Nasa News
+
+An astronaut aboard the International Space Station took this picture of downtown San Francisco and nearby communities&#160;on May 27, 2026. The image captures two of the region&#8217;s iconic bridges. The Golden Gate Bridge connects the northern San Francisco Peninsula with Marin County to the north, while the San Francisco-Oakland Bay Bridge spans the bay toward [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/)
+
+---
+
+### Experience the Launch of NASA’s Roman Space Telescope 
+**Fonte:** Nasa News
+
+Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!&#160;&#160; Digital creators and social media users are invited to register to our NASA Social for the Nancy [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/)
+
+---
+
+### Metrics
+**Fonte:** Nasa News
+
+Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nssc/metrics/)
+
+---
+
+### Pumice Rafts Encroach on Admiralty Islands
+**Fonte:** Nasa News
+
+Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/)
 
 ---
 
