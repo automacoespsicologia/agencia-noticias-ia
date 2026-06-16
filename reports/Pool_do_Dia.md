@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/06/2026 15:10
+# 📥 Balde de Notícias Brutas - 16/06/2026 13:25
 
-Atualmente existem **375** notícias aguardando a curadoria do Editor.
+Atualmente existem **387** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3379,6 +3379,114 @@ Services Catalog Click here to view the FY26 Services Catalog The catalogs provi
 Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/)
+
+---
+
+### A UN agency that works for US space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/a-un-agency-that-works-for-us-space/)
+
+---
+
+### Geospatial industry launches maritime initiative
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/geospatial-industry-launches-maritime-initiative/)
+
+---
+
+### Deep Space Network antenna mishap blamed on poor training and procedures
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/)
+
+---
+
+### Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/)
+
+---
+
+### Gilat to buy Comtech satcoms business six years after failed merger
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/)
+
+---
+
+### Space Force orders two more GPS satellites from Lockheed Martin for $514 million
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/)
+
+---
+
+### Nebraska’s Wide, Rolling Domain
+**Fonte:** Nasa News
+
+The Nebraska Sandhills—the largest system of sand dunes in the Western Hemisphere—stretch across about one-quarter of the state....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/)
+
+---
+
+### Explore JPL to Take Place Oct. 10, 11
+**Fonte:** Nasa News
+
+Celebrating&#160;its 90th&#160;anniversary&#160;this year,&#160;NASA’s Jet Propulsion Laboratory&#160;invites&#160;the public to its campus&#160;at&#160;the base of the San Gabriel Mountains&#160;in Southern California&#160;for an&#160;open-house event,&#160;Explore JPL. On Oct. 10 and 11, from&#160;9:30 a.m. to 4 p.m. PDT,&#160;visitors will get&#160;the chance to visit JPL’s most iconic faciliti...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/)
+
+---
+
+### NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions
+**Fonte:** Nasa News
+
+The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas. So when astronomers pointed NASA’s Chandra X-ray Observatory at the nearby galaxy Messier 83 (M83), they did not expect to find a population of supernova remnants, or the debris from these explosions, showing dramatic changes in their brightness. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/)
+
+---
+
+### NASA Astronauts to Answer Questions from New Jersey Students
+**Fonte:** Nasa News
+
+Students in New Jersey will hear from NASA astronauts Chris Williams and Jessica Meir as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 12:05 p.m. EDT, Thursday, June 18, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Newton Public Schools [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/)
+
+---
+
+### NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science
+**Fonte:** Nasa News
+
+Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardware, are heading back to research teams on Earth for further analysis, advancing NASA’s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/)
+
+---
+
+### Frontiers Forum Speaker Series
+**Fonte:** Nasa News
+
+Voices Shaping the Future of Space Members of the public are invited to join some of NASA’s brightest minds as they discuss agency missions and current topics in aerospace technology, science, and innovation. Each event will feature NASA experts, and the series will cover a range of topics including our search for life within the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/frontiers-forum-speaker-series/)
 
 ---
 
