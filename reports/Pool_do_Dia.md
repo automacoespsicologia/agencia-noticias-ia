@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/06/2026 13:25
+# 📥 Balde de Notícias Brutas - 17/06/2026 12:48
 
-Atualmente existem **387** notícias aguardando a curadoria do Editor.
+Atualmente existem **404** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3487,6 +3487,159 @@ Scientists await a big splash in the Pacific Ocean as one of the most research-p
 Voices Shaping the Future of Space Members of the public are invited to join some of NASA’s brightest minds as they discuss agency missions and current topics in aerospace technology, science, and innovation. Each event will feature NASA experts, and the series will cover a range of topics including our search for life within the [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/frontiers-forum-speaker-series/)
+
+---
+
+### China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/)
+
+---
+
+### Dawn Aerospace raises $25 million
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/dawn-aerospace-raises-25-million/)
+
+---
+
+### Look Up and Skynopy partner on automated satellite collision avoidance service
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/)
+
+---
+
+### June 25:  Golden Dome: How Could Sensors Protect the United States?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/golden-dome-sensors-event-june-25/)
+
+---
+
+### Astrobotic unveils Griffin-1 lunar lander
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/)
+
+---
+
+### Swiss decision to not contribute to Copernicus tests program’s value model
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/)
+
+---
+
+### The SpaceNews space unicorn tracker
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-unicorns-spacenews-billion-valuation/)
+
+---
+
+### Katalyst Space raises $12 million for GEO servicing demo mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/)
+
+---
+
+### PiLogic partners with Air Force lab to test satellite fault-prediction software
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/)
+
+---
+
+### Low Water at San Carlos Reservoir
+**Fonte:** Nasa News
+
+Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/)
+
+---
+
+### NASA’s Webb Catches Exoplanet Getting Roasted
+**Fonte:** Nasa News
+
+One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star. The research team is presenting their study and preliminary findings Tuesday at […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/)
+
+---
+
+### Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab
+**Fonte:** Nasa News
+
+Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/)
+
+---
+
+### NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation
+**Fonte:** Nasa News
+
+Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve over time. A globular star cluster typically has only […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/)
+
+---
+
+### NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade
+**Fonte:** Nasa News
+
+Astronauts aboard the International Space Station have switched on NASA’s newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technologies. By leveraging the unique environment of microgravity in space, the lab can accomplish cutting-edge science impossible to do anywhere else. Quantum [&#8230;...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/)
+
+---
+
+### NASA Uses Machine Learning to Enhance Flash Flood Warnings
+**Fonte:** Nasa News
+
+The Transient Artifact and Continuous Learning System (TACLS) leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods more efficiently....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/)
+
+---
+
+### Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge
+**Fonte:** Nasa News
+
+NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. Sponsored by the Administration for Strategic Preparedness and Response (ASPR), a division of the U.S. Department of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/)
+
+---
+
+### Aurora Australis
+**Fonte:** Nasa News
+
+The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/aurora-australis-7/)
 
 ---
 
