@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/06/2026 12:48
+# 📥 Balde de Notícias Brutas - 18/06/2026 12:20
 
-Atualmente existem **404** notícias aguardando a curadoria do Editor.
+Atualmente existem **415** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3640,6 +3640,105 @@ NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in th
 The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/aurora-australis-7/)
+
+---
+
+### Swift reboost mission ready for launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/swift-reboost-mission-ready-for-launch/)
+
+---
+
+### Blue Origin begins rebuilding New Glenn pad
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/)
+
+---
+
+### Quantum Space wins Pentagon contract to develop orbital refueling spacecraft
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/)
+
+---
+
+### Relativity Space to privately develop Mars orbiter mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/)
+
+---
+
+### Upgraded Ariane 6 launches Amazon Leo satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/)
+
+---
+
+### America’s next economic frontier is 240,000 miles away
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/)
+
+---
+
+### Hubble Glimpses Merging Galaxy Clusters
+**Fonte:** Nasa News
+
+This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight. Researchers […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/)
+
+---
+
+### El Niño Is Underway
+**Fonte:** Nasa News
+
+Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
+
+---
+
+### NASA Announces Public-Private Partnership to Advance Mars Science
+**Fonte:** Nasa News
+
+NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/)
+
+---
+
+### Search for Hidden Cosmic Companions in Sun’s Backyard
+**Fonte:** Nasa News
+
+Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Ages of astronomical objects are often hard to measure, but essential for understanding […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/)
+
+---
+
+### Hubble Sees Swarm of Galaxies
+**Fonte:** Nasa News
+
+Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hubble Space Telescope&#160;image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/)
 
 ---
 
