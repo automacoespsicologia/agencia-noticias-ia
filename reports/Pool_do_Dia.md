@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/06/2026 12:20
+# 📥 Balde de Notícias Brutas - 19/06/2026 12:42
 
-Atualmente existem **415** notícias aguardando a curadoria do Editor.
+Atualmente existem **434** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3739,6 +3739,177 @@ Some stars have planets. Others are orbited by brown dwarfs, balls of gas too ma
 Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hubble Space Telescope&#160;image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/)
+
+---
+
+### NASA selects mission to study space weather interaction with Earth’s atmosphere
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/)
+
+---
+
+### Chinese university-led mission to study asteroid Apophis during close encounter with Earth
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/)
+
+---
+
+### Mu-g Technologies enters the parabolic flight business
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/)
+
+---
+
+### Austrian propulsion startup joins sovereign space funding surge
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/)
+
+---
+
+### EQT to acquire Exolaunch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/eqt-to-acquire-exolaunch/)
+
+---
+
+### Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/)
+
+---
+
+### Chinese startup Spark Space tests engine, raises funds for electric-pump rocket
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/)
+
+---
+
+### A legacy to help solve the space workforce pipeline
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/a-legacy-to-help-solve-the-space-workforce-pipeline/)
+
+---
+
+### What the satellite servicing economy can borrow from carbon credits
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/)
+
+---
+
+### Boeing demonstrates quantum protocol in payload set for 2027 launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/)
+
+---
+
+### Tropical Storm Arthur
+**Fonte:** Nasa News
+
+The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/)
+
+---
+
+### Curiosity Blog, Sols 4920-4926: Surveying the Bands
+**Fonte:** Nasa News
+
+Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/)
+
+---
+
+### NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
+**Fonte:** Nasa News
+
+NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/)
+
+---
+
+### NASA Awards Contract for Commercial Satellite Data Acquisition
+**Fonte:** Nasa News
+
+NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/)
+
+---
+
+### From Suriname to Space: Rohit Goeptar Shares His Journey to NASA
+**Fonte:** Nasa News
+
+Rohit Goeptar was born into a poor family in Suriname, South America,&#160;the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/)
+
+---
+
+### Desert Field Test With NASA Advanced Rover Prototype
+**Fonte:** Nasa News
+
+Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/)
+
+---
+
+### NASA Testing Advanced Capabilities for Moon, Mars Rovers
+**Fonte:** Nasa News
+
+On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/)
+
+---
+
+### NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
+**Fonte:** Nasa News
+
+Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history. Formed as fragments coalesced after a violent collision 155 million years ago, the asteroid was transformed by the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
+
+---
+
+### Stages of Star Formation
+**Fonte:** Nasa News
+
+This image, captured by NASA&#8217;s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the Orion Nebula. Every stage of star formation — from the youngest stellar embryos to protoplanetary discs [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/stages-of-star-formation/)
 
 ---
 
