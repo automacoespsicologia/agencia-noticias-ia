@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/06/2026 12:42
+# 📥 Balde de Notícias Brutas - 20/06/2026 11:12
 
-Atualmente existem **434** notícias aguardando a curadoria do Editor.
+Atualmente existem **439** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3910,6 +3910,51 @@ Even small asteroids lead complex lives. During its flyby of the asteroid Donald
 This image, captured by NASA&#8217;s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the Orion Nebula. Every stage of star formation — from the youngest stellar embryos to protoplanetary discs [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/stages-of-star-formation/)
+
+---
+
+### India’s Jio lays out sovereign LEO constellation plan ahead of IPO
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/)
+
+---
+
+### MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/)
+
+---
+
+### ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/)
+
+---
+
+### Northrop Grumman says industry ready to scale solid rocket production, with longer contracts
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/)
+
+---
+
+### The MEO durability crisis: why LEO hardware will fail the new orbital economy 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/)
 
 ---
 

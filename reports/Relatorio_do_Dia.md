@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 14/06/2026 11:27
+# 🚀 Relatório da Agência Espacial - 20/06/2026 11:13
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceX shares rise nearly 20% in historic IPO
-**Fonte:** Space News | **Categoria:** Negócios
+## 1. Artemis III Crew Announced
+**Fonte:** Nasa News | **Categoria:** Exploração Humana
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado financeiro global acaba de entrar em uma nova era com o histórico IPO da SpaceX. As ações da gigante de Elon Musk dispararam quase 20% logo na estreia, consolidando a empresa não apenas como líder técnica, mas como a potência econômica absoluta que dita o ritmo da nova economia espacial. O setor privado nunca viu tamanha movimentação de capital em órbita.
+> A NASA acaba de revelar os rostos que carregarão o legado da humanidade de volta ao espaço profundo. A tripulação da Artemis III foi oficialmente anunciada, unindo veteranos e talentos internacionais para o voo que testará operações integradas em órbita lunar. É o passo final e mais crítico antes do aguardado pouso na superfície em 2027, consolidando uma nova era de cooperação global na exploração tripulada.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/artemis-iii-crew-announced/)
 
 ---
 
-## 2. NASA names crew for Artemis 3 mission to test lunar landers
-**Fonte:** Space News | **Categoria:** Exploração
+## 2. NASA Announces Public-Private Partnership to Advance Mars Science
+**Fonte:** Nasa News | **Categoria:** Mercado e Inovação
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA deu o passo definitivo para o retorno à Lua ao anunciar oficialmente a tripulação da missão Artemis III. Com nomes confirmados para testar os novos módulos de pouso em 2027, a agência transforma o sonho do retorno lunar em um cronograma operacional de alta precisão. Esta é a seleção de elite que carregará a responsabilidade de restabelecer a presença humana em outro mundo.
+> Marte não é mais um destino exclusivo de governos. Em uma parceria público-privada sem precedentes, a NASA selecionou a Relativity Space para liderar a missão científica Aeolus. O acordo é um marco para a indústria: a NASA entra com o cérebro científico, fornecendo os instrumentos, enquanto a Relativity assume a engenharia da nave e o lançamento, provando que o setor comercial agora tem autonomia para missões interplanetárias complexas.
 
-🔗 [Ler notícia completa](https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/)
 
 ---
 
-## 3. NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Em uma descoberta que pode redefinir a cosmologia, o Telescópio James Webb encontrou as evidências mais robustas até agora das chamadas 'Estrelas de Buraco Negro'. Os dados revelam como esses objetos colossais podem ter se formado no início do universo, resolvendo o mistério de como buracos negros supermassivos atingiram tamanhos recordes em tempo recorde após o Big Bang.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/)
-
----
-
-## 4. Russia is jamming GPS from space 
-**Fonte:** Space News | **Categoria:** Segurança Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O alerta vermelho foi ligado na órbita baixa: novos relatórios técnicos confirmam que a Rússia está realizando interferências sistemáticas em sinais de GPS diretamente do espaço. A tática de jamming representa um salto perigoso na guerra eletrônica, ameaçando a infraestrutura de navegação global e transformando a resiliência de satélites na maior prioridade estratégica das potências atuais.
-
-🔗 [Ler notícia completa](https://spacenews.com/russia-is-jamming-gps-from-space/)
-
----
-
-## 5. The Exploration Company completes drop test of Nyx capsule
+## 3. Quantum Space wins Pentagon contract to develop orbital refueling spacecraft
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A autonomia espacial europeia ganhou um novo fôlego com o sucesso dos testes da cápsula Nyx. A startup The Exploration Company completou o teste crítico de queda do seu veículo reutilizável, provando que a tecnologia de transporte orbital de carga não é mais exclusividade das grandes agências governamentais. É o marco inicial de um novo player de peso na logística entre a Terra e a Lua.
+> O Pentágono deu o sinal verde para o que pode ser a maior revolução logística da história orbital: o reabastecimento no vácuo. A Quantum Space venceu o contrato para desenvolver naves capazes de transferir combustível em órbita, resolvendo o problema da vida útil limitada dos satélites. Essa tecnologia transforma ativos espaciais estáticos em frotas dinâmicas e resilientes, mudando o jogo da defesa e da economia espacial.
 
-🔗 [Ler notícia completa](https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/)
+🔗 [Ler notícia completa](https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/)
+
+---
+
+## 4. NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O ponto mais frio do universo conhecido acaba de receber um upgrade de inteligência. O Cold Atom Lab, laboratório quântico da NASA na Estação Espacial Internacional, foi reativado com novos sensores de última geração. Ao manipular átomos em temperaturas próximas ao zero absoluto sob microgravidade, os cientistas agora têm uma ferramenta sem paralelo para desvendar os mistérios da física quântica e desenvolver as tecnologias de computação do futuro.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/)
+
+---
+
+## 5. MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O tabuleiro do mercado espacial global sofreu uma movimentação sísmica: a MDA Space anunciou a aquisição da Blue Canyon Technologies. Este movimento estratégico não é apenas uma compra de ativos, mas uma ofensiva agressiva da MDA para dominar o mercado norte-americano de pequenos satélites. É a prova de que a consolidação do setor está em ritmo acelerado, onde escala e integração vertical são as novas regras para a sobrevivência comercial.
+
+🔗 [Ler notícia completa](https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/)
 
 ---
 
