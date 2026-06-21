@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/06/2026 11:12
+# 📥 Balde de Notícias Brutas - 21/06/2026 11:42
 
-Atualmente existem **439** notícias aguardando a curadoria do Editor.
+Atualmente existem **435** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2851,15 +2851,6 @@ HomeCharacteristics The Flight Dynamics Research Facility (FDRF) is a large, sub
 
 ---
 
-### Artemis III Crew Announced
-**Fonte:** Nasa News
-
-NASA astronaut Andre Douglas, ESA (European Space Agency) astronaut Luca Parmitano, and NASA astronauts Randy Bresnik and Frank Rubio take a photo together on June 9, 2026. The four were announced as the Artemis III crew. NASA&#8217;s Artemis III mission in low Earth orbit will test integrated operations between the Orion spacecraft and one or [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-crew-announced/)
-
----
-
 ### La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
 **Fonte:** Nasa News
 
@@ -3607,15 +3598,6 @@ Researchers using two of humanity’s most powerful observatories — NASA’s J
 
 ---
 
-### NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade
-**Fonte:** Nasa News
-
-Astronauts aboard the International Space Station have switched on NASA’s newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technologies. By leveraging the unique environment of microgravity in space, the lab can accomplish cutting-edge science impossible to do anywhere else. Quantum [&#8230;...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/)
-
----
-
 ### NASA Uses Machine Learning to Enhance Flash Flood Warnings
 **Fonte:** Nasa News
 
@@ -3661,15 +3643,6 @@ The aurora australis arcs over Earth during an active solar event in this photog
 
 ---
 
-### Quantum Space wins Pentagon contract to develop orbital refueling spacecraft
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/)
-
----
-
 ### Relativity Space to privately develop Mars orbiter mission
 **Fonte:** Space News
 
@@ -3712,15 +3685,6 @@ This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+
 Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
-
----
-
-### NASA Announces Public-Private Partnership to Advance Mars Science
-**Fonte:** Nasa News
-
-NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/)
 
 ---
 
@@ -3922,15 +3886,6 @@ This image, captured by NASA&#8217;s James Webb Space Telescope and released on 
 
 ---
 
-### MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/)
-
----
-
 ### ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 **Fonte:** Space News
 
@@ -3955,6 +3910,15 @@ This image, captured by NASA&#8217;s James Webb Space Telescope and released on 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/)
+
+---
+
+### Astrobotic says sale to Voyager will allow it to scale up
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/)
 
 ---
 
