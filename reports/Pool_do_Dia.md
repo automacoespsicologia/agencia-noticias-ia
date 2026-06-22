@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/06/2026 11:42
+# 📥 Balde de Notícias Brutas - 22/06/2026 14:33
 
-Atualmente existem **435** notícias aguardando a curadoria do Editor.
+Atualmente existem **434** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3571,15 +3571,6 @@ Drought and water releases drained the Arizona reservoir to levels that have led
 
 ---
 
-### NASA’s Webb Catches Exoplanet Getting Roasted
-**Fonte:** Nasa News
-
-One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star. The research team is presenting their study and preliminary findings Tuesday at […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/)
-
----
-
 ### Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab
 **Fonte:** Nasa News
 
@@ -3649,15 +3640,6 @@ The aurora australis arcs over Earth during an active solar event in this photog
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/)
-
----
-
-### Upgraded Ariane 6 launches Amazon Leo satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/)
 
 ---
 
@@ -3787,15 +3769,6 @@ Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hu
 
 ---
 
-### Boeing demonstrates quantum protocol in payload set for 2027 launch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/)
-
----
-
 ### Tropical Storm Arthur
 **Fonte:** Nasa News
 
@@ -3847,15 +3820,6 @@ Rohit Goeptar was born into a poor family in Suriname, South America,&#160;the k
 Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/)
-
----
-
-### NASA Testing Advanced Capabilities for Moon, Mars Rovers
-**Fonte:** Nasa News
-
-On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/)
 
 ---
 
@@ -3913,12 +3877,39 @@ This image, captured by NASA&#8217;s James Webb Space Telescope and released on 
 
 ---
 
-### Astrobotic says sale to Voyager will allow it to scale up
+### America is about to cede Africa’s space industry to China, and nobody’s talking about it.
 **Fonte:** Space News
 
 ...
 
-🔗 [Link da Notícia](https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/)
+🔗 [Link da Notícia](https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/)
+
+---
+
+### Astroscale raises funding to support growth strategy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/)
+
+---
+
+### Signs of Thaw in the Bering Sea
+**Fonte:** Nasa News
+
+Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/)
+
+---
+
+### NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
+**Fonte:** Nasa News
+
+Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
 
 ---
 
