@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/06/2026 14:33
+# 📥 Balde de Notícias Brutas - 23/06/2026 11:56
 
-Atualmente existem **434** notícias aguardando a curadoria do Editor.
+Atualmente existem **448** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3910,6 +3910,132 @@ Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands an
 Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
+
+---
+
+### China appears to be developing 7-meter-diameter reusable rockets
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/)
+
+---
+
+### Report: U.S. needs framework for responding to hostile acts in space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/)
+
+---
+
+### NASA and Boeing still uncertain about when Starliner will return to flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/)
+
+---
+
+### Trump executive order directs NASA to plan quantum space applications
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/)
+
+---
+
+### Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/)
+
+---
+
+### Chinese spaceplane releases object into orbit, according to commercial space surveillance
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/)
+
+---
+
+### Rising Waters Swamp Lake Naivasha
+**Fonte:** Nasa News
+
+Relentless rains are threatening a lake in Kenya’s Great Rift Valley that has become a key hub in the global flower trade....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/)
+
+---
+
+### NASA Awards Solutions for Federal Enterprise Procurement Contracts
+**Fonte:** Nasa News
+
+NASA will begin processing the awards of multiple contracts for the Solutions for Enterprise‑wide Procurement (SEWP) VI Government-wide Acquisition Contract. The contract provides streamlined access to commercial products and services, including hardware, software, cloud services, cybersecurity tools, engineering and consulting services, and data intensive mission support capabilities. This compet...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/)
+
+---
+
+### NASA Sounding Rocket to Launch Student Experiments
+**Fonte:** Nasa News
+
+NASA’s Wallops Flight Facility in Virginia is scheduled to launch a sounding rocket carrying student-developed experiments for the agency’s RockSatX and RockOn programs Wednesday, June 24, between 5:30 and 9:30 a.m. EDT, with a backup day on Thursday, June 25. The RockSat and RockOn programs provide technical training and hands-on experiences that prepare and equip [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/wallops/nasa-sounding-rocket-to-launch-student-experiments/)
+
+---
+
+### NASA Invites Media to Botswana Artemis Accords Signing Ceremony
+**Fonte:** Nasa News
+
+The Republic of Botswana will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, June 25, at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Botswana’s Minister of Communications and Innovation David Tshere and U.S. Department of State Senior Advisor for Space Gregory Autry for the event. This event [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/)
+
+---
+
+### NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation
+**Fonte:** Nasa News
+
+At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms engineering concepts into mission‑ready hardware for research aircraft and technology development. This capability helps the agency deliver advancements that benefit the public by improving aviation safety, efficiency, an...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/)
+
+---
+
+### NASA’s Chandra Finds Possible Supernova Remnant
+**Fonte:** Nasa News
+
+Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant – seen in this June 11, 2026, image – in an intriguing neighborhood in the middle of the Milky Way galaxy. Supernova remnants are the expanding remains of exploded stars and provide elements like iron, oxygen, and silicon that are critical [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/)
+
+---
+
+### NASA to Cover US Spacewalk 95, Host Preview News Conference
+**Fonte:** Nasa News
+
+NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately 8:35 a.m. EDT. Experts from NASA and CSA (Canadian Space Agency) will preview the upcoming spacewalk during a news conference at 2 [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/)
+
+---
+
+### NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS
+**Fonte:** Nasa News
+
+As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its closest pass by the Sun, and its ancient ice had been converted […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/)
 
 ---
 
