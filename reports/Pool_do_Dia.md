@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/06/2026 11:56
+# 📥 Balde de Notícias Brutas - 24/06/2026 11:42
 
-Atualmente existem **448** notícias aguardando a curadoria do Editor.
+Atualmente existem **468** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4036,6 +4036,188 @@ NASA astronauts will venture outside the International Space Station on Tuesday,
 As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its closest pass by the Sun, and its ancient ice had been converted […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/)
+
+---
+
+### SpaceX launches secretive Starfall reentry demo mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/)
+
+---
+
+### NGSO trade association launches without industry giant SpaceX
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/)
+
+---
+
+### OHB raises funding for expansion, acquisitions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/)
+
+---
+
+### NASA’s inspector general warns launch sites nearing capacity
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/)
+
+---
+
+### Boeing wins $2 billion Space Force contract for communications satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/)
+
+---
+
+### Commercial Space Federation (CSF) Welcomes New Associate Member
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/)
+
+---
+
+### Ubotica raises $11 million to scale maritime-intelligence platform
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/)
+
+---
+
+### Sophia selects Apex bus for on-orbit computing demonstration
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/)
+
+---
+
+### Loft Orbital to test AI models on spacecraft for Earth observation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/)
+
+---
+
+### Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/)
+
+---
+
+### Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area
+**Fonte:** Nasa News
+
+By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/)
+
+---
+
+### Playing the Moon Game 
+**Fonte:** Nasa News
+
+Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/)
+
+---
+
+### NASA Names Sean Gallagher as Chief Information Officer
+**Fonte:** Nasa News
+
+NASA has selected Sean Gallagher as the agency’s chief information officer (CIO). In this role, he is responsible for the agency’s entire portfolio of Information Technology products and services. Gallagher has been serving in an acting capacity since January and his permanent role is effective immediately. “Sean Gallagher’s leadership has been instrumental in strengthening NASA’s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/)
+
+---
+
+### CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards
+**Fonte:** Nasa News
+
+Eight commercial data providers received contracts to provide a range of data in support of NASA’s Earth science priorities....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/)
+
+---
+
+### 58th Girl Scouts Unite Event
+**Fonte:** Nasa News
+
+58th Girl Scouts Unite Event, July 23-25, 2026 Join NASA in the Exhibit Hall (Booth #206) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. Thursday, July 23 11:00AM – 11:15 AMFrom Daisy to NASA EngineerBarbara Hilton11:15AM – 11:30 AMExploring Mars, The Planet Next DoorLindsay Hays11:30AM – 11:45 AMGet Ready With Me: Going to […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/58th-girl-scouts-unite-event/)
+
+---
+
+### 2026 ALA Hyperwall Schedule
+**Fonte:** Nasa News
+
+American Library Association (ALA) Annual Conference, June 25-29, 2026 Join NASA in the Exhibit Hall (Booth #2243) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. FRIDAY, JUNE 26 SATURDAY, JUNE 27 SUNDAY, JUNE 28 MONDAY, JUNE 29...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/)
+
+---
+
+### This is How NASA Flight Tests New Technology
+**Fonte:** Nasa News
+
+Flight tests are a big part of how NASA turns breakthrough ideas into reality. From flying humans faster than the speed of sound to proving designs that helped shape the space shuttle, flight testing transforms bold concepts into safer, more efficient technologies that benefit the public. “Flight tests are a way to safely and effectively [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/)
+
+---
+
+### Hanging in the Balance
+**Fonte:** Nasa News
+
+The Moon appears half-illuminated in this photo captured by the Artemis II crew on flight day 6. The terminator – the difference between light and darkness – provides a stark contrast and even greater perspective of the Moon&#8217;s rocky, uneven, and otherworldly surface features. The near side, which is what we can see from Earth, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hanging-in-the-balance/)
+
+---
+
+### ARMD Research Solicitations (Updated June 23)
+**Fonte:** Nasa News
+
+THIS PAGE WAS UPDATED ON JUNE 23, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Propo...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/armd-solicitations/)
+
+---
+
+### I Am Artemis: Jason Peterson
+**Fonte:** Nasa News
+
+Jason Peterson’s responsibilities for NASA’s Artemis II mission went beyond his usual role as the range operations manager at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. 
+
+Peterson credits his military experience with preparing him for the 12-to-16-hour workdays that helped bring the Artemis II test flight around the Moon and into view for audiences around the world....
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/)
 
 ---
 
