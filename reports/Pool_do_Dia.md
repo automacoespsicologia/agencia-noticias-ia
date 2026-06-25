@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/06/2026 11:42
+# 📥 Balde de Notícias Brutas - 25/06/2026 11:36
 
-Atualmente existem **468** notícias aguardando a curadoria do Editor.
+Atualmente existem **487** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4218,6 +4218,177 @@ Jason Peterson’s responsibilities for NASA’s Artemis II mission went beyond 
 Peterson credits his military experience with preparing him for the 12-to-16-hour workdays that helped bring the Artemis II test flight around the Moon and into view for audiences around the world....
 
 🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/)
+
+---
+
+### House Appropriations Committee approves $55.5 billion for U.S. Space Force
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/)
+
+---
+
+### Canceled NASA exploration projects suffered billions of dollars in overruns
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/)
+
+---
+
+### China schedules Long March 10B rocket launch and recovery attempt
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/)
+
+---
+
+### Space Force seeks fresh bidders for satellite-control antennas
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/)
+
+---
+
+### Shield Space and ClearSpace partner to defend satellites from orbital threats
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/)
+
+---
+
+### MDA Space wins contract for Radarsat replenishment satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/)
+
+---
+
+### Vast signs additional partners for commercial space station microgravity research
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/)
+
+---
+
+### York satellite demonstrates two-way UHF communications from low Earth orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/)
+
+---
+
+### How space weather could bust the AI boom
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/how-space-weather-could-bust-the-ai-boom/)
+
+---
+
+### Vantor selects BAE Systems to build next-generation imaging satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/)
+
+---
+
+### A Turquoise Tint for the Black Sea
+**Fonte:** Nasa News
+
+Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/)
+
+---
+
+### NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
+**Fonte:** Nasa News
+
+NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/)
+
+---
+
+### NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
+**Fonte:** Nasa News
+
+Seven&#160;weeks&#160;after&#160;the Orion spacecraft&#160;returned&#160;four&#160;astronauts from&#160;humanity’s&#160;first crewed journey around the Moon since Apollo,&#160;Artemis II&#160;Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how&#160;it is shaping NASA’s return to the lunar surface and future missions to Mars.&#160; Introduced by&#160;NASA’s John...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/)
+
+---
+
+### La NASA compartirá los últimos avances del programa Base Lunar
+**Fonte:** Nasa News
+
+Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isaacman, ofrecerá una conversación virtual el martes 30 de junio a las 2:30 p.m. EDT (hora del este) para compartir las novedades más recientes sobre los planes de la agencia para construir una base en la superficie de la Luna. El [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/)
+
+---
+
+### NASA to Share Latest Moon Base Mission Progress
+**Fonte:** Nasa News
+
+NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/)
+
+---
+
+### Roman Telescope Comes to Kennedy
+**Fonte:** Nasa News
+
+In this June 21, 2026, photo, NASA’s Nancy Grace Roman Space Telescope arrives at the agency’s Kennedy Space Center in Florida aboard NASA’s Pegasus barge. After offloading and transportation to the spaceport’s Payload Hazardous Servicing Facility, Roman will undergo processing ahead of launch, targeted no earlier than Sunday, Aug. 30, 2026. Named for NASA’s first [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/)
+
+---
+
+### NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
+**Fonte:** Nasa News
+
+Description NASA’s Perseverance rover appears as a green speck on the Martian surface on June 13, 2026, a day before the robotic explorer marked a distance milestone, having traveled a full marathon (26.2 miles, or 42.195 kilometers) on the Red Planet. Perseverance reached that distance after five years and four months of driving — on […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/)
+
+---
+
+### Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
+**Fonte:** Nasa News
+
+A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Space Agency) mission with NASA contributions, overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives astronomers a major jumpstart on a core Roman survey, helping scientists [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/)
+
+---
+
+### Career Spotlight: Electrician (Ages 14-18)
+**Fonte:** Nasa News
+
+What does an electrician do? Electricity powers the world, and electricians are the ones who get it where it needs to go. An electrician is an expert who is trained to make sure electrical systems and equipment are installed safely and working correctly. Electricians are involved in a variety of systems, including power, lighting, communications, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/)
 
 ---
 
