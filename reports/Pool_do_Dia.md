@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/06/2026 11:36
+# 📥 Balde de Notícias Brutas - 26/06/2026 11:42
 
-Atualmente existem **487** notícias aguardando a curadoria do Editor.
+Atualmente existem **500** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4389,6 +4389,123 @@ A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Spac
 What does an electrician do? Electricity powers the world, and electricians are the ones who get it where it needs to go. An electrician is an expert who is trained to make sure electrical systems and equipment are installed safely and working correctly. Electricians are involved in a variety of systems, including power, lighting, communications, [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/)
+
+---
+
+### Europe’s next security challenge is in orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/europes-next-security-challenge-is-in-orbit/)
+
+---
+
+### Rocket Lab wins NASA award for three Electron launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/)
+
+---
+
+### Weather Stream releases first light imagery from GEMS2 microwave radiometer
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/)
+
+---
+
+### Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/)
+
+---
+
+### Botswana signs the Artemis Accords
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/botswana-signs-the-artemis-accords/)
+
+---
+
+### Small satellite operators confront a bottleneck to space access
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/)
+
+---
+
+### Finding solutions to jamming and spoofing
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/finding-solutions-to-jamming-and-spoofing/)
+
+---
+
+### The Battle for Sullivan’s Island
+**Fonte:** Nasa News
+
+Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/)
+
+---
+
+### Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit 
+**Fonte:** Nasa News
+
+On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions&#160;possible.&#160; The Expedition 73 Welcome Home Ceremony brought together members of NASA’s SpaceX Crew-10, Soyuz MS-27, and NASA’s SpaceX Crew-11 missions. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/)
+
+---
+
+### NASA, US Small Business Administration to Announce Partnership
+**Fonte:** Nasa News
+
+NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump’s National Space Policy and supports the growth of the American space [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/)
+
+---
+
+### NASA Welcomes Botswana as 68th Artemis Accords Signatory  
+**Fonte:** Nasa News
+
+The Republic of Botswana signed the Artemis Accords&#160;Thursday&#160;during a ceremony&#160;hosted by NASA&#160;at the agency’s headquarters in Washington,&#160;becoming the&#160;sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Ac...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/)
+
+---
+
+### NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
+**Fonte:** Nasa News
+
+NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/)
+
+---
+
+### Millions of Stars in Cigar Galaxy
+**Fonte:** Nasa News
+
+NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA&#8217;s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy. Because Webb can see infrared light, it is able to peer through clouds of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/)
 
 ---
 
