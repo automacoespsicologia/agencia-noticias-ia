@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 26/06/2026 11:43
+# 🚀 Relatório da Agência Espacial - 27/06/2026 10:56
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Roman Telescope Comes to Kennedy
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. Isar Aerospace raises 270 million euros for global launch expansion
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O sucessor do James Webb acaba de dar um passo decisivo rumo ao cosmos. O telescópio Nancy Grace Roman já desembarcou no Kennedy Space Center para os preparativos finais de seu lançamento. Projetado para mapear o universo em uma escala sem precedentes, este gigante da astronomia promete desvendar os segredos da energia escura e localizar milhares de novos planetas no coração da nossa galáxia.
+> A Europa acelera na corrida orbital com um movimento financeiro de peso. A Isar Aerospace acaba de captar 270 milhões de euros em uma rodada de investimento massiva para expandir as operações globais do seu foguete Spectrum. O aporte consolida a startup alemã como a principal aposta do continente para garantir soberania no lançamento de satélites e desafiar o atual domínio das gigantes americanas.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/)
+🔗 [Ler notícia completa](https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/)
 
 ---
 
-## 2. Quantum Space to go public in SPAC deal
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 2. NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado financeiro orbital está fervendo com a notícia de que a Quantum Space vai abrir capital através de uma fusão bilionária. Especializada em naves de alta manobrabilidade e infraestrutura para o espaço profundo, a empresa agora acelera seus planos para transformar a região entre a Terra e a Lua no próximo grande polo econômico da humanidade.
+> Imagine planetas com a densidade de um algodão-doce. A missão TESS, da NASA, acaba de revelar a descoberta de dois novos exoplanetas gigantes que são os 'mais fofos' já registrados pela astronomia. Localizados em sistemas distantes, esses mundos do tamanho de Júpiter desafiam os modelos atuais de formação planetária e abrem uma nova janela para entendermos como atmosferas tão leves conseguem se manter em torno de estrelas distantes.
 
-🔗 [Ler notícia completa](https://spacenews.com/quantum-space-to-go-public-in-spac-deal/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/)
 
 ---
 
-## 3. Boeing wins $2 billion Space Force contract for communications satellites
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Boeing reafirma sua dominância no setor de defesa com um novo contrato de 2 bilhões de dólares junto à Força Espacial dos Estados Unidos. O acordo foca no desenvolvimento de uma nova geração de satélites de comunicação militar ultra-resilientes, sinalizando uma movimentação massiva de capital para garantir a soberania tecnológica em órbitas cada vez mais contestadas.
-
-🔗 [Ler notícia completa](https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/)
-
----
-
-## 4. NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb acaba de realizar uma autópsia química em um visitante de outro sistema estelar. Ao analisar o cometa interestelar 3I/ATLAS, cientistas obtiveram dados inéditos sobre a composição de mundos além do nosso Sol. É a ciência de ponta revelando que os blocos fundamentais da vida podem ser muito mais comuns no universo do que imaginávamos.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/)
-
----
-
-## 5. China schedules Long March 10B rocket launch and recovery attempt
+## 3. Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China está pronta para desafiar o monopólio da reutilização de foguetes. O programa espacial chinês agendou o primeiro teste de lançamento e recuperação vertical do Long March 10B. Esse avanço técnico é o 'divisor de águas' que o país buscava para reduzir drasticamente os custos de acesso à órbita e acelerar a construção de sua própria base lunar permanente.
+> A era do lançamento responsivo deu um passo decisivo. A Rocket Lab colocou em órbita o satélite para o exercício tático 'Victus Haze' da Força Espacial dos Estados Unidos. A missão demonstra uma capacidade técnica sem precedentes: a rapidez de integrar e lançar hardware militar em tempo recorde, provando que o setor privado agora é capaz de responder a ameaças espaciais quase em tempo real.
 
-🔗 [Ler notícia completa](https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/)
+🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/)
+
+---
+
+## 4. NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A miniaturização acaba de atingir um novo patamar na meteorologia espacial. O Jet Propulsion Laboratory da NASA apresentou o CloudCube, um radar multifrequência ultracompacto capaz de sondar o interior de nuvens com três sinais simultâneos. Essa inovação permite que satélites muito menores e mais baratos realizem o trabalho que antes exigia plataformas gigantescas, revolucionando a previsão de tempestades e o estudo do clima terrestre.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/)
+
+---
+
+## 5. Katalyst Space raises $12 million for GEO servicing demo mission
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O mercado de serviços em órbita está fervendo. A Katalyst Space levantou 12 milhões de dólares para viabilizar sua missão de demonstração Nexus, focada no conserto e abastecimento de satélites em órbita geoestacionária. É a transição definitiva do espaço como um 'depósito de lixo' para uma economia de manutenção e sustentabilidade, onde satélites de bilhões de dólares poderão ter suas vidas úteis estendidas por robôs de serviço.
+
+🔗 [Ler notícia completa](https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/)
 
 ---
 

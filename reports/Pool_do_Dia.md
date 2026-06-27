@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 26/06/2026 11:42
+# 📥 Balde de Notícias Brutas - 27/06/2026 10:54
 
-Atualmente existem **500** notícias aguardando a curadoria do Editor.
+Atualmente existem **507** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2743,15 +2743,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### Quantum Space to go public in SPAC deal
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/quantum-space-to-go-public-in-spac-deal/)
-
----
-
 ### San Francisco’s Metropolitan Mosaic
 **Fonte:** Nasa News
 
@@ -4030,15 +4021,6 @@ NASA astronauts will venture outside the International Space Station on Tuesday,
 
 ---
 
-### NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS
-**Fonte:** Nasa News
-
-As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its closest pass by the Sun, and its ancient ice had been converted […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/)
-
----
-
 ### SpaceX launches secretive Starfall reentry demo mission
 **Fonte:** Space News
 
@@ -4072,15 +4054,6 @@ As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/)
-
----
-
-### Boeing wins $2 billion Space Force contract for communications satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/)
 
 ---
 
@@ -4239,15 +4212,6 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
 
 ---
 
-### China schedules Long March 10B rocket launch and recovery attempt
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/)
-
----
-
 ### Space Force seeks fresh bidders for satellite-control antennas
 **Fonte:** Space News
 
@@ -4353,15 +4317,6 @@ Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isa
 NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/)
-
----
-
-### Roman Telescope Comes to Kennedy
-**Fonte:** Nasa News
-
-In this June 21, 2026, photo, NASA’s Nancy Grace Roman Space Telescope arrives at the agency’s Kennedy Space Center in Florida aboard NASA’s Pegasus barge. After offloading and transportation to the spaceport’s Payload Hazardous Servicing Facility, Roman will undergo processing ahead of launch, targeted no earlier than Sunday, Aug. 30, 2026. Named for NASA’s first [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/)
 
 ---
 
@@ -4506,6 +4461,114 @@ NASA has selected Rocket Lab to provide the launch service for both the agency�
 NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA&#8217;s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy. Because Webb can see infrared light, it is able to peer through clouds of [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/)
+
+---
+
+### Rocket Lab launches 10th Synspective satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/)
+
+---
+
+### Spain-backed fund joins FOSSA’s sovereign satellite communications push
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/)
+
+---
+
+### Starlink veterans launch startup to broaden megaconstellation ownership
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/)
+
+---
+
+### ISS repair spacewalk highlights concerns about station health
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/)
+
+---
+
+### NASA Announces Winners for 2026 Human Lander Challenge
+**Fonte:** Nasa News
+
+NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/)
+
+---
+
+### NASA Tests New Refuel Device for Future In-Space Refueling Missions
+**Fonte:** Nasa News
+
+For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/)
+
+---
+
+### Partners, NASA Ready for June Launch of Swift Boost Mission
+**Fonte:** Nasa News
+
+A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/)
+
+---
+
+### NASA Identifies More Than 40 Space Technologies for Collaboration
+**Fonte:** Nasa News
+
+NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar [&#82...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/)
+
+---
+
+### Euclid Sees Heart of Milky Way
+**Fonte:** Nasa News
+
+Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/)
+
+---
+
+### Bringing Signals to NASA
+**Fonte:** Nasa News
+
+Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/)
+
+---
+
+### NASA’s PACE Mission Studies Smoke, Fires
+**Fonte:** Nasa News
+
+With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/)
+
+---
+
+### Hubble Spies Starry Chandelier
+**Fonte:** Nasa News
+
+This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/)
 
 ---
 
