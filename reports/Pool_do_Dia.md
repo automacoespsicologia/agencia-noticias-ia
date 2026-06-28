@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/06/2026 10:54
+# 📥 Balde de Notícias Brutas - 28/06/2026 11:02
 
-Atualmente existem **507** notícias aguardando a curadoria do Editor.
+Atualmente existem **502** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2707,15 +2707,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### Isar Aerospace raises 270 million euros for global launch expansion
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/)
-
----
-
 ### Commercial launch providers shortlisted for China’s low-cost cargo spacecraft
 **Fonte:** Space News
 
@@ -3028,15 +3019,6 @@ Landsat’s Jim Irons won the prestigious William T. Pecora Award. Irons, now a
 During the 2025-2026 school year, educators from the NASA Science Activation Program’s GLOBE (Global Learning and Observation to Benefit the Environment) Mission Earth project participated in a specialized Community of Practice led by NASA Langley Research Center to refine how students interact with NASA’s land cover data (MODIS, Landsat, and Sentinel-2)....
 
 🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/)
-
----
-
-### NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation
-**Fonte:** Nasa News
-
-A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes. ...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/)
 
 ---
 
@@ -3535,15 +3517,6 @@ Voices Shaping the Future of Space Members of the public are invited to join som
 
 ---
 
-### Katalyst Space raises $12 million for GEO servicing demo mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/)
-
----
-
 ### PiLogic partners with Air Force lab to test satellite fault-prediction software
 **Fonte:** Space News
 
@@ -3940,15 +3913,6 @@ Even small asteroids lead complex lives. During its flyby of the asteroid Donald
 
 ---
 
-### Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/)
-
----
-
 ### Chinese spaceplane releases object into orbit, according to commercial space surveillance
 **Fonte:** Space News
 
@@ -4281,15 +4245,6 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
 Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/)
-
----
-
-### NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
-**Fonte:** Nasa News
-
-NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/)
 
 ---
 
