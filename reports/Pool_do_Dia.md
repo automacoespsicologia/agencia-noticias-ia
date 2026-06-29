@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/06/2026 11:02
+# 📥 Balde de Notícias Brutas - 29/06/2026 13:02
 
-Atualmente existem **502** notícias aguardando a curadoria do Editor.
+Atualmente existem **507** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4524,6 +4524,51 @@ With the North American fire season underway, and a record number of acres alrea
 This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/)
+
+---
+
+### Quantum computing is about to become a national security problem in orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/)
+
+---
+
+### Rocket Lab to acquire Iridium
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-to-acquire-iridium/)
+
+---
+
+### SatVu restarts commercial operations with HotSat-2
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/)
+
+---
+
+### Craft Prospect selected for The Sunday Times Scotland Fast 50
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/)
+
+---
+
+### China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/)
 
 ---
 
