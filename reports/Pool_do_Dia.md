@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/06/2026 13:02
+# 📥 Balde de Notícias Brutas - 30/06/2026 11:41
 
-Atualmente existem **507** notícias aguardando a curadoria do Editor.
+Atualmente existem **519** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4569,6 +4569,114 @@ This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 672
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/)
+
+---
+
+### Study argues bigger launch vehicles may not always be better
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/)
+
+---
+
+### ESA to seek lunar mapping capability for Argonaut lander
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/)
+
+---
+
+### Beck: Iridium acquisition the “logical next step” for Rocket Lab
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/)
+
+---
+
+### Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/)
+
+---
+
+### Ames Science Stars of the Month July 2026
+**Fonte:** Nasa News
+
+NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences [&#823...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/)
+
+---
+
+### Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge
+**Fonte:** Nasa News
+
+The Northwest Earth and Space Science Pathways (NESSP) project recently concluded its 2025–2026 ROADS (Rover Observation And Discoveries in Space) from Earth to Venus National Challenge, a NASA Science Activation program student challenge that engaged more than 500 students on 120 teams from eight states in authentic science and engineering experiences inspired by Venus exploration. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/)
+
+---
+
+### NASA, SBA Announce New Initiative to Scale American Space Economy 
+**Fonte:** Nasa News
+
+NASA and the U.S. Small Business Administration (SBA)&#160;launched&#160;the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and Mars.&#160; Under the Memorandum of Agreement, NASA will identify technology priorities and connect businesses...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/)
+
+---
+
+### NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
+**Fonte:** Nasa News
+
+For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics Research Facility (FDRF), the first major NASA wind tunnel built in more than 40 years. &#160; “The ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/)
+
+---
+
+### NASA Astronaut Chris Williams Preps for Spacewalk
+**Fonte:** Nasa News
+
+Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock. Williams will go on a spacewalk on June [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/)
+
+---
+
+### Mapping Earth’s Observations, featuring Betsy Ford
+**Fonte:** Nasa News
+
+NASA&#8217;s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It&#8217;s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio,...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/)
+
+---
+
+### NextSTEP-3 A: Lunar Enabling Technology
+**Fonte:** Nasa News
+
+Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29, 2026 – Draft BAA and Appendix A Issued &#124; News Release   NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.&#160; This solicitation seeks to close ke...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/)
+
+---
+
+### NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
+**Fonte:** Nasa News
+
+Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a dr...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
 
 ---
 
