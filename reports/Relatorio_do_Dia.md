@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 27/06/2026 10:56
+# 🚀 Relatório da Agência Espacial - 01/07/2026 11:58
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Isar Aerospace raises 270 million euros for global launch expansion
+## 1. Rocket Lab to acquire Iridium
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Europa acelera na corrida orbital com um movimento financeiro de peso. A Isar Aerospace acaba de captar 270 milhões de euros em uma rodada de investimento massiva para expandir as operações globais do seu foguete Spectrum. O aporte consolida a startup alemã como a principal aposta do continente para garantir soberania no lançamento de satélites e desafiar o atual domínio das gigantes americanas.
+> A Rocket Lab acaba de reescrever as regras do jogo espacial. Ao anunciar a aquisição da gigante das comunicações Iridium, a empresa de Peter Beck deixa de ser apenas uma fabricante de foguetes para se tornar uma potência verticalizada de serviços em órbita. É o movimento de mercado mais audacioso da década, unindo infraestrutura de lançamento a uma constelação global já estabelecida.
 
-🔗 [Ler notícia completa](https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/)
-
----
-
-## 2. NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Imagine planetas com a densidade de um algodão-doce. A missão TESS, da NASA, acaba de revelar a descoberta de dois novos exoplanetas gigantes que são os 'mais fofos' já registrados pela astronomia. Localizados em sistemas distantes, esses mundos do tamanho de Júpiter desafiam os modelos atuais de formação planetária e abrem uma nova janela para entendermos como atmosferas tão leves conseguem se manter em torno de estrelas distantes.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/)
+🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-to-acquire-iridium/)
 
 ---
 
-## 3. Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise
+## 2. NASA awards nearly $600 million in lunar lander missions
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A era do lançamento responsivo deu um passo decisivo. A Rocket Lab colocou em órbita o satélite para o exercício tático 'Victus Haze' da Força Espacial dos Estados Unidos. A missão demonstra uma capacidade técnica sem precedentes: a rapidez de integrar e lançar hardware militar em tempo recorde, provando que o setor privado agora é capaz de responder a ameaças espaciais quase em tempo real.
+> A infraestrutura da futura Base Lunar acaba de receber um impulso de 600 milhões de dólares. A NASA selecionou empresas como Astrobotic e Firefly para desenvolver módulos de pouso de carga e tecnologias essenciais de sobrevivência na superfície da Lua. O foco agora é 2028: transformar o satélite natural em um hub logístico e científico permanente.
 
-🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/)
-
----
-
-## 4. NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A miniaturização acaba de atingir um novo patamar na meteorologia espacial. O Jet Propulsion Laboratory da NASA apresentou o CloudCube, um radar multifrequência ultracompacto capaz de sondar o interior de nuvens com três sinais simultâneos. Essa inovação permite que satélites muito menores e mais baratos realizem o trabalho que antes exigia plataformas gigantescas, revolucionando a previsão de tempestades e o estudo do clima terrestre.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/)
 
 ---
 
-## 5. Katalyst Space raises $12 million for GEO servicing demo mission
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. Trump executive order directs NASA to plan quantum space applications
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de serviços em órbita está fervendo. A Katalyst Space levantou 12 milhões de dólares para viabilizar sua missão de demonstração Nexus, focada no conserto e abastecimento de satélites em órbita geoestacionária. É a transição definitiva do espaço como um 'depósito de lixo' para uma economia de manutenção e sustentabilidade, onde satélites de bilhões de dólares poderão ter suas vidas úteis estendidas por robôs de serviço.
+> O futuro da segurança em órbita agora é quântico. Uma nova ordem executiva direciona a NASA a priorizar o desenvolvimento de tecnologias quânticas no espaço, visando desde comunicações ultra-seguras até computação avançada fora da Terra. É a resposta estratégica dos Estados Unidos para garantir a soberania digital na fronteira final contra ameaças de última geração.
 
-🔗 [Ler notícia completa](https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/)
+🔗 [Ler notícia completa](https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/)
+
+---
+
+## 4. SpaceX launches secretive Starfall reentry demo mission
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A SpaceX colocou o sigilo em órbita com o lançamento da missão 'Starfall'. O teste secreto de tecnologia de reentrada visa demonstrar novos materiais e manobras térmicas que podem mudar como hardware militar e cargas sensíveis retornam do espaço. Enquanto os detalhes seguem sob confidencialidade, o impacto na sobrevivência de espaçonaves de próxima geração é imenso.
+
+🔗 [Ler notícia completa](https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/)
+
+---
+
+## 5. Relativity Space to privately develop Mars orbiter mission
+**Fonte:** Space News | **Categoria:** Exploração Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Marte não é mais exclusividade de agências governamentais. A Relativity Space anunciou que desenvolverá, de forma privada, uma missão de orbitador para o Planeta Vermelho. Pivotando de uma empresa focada em manufatura de foguetes para uma exploradora de espaço profundo, a startup busca estabelecer a infraestrutura de dados necessária para a futura chegada de humanos em solo marciano.
+
+🔗 [Ler notícia completa](https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/)
 
 ---
 

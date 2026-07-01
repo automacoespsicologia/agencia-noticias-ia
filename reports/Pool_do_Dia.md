@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 30/06/2026 11:41
+# 📥 Balde de Notícias Brutas - 01/07/2026 11:56
 
-Atualmente existem **519** notícias aguardando a curadoria do Editor.
+Atualmente existem **534** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4677,6 +4677,141 @@ Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29
 Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a dr...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
+
+---
+
+### Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/)
+
+---
+
+### The SpaceX IPO tells one story. Here is the more important one.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/)
+
+---
+
+### NASA awards nearly $600 million in lunar lander missions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/)
+
+---
+
+### TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/)
+
+---
+
+### Space Force fields mobile satellite-jamming system 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/)
+
+---
+
+### Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/)
+
+---
+
+### Vast names Isakowitz as a senior adviser
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/)
+
+---
+
+### SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/)
+
+---
+
+### Orbital files plans for 100,000 orbital data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/)
+
+---
+
+### NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th
+**Fonte:** Nasa News
+
+In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency explores. The images are accompanied by a trio of new sonifications – a technique that translates astronomical data into […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/)
+
+---
+
+### A Day of Flight Testing at NASA Armstrong
+**Fonte:** Nasa News
+
+Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/)
+
+---
+
+### La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades
+**Fonte:** Nasa News
+
+Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/)
+
+---
+
+### NextSTEP-3 B: Moon Base Demonstrations
+**Fonte:** Nasa News
+
+Notice ID: Coming Soon NASA&#8217;s Human Spaceflight Mission Directorate is seeking innovative ideas from industry partners through a new solicitation appendix under the NextSTEP-3 Omnibus Broad Agency Announcement. Appendix B: Moon Base Demonstrations calls for industry-led demonstrations, risk reduction, and special topic activities that enable an enduring human presence on the lunar surface. N...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/)
+
+---
+
+### NASA Awards More Moon Base Science, Previews New Opportunities
+**Fonte:** Nasa News
+
+Editor&#8217;s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover. NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as part of the agency’s Moon Base Program. Astrobotic, Firefly Aerospace, and Intuitive Machines will deliver [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/)
+
+---
+
+### Starry Chandelier Cluster
+**Fonte:** Nasa News
+
+This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/starry-chandelier-cluster/)
 
 ---
 
