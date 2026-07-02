@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 01/07/2026 11:56
+# 📥 Balde de Notícias Brutas - 02/07/2026 11:30
 
-Atualmente existem **534** notícias aguardando a curadoria do Editor.
+Atualmente existem **544** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3598,15 +3598,6 @@ The aurora australis arcs over Earth during an active solar event in this photog
 
 ---
 
-### Relativity Space to privately develop Mars orbiter mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/)
-
----
-
 ### America’s next economic frontier is 240,000 miles away
 **Fonte:** Space News
 
@@ -3904,15 +3895,6 @@ Even small asteroids lead complex lives. During its flyby of the asteroid Donald
 
 ---
 
-### Trump executive order directs NASA to plan quantum space applications
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/)
-
----
-
 ### Chinese spaceplane releases object into orbit, according to commercial space surveillance
 **Fonte:** Space News
 
@@ -3982,15 +3964,6 @@ Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a
 NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately 8:35 a.m. EDT. Experts from NASA and CSA (Canadian Space Agency) will preview the upcoming spacewalk during a news conference at 2 [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/)
-
----
-
-### SpaceX launches secretive Starfall reentry demo mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/)
 
 ---
 
@@ -4536,15 +4509,6 @@ This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 672
 
 ---
 
-### Rocket Lab to acquire Iridium
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-to-acquire-iridium/)
-
----
-
 ### SatVu restarts commercial operations with HotSat-2
 **Fonte:** Space News
 
@@ -4698,15 +4662,6 @@ Long-term lunar exploration requires technology, infrastructure, and operations 
 
 ---
 
-### NASA awards nearly $600 million in lunar lander missions
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/)
-
----
-
 ### TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report
 **Fonte:** Space News
 
@@ -4812,6 +4767,141 @@ Editor&#8217;s note: This release was updated on June 30, 2026, to clarify the e
 This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However, each ‘lightbulb’ in this chandelier is an individual star 27,000 light-years away in the constellation Sagittarius (the Archer). Globular clusters like NGC 6723 contain some of the oldest [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/starry-chandelier-cluster/)
+
+---
+
+### Final Atlas 5 Amazon Leo mission launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/)
+
+---
+
+### Report links Starliner problems to overconfidence and unrealistic schedules
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/)
+
+---
+
+### FCC to vote on satellite licensing overhaul July 22
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/)
+
+---
+
+### Unseen threats overhead: Drones endanger U.S. rocket launch sites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/)
+
+---
+
+### Vantor offers up-to-date imagery with WorldView 3D
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/)
+
+---
+
+### EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/)
+
+---
+
+### Latitude plans to conduct first launch from Oman
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/)
+
+---
+
+### What’s Up: July 2026 Skywatching Tips from NASA
+**Fonte:** Nasa News
+
+A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights Transcript An early morning hangout with the Moon and planets, a comet swings by, prime time for the Milky Way, and Saturn’s rings shine at a new angle. That’s What’s Up […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/)
+
+---
+
+### NASA’s Chandra Examines Milky Way at Arms’ Length
+**Fonte:** Nasa News
+
+A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/)
+
+---
+
+### NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
+**Fonte:** Nasa News
+
+NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet.&#160;Insights from this [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/)
+
+---
+
+### LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory
+**Fonte:** Nasa News
+
+A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, built by Katalyst Space, will blast [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/)
+
+---
+
+### NASA’s Webb Studies How Planet Survived Death of its Star
+**Fonte:** Nasa News
+
+NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/)
+
+---
+
+### Curiosity Blog, Sols 4934-4940: In the Land of the Polygons
+**Fonte:** Nasa News
+
+Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 26, 2026 There were two planning cycles over this span of sols. The Monday planning took place with Curiosity situated within a unit that from orbital imagery appeared light-toned, and from earlier rover positions appeared smooth. Reaching this unit, the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/)
+
+---
+
+### Caltech Welcomes Astrophysicist Ray Jayawardhana as New President
+**Fonte:** Nasa News
+
+Ray Jayawardhana begins his tenure today as the 10th president of the California Institute of Technology. His selection as Caltech’s president, and as the Sonja and William Davidow Presidential Chair and professor of astronomy, was announced Jan. 6. Jayawardhana succeeds Thomas Rosenbaum, who had served as Caltech’s president since 2014. Founded in 1891, Caltech manages [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/)
+
+---
+
+### NASA’s TESS Mission Finds Planetary System in New Way
+**Fonte:** Nasa News
+
+For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound world is a super-Jupiter orbiting far from its host star. “When TESS launched, no one expected it to ever be capable […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/)
 
 ---
 
