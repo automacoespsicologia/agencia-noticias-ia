@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 02/07/2026 11:30
+# 📥 Balde de Notícias Brutas - 03/07/2026 11:28
 
-Atualmente existem **544** notícias aguardando a curadoria do Editor.
+Atualmente existem **551** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4902,6 +4902,69 @@ Ray Jayawardhana begins his tenure today as the 10th president of the California
 For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound world is a super-Jupiter orbiting far from its host star. “When TESS launched, no one expected it to ever be capable […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/)
+
+---
+
+### Perovskite solar panel startup Verde Technologies shifts focus to space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/)
+
+---
+
+### Isar Aerospace to launch German-built Planet imaging satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/)
+
+---
+
+### Polish space tech company Sybilla Technologies secures funds to enter U.S. market
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/)
+
+---
+
+### Making satellite communications more resilient
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/making-satellite-communications-more-resilient/)
+
+---
+
+### NASA’s Artemis II Breaks Agency Streaming Record
+**Fonte:** Nasa News
+
+NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby, splashdown&#160;on&#160;NASA-owned&#160;platforms, including the 24/7 streams covering the mission and the Orion spacecraft&#160;views&#160;–&#160;demonstrating&#160;strong, sustained global enga...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/)
+
+---
+
+### Good Morning, Earth!
+**Fonte:** Nasa News
+
+NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets. Learn more about the orbiting laboratory. Image credit: NASA/Chris Williams...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/good-morning-earth/)
+
+---
+
+### NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
+**Fonte:** Nasa News
+
+NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/)
 
 ---
 
