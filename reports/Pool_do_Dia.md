@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/07/2026 11:28
+# 📥 Balde de Notícias Brutas - 04/07/2026 10:51
 
-Atualmente existem **551** notícias aguardando a curadoria do Editor.
+Atualmente existem **556** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4965,6 +4965,51 @@ NASA astronaut Chris Williams took this photo of an orbital sunrise from the Int
 NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/)
+
+---
+
+### GAO flags satellite costs, launch risks in Space Force portfolio
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/)
+
+---
+
+### Pegasus launches Swift reboost mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pegasus-launches-swift-reboost-mission/)
+
+---
+
+### Chinese satellite manufacturer Hongqing raises $191 million
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/)
+
+---
+
+### NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars
+**Fonte:** Nasa News
+
+Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/)
+
+---
+
+### NASA’s Hubble Spots Star-Spangled Cosmic Scene
+**Fonte:** Nasa News
+
+More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3)....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/)
 
 ---
 
