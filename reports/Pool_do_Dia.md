@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/07/2026 10:51
+# 📥 Balde de Notícias Brutas - 05/07/2026 11:01
 
-Atualmente existem **556** notícias aguardando a curadoria do Editor.
+Atualmente existem **557** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5010,6 +5010,15 @@ Blue and white stars shine brightly against crimson gas in this image from NASA�
 More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3)....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/)
+
+---
+
+### NASA’s Hubble Spies Stellar Sparkler for July 4th
+**Fonte:** Nasa News
+
+Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/)
 
 ---
 
