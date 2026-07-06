@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 05/07/2026 11:01
+# 📥 Balde de Notícias Brutas - 06/07/2026 12:42
 
-Atualmente existem **557** notícias aguardando a curadoria do Editor.
+Atualmente existem **562** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5019,6 +5019,51 @@ More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of 
 Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/)
+
+---
+
+### Connected Aircraft Fleet Set to Exceed 70,000 by 2035
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/)
+
+---
+
+### Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/)
+
+---
+
+### Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/)
+
+---
+
+### NASA and Small Business Administration partner on funding key space technologies
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/)
+
+---
+
+### Airbus to build Aeolus-2 wind-monitoring satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/)
 
 ---
 
