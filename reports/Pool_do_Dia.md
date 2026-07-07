@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/07/2026 12:42
+# 📥 Balde de Notícias Brutas - 07/07/2026 11:43
 
-Atualmente existem **562** notícias aguardando a curadoria do Editor.
+Atualmente existem **575** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5064,6 +5064,123 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/)
+
+---
+
+### SpaceX satellite wins test Pentagon’s commitment to competition
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/)
+
+---
+
+### Isar Aerospace signs agreement for Canadian launch site
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/)
+
+---
+
+### Blue Origin continues work on lunar landers during recovery from New Glenn explosion
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/)
+
+---
+
+### Iridium folds Aireon aviation safety service into Rocket Lab-bound business
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/)
+
+---
+
+### NASA adds three European firms to the commercial data program
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/)
+
+---
+
+### The term ‘dual-use’ is misleading and dangerous
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/)
+
+---
+
+### BAE microchip designed for strategic defense missions passes radiation test
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/)
+
+---
+
+### The World Cup From 250 Miles Up
+**Fonte:** Nasa News
+
+Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/)
+
+---
+
+### NASA Takes Flight For America’s 250th
+**Fonte:** Nasa News
+
+NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/)
+
+---
+
+### NASA Seeks Industry Input on Second Phase of Commercial Space Stations
+**Fonte:** Nasa News
+
+On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station. &#160;“NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/)
+
+---
+
+### NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+**Fonte:** Nasa News
+
+As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE la...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
+
+---
+
+### NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
+**Fonte:** Nasa News
+
+In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
+
+---
+
+### Examining Algal Blooms in Blue Mesa
+**Fonte:** Nasa News
+
+Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
 
 ---
 
