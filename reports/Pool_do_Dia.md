@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 07/07/2026 11:43
+# 📥 Balde de Notícias Brutas - 08/07/2026 10:59
 
-Atualmente existem **575** notícias aguardando a curadoria do Editor.
+Atualmente existem **589** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5181,6 +5181,132 @@ In new images from NASA’s James Webb Space Telescope to celebrate its fourth s
 Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
+
+---
+
+### Space Force adds Relativity, Impulse Space to national security launch program
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/)
+
+---
+
+### Skyroot prepares for first orbital launch attempt
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/)
+
+---
+
+### D-Orbit signs launch-services contract with ArkEdge Space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/)
+
+---
+
+### Orbit Fab hires new CEO and raises funding to support satellite refueling business
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/)
+
+---
+
+### Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/)
+
+---
+
+### Apolink makes contact with first relay satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/)
+
+---
+
+### Arianespace opens door to GEO rideshare opportunities from 2029
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/)
+
+---
+
+### SpaceX launches Transporter-17 amid concerns about rideshare program’s future
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/)
+
+---
+
+### Simera Sense to provide imagers for Canary Islands constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/)
+
+---
+
+### Cottonwood Fire Chars Utah
+**Fonte:** Nasa News
+
+The blaze burned more than 150 square miles and swept through parts of a ski resort....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/)
+
+---
+
+### NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+**Fonte:** Nasa News
+
+NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/)
+
+---
+
+### NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health
+**Fonte:** Nasa News
+
+Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/)
+
+---
+
+### Artemis II Crew and Apollo 14 Moon Tree
+**Fonte:** Nasa News
+
+In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA&#8217;s Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon tree of the loblolly pine species. The original Apollo Moon trees were grown from seeds carried aboard [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/)
+
+---
+
+### July 2026 Satellite Puzzler
+**Fonte:** Nasa News
+
+Your challenge is to tell us the location of the satellite image and why it is interesting....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
 
 ---
 
