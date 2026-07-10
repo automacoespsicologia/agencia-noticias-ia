@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/07/2026 10:59
+# 📥 Balde de Notícias Brutas - 10/07/2026 11:46
 
-Atualmente existem **589** notícias aguardando a curadoria do Editor.
+Atualmente existem **608** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5307,6 +5307,177 @@ In this photograph, the Artemis II crew participates in the dedication of the Ap
 Your challenge is to tell us the location of the satellite image and why it is interesting....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
+
+---
+
+### ElevationSpace advances work on commercial reentry vehicle
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/)
+
+---
+
+### China becomes second country to recover orbital booster with Long March 10B
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/)
+
+---
+
+### Interior Department requests information on offshore launch options
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/)
+
+---
+
+### SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/)
+
+---
+
+### The Exploration Company establishes US entity to pursue government contracts
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/)
+
+---
+
+### Environmental groups urge FCC to pause orbital data center applications
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/)
+
+---
+
+### Xona unveils program to verify Pulsar-compatible devices
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/)
+
+---
+
+### Volatility is often the price of ambition
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/volatility-is-often-the-price-of-ambition/)
+
+---
+
+### Maintaining leadership in space with Victoria Coleman
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/)
+
+---
+
+### Space Force completes procurement reorganization, creating nine acquisition portfolios
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/)
+
+---
+
+### Where Venezuela’s Earthquakes Shifted the Ground
+**Fonte:** Nasa News
+
+Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/)
+
+---
+
+### NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
+**Fonte:** Nasa News
+
+NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/)
+
+---
+
+### NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar
+**Fonte:** Nasa News
+
+For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/)
+
+---
+
+### Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data
+**Fonte:** Nasa News
+
+The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/)
+
+---
+
+### Curiosity Sees Martian Sulfur Up Close
+**Fonte:** Nasa News
+
+This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/)
+
+---
+
+### NASA Scientists Take to Air and Space to Study Arctic Sea Ice
+**Fonte:** Nasa News
+
+This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/)
+
+---
+
+### Super Typhoon Bavi
+**Fonte:** Nasa News
+
+The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/)
+
+---
+
+### Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion
+**Fonte:** Nasa News
+
+For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land tha...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/)
+
+---
+
+### Hubble Captures Star-Studded Cluster
+**Fonte:** Nasa News
+
+This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular clusters&#160;are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/)
 
 ---
 
