@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 10/07/2026 11:46
+# 📥 Balde de Notícias Brutas - 11/07/2026 10:11
 
-Atualmente existem **608** notícias aguardando a curadoria do Editor.
+Atualmente existem **618** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5478,6 +5478,96 @@ For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has alwa
 This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular clusters&#160;are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are ...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/)
+
+---
+
+### FCC approves first Reflect Orbital satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/)
+
+---
+
+### Earth observation satellites pass telecom in European space industry sales
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/)
+
+---
+
+### China unveils members of state-backed commercial space consortium
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/)
+
+---
+
+### The space industry is weighing ambitious hiring against heritage
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/)
+
+---
+
+### Startup testing nuclear battery technology in orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/)
+
+---
+
+### Space capitalism needs more than a bull market
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/)
+
+---
+
+### Early Career Faculty (ECF) 2025 Awards
+**Fonte:** Nasa News
+
+Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/)
+
+---
+
+### NASA Volunteers Help Zooniverse Reach 1 Billion Classifications
+**Fonte:** Nasa News
+
+The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/)
+
+---
+
+### NASA Photographer Captures Images from F-18 Over Washington
+**Fonte:** Nasa News
+
+NASA flight photographers capture history from a perspective few ever experience, getting a rare bird’s-eye view of the agency’s missions in action. Their photos document key NASA research and give the public a front-row seat to the work happening behind the scenes. Jim Ross, a photographer at NASA’s Armstrong Flight Research Center in Edwards, California, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/)
+
+---
+
+### Waxing Gibbous Moon
+**Fonte:** Nasa News
+
+The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/waxing-gibbous-moon-6/)
 
 ---
 
