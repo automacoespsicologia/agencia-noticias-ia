@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/07/2026 10:11
+# 📥 Balde de Notícias Brutas - 12/07/2026 10:22
 
-Atualmente existem **618** notícias aguardando a curadoria do Editor.
+Atualmente existem **614** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4554,15 +4554,6 @@ This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 672
 
 ---
 
-### Beck: Iridium acquisition the “logical next step” for Rocket Lab
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/)
-
----
-
 ### Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions
 **Fonte:** Space News
 
@@ -4977,15 +4968,6 @@ NASA’s James Webb Space Telescope has captured the infrared light of numerous 
 
 ---
 
-### Pegasus launches Swift reboost mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/pegasus-launches-swift-reboost-mission/)
-
----
-
 ### Chinese satellite manufacturer Hongqing raises $191 million
 **Fonte:** Space News
 
@@ -5037,15 +5019,6 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/)
-
----
-
-### Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/)
 
 ---
 
@@ -5319,15 +5292,6 @@ Your challenge is to tell us the location of the satellite image and why it is i
 
 ---
 
-### China becomes second country to recover orbital booster with Long March 10B
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/)
-
----
-
 ### Interior Department requests information on offshore launch options
 **Fonte:** Space News
 
@@ -5481,15 +5445,6 @@ This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#1
 
 ---
 
-### FCC approves first Reflect Orbital satellite
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/)
-
----
-
 ### Earth observation satellites pass telecom in European space industry sales
 **Fonte:** Space News
 
@@ -5568,6 +5523,15 @@ NASA flight photographers capture history from a perspective few ever experience
 The waxing gibbous moon is nestled in the darkness of space in this June 26, 2026, image from the International Space Station. The space station was 264 miles above the Indian Ocean southeast of Madagascar at the time. The waxing gibbous phase comes before the full moon phase. During this time, the Moon appears brighter [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/waxing-gibbous-moon-6/)
+
+---
+
+### Parabilis tests propulsion system for maneuverable cubesats
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/)
 
 ---
 
