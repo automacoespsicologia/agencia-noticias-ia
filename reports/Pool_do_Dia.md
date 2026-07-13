@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/07/2026 10:22
+# 📥 Balde de Notícias Brutas - 13/07/2026 11:56
 
-Atualmente existem **614** notícias aguardando a curadoria do Editor.
+Atualmente existem **611** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4437,15 +4437,6 @@ NASA has announced the top student-developed solutions for environmental control
 
 ---
 
-### NASA Tests New Refuel Device for Future In-Space Refueling Missions
-**Fonte:** Nasa News
-
-For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/)
-
----
-
 ### Partners, NASA Ready for June Launch of Swift Boost Mission
 **Fonte:** Nasa News
 
@@ -4578,15 +4569,6 @@ NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorat
 The Northwest Earth and Space Science Pathways (NESSP) project recently concluded its 2025–2026 ROADS (Rover Observation And Discoveries in Space) from Earth to Venus National Challenge, a NASA Science Activation program student challenge that engaged more than 500 students on 120 teams from eight states in authentic science and engineering experiences inspired by Venus exploration. […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/)
-
----
-
-### NASA, SBA Announce New Initiative to Scale American Space Economy 
-**Fonte:** Nasa News
-
-NASA and the U.S. Small Business Administration (SBA)&#160;launched&#160;the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and Mars.&#160; Under the Memorandum of Agreement, NASA will identify technology priorities and connect businesses...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/)
 
 ---
 
@@ -4761,15 +4743,6 @@ This image released on June 26, 2026, features the globular cluster NGC 6723, so
 
 ---
 
-### Final Atlas 5 Amazon Leo mission launches
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/)
-
----
-
 ### Report links Starliner problems to overconfidence and unrealistic schedules
 **Fonte:** Space News
 
@@ -4884,15 +4857,6 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 Ray Jayawardhana begins his tenure today as the 10th president of the California Institute of Technology. His selection as Caltech’s president, and as the Sonja and William Davidow Presidential Chair and professor of astronomy, was announced Jan. 6. Jayawardhana succeeds Thomas Rosenbaum, who had served as Caltech’s president since 2014. Founded in 1891, Caltech manages [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/)
-
----
-
-### NASA’s TESS Mission Finds Planetary System in New Way
-**Fonte:** Nasa News
-
-For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound world is a super-Jupiter orbiting far from its host star. “When TESS launched, no one expected it to ever be capable […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/)
 
 ---
 
@@ -5154,15 +5118,6 @@ In new images from NASA’s James Webb Space Telescope to celebrate its fourth s
 Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/)
-
----
-
-### Space Force adds Relativity, Impulse Space to national security launch program
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/)
 
 ---
 
@@ -5532,6 +5487,24 @@ The waxing gibbous moon is nestled in the darkness of space in this June 26, 202
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/)
+
+---
+
+### China lines up methalox Long March 10C as commercial workhorse after first booster recovery
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/)
+
+---
+
+### SpaceX gears up for Starship Flight 13
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-gears-up-for-starship-flight-13/)
 
 ---
 
