@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 13/07/2026 11:58
+# 🚀 Relatório da Agência Espacial - 14/07/2026 10:41
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. China lines up methalox Long March 10C as commercial workhorse after first booster recovery
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pela reutilização ganha um novo protagonista de peso. A China acaba de alinhar o Long March 10C como seu cavalo de batalha comercial após o sucesso inédito na recuperação de propulsores movidos a metano e oxigênio líquido. É o gigante asiático provando que a tecnologia Methalox e o pouso vertical de boosters agora são realidade também no oriente, desafiando o domínio técnico da SpaceX.
-
-🔗 [Ler notícia completa](https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/)
-
----
-
-## 2. LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Manutenção orbital saindo da ficção científica: a missão Katalyst está pronta para lançar a espaçonave robótica LINK em uma tarefa audaciosa. O objetivo é realizar um encontro orbital com o observatório Swift da NASA para elevar sua altitude e estender sua vida útil. Este é um marco para o setor de serviços em órbita, provando que satélites antigos podem ganhar fôlego novo com assistência robótica.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/)
-
----
-
-## 3. FAA requires mishap investigation into latest Starship launch
+## 1. European space industry watching SpaceX IPO plans
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Pausa forçada para o gigante Starship. A FAA acaba de exigir uma investigação oficial sobre o último lançamento do megafoguete da SpaceX, o que pode impactar severamente o cronograma de testes. Como peça-chave para o retorno da humanidade à Lua, cada dia de análise regulatória repercute em bilhões de dólares e na ansiedade de todo o ecossistema aeroespacial global.
+> O mercado financeiro global está em polvorosa com os sinais de que a SpaceX pode finalmente abrir seu capital. O potencial IPO da gigante de Elon Musk não é apenas uma movimentação bilionária; é o evento que pode redefinir como toda a indústria espacial europeia e americana competirá por investimentos na próxima década.
 
-🔗 [Ler notícia completa](https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/)
+🔗 [Ler notícia completa](https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/)
 
 ---
 
-## 4. Startup testing nuclear battery technology in orbit
+## 2. Orbital files plans for 100,000 orbital data centers
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Uma startup está quebrando tabus ao testar tecnologia de baterias nucleares diretamente no espaço. Enquanto a dependência de painéis solares limita as operações em zonas de sombra, essa inovação promete fornecer energia contínua e duradoura para satélites e sondas em missões de longa duração. Se validada, essa fonte de energia pode ser o segredo para a exploração sustentável do espaço profundo.
+> A computação em nuvem está deixando a Terra de forma definitiva. A startup Orbital registrou planos para instalar 100 mil centros de dados em órbita, uma infraestrutura massiva que promete processar inteligência artificial no vácuo e eliminar o gargalo de transmissão de dados entre o espaço e o solo.
 
-🔗 [Ler notícia completa](https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/)
+🔗 [Ler notícia completa](https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/)
 
 ---
 
-## 5. NASA Awards More Moon Base Science, Previews New Opportunities
-**Fonte:** Nasa News | **Categoria:** Mercado
+## 3. Voyager completes acquisition of Astrobotic
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O programa Moon Base da NASA dá um salto concreto com o anúncio de novos contratos milionários. Três empresas foram selecionadas para levar missões científicas à Lua em 2028, consolidando o satélite natural não apenas como destino de exploração, mas como um mercado ativo de infraestrutura. O foco agora é estabelecer uma presença humana duradoura, transformando a economia cislunar em realidade.
+> Consolidação de peso no setor lunar: a Voyager Space concluiu a aquisição da Astrobotic. Esta movimentação estratégica cria um novo titã espacial, unindo a capacidade de transporte lunar à infraestrutura de estações espaciais, verticalizando o suporte para a futura economia da superfície da Lua.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/)
+🔗 [Ler notícia completa](https://spacenews.com/voyager-completes-acquisition-of-astrobotic/)
+
+---
+
+## 4. NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O fim da era dos satélites descartáveis está próximo. A missão Katalyst está prestes a realizar uma manobra histórica de 'servicing' robótico para elevar a órbita do observatório Swift. Se bem-sucedida, essa tecnologia de manutenção em órbita poderá salvar bilhões de dólares em hardware que hoje seria considerado lixo espacial.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/)
+
+---
+
+## 5. NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um mistério de décadas acaba de ser resolvido pelos telescópios Hubble e Webb: a descoberta do 'elo perdido' dos buracos negros no aglomerado Omega Centauri. A detecção de um buraco negro de massa intermediária confirma teorias fundamentais sobre como esses monstros cósmicos evoluem e moldam o coração das galáxias.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/)
 
 ---
 

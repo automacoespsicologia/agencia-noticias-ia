@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/07/2026 11:56
+# 📥 Balde de Notícias Brutas - 14/07/2026 10:41
 
-Atualmente existem **611** notícias aguardando a curadoria do Editor.
+Atualmente existem **620** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1939,15 +1939,6 @@ In a precursor to Memorial Day, people in Charleston, South Carolina, honored fa
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/)
-
----
-
-### FAA requires mishap investigation into latest Starship launch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/)
 
 ---
 
@@ -4725,15 +4716,6 @@ Notice ID: Coming Soon NASA&#8217;s Human Spaceflight Mission Directorate is see
 
 ---
 
-### NASA Awards More Moon Base Science, Previews New Opportunities
-**Fonte:** Nasa News
-
-Editor&#8217;s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover. NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as part of the agency’s Moon Base Program. Astrobotic, Firefly Aerospace, and Intuitive Machines will deliver [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/)
-
----
-
 ### Starry Chandelier Cluster
 **Fonte:** Nasa News
 
@@ -4821,15 +4803,6 @@ A new result using NASA’s Chandra X-ray Observatory shows that the outer spira
 NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating under isolated conditions expected during crewed missions to the Moon or Red Planet.&#160;Insights from this [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/)
-
----
-
-### LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory
-**Fonte:** Nasa News
-
-A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean. A robotic servicing spacecraft called LINK, built by Katalyst Space, will blast [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/)
 
 ---
 
@@ -5427,15 +5400,6 @@ This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#1
 
 ---
 
-### Startup testing nuclear battery technology in orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/)
-
----
-
 ### Space capitalism needs more than a bull market
 **Fonte:** Space News
 
@@ -5490,21 +5454,138 @@ The waxing gibbous moon is nestled in the darkness of space in this June 26, 202
 
 ---
 
-### China lines up methalox Long March 10C as commercial workhorse after first booster recovery
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/)
-
----
-
 ### SpaceX gears up for Starship Flight 13
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/spacex-gears-up-for-starship-flight-13/)
+
+---
+
+### Flexell Space raises $20 Million in Series A round
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/)
+
+---
+
+### Defense spending lifts Europe’s space economy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/defense-spending-lifts-europes-space-economy/)
+
+---
+
+### L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/)
+
+---
+
+### Poland to host new ESA center as government boosts investments in space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/)
+
+---
+
+### Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/)
+
+---
+
+### Reditus Space completes first reentry vehicle
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/reditus-space-completes-first-reentry-vehicle/)
+
+---
+
+### Voyager completes acquisition of Astrobotic
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/voyager-completes-acquisition-of-astrobotic/)
+
+---
+
+### Getting ready for lunar planetary defense
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/getting-ready-for-lunar-planetary-defense/)
+
+---
+
+### Fans of the Arctic
+**Fonte:** Nasa News
+
+Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/)
+
+---
+
+### Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+**Fonte:** Nasa News
+
+Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit.  Leaving the polygonal […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/)
+
+---
+
+### NASA Study Points to Smoother Air Taxi Rides
+**Fonte:** Nasa News
+
+No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between comfort and willingness to fly. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/)
+
+---
+
+### NASA Astronaut Anil Menon
+**Fonte:** Nasa News
+
+NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA&#8217;s Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/)
+
+---
+
+### NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes
+**Fonte:** Nasa News
+
+Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/)
+
+---
+
+### Wild, Scenic, and Increasingly Rusty
+**Fonte:** Nasa News
+
+Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/)
 
 ---
 
