@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 14/07/2026 10:41
+# 📥 Balde de Notícias Brutas - 15/07/2026 10:44
 
-Atualmente existem **620** notícias aguardando a curadoria do Editor.
+Atualmente existem **627** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1816,15 +1816,6 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 
 ---
 
-### European space industry watching SpaceX IPO plans
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/)
-
----
-
 ### Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities
 **Fonte:** Space News
 
@@ -3181,15 +3172,6 @@ At NASA, remaining a global leader in exploration and innovation includes having
 Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The geologists weren’t searching for gem-grade treasure. Rather, the presence of topaz could hint at a more valuable [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/)
-
----
-
-### NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit
-**Fonte:** Nasa News
-
-NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will attempt to rendezvous with Swift and raise its altitude, extending its science mission lifespan and advancing a key [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/)
 
 ---
 
@@ -4671,15 +4653,6 @@ Long-term lunar exploration requires technology, infrastructure, and operations 
 
 ---
 
-### Orbital files plans for 100,000 orbital data centers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/)
-
----
-
 ### NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th
 **Fonte:** Nasa News
 
@@ -5517,15 +5490,6 @@ The waxing gibbous moon is nestled in the darkness of space in this June 26, 202
 
 ---
 
-### Voyager completes acquisition of Astrobotic
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/voyager-completes-acquisition-of-astrobotic/)
-
----
-
 ### Getting ready for lunar planetary defense
 **Fonte:** Space News
 
@@ -5571,21 +5535,120 @@ NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA&#8217;s Jo
 
 ---
 
-### NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes
-**Fonte:** Nasa News
-
-Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/)
-
----
-
 ### Wild, Scenic, and Increasingly Rusty
 **Fonte:** Nasa News
 
 Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/)
+
+---
+
+### Japan seeks to ramp up launch activity
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/)
+
+---
+
+### Isaacman attends Soyuz launch of ISS crew
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/)
+
+---
+
+### Space acquisition and NRO picks face SASC
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/)
+
+---
+
+### Antaris™ Establishes Aeonyx™ to Advance All-Domain Mission Virtualization for Defense
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/)
+
+---
+
+### U.K. government preparing to release new space strategy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/)
+
+---
+
+### Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now
+**Fonte:** Nasa News
+
+Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve been moving fairly rapidly through different mapped “units,” or distinct geological areas of interest, visiting a different one at each of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/)
+
+---
+
+### Heat Dome Broils the Western U.S.
+**Fonte:** Nasa News
+
+A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/)
+
+---
+
+### NASA Invites Media to Serbia Artemis Accords Signing Ceremony
+**Fonte:** Nasa News
+
+The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić and U.S. State Department&#160;Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley&#160;Brooks&#160;for the ceremony. Th...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/)
+
+---
+
+### NASA Astronaut Anil Menon, Crewmates Arrive at Space Station
+**Fonte:** Nasa News
+
+NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/)
+
+---
+
+### Hubble Sees Crimson Cloud and Stars
+**Fonte:** Nasa News
+
+Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s&#160;Hubble Space Telescope. LH 95 is a region in the&#160;Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/)
+
+---
+
+### NASA Jets Turn Red, White, and Blue
+**Fonte:** Nasa News
+
+In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft. &#160; An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/)
+
+---
+
+### NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
+**Fonte:** Nasa News
+
+Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/)
 
 ---
 
