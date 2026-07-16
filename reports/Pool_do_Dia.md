@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/07/2026 10:44
+# 📥 Balde de Notícias Brutas - 16/07/2026 10:54
 
-Atualmente existem **627** notícias aguardando a curadoria do Editor.
+Atualmente existem **640** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2815,15 +2815,6 @@ HomeCharacteristics The Flight Dynamics Research Facility (FDRF) is a large, sub
 
 ---
 
-### La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación
-**Fonte:** Nasa News
-
-Read this release in English here. La NASA dio el martes otro paso hacia una de las misiones tripuladas más complejas de la historia reciente al ofrecer nuevos detalles sobre Artemis III y anunciar a los cuatro miembros principales de la tripulación y a un suplente para este vuelo de prueba. En 2027, la misión [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/)
-
----
-
 ### June 2026 Satellite Puzzler
 **Fonte:** Nasa News
 
@@ -2839,15 +2830,6 @@ Your challenge is to tell us the location of the satellite image and why it is i
 This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and even to determine how luggage is loaded onto an airplane. Mass distribution can be a tricky thing to understand. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/)
-
----
-
-### ESA awards contract for next-generation radar imaging satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/)
 
 ---
 
@@ -3199,15 +3181,6 @@ Equipped with rock picks and hand lenses, a team of geoscientists deployed to th
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/all-in-on-ai-at-astra/)
-
----
-
-### H3 successfully returns to flight
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/h3-successfully-returns-to-flight/)
 
 ---
 
@@ -4779,15 +4752,6 @@ NASA is recruiting research participants for the agency’s next simulated deep 
 
 ---
 
-### NASA’s Webb Studies How Planet Survived Death of its Star
-**Fonte:** Nasa News
-
-NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/)
-
----
-
 ### Curiosity Blog, Sols 4934-4940: In the Land of the Polygons
 **Fonte:** Nasa News
 
@@ -5454,15 +5418,6 @@ The waxing gibbous moon is nestled in the darkness of space in this June 26, 202
 
 ---
 
-### L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/)
-
----
-
 ### Poland to host new ESA center as government boosts investments in space
 **Fonte:** Space News
 
@@ -5649,6 +5604,168 @@ In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got
 Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/)
+
+---
+
+### Swissto12 raises $70 million to accelerate small GEO satellite production
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/)
+
+---
+
+### Space Force awards Slingshot $69 million for AI-enabled training technology
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/)
+
+---
+
+### Saltzman’s farewell warning: Prepare for war in space to preserve peace
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/)
+
+---
+
+### Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/)
+
+---
+
+### Startup working with University of Texas focuses on trapping small debris
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/)
+
+---
+
+### Icarus Robotics taps KULR to provide batteries for Space Station robots
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/)
+
+---
+
+### Laying the groundwork for the first human mission to Mars
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/)
+
+---
+
+### Satellite investment sets annual record halfway through 2026
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/)
+
+---
+
+### Ontario Wildfire Smoke Moves East
+**Fonte:** Nasa News
+
+Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/)
+
+---
+
+### NASA Uses Subscale Aircraft to Accelerate Flight Innovation
+**Fonte:** Nasa News
+
+Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, supports this mission by using small, remotely piloted and autonomous aircraft as cost‑effective platforms to mature innovative ideas, accelerate learning, [&#823...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/)
+
+---
+
+### NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+**Fonte:** Nasa News
+
+A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/)
+
+---
+
+### How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
+**Fonte:** Nasa News
+
+Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future uncrewed demonstration missions at the Moon, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/)
+
+---
+
+### Anil Menon Launches to Space Station
+**Fonte:** Nasa News
+
+NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. The trio lifted off for the Soyuz MS-29 mission at 7:47 p.m. local [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/)
+
+---
+
+### Curiosity Finds Evidence of an Ancient Sandstorm
+**Fonte:** Nasa News
+
+Description Billions of years ago, an hours-long Martian sandstorm blew so intensely that sand ripples began to climb upon one another as they moved across the surface. These layers of sediment eventually hardened into the multilayered rocks seen in this image, which was taken by NASA’s Curiosity rover on Dec. 12, 2024, the 4,391st Martian […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/)
+
+---
+
+### NASA’s Perseverance Rover Provides Sweeping View of Broom Point
+**Fonte:** Nasa News
+
+Description This view looking back up at the outside lip of the 490-foot-tall (150-meter-tall) rim of Jezero Crater was taken by the Mastcam-Z instrument aboard NASA’s Perseverance on May 15, 2025, the 1,505th day, or sol, of the rover’s mission to Mars.   The bright-colored rocks exposed across the slope, running from middle left to middle right of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/)
+
+---
+
+### Perseverance’s Trip to ‘Broom Point’
+**Fonte:** Nasa News
+
+Description This orbital map shows the path NASA’s Perseverance Mars rover took to get to a location the science team has dubbed the “Broom Point member,” a sequence of layered bedrock likely more than 3.9 billion years old. As planned, the rover landed inside Jezero Crater on Feb. 18, 2021. It investigated the crater’s western delta […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/)
+
+---
+
+### NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts
+**Fonte:** Nasa News
+
+NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts. Referred to as the “Broom Point member” by the rover’s science team, this sequence of layered bedrock is likely more than 3.9 billion years old, making it among [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/)
+
+---
+
+### Volunteer Measures Record Louisiana Rainfall 
+**Fonte:** Nasa News
+
+Join a national community of precipitation reporters providing critical data to improve scientific understanding and forecasts....
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/)
 
 ---
 
