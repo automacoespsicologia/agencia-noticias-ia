@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/07/2026 10:54
+# 📥 Balde de Notícias Brutas - 17/07/2026 10:41
 
-Atualmente existem **640** notícias aguardando a curadoria do Editor.
+Atualmente existem **648** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4707,15 +4707,6 @@ This image released on June 26, 2026, features the globular cluster NGC 6723, so
 
 ---
 
-### EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/)
-
----
-
 ### Latitude plans to conduct first launch from Oman
 **Fonte:** Space News
 
@@ -4992,33 +4983,6 @@ Over the years, astronauts aboard the International Space Station have photograp
 NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what’s possible. From the earliest days of exploration, to the first steps on the Moon [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/)
-
----
-
-### NASA Seeks Industry Input on Second Phase of Commercial Space Stations
-**Fonte:** Nasa News
-
-On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in low Earth orbit from the International Space Station. &#160;“NASA’s review reflects what we’ve been hearing from industry throughout this process. Industry [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/)
-
----
-
-### NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
-**Fonte:** Nasa News
-
-As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment, or CAPSTONE, validated and advanced these capabilities. Designed to test and validate technologies in lunar orbit, CAPSTONE la...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
-
----
-
-### NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
-**Fonte:** Nasa News
-
-In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
 
 ---
 
@@ -5751,21 +5715,129 @@ Description This orbital map shows the path NASA’s Perseverance Mars rover too
 
 ---
 
-### NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts
-**Fonte:** Nasa News
-
-NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts. Referred to as the “Broom Point member” by the rover’s science team, this sequence of layered bedrock is likely more than 3.9 billion years old, making it among [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/)
-
----
-
 ### Volunteer Measures Record Louisiana Rainfall 
 **Fonte:** Nasa News
 
 Join a national community of precipitation reporters providing critical data to improve scientific understanding and forecasts....
 
 🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/)
+
+---
+
+### Serbia signs the Artemis Accords
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/serbia-signs-the-artemis-accords/)
+
+---
+
+### SpaceX aborts Starship Flight 13 launch attempt
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/)
+
+---
+
+### SpaceX launches 21 satellites for military data network 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/)
+
+---
+
+### Nature study identifies a new way to spot nuclear weapons in orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/)
+
+---
+
+### Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/)
+
+---
+
+### Building the infrastructure for a shifting space economy with Massi Ladovaz
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/)
+
+---
+
+### Trump’s pick to lead Space Force defends plan to more than double budget
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/)
+
+---
+
+### Office of Space Commerce makes its case for mission authorization
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/)
+
+---
+
+### Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/)
+
+---
+
+### A Tide-Fueled Trove of Biodiversity in Guinea-Bissau
+**Fonte:** Nasa News
+
+The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/)
+
+---
+
+### NASA Welcomes Serbia as Newest Artemis Accords Signatory 
+**Fonte:** Nasa News
+
+The Republic of Serbia signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency’s Headquarters in Washington, becoming the 69th nation to join a large community of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Serbia’s connection to NASA reaches back to the Apollo program, when the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/)
+
+---
+
+### NASA Study Finds Near-Earth Asteroid Is Actually Comet
+**Fonte:** Nasa News
+
+New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn’t revealed obvious cometlike activity, suggesting it might be [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/)
+
+---
+
+### Young Galaxy Cluster
+**Fonte:** Nasa News
+
+NASA&#8217;s James Webb Space Telescope takes us 4.4 billion years in the past with this July 3, 2026, image of a young galaxy cluster, MACS J0553.4-3342. The cluster is composed of two actively merging sub-clusters, roughly equal in mass. Each sub-cluster is anchored on an immensely bright and massive elliptical galaxy, easily identifiable as the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/young-galaxy-cluster/)
 
 ---
 

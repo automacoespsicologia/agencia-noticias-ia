@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 16/07/2026 10:54
+# 🚀 Relatório da Agência Espacial - 17/07/2026 10:42
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy
+## 1. Satellite investment sets annual record halfway through 2026
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Terremoto no setor de telecomunicações: as subsidiárias da EchoStar entraram com pedido de falência. O movimento sinaliza uma crise profunda nos modelos tradicionais de TV e wireless via satélite, forçando uma reestruturação agressiva para sobreviver à nova economia espacial e à concorrência das megaconstelações.
+> O dinheiro está jorrando para além da atmosfera. Novas estatísticas confirmam que o investimento global em satélites atingiu um recorde histórico apenas no primeiro semestre de 2026. Esse fluxo massivo de capital sinaliza que a infraestrutura orbital deixou de ser uma promessa futurista para se tornar a espinha dorsal da nova economia global, atraindo investidores institucionais que antes temiam o risco do vácuo.
 
-🔗 [Ler notícia completa](https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/)
+🔗 [Ler notícia completa](https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/)
 
 ---
 
-## 2. NASA Seeks Industry Input on Second Phase of Commercial Space Stations
+## 2. Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Energia sem fio vinda diretamente do céu: o que parecia ficção científica acaba de ganhar um roteiro comercial. O Departamento de Defesa dos Estados Unidos está convocando empresas privadas para viabilizar a transmissão de energia elétrica a partir do espaço. O objetivo é alimentar operações terrestres sem depender de cabos ou combustíveis fósseis, uma inovação técnica que pode revolucionar a logística militar e a sustentabilidade no nosso planeta.
+
+🔗 [Ler notícia completa](https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/)
+
+---
+
+## 3. NASA Study Finds Near-Earth Asteroid Is Actually Comet
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Crise de identidade no sistema solar! Um estudo da NASA acaba de revelar que um objeto monitorado há anos como um asteroide próximo à Terra é, na verdade, um cometa disfarçado. Graças ao rastreamento de ultraprecisão do Laboratório de Propulsão a Jato, os cientistas estão reescrevendo o mapa dos nossos vizinhos cósmicos, o que impacta diretamente nossas estratégias de defesa planetária.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/)
+
+---
+
+## 4. NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A era pós-Estação Espacial Internacional acaba de ganhar um cronograma claro. A NASA liberou as diretrizes para a segunda fase de estações espaciais comerciais, convocando empresas privadas para assumir a infraestrutura na órbita baixa da Terra e garantir que a presença humana no espaço não sofra interrupções após a aposentadoria da ISS.
+> Quarenta e dois quilômetros em solo alienígena: o rover Perseverance acaba de completar uma maratona completa em Marte. O marco histórico foi capturado por câmeras em órbita e prova a incrível durabilidade da engenharia robótica atual. Não é apenas uma distância percorrida; é a validação de que sistemas autônomos de exploração estão prontos para missões humanas de longa duração no Planeta Vermelho.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/)
-
----
-
-## 3. NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb celebra seu quarto aniversário de operações com uma descoberta monumental: uma colisão cósmica sem precedentes que redefiniu a estrutura de uma galáxia conhecida. A nova imagem revela detalhes térmicos e químicos que antes eram invisíveis, oferecendo uma aula sobre como o universo se reconstrói.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/)
 
 ---
 
-## 4. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 5. Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight
+**Fonte:** Space News | **Categoria:** Grandes Movimentações
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da navegação lunar está validado. A missão CAPSTONE encerrou seus testes estendidos com sucesso total, provando que é possível navegar e se comunicar de forma autônoma na órbita da Lua. Essa tecnologia é a espinha dorsal que permitirá às naves do programa Artemis operarem sem depender constantemente de comandos vindos da Terra.
+> A Blue Origin está acelerando o passo para quebrar o monopólio dos lançamentos pesados. A empresa de Jeff Bezos detalhou uma nova e agressiva estratégia operacional para o foguete New Glenn, focada em uma cadência de lançamentos sem precedentes. Com novas plataformas de suporte e uma infraestrutura revitalizada, a gigante aeroespacial sinaliza que a disputa pela hegemonia do acesso ao espaço profundo acaba de entrar em uma fase muito mais competitiva.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/)
-
----
-
-## 5. NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Marte acaba de revelar um passado muito mais violento. O rover Perseverance identificou uma sequência de rochas com 75 metros de espessura formada inteiramente por sucessivos impactos de asteroides na borda da Cratera Jezero. É uma descoberta científica crucial que muda nossa compreensão sobre a evolução geológica do planeta vermelho.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/)
+🔗 [Ler notícia completa](https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/)
 
 ---
 
