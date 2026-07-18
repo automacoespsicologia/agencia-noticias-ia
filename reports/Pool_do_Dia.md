@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/07/2026 10:41
+# 📥 Balde de Notícias Brutas - 18/07/2026 10:15
 
-Atualmente existem **648** notícias aguardando a curadoria do Editor.
+Atualmente existem **655** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4194,15 +4194,6 @@ NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. 
 
 ---
 
-### NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars
-**Fonte:** Nasa News
-
-Description NASA’s Perseverance rover appears as a green speck on the Martian surface on June 13, 2026, a day before the robotic explorer marked a distance milestone, having traveled a full marathon (26.2 miles, or 42.195 kilometers) on the Red Planet. Perseverance reached that distance after five years and four months of driving — on […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/)
-
----
-
 ### Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
 **Fonte:** Nasa News
 
@@ -4560,15 +4551,6 @@ Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29
 Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a dr...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
-
----
-
-### Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/)
 
 ---
 
@@ -5634,15 +5616,6 @@ Lee esta nota de prensa en español aquí. How do black holes at the center of 
 
 ---
 
-### Satellite investment sets annual record halfway through 2026
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/)
-
----
-
 ### Ontario Wildfire Smoke Moves East
 **Fonte:** Nasa News
 
@@ -5760,15 +5733,6 @@ Join a national community of precipitation reporters providing critical data to 
 
 ---
 
-### Defense Innovation Unit seeks commercial path to deliver electrical power from orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/)
-
----
-
 ### Building the infrastructure for a shifting space economy with Massi Ladovaz
 **Fonte:** Space News
 
@@ -5823,21 +5787,120 @@ The Republic of Serbia signed the Artemis Accords Thursday during a ceremony hos
 
 ---
 
-### NASA Study Finds Near-Earth Asteroid Is Actually Comet
-**Fonte:** Nasa News
-
-New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn’t revealed obvious cometlike activity, suggesting it might be [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/)
-
----
-
 ### Young Galaxy Cluster
 **Fonte:** Nasa News
 
 NASA&#8217;s James Webb Space Telescope takes us 4.4 billion years in the past with this July 3, 2026, image of a young galaxy cluster, MACS J0553.4-3342. The cluster is composed of two actively merging sub-clusters, roughly equal in mass. Each sub-cluster is anchored on an immensely bright and massive elliptical galaxy, easily identifiable as the [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/young-galaxy-cluster/)
+
+---
+
+### Skyroot Aerospace reaches orbit on first Vikram-1 launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/)
+
+---
+
+### NASA terminates Draper lunar lander mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/)
+
+---
+
+### SpaceX’s only problem is finding more space to work with
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/)
+
+---
+
+### NASA Pushes New Wing Design to Find Structural Limits
+**Fonte:** Nasa News
+
+NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/)
+
+---
+
+### The Growing Crescent of Mars as NASA’s Psyche Mission Approaches
+**Fonte:** Nasa News
+
+Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/)
+
+---
+
+### Establishing a VTE Risk Score for Astronauts Algorithm
+**Fonte:** Nasa News
+
+In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/)
+
+---
+
+### NASA Awards Facilities Support Services Contract for Ames Research Center 
+**Fonte:** Nasa News
+
+CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for&#160;NASA’s&#160;Ames Research Center&#160;in California’s Silicon Valley.&#160; The Ames Facilities Support Services II contract&#160;ensures that&#160;the center’s&#160;historic and specialized facilities are properly&#160;maintained, fully operational, ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/)
+
+---
+
+### NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula
+**Fonte:** Nasa News
+
+This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA&#8217;s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/)
+
+---
+
+### La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman
+**Fonte:** Nasa News
+
+Read this release in English here. Ya está abierto el plazo de acreditación de los medios de comunicación para el lanzamiento de la misión del telescopio espacial Nancy Grace Roman de la NASA. El lanzamiento del telescopio Roman está programado para no antes de las 7:20 a.m. (hora del este) del domingo 30 de agosto, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/)
+
+---
+
+### NASA Invites Media to Roman Space Telescope, Crew-13 Launches
+**Fonte:** Nasa News
+
+Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/)
+
+---
+
+### NASA’s Psyche Mission Images Details of Martian Surface During Flyby
+**Fonte:** Nasa News
+
+Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars.  Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/)
+
+---
+
+### NASA Welcomes Mauritius as 70th Artemis Accords Signatory  
+**Fonte:** Nasa News
+
+The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/)
 
 ---
 
