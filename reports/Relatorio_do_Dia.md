@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 18/07/2026 10:15
+# 🚀 Relatório da Agência Espacial - 19/07/2026 10:23
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Skyroot Aerospace reaches orbit on first Vikram-1 launch
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 1. NASA terminates Draper lunar lander mission
+**Fonte:** Space News | **Categoria:** Missão
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Índia acaba de consolidar sua posição na nova corrida espacial privada. A Skyroot Aerospace fez história ao colocar o foguete Vikram-1 em órbita pela primeira vez. Não é apenas um lançamento bem-sucedido; é o sinal definitivo de que o setor privado indiano agora é um player de elite, capaz de oferecer acesso orbital de baixo custo e alta tecnologia para o mercado global.
+> O sonho de um novo pouso lunar acaba de sofrer um duro golpe. A NASA encerrou oficialmente a missão do módulo de pouso da Draper, um revés inesperado para o programa de serviços comerciais lunares. A rescisão levanta dúvidas sobre a estabilidade das parcerias privadas da agência e força uma recontagem nos planos para levar cargas científicas ao polo sul da Lua.
 
-🔗 [Ler notícia completa](https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/)
+🔗 [Ler notícia completa](https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/)
 
 ---
 
-## 2. Astrobotic unveils Griffin-1 lunar lander
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 2. House Armed Services draft bill eliminates SDA, Space RCO as separate entities
+**Fonte:** Space News | **Categoria:** Política Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho para o polo sul lunar ganhou um novo protagonista de peso. A Astrobotic revelou oficialmente o Griffin-1, o módulo de pouso pesado que será o pilar logístico das próximas missões comerciais à Lua. Com engenharia validada para transportar cargas críticas, o Griffin-1 é a peça que faltava para transformar a exploração lunar em uma operação comercial sustentável.
+> Uma manobra política de alto impacto pode redesenhar o poder militar no vácuo. O comitê da Câmara dos Estados Unidos propôs a extinção da SDA e do Space RCO como entidades independentes, movendo-as para o núcleo da Força Espacial. A mudança promete centralizar aquisições, mas gera um debate acalorado sobre se a burocracia vai sufocar a agilidade que essas agências inovadoras trouxeram ao setor.
 
-🔗 [Ler notícia completa](https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/)
+🔗 [Ler notícia completa](https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/)
 
 ---
 
-## 3. NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation
+## 3. Curiosity Sees Martian Sulfur Up Close
 **Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça o que os livros didáticos diziam sobre a formação da nossa galáxia. Uma análise combinada dos telescópios Webb e Hubble revelou que o Terzan 5 não é um simples aglomerado estelar, mas um 'fóssil vivo' da própria fundação da Via Láctea. Essa descoberta redefine nossa compreensão sobre como as galáxias evoluem e comprova o poder da astronomia multiespectral de nova geração.
+> Marte acaba de revelar um segredo brilhante, e foi por puro acaso. Ao esmagar acidentalmente uma rocha, o rover Curiosity descobriu os primeiros cristais de enxofre puro já vistos no Planeta Vermelho. Essa descoberta geológica inesperada desafia os modelos climáticos anteriores e sugere que a história química de Marte é muito mais complexa e intrigante do que imaginávamos.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/)
-
----
-
-## 4. SpaceX satellite wins test Pentagon’s commitment to competition
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira entre o comercial e o militar nunca foi tão tênue. A SpaceX garantiu novos compromissos estratégicos com o Pentágono, consolidando a rede Starlink como infraestrutura essencial para a segurança nacional dos EUA. O movimento marca uma mudança sísmica no mercado de defesa, onde a agilidade das startups está vencendo os ciclos lentos das empreiteiras tradicionais.
-
-🔗 [Ler notícia completa](https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/)
 
 ---
 
-## 5. NASA Invites Media to Roman Space Telescope, Crew-13 Launches
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 4. Space Force triples launch contract ceiling amid rising demand
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA iniciou a contagem regressiva para o lançamento que promete ofuscar o legado do Hubble. O Telescópio Espacial Nancy Grace Roman já está em fase final de preparação para subir a bordo de um Falcon Heavy. Com um campo de visão cem vezes superior aos seus antecessores, essa missão é a maior aposta tecnológica da década para desvendar os segredos da energia escura e mapear o universo profundo.
+> O mercado de lançamentos espaciais está entrando em hipervelocidade. A Força Espacial dos EUA triplicou o teto de seus contratos de lançamento para acomodar uma demanda que não para de crescer. Esse movimento injeta bilhões de dólares no setor privado e sinaliza que a infraestrutura de defesa em órbita está sendo expandida em um ritmo nunca antes visto na história.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/)
+
+---
+
+## 5. Orbit Fab hires new CEO and raises funding to support satellite refueling business
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A era dos satélites descartáveis está com os dias contados. A startup Orbit Fab garantiu novos fundos para acelerar sua infraestrutura de reabastecimento em órbita, prometendo transformar naves espaciais em ativos reutilizáveis. É o início de uma economia de logística espacial que pode reduzir drasticamente os custos e o lixo em órbita, permitindo que satélites operem por décadas, não apenas anos.
+
+🔗 [Ler notícia completa](https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/)
 
 ---
 

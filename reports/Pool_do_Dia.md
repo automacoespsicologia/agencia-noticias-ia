@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/07/2026 10:15
+# 📥 Balde de Notícias Brutas - 19/07/2026 10:22
 
-Atualmente existem **655** notícias aguardando a curadoria do Editor.
+Atualmente existem **653** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3436,15 +3436,6 @@ Voices Shaping the Future of Space Members of the public are invited to join som
 
 ---
 
-### Astrobotic unveils Griffin-1 lunar lander
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/)
-
----
-
 ### Swiss decision to not contribute to Copernicus tests program’s value model
 **Fonte:** Space News
 
@@ -3487,15 +3478,6 @@ Drought and water releases drained the Arizona reservoir to levels that have led
 Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/)
-
----
-
-### NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation
-**Fonte:** Nasa News
-
-Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve over time. A globular star cluster typically has only […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/)
 
 ---
 
@@ -4887,15 +4869,6 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 
 ---
 
-### SpaceX satellite wins test Pentagon’s commitment to competition
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/)
-
----
-
 ### Isar Aerospace signs agreement for Canadian launch site
 **Fonte:** Space News
 
@@ -5796,15 +5769,6 @@ NASA&#8217;s James Webb Space Telescope takes us 4.4 billion years in the past w
 
 ---
 
-### Skyroot Aerospace reaches orbit on first Vikram-1 launch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/)
-
----
-
 ### NASA terminates Draper lunar lander mission
 **Fonte:** Space News
 
@@ -5877,15 +5841,6 @@ Read this release in English here. Ya está abierto el plazo de acreditación de
 
 ---
 
-### NASA Invites Media to Roman Space Telescope, Crew-13 Launches
-**Fonte:** Nasa News
-
-Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/)
-
----
-
 ### NASA’s Psyche Mission Images Details of Martian Surface During Flyby
 **Fonte:** Nasa News
 
@@ -5901,6 +5856,33 @@ Description Captured by the multispectral imager instrument on NASA’s Psyche m
 The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/)
+
+---
+
+### Mauritius becomes 70th nation to sign the Artemis Accords
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/)
+
+---
+
+### Space Force triples launch contract ceiling amid rising demand
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/)
+
+---
+
+### Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/)
 
 ---
 
