@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/07/2026 10:22
+# 📥 Balde de Notícias Brutas - 20/07/2026 11:40
 
-Atualmente existem **653** notícias aguardando a curadoria do Editor.
+Atualmente existem **649** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1930,15 +1930,6 @@ In a precursor to Memorial Day, people in Charleston, South Carolina, honored fa
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/)
-
----
-
-### House Armed Services draft bill eliminates SDA, Space RCO as separate entities
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/)
 
 ---
 
@@ -4968,15 +4959,6 @@ Using satellite data, researchers connected harmful algal blooms with warm water
 
 ---
 
-### Orbit Fab hires new CEO and raises funding to support satellite refueling business
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/)
-
----
-
 ### Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs
 **Fonte:** Space News
 
@@ -5181,15 +5163,6 @@ For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetr
 The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications....
 
 🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/)
-
----
-
-### Curiosity Sees Martian Sulfur Up Close
-**Fonte:** Nasa News
-
-This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/)
 
 ---
 
@@ -5769,15 +5742,6 @@ NASA&#8217;s James Webb Space Telescope takes us 4.4 billion years in the past w
 
 ---
 
-### NASA terminates Draper lunar lander mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/)
-
----
-
 ### SpaceX’s only problem is finding more space to work with
 **Fonte:** Space News
 
@@ -5868,21 +5832,21 @@ The Republic of Mauritius has officially joined the global coalition committed t
 
 ---
 
-### Space Force triples launch contract ceiling amid rising demand
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/)
-
----
-
 ### Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/)
+
+---
+
+### AI rocket engine startup LegendSpace raises $29.5 million angel round
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/)
 
 ---
 
