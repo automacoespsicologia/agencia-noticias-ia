@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/07/2026 11:40
+# 📥 Balde de Notícias Brutas - 21/07/2026 11:03
 
-Atualmente existem **649** notícias aguardando a curadoria do Editor.
+Atualmente existem **661** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5847,6 +5847,114 @@ The Republic of Mauritius has officially joined the global coalition committed t
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/)
+
+---
+
+### Agile Space Industries Appoints new CTO and Board member.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/)
+
+---
+
+### KBR organizes defense technology business to pursue Golden Dome work
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/)
+
+---
+
+### IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/)
+
+---
+
+### Italian startup ORiS raises funding for laser power-beaming technology
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/)
+
+---
+
+### Pipelines to payloads: risk management lessons for the space economy
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/)
+
+---
+
+### Why Maine’s Sandy Shorelines Turn Jagged
+**Fonte:** Nasa News
+
+Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/)
+
+---
+
+### NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station
+**Fonte:** Nasa News
+
+NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/)
+
+---
+
+### NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
+**Fonte:** Nasa News
+
+An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/)
+
+---
+
+### New NASA Earth Missions Gear Up to Start Science Flights  
+**Fonte:** Nasa News
+
+The first of six new airborne campaigns will hit the skies this summer....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/)
+
+---
+
+### From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
+**Fonte:** Nasa News
+
+Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration. Behind that achievement was a team at NASA’s Langley Research Center in Hampton, Virginia, whose steady leadership and technical expertise helped turn an ambitious idea into a mission that reshaped how we [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/)
+
+---
+
+### Our First View of the Surface of Mars
+**Fonte:** Nasa News
+
+“Touchdown, we have touchdown!” At 5:12 a.m. PDT, July 20, 1976, mission controllers at NASA’s Jet Propulsion Laboratory erupted in cheers as they learned that the Viking 1 lander had survived its descent through the thin Martian atmosphere. Forty minutes later, the lander’s first image began to appear on their monitors, slowly forming line by [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/)
+
+---
+
+### Shaping the Emerald City
+**Fonte:** Nasa News
+
+The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/)
 
 ---
 
