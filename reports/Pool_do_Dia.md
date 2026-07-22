@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/07/2026 11:03
+# 📥 Balde de Notícias Brutas - 22/07/2026 11:04
 
-Atualmente existem **661** notícias aguardando a curadoria do Editor.
+Atualmente existem **679** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5955,6 +5955,168 @@ Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landi
 The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/)
+
+---
+
+### Artemis 2 astronaut advocates for equatorial lunar landings
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/)
+
+---
+
+### Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/)
+
+---
+
+### Zenno Astronautics to relocate to the United States
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/)
+
+---
+
+### SpaceX launches Northrop mission to extend the life of aging satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/)
+
+---
+
+### Northrop adds to charges on Vulcan solid rocket motor program
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/)
+
+---
+
+### Commercial Space Federation (CSF) Welcomes Three New Associate Members
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/)
+
+---
+
+### UK and Florida commit $400,000 to joint space projects
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/)
+
+---
+
+### German component supplier deltaVision raises 10.2 million euros
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/)
+
+---
+
+### A Week of Smoky Skies Across North America
+**Fonte:** Nasa News
+
+Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/)
+
+---
+
+### NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica
+**Fonte:** Nasa News
+
+Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/)
+
+---
+
+### NASA to Host Media Briefing on Roman Telescope, Launching Next Month
+**Fonte:** Nasa News
+
+Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from the agency’s Kennedy Space Center in Florida on Sunday, Aug. 30. NASA will stream this event live through a variety of platforms. Learn where [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/)
+
+---
+
+### US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
+**Fonte:** Nasa News
+
+As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/)
+
+---
+
+### NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event 
+**Fonte:** Nasa News
+
+NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars”&#160;event&#160;brought employees, families, and community members together for an evening filled with music, connection, and celebration.&#160;&#160; Organizers planned the event, which took place July 16, to mark the 250th&#160;anniversary of the founding of the United States of America.&#160; The evening&#160;featured a ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/)
+
+---
+
+### NIAC 2026 Selections
+**Fonte:** Nasa News
+
+Phase I Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I David BugbyCombinatory Architecture offering Neomobility, on-Venus Adaptability, and Survivability (CANVAS)NASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I Anish DamodaranPS21: Transforming Submillimeter S...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/)
+
+---
+
+### Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection
+**Fonte:** Nasa News
+
+Paul StankusBrookhaven Science Associates&#160; The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature &#8212; gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects. Our innovation is to deploy a new approach to precision [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/)
+
+---
+
+### Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging 
+**Fonte:** Nasa News
+
+Paul&#160;StankusBrookhaven Science Associates The scientific goal of the proposed work will be reconstructing the image, ie resolving surface features, of an Earth-like exoplanet around a nearby star as seen in visible light. The innovation is in two stages. First, the design of a new kind of nulling interferometer &#8212; &#8220;dynamic hierarchical nulling&#8221; &#8212; combining inputs [&#823...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/)
+
+---
+
+### Interworld Slingshot Resource Surveys
+**Fonte:** Nasa News
+
+Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys&#8211;without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon, ore content at asteroids, and volatile-bearing minerals at Mars&#8217; moons&#8...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/)
+
+---
+
+### Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness 
+**Fonte:** Nasa News
+
+David&#160;SmithDuke University&#160; The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementatio...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/)
 
 ---
 
