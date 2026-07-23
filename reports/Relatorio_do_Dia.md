@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 19/07/2026 10:23
+# 🚀 Relatório da Agência Espacial - 23/07/2026 11:06
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA terminates Draper lunar lander mission
-**Fonte:** Space News | **Categoria:** Missão
+## 1. Robotic Servicing Mission Launches with NASA Support
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O sonho de um novo pouso lunar acaba de sofrer um duro golpe. A NASA encerrou oficialmente a missão do módulo de pouso da Draper, um revés inesperado para o programa de serviços comerciais lunares. A rescisão levanta dúvidas sobre a estabilidade das parcerias privadas da agência e força uma recontagem nos planos para levar cargas científicas ao polo sul da Lua.
+> A manutenção espacial acaba de sair da ficção científica para se tornar realidade operacional. O lançamento da missão RSGS, apoiada pela NASA, marca o início de uma nova era: a de robôs capazes de reparar e atualizar satélites diretamente na órbita geoestacionária, transformando a logística orbital para sempre.
 
-🔗 [Ler notícia completa](https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/)
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/)
 
 ---
 
-## 2. House Armed Services draft bill eliminates SDA, Space RCO as separate entities
-**Fonte:** Space News | **Categoria:** Política Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Uma manobra política de alto impacto pode redesenhar o poder militar no vácuo. O comitê da Câmara dos Estados Unidos propôs a extinção da SDA e do Space RCO como entidades independentes, movendo-as para o núcleo da Força Espacial. A mudança promete centralizar aquisições, mas gera um debate acalorado sobre se a burocracia vai sufocar a agilidade que essas agências inovadoras trouxeram ao setor.
-
-🔗 [Ler notícia completa](https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/)
-
----
-
-## 3. Curiosity Sees Martian Sulfur Up Close
+## 2. NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io
 **Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Marte acaba de revelar um segredo brilhante, e foi por puro acaso. Ao esmagar acidentalmente uma rocha, o rover Curiosity descobriu os primeiros cristais de enxofre puro já vistos no Planeta Vermelho. Essa descoberta geológica inesperada desafia os modelos climáticos anteriores e sugere que a história química de Marte é muito mais complexa e intrigante do que imaginávamos.
+> A sonda Juno acaba de quebrar um paradigma científico ao medir, pela primeira vez, a temperatura abaixo da superfície de Io. Os dados revelam um fluxo de calor intenso sob a crosta da lua mais vulcânica do Sistema Solar, oferecendo pistas cruciais sobre como mundos oceânicos e geologicamente ativos evoluem.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/)
 
 ---
 
-## 4. Space Force triples launch contract ceiling amid rising demand
+## 3. Swissto12 raises $70 million to accelerate small GEO satellite production
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de lançamentos espaciais está entrando em hipervelocidade. A Força Espacial dos EUA triplicou o teto de seus contratos de lançamento para acomodar uma demanda que não para de crescer. Esse movimento injeta bilhões de dólares no setor privado e sinaliza que a infraestrutura de defesa em órbita está sendo expandida em um ritmo nunca antes visto na história.
+> O setor de satélites geoestacionários está passando por uma mudança de guarda. Com um aporte de 70 milhões de dólares, a Swissto12 consolida a transição dos satélites GEO gigantes para modelos compactos e ágeis, provando que a escalabilidade e o baixo custo agora ditam as regras no mercado de telecomunicações.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/)
+🔗 [Ler notícia completa](https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/)
 
 ---
 
-## 5. Orbit Fab hires new CEO and raises funding to support satellite refueling business
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. NASA Welcomes Mauritius as 70th Artemis Accords Signatory  
+**Fonte:** Nasa News | **Categoria:** Geopolítica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A era dos satélites descartáveis está com os dias contados. A startup Orbit Fab garantiu novos fundos para acelerar sua infraestrutura de reabastecimento em órbita, prometendo transformar naves espaciais em ativos reutilizáveis. É o início de uma economia de logística espacial que pode reduzir drasticamente os custos e o lixo em órbita, permitindo que satélites operem por décadas, não apenas anos.
+> A diplomacia lunar atingiu um número histórico: 70 nações agora fazem parte dos Acordos Artemis. Com a adesão das Ilhas Maurício, a coalizão liderada pela NASA para uma exploração sustentável da Lua demonstra uma força geopolítica sem precedentes, isolando competidores e padronizando as regras do jogo no espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/)
+🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/)
+
+---
+
+## 5. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O futuro da aviação comercial acaba de ficar mais elétrico. Em uma colaboração inédita entre NASA e GE Aerospace, um motor híbrido de classe megawatt completou seu primeiro teste de voo. Essa inovação técnica é o alicerce para uma nova geração de aeronaves que prometem reduzir drasticamente o consumo de combustível e a emissão de carbono.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/07/2026 11:04
+# 📥 Balde de Notícias Brutas - 23/07/2026 11:05
 
-Atualmente existem **679** notícias aguardando a curadoria do Editor.
+Atualmente existem **693** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -6117,6 +6117,132 @@ Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconna
 David&#160;SmithDuke University&#160; The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementatio...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/)
+
+---
+
+### China’s Shijian-31 satellite is sweeping GEO using a unique orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/)
+
+---
+
+### FCC approves sweeping space reforms while clearing more C-band for 5G
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/)
+
+---
+
+### Vast establishes division for national security projects
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vast-establishes-division-for-national-security-projects/)
+
+---
+
+### The strategic competition with China: winning the multi-domain race
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/)
+
+---
+
+### Relativity Space to expand Terran R production in Florida
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/)
+
+---
+
+### Olympic Mountain Glory
+**Fonte:** Nasa News
+
+Snow-capped mountains carved by deep river valleys preside over northwestern Washington state....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/)
+
+---
+
+### NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
+**Fonte:** Nasa News
+
+Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind tunnel in more than 40 years. The event will include a brief media availability with: This event is in person only [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/)
+
+---
+
+### Robotic Servicing Mission Launches with NASA Support
+**Fonte:** Nasa News
+
+Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. RSGS leverages in-space robotics expertise from NASA, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/)
+
+---
+
+### NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return
+**Fonte:** Nasa News
+
+NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft will undock from the orbiting laboratory’s Rassvet module at 3:02 a.m. EDT Sunday, July 26, heading for a parachute-assisted landing at 6:26 a.m. (3:26 p.m. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/)
+
+---
+
+### A New Look – and Sound – for Messier 94
+**Fonte:** Nasa News
+
+NASA&#8217;s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming, perhaps fueled by gas driven in the unique oval-shaped structure seen [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/)
+
+---
+
+### Mapping Io’s Hidden Heat With NASA’s Juno
+**Fonte:** Nasa News
+
+Description This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close flybys. The black overlapping lines show the instrument’s footprints during Perijove 57 on Dec. 30, 2023, when the spacecraft primarily mapped the northern hemisphere. The blue lines represent Perijove 58 on […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/)
+
+---
+
+### NASA’s Juno Peers Beneath Io’s Surface
+**Fonte:** Nasa News
+
+Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of the moon’s surface, the lowest frequency microwave channels (0.6 and 1.25 gigahertz) on the MWR can penetrate between about 6 and […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/)
+
+---
+
+### NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io
+**Fonte:** Nasa News
+
+Lee esta historia en español aquí. &#160;NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also shows that most of Io’s surface is [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/)
+
+---
+
+### NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
+**Fonte:** Nasa News
+
+NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executive Order “Launching the Genesis Mission” on Nov. 24, 2025, creating a national mission to leverage artificial intelligence to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
 
 ---
 
