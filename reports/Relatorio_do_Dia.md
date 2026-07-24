@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 23/07/2026 11:06
+# 🚀 Relatório da Agência Espacial - 24/07/2026 10:59
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Robotic Servicing Mission Launches with NASA Support
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A manutenção espacial acaba de sair da ficção científica para se tornar realidade operacional. O lançamento da missão RSGS, apoiada pela NASA, marca o início de uma nova era: a de robôs capazes de reparar e atualizar satélites diretamente na órbita geoestacionária, transformando a logística orbital para sempre.
+> Esqueça os satélites que dependem de tanques pesados de combustível. A Bellatrix e a TelePIX acabam de anunciar uma missão para 2028 que pode mudar as regras do jogo: propulsão que 'respira' o ar residual da órbita ultra-baixa. Se funcionar, teremos frotas de observação operando muito mais perto da Terra, por muito mais tempo, com uma nitidez nunca antes vista.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/)
+🔗 [Ler notícia completa](https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/)
 
 ---
 
-## 2. NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 2. India’s Jio lays out sovereign LEO constellation plan ahead of IPO
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A sonda Juno acaba de quebrar um paradigma científico ao medir, pela primeira vez, a temperatura abaixo da superfície de Io. Os dados revelam um fluxo de calor intenso sob a crosta da lua mais vulcânica do Sistema Solar, oferecendo pistas cruciais sobre como mundos oceânicos e geologicamente ativos evoluem.
+> A disputa pela internet global via satélite acaba de ganhar um competidor de peso colossal. A gigante indiana Jio, do grupo Reliance, detalhou seu plano para uma constelação soberana de baixa órbita. Com um IPO no horizonte, a Índia sinaliza que não quer apenas observar a dominância da Starlink, mas sim construir sua própria infraestrutura digital vinda do céu.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/)
+🔗 [Ler notícia completa](https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/)
 
 ---
 
-## 3. Swissto12 raises $70 million to accelerate small GEO satellite production
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
+**Fonte:** Space News | **Categoria:** Infraestrutura
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de satélites geoestacionários está passando por uma mudança de guarda. Com um aporte de 70 milhões de dólares, a Swissto12 consolida a transição dos satélites GEO gigantes para modelos compactos e ágeis, provando que a escalabilidade e o baixo custo agora ditam as regras no mercado de telecomunicações.
+> A Europa expande seus horizontes com um novo porto espacial em solo continental. A SSC Space e a Firefly fecharam um acordo histórico para realizar o primeiro lançamento orbital a partir de Esrange, na Suécia, em 2028. É um movimento estratégico para reduzir a dependência europeia de bases estrangeiras e consolidar o continente como um hub autônomo de lançamentos.
 
-🔗 [Ler notícia completa](https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/)
+🔗 [Ler notícia completa](https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/)
 
 ---
 
-## 4. NASA Welcomes Mauritius as 70th Artemis Accords Signatory  
-**Fonte:** Nasa News | **Categoria:** Geopolítica
+## 4. FCC approves sweeping space reforms while clearing more C-band for 5G
+**Fonte:** Space News | **Categoria:** Regulação e Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A diplomacia lunar atingiu um número histórico: 70 nações agora fazem parte dos Acordos Artemis. Com a adesão das Ilhas Maurício, a coalizão liderada pela NASA para uma exploração sustentável da Lua demonstra uma força geopolítica sem precedentes, isolando competidores e padronizando as regras do jogo no espaço.
+> O 'Velho Oeste' espacial está ganhando novas regras. Em uma decisão histórica, a FCC dos Estados Unidos aprovou uma reforma profunda no licenciamento de satélites. Essa mudança promete desburocratizar o setor, mas também impõe limites mais rígidos para evitar colisões em uma órbita cada vez mais congestionada, forçando as empresas a serem mais responsáveis e ágeis.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/)
 
 ---
 
-## 5. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 5. Delian Asparouhov and Philip Johnston on making the case for orbital data centers
+**Fonte:** Space News | **Categoria:** Tecnologia e Fronteira
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da aviação comercial acaba de ficar mais elétrico. Em uma colaboração inédita entre NASA e GE Aerospace, um motor híbrido de classe megawatt completou seu primeiro teste de voo. Essa inovação técnica é o alicerce para uma nova geração de aeronaves que prometem reduzir drasticamente o consumo de combustível e a emissão de carbono.
+> Os dados não vão mais apenas viajar pelo espaço; eles serão processados lá. O conceito de 'data centers orbitais' deixou de ser ficção científica com novos investimentos e parcerias envolvendo a SpaceX e a Starcloud. A ideia é eliminar o gargalo da transmissão para a Terra, transformando satélites em verdadeiros supercomputadores espaciais prontos para a era da inteligência artificial.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/)
+🔗 [Ler notícia completa](https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/)
 
 ---
 

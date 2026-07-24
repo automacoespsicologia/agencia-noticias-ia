@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/07/2026 11:05
+# 📥 Balde de Notícias Brutas - 24/07/2026 10:59
 
-Atualmente existem **693** notícias aguardando a curadoria do Editor.
+Atualmente existem **702** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5499,15 +5499,6 @@ Lee esta nota de prensa en español aquí. How do black holes at the center of 
 
 ---
 
-### Swissto12 raises $70 million to accelerate small GEO satellite production
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/)
-
----
-
 ### Space Force awards Slingshot $69 million for AI-enabled training technology
 **Fonte:** Space News
 
@@ -5814,15 +5805,6 @@ Description Captured by the multispectral imager instrument on NASA’s Psyche m
 
 ---
 
-### NASA Welcomes Mauritius as 70th Artemis Accords Signatory  
-**Fonte:** Nasa News
-
-The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/)
-
----
-
 ### Mauritius becomes 70th nation to sign the Artemis Accords
 **Fonte:** Space News
 
@@ -5910,15 +5892,6 @@ Differences in the underlying bedrock and how rivers distribute sediment make th
 NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/)
-
----
-
-### NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-**Fonte:** Nasa News
-
-An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/)
 
 ---
 
@@ -6183,15 +6156,6 @@ Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on F
 
 ---
 
-### Robotic Servicing Mission Launches with NASA Support
-**Fonte:** Nasa News
-
-Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. RSGS leverages in-space robotics expertise from NASA, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/)
-
----
-
 ### NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return
 **Fonte:** Nasa News
 
@@ -6228,21 +6192,138 @@ Description This map represents data captured by the Microwave Radiometer (MWR) 
 
 ---
 
-### NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io
-**Fonte:** Nasa News
-
-Lee esta historia en español aquí. &#160;NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also shows that most of Io’s surface is [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/)
-
----
-
 ### NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
 **Fonte:** Nasa News
 
 NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executive Order “Launching the Genesis Mission” on Nov. 24, 2025, creating a national mission to leverage artificial intelligence to [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
+
+---
+
+### Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/)
+
+---
+
+### EU delays release of Copernicus imagery over Gulf of Oman 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/)
+
+---
+
+### Air Force takes over troubled military GPS receiver program
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/)
+
+---
+
+### NASA programs feel effects of workforce reductions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/)
+
+---
+
+### Poland commits $745 million to EU’s IRIS² constellation project
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/)
+
+---
+
+### Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/)
+
+---
+
+### Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/)
+
+---
+
+### Airbus space business takes advantage of growing demand for satellite systems
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/)
+
+---
+
+### A Million-Panel Project
+**Fonte:** Nasa News
+
+Utah’s new solar power and battery storage facility is among the largest in the region....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/)
+
+---
+
+### Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
+**Fonte:** Nasa News
+
+Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/)
+
+---
+
+### Look for NASA+ Now Streaming on Amazon Fire TV
+**Fonte:** Nasa News
+
+Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire TV Channels. Fire TV customers can easily access this content by asking Alexa+ on compatible devices. Future programming on Fire TV may include science mission launches, a test flight for [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/)
+
+---
+
+### Crews Move Artemis IV Liquid Hydrogen Tank
+**Fonte:** Nasa News
+
+Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/)
+
+---
+
+### NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
+**Fonte:** Nasa News
+
+NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that circulates and catapults charged particles into Earth’s atmosphere is happening at […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/)
+
+---
+
+### NASA Astronaut Chris Williams Closes Out Space Station Mission
+**Fonte:** Nasa News
+
+After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/)
 
 ---
 
