@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/07/2026 10:59
+# 📥 Balde de Notícias Brutas - 25/07/2026 10:23
 
-Atualmente existem **702** notícias aguardando a curadoria do Editor.
+Atualmente existem **706** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2149,15 +2149,6 @@ May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morg
 
 ---
 
-### Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/)
-
----
-
 ### Spatial data has become a weapon of war in the US-Iran war
 **Fonte:** Space News
 
@@ -2479,15 +2470,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/)
-
----
-
-### Delian Asparouhov and Philip Johnston on making the case for orbital data centers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/)
 
 ---
 
@@ -3715,15 +3697,6 @@ This image, captured by NASA&#8217;s James Webb Space Telescope and released on 
 
 ---
 
-### India’s Jio lays out sovereign LEO constellation plan ahead of IPO
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/)
-
----
-
 ### ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 **Fonte:** Space News
 
@@ -4569,15 +4542,6 @@ Long-term lunar exploration requires technology, infrastructure, and operations 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/)
-
----
-
-### SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/)
 
 ---
 
@@ -6102,15 +6066,6 @@ David&#160;SmithDuke University&#160; The increasing population of spacefaring v
 
 ---
 
-### FCC approves sweeping space reforms while clearing more C-band for 5G
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/)
-
----
-
 ### Vast establishes division for national security projects
 **Fonte:** Space News
 
@@ -6324,6 +6279,87 @@ NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have unco
 After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/)
+
+---
+
+### SpaceX conducts 13th Starship test flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-conducts-13th-starship-test-flight/)
+
+---
+
+### ULA deals with financial challenges caused by Vulcan grounding
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/)
+
+---
+
+### LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/)
+
+---
+
+### Office of Space Commerce to move ahead on mission authorization
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/)
+
+---
+
+### NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon
+**Fonte:** Nasa News
+
+On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/)
+
+---
+
+### New Crew Members Welcomed to International Space Station
+**Fonte:** Nasa News
+
+From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/)
+
+---
+
+### NASA Announces New Spacecraft Technology Demonstration Mission at Moon    
+**Fonte:** Nasa News
+
+NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characteri...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/)
+
+---
+
+### NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
+**Fonte:** Nasa News
+
+NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/)
+
+---
+
+### Hubble Spies One-Sided Spiral
+**Fonte:** Nasa News
+
+This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden)....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/)
 
 ---
 

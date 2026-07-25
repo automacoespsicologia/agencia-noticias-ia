@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 24/07/2026 10:59
+# 🚀 Relatório da Agência Espacial - 25/07/2026 10:23
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration
+## 1. SpaceX conducts 13th Starship test flight
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça os satélites que dependem de tanques pesados de combustível. A Bellatrix e a TelePIX acabam de anunciar uma missão para 2028 que pode mudar as regras do jogo: propulsão que 'respira' o ar residual da órbita ultra-baixa. Se funcionar, teremos frotas de observação operando muito mais perto da Terra, por muito mais tempo, com uma nitidez nunca antes vista.
+> A SpaceX acaba de riscar mais um marco no céu com o 13º voo de teste do Starship. O maior foguete do mundo segue em ritmo acelerado de evolução, refinando manobras de reentrada e tecnologias de reaproveitamento que são o alicerce para a colonização de Marte e o sucesso da base lunar permanente.
 
-🔗 [Ler notícia completa](https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/)
-
----
-
-## 2. India’s Jio lays out sovereign LEO constellation plan ahead of IPO
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A disputa pela internet global via satélite acaba de ganhar um competidor de peso colossal. A gigante indiana Jio, do grupo Reliance, detalhou seu plano para uma constelação soberana de baixa órbita. Com um IPO no horizonte, a Índia sinaliza que não quer apenas observar a dominância da Starlink, mas sim construir sua própria infraestrutura digital vinda do céu.
-
-🔗 [Ler notícia completa](https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-conducts-13th-starship-test-flight/)
 
 ---
 
-## 3. SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange
-**Fonte:** Space News | **Categoria:** Infraestrutura
+## 2. US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Europa expande seus horizontes com um novo porto espacial em solo continental. A SSC Space e a Firefly fecharam um acordo histórico para realizar o primeiro lançamento orbital a partir de Esrange, na Suécia, em 2028. É um movimento estratégico para reduzir a dependência europeia de bases estrangeiras e consolidar o continente como um hub autônomo de lançamentos.
+> A ciência da Terra ganha olhos biônicos com a abertura dos dados do satélite NISAR. A parceria bilionária entre NASA e Índia revelou, através de radar de alta precisão, o chamado 'Beija-flor' na Antártida, inaugurando uma era de monitoramento climático em tempo real que vai mudar como entendemos o degelo polar.
 
-🔗 [Ler notícia completa](https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/)
 
 ---
 
-## 4. FCC approves sweeping space reforms while clearing more C-band for 5G
-**Fonte:** Space News | **Categoria:** Regulação e Mercado
+## 3. NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
+**Fonte:** Nasa News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O 'Velho Oeste' espacial está ganhando novas regras. Em uma decisão histórica, a FCC dos Estados Unidos aprovou uma reforma profunda no licenciamento de satélites. Essa mudança promete desburocratizar o setor, mas também impõe limites mais rígidos para evitar colisões em uma órbita cada vez mais congestionada, forçando as empresas a serem mais responsáveis e ágeis.
+> A disputa pelos lançadores pesados ganha um novo fôlego estratégico. A Blue Origin fechou um acordo com a NASA para utilizar a histórica bancada de testes B-2 para o segundo estágio do foguete New Glenn. É o movimento que Jeff Bezos precisava para acelerar a prontidão de seu veículo e garantir seu lugar na logística da missão Artemis.
 
-🔗 [Ler notícia completa](https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/)
 
 ---
 
-## 5. Delian Asparouhov and Philip Johnston on making the case for orbital data centers
-**Fonte:** Space News | **Categoria:** Tecnologia e Fronteira
+## 4. Nature study identifies a new way to spot nuclear weapons in orbit
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Os dados não vão mais apenas viajar pelo espaço; eles serão processados lá. O conceito de 'data centers orbitais' deixou de ser ficção científica com novos investimentos e parcerias envolvendo a SpaceX e a Starcloud. A ideia é eliminar o gargalo da transmissão para a Terra, transformando satélites em verdadeiros supercomputadores espaciais prontos para a era da inteligência artificial.
+> Segurança máxima na última fronteira. Um estudo revolucionário publicado na Nature identificou uma nova assinatura técnica para detectar armas nucleares em órbita. No atual tabuleiro geopolítico, essa inovação científica surge como a ferramenta definitiva para a fiscalização e a preservação da paz no espaço sideral.
 
-🔗 [Ler notícia completa](https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/)
+🔗 [Ler notícia completa](https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/)
+
+---
+
+## 5. Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O telescópio espacial Nancy Grace Roman nem saiu do chão e já está reescrevendo o que sabemos sobre o coração da Via Láctea. Sinergias inéditas com a missão Euclid revelaram detalhes de buracos negros distantes, oferecendo um 'spoiler' científico do que a próxima grande joia da NASA vai descobrir no final deste verão.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/)
 
 ---
 
