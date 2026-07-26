@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/07/2026 10:23
+# 📥 Balde de Notícias Brutas - 26/07/2026 10:40
 
-Atualmente existem **706** notícias aguardando a curadoria do Editor.
+Atualmente existem **702** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4140,15 +4140,6 @@ NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. 
 
 ---
 
-### Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
-**Fonte:** Nasa News
-
-A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Space Agency) mission with NASA contributions, overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives astronomers a major jumpstart on a core Roman survey, helping scientists [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/)
-
----
-
 ### Career Spotlight: Electrician (Ages 14-18)
 **Fonte:** Nasa News
 
@@ -5625,15 +5616,6 @@ Join a national community of precipitation reporters providing critical data to 
 
 ---
 
-### Nature study identifies a new way to spot nuclear weapons in orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/)
-
----
-
 ### Building the infrastructure for a shifting space economy with Massi Ladovaz
 **Fonte:** Space News
 
@@ -5994,15 +5976,6 @@ Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wedn
 
 ---
 
-### US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
-**Fonte:** Nasa News
-
-As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/)
-
----
-
 ### NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event 
 **Fonte:** Nasa News
 
@@ -6282,15 +6255,6 @@ After eight months aboard the International Space Station for his first mission,
 
 ---
 
-### SpaceX conducts 13th Starship test flight
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-conducts-13th-starship-test-flight/)
-
----
-
 ### ULA deals with financial challenges caused by Vulcan grounding
 **Fonte:** Space News
 
@@ -6345,21 +6309,21 @@ NASA is working with industry to advance the next phase of cislunar infrastructu
 
 ---
 
-### NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
-**Fonte:** Nasa News
-
-NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/)
-
----
-
 ### Hubble Spies One-Sided Spiral
 **Fonte:** Nasa News
 
 This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden)....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/)
+
+---
+
+### NASA and ESA facilities avoid major damage from wildfires in Spain
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 25/07/2026 10:23
+# 🚀 Relatório da Agência Espacial - 26/07/2026 10:40
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceX conducts 13th Starship test flight
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 1. NASA Announces New Spacecraft Technology Demonstration Mission at Moon    
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX acaba de riscar mais um marco no céu com o 13º voo de teste do Starship. O maior foguete do mundo segue em ritmo acelerado de evolução, refinando manobras de reentrada e tecnologias de reaproveitamento que são o alicerce para a colonização de Marte e o sucesso da base lunar permanente.
+> A infraestrutura para a futura base lunar acaba de ganhar um novo capítulo técnico. A NASA e a Advanced Space anunciaram a missão CAPSTONE 02, que vai testar manobras de aproximação e acoplagem em órbita cislunar. É o amadurecimento de uma tecnologia crítica para a sobrevivência e logística de astronautas em missões de longa duração na Lua.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-conducts-13th-starship-test-flight/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/)
 
 ---
 
-## 2. US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 2. Airbus to build Aeolus-2 wind-monitoring satellite
+**Fonte:** Space News | **Categoria:** Grandes Movimentações de Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A ciência da Terra ganha olhos biônicos com a abertura dos dados do satélite NISAR. A parceria bilionária entre NASA e Índia revelou, através de radar de alta precisão, o chamado 'Beija-flor' na Antártida, inaugurando uma era de monitoramento climático em tempo real que vai mudar como entendemos o degelo polar.
+> A Europa está dobrando a aposta no monitoramento climático de alta precisão. A Airbus foi selecionada para construir o satélite Aeolus-2, herdando o legado de uma das missões científicas mais complexas da ESA. O projeto não apenas revoluciona as previsões meteorológicas globais, mas consolida a soberania técnica europeia em sensores a laser.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/)
+🔗 [Ler notícia completa](https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/)
 
 ---
 
-## 3. NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis
-**Fonte:** Nasa News | **Categoria:** Mercado
+## 3. NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
+**Fonte:** Nasa News | **Categoria:** Descobertas Científicas
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A disputa pelos lançadores pesados ganha um novo fôlego estratégico. A Blue Origin fechou um acordo com a NASA para utilizar a histórica bancada de testes B-2 para o segundo estágio do foguete New Glenn. É o movimento que Jeff Bezos precisava para acelerar a prontidão de seu veículo e garantir seu lugar na logística da missão Artemis.
+> Um mistério marciano acaba de ser resolvido nos laboratórios da NASA. Cientistas da missão MAVEN revelaram que as auroras em Marte se formam através de mecanismos surpreendentemente semelhantes aos da Terra, apesar da ausência de um campo magnético global. O achado, publicado na revista Nature, redefine nossa compreensão sobre como o Sol interage com atmosferas planetárias.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/)
 
 ---
 
-## 4. Nature study identifies a new way to spot nuclear weapons in orbit
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. Blue Origin continues work on lunar landers during recovery from New Glenn explosion
+**Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Segurança máxima na última fronteira. Um estudo revolucionário publicado na Nature identificou uma nova assinatura técnica para detectar armas nucleares em órbita. No atual tabuleiro geopolítico, essa inovação científica surge como a ferramenta definitiva para a fiscalização e a preservação da paz no espaço sideral.
+> A corrida pelo solo lunar esquenta nos bastidores da Blue Origin. Mesmo em fase de recuperação após incidentes com o foguete New Glenn, a empresa de Jeff Bezos acelerou o desenvolvimento dos módulos de pouso 'Blue Moon'. O movimento é um sinal claro ao mercado: a disputa com a SpaceX pelo fornecimento de infraestrutura pesada para o programa Artemis está mais viva do que nunca.
 
-🔗 [Ler notícia completa](https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/)
+🔗 [Ler notícia completa](https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/)
 
 ---
 
-## 5. Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
+**Fonte:** Nasa News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio espacial Nancy Grace Roman nem saiu do chão e já está reescrevendo o que sabemos sobre o coração da Via Láctea. Sinergias inéditas com a missão Euclid revelaram detalhes de buracos negros distantes, oferecendo um 'spoiler' científico do que a próxima grande joia da NASA vai descobrir no final deste verão.
+> A Rocket Lab consolida seu domínio no lançamento de missões científicas estratégicas. A NASA selecionou a empresa para colocar em órbita as missões PolSIR e TSIS-2, focadas no estudo do gelo nas nuvens e na radiação solar. É a prova definitiva de que o governo americano está transferindo o peso de suas missões de alta fidelidade para lançadores comerciais ágeis.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/)
 
 ---
 
