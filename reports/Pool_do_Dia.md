@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 26/07/2026 10:40
+# 📥 Balde de Notícias Brutas - 27/07/2026 12:16
 
-Atualmente existem **702** notícias aguardando a curadoria do Editor.
+Atualmente existem **703** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4248,15 +4248,6 @@ The Republic of Botswana signed the Artemis Accords&#160;Thursday&#160;during a 
 
 ---
 
-### NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
-**Fonte:** Nasa News
-
-NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to award fixed-price indefinite-delivery/...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/)
-
----
-
 ### Millions of Stars in Cigar Galaxy
 **Fonte:** Nasa News
 
@@ -4806,30 +4797,12 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 
 ---
 
-### Airbus to build Aeolus-2 wind-monitoring satellite
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/)
-
----
-
 ### Isar Aerospace signs agreement for Canadian launch site
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/)
-
----
-
-### Blue Origin continues work on lunar landers during recovery from New Glenn explosion
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/)
 
 ---
 
@@ -6237,15 +6210,6 @@ Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-f
 
 ---
 
-### NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
-**Fonte:** Nasa News
-
-NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that circulates and catapults charged particles into Earth’s atmosphere is happening at […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/)
-
----
-
 ### NASA Astronaut Chris Williams Closes Out Space Station Mission
 **Fonte:** Nasa News
 
@@ -6300,15 +6264,6 @@ From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscos
 
 ---
 
-### NASA Announces New Spacecraft Technology Demonstration Mission at Moon    
-**Fonte:** Nasa News
-
-NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characteri...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/)
-
----
-
 ### Hubble Spies One-Sided Spiral
 **Fonte:** Nasa News
 
@@ -6324,6 +6279,60 @@ This Hubble image features spiral galaxy NGC 4654, located 72 million light-year
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/)
+
+---
+
+### SpaceNews Welcomes Max Aliprandi as Business Development Associate
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/)
+
+---
+
+### Amazon files application for direct-to-device satellite constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/)
+
+---
+
+### Blue Origin to test New Glenn upper stages at Stennis
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/)
+
+---
+
+### Rocket Lab to open Alaska launch site under $266 million Space Force deal
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/)
+
+---
+
+### AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/)
+
+---
+
+### NASA Astronaut Chris Williams, Crewmates Return from Space Station
+**Fonte:** Nasa News
+
+Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the [&#823...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 26/07/2026 10:40
+# 🚀 Relatório da Agência Espacial - 27/07/2026 12:16
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Announces New Spacecraft Technology Demonstration Mission at Moon    
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A infraestrutura para a futura base lunar acaba de ganhar um novo capítulo técnico. A NASA e a Advanced Space anunciaram a missão CAPSTONE 02, que vai testar manobras de aproximação e acoplagem em órbita cislunar. É o amadurecimento de uma tecnologia crítica para a sobrevivência e logística de astronautas em missões de longa duração na Lua.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/)
-
----
-
-## 2. Airbus to build Aeolus-2 wind-monitoring satellite
-**Fonte:** Space News | **Categoria:** Grandes Movimentações de Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Europa está dobrando a aposta no monitoramento climático de alta precisão. A Airbus foi selecionada para construir o satélite Aeolus-2, herdando o legado de uma das missões científicas mais complexas da ESA. O projeto não apenas revoluciona as previsões meteorológicas globais, mas consolida a soberania técnica europeia em sensores a laser.
-
-🔗 [Ler notícia completa](https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/)
-
----
-
-## 3. NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
-**Fonte:** Nasa News | **Categoria:** Descobertas Científicas
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Um mistério marciano acaba de ser resolvido nos laboratórios da NASA. Cientistas da missão MAVEN revelaram que as auroras em Marte se formam através de mecanismos surpreendentemente semelhantes aos da Terra, apesar da ausência de um campo magnético global. O achado, publicado na revista Nature, redefine nossa compreensão sobre como o Sol interage com atmosferas planetárias.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/)
-
----
-
-## 4. Blue Origin continues work on lunar landers during recovery from New Glenn explosion
+## 1. Amazon files application for direct-to-device satellite constellation
 **Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pelo solo lunar esquenta nos bastidores da Blue Origin. Mesmo em fase de recuperação após incidentes com o foguete New Glenn, a empresa de Jeff Bezos acelerou o desenvolvimento dos módulos de pouso 'Blue Moon'. O movimento é um sinal claro ao mercado: a disputa com a SpaceX pelo fornecimento de infraestrutura pesada para o programa Artemis está mais viva do que nunca.
+> A corrida pela conectividade total acaba de ganhar um novo e gigante competidor. A Amazon protocolou oficialmente o pedido para operar sua própria constelação de satélites 'direct-to-device'. O objetivo é conectar smartphones comuns diretamente do espaço, desafiando a hegemonia da Starlink e prometendo transformar o mercado global de telecomunicações móveis.
 
-🔗 [Ler notícia completa](https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/)
+🔗 [Ler notícia completa](https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/)
 
 ---
 
-## 5. NASA Selects Rocket Lab to Launch Sun, Earth Science Missions
-**Fonte:** Nasa News | **Categoria:** Negócios
+## 2. Rocket Lab to open Alaska launch site under $266 million Space Force deal
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Rocket Lab consolida seu domínio no lançamento de missões científicas estratégicas. A NASA selecionou a empresa para colocar em órbita as missões PolSIR e TSIS-2, focadas no estudo do gelo nas nuvens e na radiação solar. É a prova definitiva de que o governo americano está transferindo o peso de suas missões de alta fidelidade para lançadores comerciais ágeis.
+> A Rocket Lab consolida seu papel estratégico na defesa dos Estados Unidos com um contrato massivo de 266 milhões de dólares. A empresa vai inaugurar um novo complexo de lançamentos no Alasca, garantindo à Space Force uma capacidade de resposta orbital rápida a partir de solo ártico. É um movimento que redefine a infraestrutura de acesso ao espaço na América do Norte.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/)
+🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/)
+
+---
+
+## 3. La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A colonização lunar deu um salto concreto hoje. A NASA anunciou a seleção de três empresas para liderar quatro novas missões de infraestrutura na superfície da Lua. Os contratos focam no desenvolvimento de veículos lunares e módulos de carga avançados, pavimentando o caminho tecnológico para a presença humana sustentada na futura Base Lunar.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/)
+
+---
+
+## 4. China appears to be developing 7-meter-diameter reusable rockets
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A China está acelerando o desenvolvimento de foguetes reutilizáveis de grande porte, com projetos que alcançam sete metros de diâmetro. Relatórios indicam que o país está focando em veículos de carga pesada capazes de múltiplos pousos e decolagens, um avanço técnico que visa reduzir drasticamente os custos orbitais e desafiar o atual domínio ocidental no setor.
+
+🔗 [Ler notícia completa](https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/)
+
+---
+
+## 5. NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Cientistas alcançaram um marco histórico na astrofísica: a medição direta dos campos magnéticos de um pulsar na Nebulosa do Farol. Utilizando o observatório IXPE da NASA, a descoberta revela detalhes inéditos sobre a estrutura e o comportamento extremo dessas estrelas de nêutrons, oferecendo dados validados sobre como a matéria se comporta sob as condições mais intensas do universo.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/)
 
 ---
 
