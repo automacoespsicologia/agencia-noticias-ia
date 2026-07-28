@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/07/2026 12:16
+# 📥 Balde de Notícias Brutas - 28/07/2026 11:12
 
-Atualmente existem **703** notícias aguardando a curadoria do Editor.
+Atualmente existem **709** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3760,15 +3760,6 @@ Even small asteroids lead complex lives. During its flyby of the asteroid Donald
 
 ---
 
-### China appears to be developing 7-meter-diameter reusable rockets
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/)
-
----
-
 ### Report: U.S. needs framework for responding to hostile acts in space
 **Fonte:** Space News
 
@@ -4545,15 +4536,6 @@ Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong
 
 ---
 
-### La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades
-**Fonte:** Nasa News
-
-Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/)
-
----
-
 ### NextSTEP-3 B: Moon Base Demonstrations
 **Fonte:** Nasa News
 
@@ -5073,15 +5055,6 @@ Radar data from the NISAR satellite show that La Guaira and nearby areas experie
 NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/)
-
----
-
-### NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar
-**Fonte:** Nasa News
-
-For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/)
 
 ---
 
@@ -6291,30 +6264,12 @@ This Hubble image features spiral galaxy NGC 4654, located 72 million light-year
 
 ---
 
-### Amazon files application for direct-to-device satellite constellation
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/)
-
----
-
 ### Blue Origin to test New Glenn upper stages at Stennis
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/)
-
----
-
-### Rocket Lab to open Alaska launch site under $266 million Space Force deal
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/)
 
 ---
 
@@ -6333,6 +6288,105 @@ This Hubble image features spiral galaxy NGC 4654, located 72 million light-year
 Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the [&#823...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/)
+
+---
+
+### Upper C-band auction offers another lift for GEO industry
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/)
+
+---
+
+### Sphinx Defense wins $287 million contract for strategic satellite communications software
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/)
+
+---
+
+### Orbes unveils Exo-ORB and agreement with Symphony Space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/)
+
+---
+
+### Intel debuts new chip for space computing
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/intel-debuts-new-chip-for-space-computing/)
+
+---
+
+### Smoke Blankets Oregon
+**Fonte:** Nasa News
+
+Lightning storms have ignited dozens of fires in central and eastern Oregon....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/)
+
+---
+
+### NASA Astronaut Chris Williams to Discuss Space Station Mission
+**Fonte:** Nasa News
+
+NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/)
+
+---
+
+### NASA Science Soars During August Total Solar Eclipse
+**Fonte:** Nasa News
+
+Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/)
+
+---
+
+### NASA Astronaut Chris Williams Returns to Earth
+**Fonte:** Nasa News
+
+NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams&#8217; first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of&#160;scientific investigations&#160;and technology demonstr...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/)
+
+---
+
+### NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
+**Fonte:** Nasa News
+
+NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/)
+
+---
+
+### NASA to Cover Three US Spacewalks, Host Preview News Conference
+**Fonte:** Nasa News
+
+Editor&#8217;s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/)
+
+---
+
+### NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down
+**Fonte:** Nasa News
+
+NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/)
 
 ---
 
