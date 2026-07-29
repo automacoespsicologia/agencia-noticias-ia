@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 28/07/2026 11:13
+# 🚀 Relatório da Agência Espacial - 29/07/2026 11:21
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Intel debuts new chip for space computing
+## 1. SpaceX gears up for Starship Flight 13
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O poder de processamento em órbita acaba de ganhar um novo fôlego. A Intel revelou um chip de computação espacial de última geração, projetado para suportar a radiação extrema e transformar satélites em verdadeiros data centers autônomos. É o fim do gargalo de dados entre a Terra e o espaço.
+> A fronteira da engenharia aeroespacial está prestes a ser testada novamente: a SpaceX já prepara o décimo terceiro voo da Starship. Com foco em manobras de recuperação inéditas e testes de resistência térmica, cada segundo dessa missão será crucial para consolidar o transporte superpesado reutilizável que levará a humanidade de volta à Lua e, futuramente, a Marte.
 
-🔗 [Ler notícia completa](https://spacenews.com/intel-debuts-new-chip-for-space-computing/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-gears-up-for-starship-flight-13/)
 
 ---
 
-## 2. NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 2. Train Ride to NASA Kennedy for Artemis III Booster Segments
+**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O observatório Swift da NASA capturou um evento digno de cinema: um buraco negro 'órfão' devorando uma estrela nas bordas de uma galáxia distante. Pela primeira vez, cientistas flagram esse banquete cósmico fora dos centros galácticos, desafiando tudo o que sabíamos sobre a evolução desses gigantes.
+> O retorno dos humanos à superfície lunar ganhou um componente físico essencial. Os últimos segmentos dos motores propulsores do foguete SLS, que serão usados na missão Artemis III, já estão em trilhos rumo ao Kennedy Space Center. É o início da contagem regressiva logística para o voo que promete colocar a primeira mulher e a primeira pessoa de cor no solo da Lua.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/)
 
 ---
 
-## 3. Relativity Space to expand Terran R production in Florida
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. Trump’s pick to lead Space Force defends plan to more than double budget
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pelos lançamentos pesados esquentou na Flórida. A Relativity Space anunciou uma expansão massiva para a produção do Terran R, seu foguete totalmente impresso em 3D. O objetivo é claro: escalar a manufatura aditiva para quebrar o monopólio da reutilização e transformar o mercado de cargas pesadas.
+> Em um movimento que sinaliza a nova ordem geopolítica, a Força Espacial dos Estados Unidos defende um plano audacioso para mais do que dobrar seu orçamento anual. O objetivo é acelerar a infraestrutura de defesa e a resiliência orbital, transformando o espaço não apenas em um local de exploração, mas em um pilar estratégico de segurança nacional com investimentos bilionários.
 
-🔗 [Ler notícia completa](https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/)
+🔗 [Ler notícia completa](https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/)
 
 ---
 
-## 4. Revised Artemis lunar lander plans take shape
+## 4. SpaceX launches Northrop mission to extend the life of aging satellites
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O retorno da humanidade à Lua ganhou um novo roteiro técnico. A NASA finalizou a revisão dos planos para os módulos de pouso da missão Artemis, integrando soluções comerciais de ponta para garantir o sucesso do pouso tripulado. O foco agora é total na manobra de acoplagem entre a cápsula Orion e os sistemas de pouso privados.
+> O conceito de 'satélite descartável' está chegando ao fim. A SpaceX lançou com sucesso uma missão da Northrop Grumman focada na extensão de vida útil de aparelhos em órbita. A tecnologia permite que veículos de serviço se acoplem a satélites antigos para fornecer propulsão e controle, abrindo um mercado multibilionário de manutenção e logística espacial.
 
-🔗 [Ler notícia completa](https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/)
 
 ---
 
-## 5. Axiom and Prada advance design of spacesuit
-**Fonte:** Space News | **Categoria:** Mercado/Inovação
+## 5. NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Quando a engenharia aeroespacial encontra o design de luxo: Axiom Space e Prada revelaram os novos avanços no traje espacial que será usado na Lua. A parceria vai além da estética, focando em soluções têxteis inovadoras para garantir mobilidade e proteção térmica sem precedentes nas regiões sombreadas do polo sul lunar.
+> A NASA deu sinal verde para a missão DAPHNE, um projeto científico de ponta que vai estudar como as tempestades solares interagem com a atmosfera da Terra. Com dados em tempo real, os pesquisadores esperam prever falhas em sistemas de GPS e proteger satélites de comunicações, transformando nossa compreensão sobre a meteorologia espacial e seus impactos na vida moderna.
 
-🔗 [Ler notícia completa](https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/)
 
 ---
 

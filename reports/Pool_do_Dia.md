@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/07/2026 11:12
+# 📥 Balde de Notícias Brutas - 29/07/2026 11:20
 
-Atualmente existem **709** notícias aguardando a curadoria do Editor.
+Atualmente existem **710** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2617,15 +2617,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### Axiom and Prada advance design of spacesuit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/)
-
----
-
 ### Speed as a Strategic Advantage in Border Monitoring
 **Fonte:** Space News
 
@@ -3181,15 +3172,6 @@ This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composit
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/)
-
----
-
-### Revised Artemis lunar lander plans take shape
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/)
 
 ---
 
@@ -6003,15 +5985,6 @@ David&#160;SmithDuke University&#160; The increasing population of spacefaring v
 
 ---
 
-### Relativity Space to expand Terran R production in Florida
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/)
-
----
-
 ### Olympic Mountain Glory
 **Fonte:** Nasa News
 
@@ -6318,15 +6291,6 @@ Concluding an eight-month science mission aboard the International Space Station
 
 ---
 
-### Intel debuts new chip for space computing
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/intel-debuts-new-chip-for-space-computing/)
-
----
-
 ### Smoke Blankets Oregon
 **Fonte:** Nasa News
 
@@ -6363,15 +6327,6 @@ NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken s
 
 ---
 
-### NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star
-**Fonte:** Nasa News
-
-NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/)
-
----
-
 ### NASA to Cover Three US Spacewalks, Host Preview News Conference
 **Fonte:** Nasa News
 
@@ -6387,6 +6342,60 @@ Editor&#8217;s note: This media advisory was updated July 27, 2026 to reflect an
 NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/)
+
+---
+
+### Boeing still working with NASA to schedule next Starliner flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/)
+
+---
+
+### Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/)
+
+---
+
+### Swift reboost mission encounters attitude control problems
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/)
+
+---
+
+### ESA opens call to repurpose Gateway communications module
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/)
+
+---
+
+### NASA selects successor to CAPSTONE lunar mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/)
+
+---
+
+### Sizing Up the Sargassum Belt
+**Fonte:** Nasa News
+
+Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/)
 
 ---
 
