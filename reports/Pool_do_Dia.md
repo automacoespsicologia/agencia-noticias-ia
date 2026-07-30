@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/07/2026 11:20
+# 📥 Balde de Notícias Brutas - 30/07/2026 11:03
 
-Atualmente existem **710** notícias aguardando a curadoria do Editor.
+Atualmente existem **723** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2923,15 +2923,6 @@ As NASA plans long-term missions on the Moon, the agency could use robots to per
 
 ---
 
-### Train Ride to NASA Kennedy for Artemis III Booster Segments
-**Fonte:** Nasa News
-
-The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/)
-
----
-
 ### Jim Irons, Former Landsat Project Scientist, Wins Pecora Award
 **Fonte:** Nasa News
 
@@ -3622,15 +3613,6 @@ The first named storm of the 2026 Atlantic hurricane season brought intense rain
 Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/)
-
----
-
-### NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
-**Fonte:** Nasa News
-
-NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/)
 
 ---
 
@@ -5166,15 +5148,6 @@ The waxing gibbous moon is nestled in the darkness of space in this June 26, 202
 
 ---
 
-### SpaceX gears up for Starship Flight 13
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-gears-up-for-starship-flight-13/)
-
----
-
 ### Flexell Space raises $20 Million in Series A round
 **Fonte:** Space News
 
@@ -5553,15 +5526,6 @@ Join a national community of precipitation reporters providing critical data to 
 
 ---
 
-### Trump’s pick to lead Space Force defends plan to more than double budget
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/)
-
----
-
 ### Office of Space Commerce makes its case for mission authorization
 **Fonte:** Space News
 
@@ -5829,15 +5793,6 @@ The hills and basins of Seattle, Washington, have been sculpted by glaciers and 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/)
-
----
-
-### SpaceX launches Northrop mission to extend the life of aging satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/)
 
 ---
 
@@ -6396,6 +6351,168 @@ NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone 
 Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/)
+
+---
+
+### Sophia Space and Caltech claim patent for space data centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/)
+
+---
+
+### Proposed rule would exempt commercial launch licensing from environmental regulations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/)
+
+---
+
+### L3Harris delays missile business IPO to 2027 despite surging defense demand
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/)
+
+---
+
+### SpaceX wins $1.6 billion in launch orders for military satellite networks
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/)
+
+---
+
+### Space Force awards All Points $250 million to expand satellite processing at Vandenberg
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/)
+
+---
+
+### LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/)
+
+---
+
+### Fortastra and Hadrian join forces to streamline satellite production
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/)
+
+---
+
+### H3 to launch next ispace lunar lander mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/)
+
+---
+
+### NASA Johnson Interns Shaping the Future of Exploration 
+**Fonte:** Nasa News
+
+NASA interns at Johnson Space Center&#160;are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight.&#160;Learn how these students are gaining hands-on experience, contributing to real missions, and&#160;preparing&#160;to&#160;join&#160;the nation’s&#160;highly skilled and&#160;competitive&#160;aer...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/)
+
+---
+
+### APOD: July 30 – Red Sun trough Wildfire Smoke
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red Sun [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/)
+
+---
+
+### New Zealand’s Southern Wilderness
+**Fonte:** Nasa News
+
+Stewart Island/Rakiura, New Zealand’s third-largest island, is known for its vibrant birdlife, unique forests, wilderness beaches, and views of the night sky....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/)
+
+---
+
+### NASA Awards 2026 Innovative Technology Concepts
+**Fonte:** Nasa News
+
+The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/)
+
+---
+
+### NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse
+**Fonte:** Nasa News
+
+On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views across the path and interviews with subject matter experts through a variety of platforms. Learn where to watch online: [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/)
+
+---
+
+### NASA’s Curiosity Views a Sand-Capped Butte
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission. The butte was left behind as surrounding rock eroded away over time, deepening the broad valley […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/)
+
+---
+
+### NASA’s Curiosity Discovers a Field of Martian Polygons
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/)
+
+---
+
+### NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures
+**Fonte:** Nasa News
+
+As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/)
+
+---
+
+### APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars
+**Fonte:** Nasa News
+
+A video of the Psyche spacecraft flying by Mars....
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/)
+
+---
+
+### Understanding How Martian Auroras Are Made
+**Fonte:** Nasa News
+
+This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars&#8217; atmosphere, one of the processes of Martian atmosphere loss studied by NASA&#8217;s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/)
 
 ---
 
