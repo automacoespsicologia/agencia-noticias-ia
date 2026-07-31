@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 30/07/2026 11:03
+# 🚀 Relatório da Agência Espacial - 31/07/2026 11:26
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceX wins $1.6 billion in launch orders for military satellite networks
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 1. K2 Space raises $500 million for commercial, defense satellite expansion
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A dominância da SpaceX no setor de defesa atingiu um novo patamar. A empresa acaba de abocanhar 1,6 bilhão de dólares em pedidos de lançamento para redes de satélites militares dos Estados Unidos. O contrato bilionário reforça a dependência do Pentágono nos foguetes reutilizáveis de Elon Musk e redefine as expectativas de receita para o mercado de lançamentos pesados em 2026.
+> O mercado de satélites pesados acaba de ganhar um novo gigante de peso. A K2 Space captou impressionantes 500 milhões de dólares para acelerar sua expansão nos setores comercial e de defesa. Este é um dos maiores movimentos financeiros do ano, sinalizando que a demanda por infraestrutura orbital de alta capacidade entrou em uma nova e agressiva fase de escala.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/)
+🔗 [Ler notícia completa](https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/)
 
 ---
 
-## 2. NASA to Share Latest Moon Base Mission Progress
-**Fonte:** Nasa News | **Categoria:** Exploração
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O sonho da presença permanente na Lua ganhou um roteiro oficial. O administrador da NASA, Jared Isaacman, apresentou as atualizações críticas para a construção da Base Lunar, incluindo novos contratos para veículos tripulados e módulos de carga. Não se trata mais apenas de 'visitar' a Lua, mas de estabelecer a infraestrutura logística necessária para a sobrevivência humana a longo prazo em solo lunar.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/)
-
----
-
-## 3. APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars
+## 2. NASA Awards 2026 Innovative Technology Concepts
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Sucesso absoluto na navegação de precisão no espaço profundo: a sonda Psyche acaba de completar sua manobra de assistência gravitacional em Marte. Utilizando a gravidade do Planeta Vermelho como um 'estilingue', a espaçonave ganhou a aceleração necessária para sua jornada rumo ao asteroide metálico, um marco técnico essencial para o sucesso da missão astronômica mais ambiciosa da década.
+> A NASA acaba de liberar o financiamento para as tecnologias que parecem saídas da ficção científica. O programa NIAC selecionou 18 conceitos visionários, incluindo propostas para reduzir a insolação solar com nuvens de poeira controladas e novas arquiteturas para sobrevivência em Vênus. São mais de 3 milhões de dólares investidos em ideias que podem redefinir a exploração espacial nas próximas décadas.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/)
-
----
-
-## 4. NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
-**Fonte:** Nasa News | **Categoria:** Tecnologia
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Inteligência Artificial acaba de se tornar o motor central da ciência aeroespacial. A NASA anunciou sua integração à Missão Genesis, uma iniciativa nacional para fundir modelos avançados de IA com engenharia de elite. O objetivo é acelerar descobertas científicas e otimizar missões complexas, transformando o modo como a agência processa petabytes de dados vindos do cosmos.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/)
 
 ---
 
-## 5. NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 3. Roman Space Telescope on track for late August launch
+**Fonte:** Space News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro Telescópio Nancy Grace Roman promete redefinir o que sabemos sobre os confins do universo. Novas pesquisas validaram que o observatório terá a capacidade inédita de detectar buracos negros distantes no momento exato em que 'trituram' estrelas. A descoberta permitirá aos cientistas observar o crescimento desses gigantes cósmicos em uma época em que o universo ainda estava em sua infância.
+> Os olhos da astronomia mundial se voltam agora para o Nancy Grace Roman. O próximo grande observatório da NASA está oficialmente no cronograma para ser lançado no final de agosto. Com a promessa de desvendar os mistérios da energia escura e mapear exoplanetas com uma rapidez sem precedentes, o Roman é o sucessor direto da revolução iniciada pelos telescópios Hubble e James Webb.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/)
+🔗 [Ler notícia completa](https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/)
+
+---
+
+## 4. Curiosity Finds Evidence of an Ancient Sandstorm
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Marte acaba de revelar marcas de um evento climático extremo ocorrido há bilhões de anos. O rover Curiosity descobriu evidências de uma tempestade de areia antiga e tão intensa que sedimentos formaram camadas endurecidas únicas na superfície. É uma descoberta científica validada que muda nossa compreensão sobre a dinâmica atmosférica do passado de Marte e sua evolução para um planeta árido.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/)
+
+---
+
+## 5. Sophia Space and Caltech claim patent for space data centers
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O conceito de 'armazenamento em nuvem' está prestes a se tornar literalmente espacial. A startup Sophia Space e o Caltech garantiram a patente de uma arquitetura inédita para data centers em órbita. A inovação promete resolver gargalos de processamento de dados diretamente no espaço, criando a infraestrutura necessária para a nova economia digital que não depende mais apenas de servidores terrestres.
+
+🔗 [Ler notícia completa](https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/)
 
 ---
 

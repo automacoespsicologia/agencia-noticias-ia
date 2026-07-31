@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 30/07/2026 11:03
+# 📥 Balde de Notícias Brutas - 31/07/2026 11:26
 
-Atualmente existem **723** notícias aguardando a curadoria do Editor.
+Atualmente existem **729** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4086,15 +4086,6 @@ Lea esta nota de prensa en inglés aquí. El administrador de la NASA, Jared Isa
 
 ---
 
-### NASA to Share Latest Moon Base Mission Progress
-**Fonte:** Nasa News
-
-NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/)
-
----
-
 ### Career Spotlight: Electrician (Ages 14-18)
 **Fonte:** Nasa News
 
@@ -5346,15 +5337,6 @@ In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got
 
 ---
 
-### NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars
-**Fonte:** Nasa News
-
-Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/)
-
----
-
 ### Space Force awards Slingshot $69 million for AI-enabled training technology
 **Fonte:** Space News
 
@@ -5994,15 +5976,6 @@ Description This map represents data captured by the Microwave Radiometer (MWR) 
 
 ---
 
-### NASA Joins Genesis Mission to Accelerate AI-Driven Discovery
-**Fonte:** Nasa News
-
-NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executive Order “Launching the Genesis Mission” on Nov. 24, 2025, creating a national mission to leverage artificial intelligence to [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/)
-
----
-
 ### Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
 **Fonte:** Space News
 
@@ -6381,15 +6354,6 @@ Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in Ju
 
 ---
 
-### SpaceX wins $1.6 billion in launch orders for military satellite networks
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/)
-
----
-
 ### Space Force awards All Points $250 million to expand satellite processing at Vandenberg
 **Fonte:** Space News
 
@@ -6498,21 +6462,111 @@ As NASA’s Curiosity rover recently began climbing up a Martian valley nickname
 
 ---
 
-### APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars
-**Fonte:** Nasa News
-
-A video of the Psyche spacecraft flying by Mars....
-
-🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/)
-
----
-
 ### Understanding How Martian Auroras Are Made
 **Fonte:** Nasa News
 
 This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars&#8217; atmosphere, one of the processes of Martian atmosphere loss studied by NASA&#8217;s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/)
+
+---
+
+### Rules of the road needed for orbital data center constellations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/)
+
+---
+
+### K2 Space raises $500 million for commercial, defense satellite expansion
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/)
+
+---
+
+### Roman Space Telescope on track for late August launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/)
+
+---
+
+### Jim Bridenstine on his new role at Quantum Space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/)
+
+---
+
+### Rocket Lab wins another launch contract from Japan’s iQPS
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/)
+
+---
+
+### APOD: 2026 July 31 – NGC 4372 and the Dark Doodad
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 July 31 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/)
+
+---
+
+### Destructive Fires Char Western Europe
+**Fonte:** Nasa News
+
+Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/)
+
+---
+
+### Students Take on Airborne Field Research with NASA
+**Fonte:** Nasa News
+
+The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/)
+
+---
+
+### NASA Assigns Astronaut Deniz Burnham to First Space Station Mission
+**Fonte:** Nasa News
+
+NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/)
+
+---
+
+### Starburst Galaxy Centaurus A
+**Fonte:** Nasa News
+
+In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/)
+
+---
+
+### APOD: 2026 July 30 – Red Sun trough Wildfire Smoke
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/)
 
 ---
 
