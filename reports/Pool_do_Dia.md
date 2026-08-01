@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 31/07/2026 11:26
+# 📥 Balde de Notícias Brutas - 01/08/2026 10:37
 
-Atualmente existem **729** notícias aguardando a curadoria do Editor.
+Atualmente existem **740** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5436,15 +5436,6 @@ NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket lau
 
 ---
 
-### Curiosity Finds Evidence of an Ancient Sandstorm
-**Fonte:** Nasa News
-
-Description Billions of years ago, an hours-long Martian sandstorm blew so intensely that sand ripples began to climb upon one another as they moved across the surface. These layers of sediment eventually hardened into the multilayered rocks seen in this image, which was taken by NASA’s Curiosity rover on Dec. 12, 2024, the 4,391st Martian […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/)
-
----
-
 ### NASA’s Perseverance Rover Provides Sweeping View of Broom Point
 **Fonte:** Nasa News
 
@@ -6327,15 +6318,6 @@ Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in Ju
 
 ---
 
-### Sophia Space and Caltech claim patent for space data centers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/)
-
----
-
 ### Proposed rule would exempt commercial launch licensing from environmental regulations
 **Fonte:** Space News
 
@@ -6417,15 +6399,6 @@ Stewart Island/Rakiura, New Zealand’s third-largest island, is known for its v
 
 ---
 
-### NASA Awards 2026 Innovative Technology Concepts
-**Fonte:** Nasa News
-
-The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/)
-
----
-
 ### NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse
 **Fonte:** Nasa News
 
@@ -6477,24 +6450,6 @@ This July 23, 2026, illustration depicts charged particles from a solar storm st
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/)
-
----
-
-### K2 Space raises $500 million for commercial, defense satellite expansion
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/)
-
----
-
-### Roman Space Telescope on track for late August launch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/)
 
 ---
 
@@ -6567,6 +6522,150 @@ In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrare
 APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/)
+
+---
+
+### Sending repurposed Mars rover to the moon could cost more than $1 billion
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/)
+
+---
+
+### Spain commits up to $2.3 billion for national military communications for IRIS²
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/)
+
+---
+
+### Inside the effort to show Congress what war in space looks like
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/)
+
+---
+
+### Space Force picks 15 companies for $981 million training range contract
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/)
+
+---
+
+### NASA still assessing Starliner-1 flight opportunities
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/)
+
+---
+
+### The new space wars: lessons from Ukraine and the Middle East
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/)
+
+---
+
+### APOD: 2026 August 1 – Buck Moon and Belt of Venus
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/)
+
+---
+
+### What’s Up: August 2026 Skywatching Tips from NASA
+**Fonte:** Nasa News
+
+A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/)
+
+---
+
+### NASA to Host Florida Event Celebrating American Air, Space Leadership
+**Fonte:** Nasa News
+
+NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/)
+
+---
+
+### NASA’s Newest Wind Tunnel Opens at NASA Langley
+**Fonte:** Nasa News
+
+On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA&#8217;s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, [&#8...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/)
+
+---
+
+### TB 26-04 Webbings for Use in Elevated Oxygen Environments
+**Fonte:** Nasa News
+
+Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/)
+
+---
+
+### NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket 
+**Fonte:** Nasa News
+
+NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/)
+
+---
+
+### NASA Opens New Flight Dynamics Research Facility in Virginia
+**Fonte:** Nasa News
+
+NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA&#8217;s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/)
+
+---
+
+### Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
+**Fonte:** Nasa News
+
+Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/)
+
+---
+
+### NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space
+**Fonte:** Nasa News
+
+On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/)
+
+---
+
+### APOD: 2026 July 31 – NGC 4372 and the Dark Doodad
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/)
 
 ---
 
