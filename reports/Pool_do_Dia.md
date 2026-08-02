@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 01/08/2026 10:37
+# 📥 Balde de Notícias Brutas - 02/08/2026 10:36
 
-Atualmente existem **740** notícias aguardando a curadoria do Editor.
+Atualmente existem **737** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5751,15 +5751,6 @@ The hills and basins of Seattle, Washington, have been sculpted by glaciers and 
 
 ---
 
-### Gravity-1 sea launch off Shanghai puts 9 satellites into orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/)
-
----
-
 ### Zenno Astronautics to relocate to the United States
 **Fonte:** Space News
 
@@ -6156,15 +6147,6 @@ This Hubble image features spiral galaxy NGC 4654, located 72 million light-year
 
 ---
 
-### Blue Origin to test New Glenn upper stages at Stennis
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/)
-
----
-
 ### AI in orbit is a double-edged sword. Here’s how to keep it from cutting space cooperation apart
 **Fonte:** Space News
 
@@ -6426,15 +6408,6 @@ Description NASA’s Curiosity Mars rover captured this 360-degree view of an ex
 
 ---
 
-### NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures
-**Fonte:** Nasa News
-
-As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/)
-
----
-
 ### Understanding How Martian Auroras Are Made
 **Fonte:** Nasa News
 
@@ -6495,15 +6468,6 @@ Raging wildfires disrupted summer in Spain and France amid sweltering heat waves
 The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27. The balloon’s job […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/)
-
----
-
-### NASA Assigns Astronaut Deniz Burnham to First Space Station Mission
-**Fonte:** Nasa News
-
-NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with cosmonauts Dmitri Petelin and Konstantin Borisov. Launch is targeted for March 2027, from the Baikonur Cosmodrome in Kazakhstan, and the trio will spend [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/)
 
 ---
 
@@ -6624,15 +6588,6 @@ Flammability test results for commercial-off-the-shelf webbings that meet NASA f
 
 ---
 
-### NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket 
-**Fonte:** Nasa News
-
-NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/)
-
----
-
 ### NASA Opens New Flight Dynamics Research Facility in Virginia
 **Fonte:** Nasa News
 
@@ -6666,6 +6621,24 @@ On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a 
 APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 and the Dark Doodad Explanation: The Dark Doodad Nebula drifts through...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/)
+
+---
+
+### Space Force awards K2 Space $22.9 million for laser communications demonstration
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/)
+
+---
+
+### China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/)
 
 ---
 
