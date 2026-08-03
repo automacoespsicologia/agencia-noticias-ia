@@ -1,4 +1,4 @@
-# 📥 Balde de Notícias Brutas - 02/08/2026 10:36
+# 📥 Balde de Notícias Brutas - 03/08/2026 12:17
 
 Atualmente existem **737** notícias aguardando a curadoria do Editor.
 
@@ -3796,15 +3796,6 @@ At NASA, innovation begins well before an aircraft takes flight. The Experimenta
 
 ---
 
-### NASA’s Chandra Finds Possible Supernova Remnant
-**Fonte:** Nasa News
-
-Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant – seen in this June 11, 2026, image – in an intriguing neighborhood in the middle of the Milky Way galaxy. Supernova remnants are the expanding remains of exploded stars and provide elements like iron, oxygen, and silicon that are critical [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/)
-
----
-
 ### NASA to Cover US Spacewalk 95, Host Preview News Conference
 **Fonte:** Nasa News
 
@@ -5310,15 +5301,6 @@ The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, Jul
 
 ---
 
-### NASA Astronaut Anil Menon, Crewmates Arrive at Space Station
-**Fonte:** Nasa News
-
-NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/)
-
----
-
 ### Hubble Sees Crimson Cloud and Stars
 **Fonte:** Nasa News
 
@@ -5613,15 +5595,6 @@ Read this release in English here. Ya está abierto el plazo de acreditación de
 Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars.  Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/)
-
----
-
-### Mauritius becomes 70th nation to sign the Artemis Accords
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/)
 
 ---
 
@@ -6498,15 +6471,6 @@ APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submi
 
 ---
 
-### Spain commits up to $2.3 billion for national military communications for IRIS²
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/)
-
----
-
 ### Inside the effort to show Congress what war in space looks like
 **Fonte:** Space News
 
@@ -6588,15 +6552,6 @@ Flammability test results for commercial-off-the-shelf webbings that meet NASA f
 
 ---
 
-### NASA Opens New Flight Dynamics Research Facility in Virginia
-**Fonte:** Nasa News
-
-NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA&#8217;s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/)
-
----
-
 ### Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?
 **Fonte:** Nasa News
 
@@ -6639,6 +6594,51 @@ APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsInde
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/)
+
+---
+
+### Airbus and Thales win order for SpainSat replacement
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/)
+
+---
+
+### U.S. Air Force expands Blue Origin rocket cargo contract 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/)
+
+---
+
+### APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/)
+
+---
+
+### APOD: 2026 August 2 – A Fire Rainbow over West Virginia
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/)
+
+---
+
+### APOD: 2026 August 1 – Buck Moon and Belt of Venus
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/)
 
 ---
 
