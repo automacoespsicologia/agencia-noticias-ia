@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/08/2026 12:17
+# 📥 Balde de Notícias Brutas - 04/08/2026 11:20
 
-Atualmente existem **737** notícias aguardando a curadoria do Editor.
+Atualmente existem **744** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4590,15 +4590,6 @@ Ray Jayawardhana begins his tenure today as the 10th president of the California
 
 ---
 
-### Perovskite solar panel startup Verde Technologies shifts focus to space
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/)
-
----
-
 ### Isar Aerospace to launch German-built Planet imaging satellite
 **Fonte:** Space News
 
@@ -4842,15 +4833,6 @@ Using satellite data, researchers connected harmful algal blooms with warm water
 
 ---
 
-### SpaceX launches Transporter-17 amid concerns about rideshare program’s future
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/)
-
----
-
 ### Simera Sense to provide imagers for Canary Islands constellation
 **Fonte:** Space News
 
@@ -4875,15 +4857,6 @@ The blaze burned more than 150 square miles and swept through parts of a ski res
 NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/)
-
----
-
-### NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health
-**Fonte:** Nasa News
-
-Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. On June 23, flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, confirmed New Horizons, […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/)
 
 ---
 
@@ -5922,15 +5895,6 @@ Description This graphic illustrates the areas of Jupiter’s moon Io sampled by
 
 ---
 
-### NASA’s Juno Peers Beneath Io’s Surface
-**Fonte:** Nasa News
-
-Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of the moon’s surface, the lowest frequency microwave channels (0.6 and 1.25 gigahertz) on the MWR can penetrate between about 6 and […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/)
-
----
-
 ### Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites
 **Fonte:** Space News
 
@@ -6579,15 +6543,6 @@ APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsInde
 
 ---
 
-### Space Force awards K2 Space $22.9 million for laser communications demonstration
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/)
-
----
-
 ### China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat
 **Fonte:** Space News
 
@@ -6639,6 +6594,114 @@ APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submi
 APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Buck Moon [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/)
+
+---
+
+### Rocketdyne reemerges as standalone space company
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/)
+
+---
+
+### Kreios Space to fly VLEO demonstration in NanoAvionics bus
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/)
+
+---
+
+### NASA, SpaceX studying how to prevent future upper stage lunar collisions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/)
+
+---
+
+### Hughes files for bankruptcy after GEO business loses ground to Starlink
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/)
+
+---
+
+### Xona secures spectrum approval for satellite navigation network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/)
+
+---
+
+### Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
+**Fonte:** Nasa News
+
+Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing. &#160;The goal is to send their experiments to the edge of space and return with meaningful data, while reflecting [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/)
+
+---
+
+### Guinea-Bissau Tidal Waters
+**Fonte:** Nasa News
+
+Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau&#8217;s&#160;Bijagós Archipelago&#160;(Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide,&#160;intertidal&#160;mudflats and sandflats [&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/)
+
+---
+
+### NASA Delivers Navigation System for Commercial Lunar Relay
+**Fonte:** Nasa News
+
+NASA delivered the NavCube3-mini payload&#160;on&#160;July 13&#160;to Intuitive Machines for integration into&#160;Altus-1,&#160;the company’s&#160;first&#160;lunar relay&#160;satellite, marking an important milestone in the development of future&#160;lunar&#160;communications and navigation services.&#160;The lunar relays are designed to enable communications&#160;and navigation&#160;for astronau...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/)
+
+---
+
+### Ike Theriot Helps Prepare Astronauts to Work on the Moon 
+**Fonte:** Nasa News
+
+From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA&#160;through discipline and determination.&#160; Theriot serves as the&#160;Flight Operations Surface Testing&#160;lead in the&#160;Exploration Extravehicular Activity&#160;Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/)
+
+---
+
+### NASA Brings Space Exploration to the FIFA World Cup 
+**Fonte:** Nasa News
+
+From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors explored&#160;the&#160;exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth.&#160;&#160; The exhibit introduced a global audience to the&#1...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/)
+
+---
+
+### APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs the Lacerta Nebula Explanation: What’s happening to t...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/)
+
+---
+
+### APOD: 2026 August 2 – A Fire Rainbow over West Virginia
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Fire Rainbow over West Virginia Explanation: What’s happening to this clo...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/)
 
 ---
 
