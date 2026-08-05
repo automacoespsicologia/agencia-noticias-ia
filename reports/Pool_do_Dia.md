@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/08/2026 11:20
+# 📥 Balde de Notícias Brutas - 05/08/2026 11:16
 
-Atualmente existem **744** notícias aguardando a curadoria do Editor.
+Atualmente existem **757** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5760,15 +5760,6 @@ Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic A
 
 ---
 
-### NASA to Host Media Briefing on Roman Telescope, Launching Next Month
-**Fonte:** Nasa News
-
-Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from the agency’s Kennedy Space Center in Florida on Sunday, Aug. 30. NASA will stream this event live through a variety of platforms. Learn where [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/)
-
----
-
 ### NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event 
 **Fonte:** Nasa News
 
@@ -6498,15 +6489,6 @@ NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from th
 
 ---
 
-### NASA’s Newest Wind Tunnel Opens at NASA Langley
-**Fonte:** Nasa News
-
-On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA&#8217;s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, [&#8...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/)
-
----
-
 ### TB 26-04 Webbings for Use in Elevated Oxygen Environments
 **Fonte:** Nasa News
 
@@ -6597,15 +6579,6 @@ APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submiss
 
 ---
 
-### Rocketdyne reemerges as standalone space company
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/)
-
----
-
 ### Kreios Space to fly VLEO demonstration in NanoAvionics bus
 **Fonte:** Space News
 
@@ -6621,15 +6594,6 @@ APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submiss
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/)
-
----
-
-### Hughes files for bankruptcy after GEO business loses ground to Starlink
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/)
 
 ---
 
@@ -6657,15 +6621,6 @@ Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia 
 Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau&#8217;s&#160;Bijagós Archipelago&#160;(Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide,&#160;intertidal&#160;mudflats and sandflats [&#...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/)
-
----
-
-### NASA Delivers Navigation System for Commercial Lunar Relay
-**Fonte:** Nasa News
-
-NASA delivered the NavCube3-mini payload&#160;on&#160;July 13&#160;to Intuitive Machines for integration into&#160;Altus-1,&#160;the company’s&#160;first&#160;lunar relay&#160;satellite, marking an important milestone in the development of future&#160;lunar&#160;communications and navigation services.&#160;The lunar relays are designed to enable communications&#160;and navigation&#160;for astronau...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/)
 
 ---
 
@@ -6702,6 +6657,168 @@ APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSe
 APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Fire Rainbow over West Virginia Explanation: What’s happening to this clo...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/)
+
+---
+
+### Think tank warns Europe’s orbital compute gap is widening
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/)
+
+---
+
+### Neuraspace raises $18 million to expand sovereign space awareness
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/)
+
+---
+
+### Voyager seeks relaxed requirements in NASA commercial space station RFP
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/)
+
+---
+
+### SpaceX to begin Starship orbital flights
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-to-begin-starship-orbital-flights/)
+
+---
+
+### Rocket Lab, STR win Space Force contracts for airborne-target tracking
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/)
+
+---
+
+### Telesat lands $1.63 billion Canadian defense contract
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/)
+
+---
+
+### NOAA purchases Spire hyperspectral microwave sounder data
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/)
+
+---
+
+### Rubicon ASCENT thruster moves from hot-fire testing to production
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/)
+
+---
+
+### Military demand shapes market for satellite propulsion
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/)
+
+---
+
+### Future of Crew Dragon weighs on commercial spaceflight industry
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/)
+
+---
+
+### NASA Will Attempt to Observe Rocket Part’s Lunar Impact
+**Fonte:** Nasa News
+
+Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/)
+
+---
+
+### NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
+**Fonte:** Nasa News
+
+Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/)
+
+---
+
+### Ames Science Stars of the Month – August 2026
+**Fonte:** Nasa News
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star of the Month: Danielle Lopez Danielle Lopez is the [&...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/)
+
+---
+
+### August 2026 Satellite Puzzler
+**Fonte:** Nasa News
+
+Your challenge is to tell us the location of the satellite image and why it is interesting....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/)
+
+---
+
+### NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
+**Fonte:** Nasa News
+
+NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/)
+
+---
+
+### Roman Space Telescope Plaque Install
+**Fonte:** Nasa News
+
+Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA&#8217;s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program. It also features a memory card containing a total of 1,350,144 [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/)
+
+---
+
+### APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Curious Cometary Knots [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/)
+
+---
+
+### Smoke Streams Across Eastern Washington
+**Fonte:** Nasa News
+
+Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/)
 
 ---
 
