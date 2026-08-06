@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 05/08/2026 11:16
+# 📥 Balde de Notícias Brutas - 06/08/2026 11:17
 
-Atualmente existem **757** notícias aguardando a curadoria do Editor.
+Atualmente existem **766** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4635,15 +4635,6 @@ NASA astronaut Chris Williams took this photo of an orbital sunrise from the Int
 
 ---
 
-### NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
-**Fonte:** Nasa News
-
-NASA’s James Webb Space Telescope has captured the infrared light of numerous features that previously were impossible to see beyond the thick dust of the FS Tau star system. In addition to myriad background galaxies that burst into view like fireworks for the United States’ 250th anniversary celebrations, this image flickers with a number of […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/)
-
----
-
 ### GAO flags satellite costs, launch risks in Space Force portfolio
 **Fonte:** Space News
 
@@ -5814,15 +5805,6 @@ David&#160;SmithDuke University&#160; The increasing population of spacefaring v
 
 ---
 
-### China’s Shijian-31 satellite is sweeping GEO using a unique orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/)
-
----
-
 ### Vast establishes division for national security projects
 **Fonte:** Space News
 
@@ -6687,30 +6669,12 @@ APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissions
 
 ---
 
-### SpaceX to begin Starship orbital flights
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-to-begin-starship-orbital-flights/)
-
----
-
 ### Rocket Lab, STR win Space Force contracts for airborne-target tracking
 **Fonte:** Space News
 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/)
-
----
-
-### Telesat lands $1.63 billion Canadian defense contract
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/)
 
 ---
 
@@ -6756,15 +6720,6 @@ APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissions
 Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/)
-
----
-
-### NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
-**Fonte:** Nasa News
-
-Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/)
 
 ---
 
@@ -6819,6 +6774,132 @@ APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions 
 Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/)
+
+---
+
+### Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/)
+
+---
+
+### NASA and Roscosmos continue seat barter agreement
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/)
+
+---
+
+### New Glenn explosion linked to rocket engine valve
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/)
+
+---
+
+### Capella, Iceye and Umbra win NRO radar-data contracts
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/)
+
+---
+
+### Finding room in Starlink’s shadow
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/finding-room-in-starlinks-shadow/)
+
+---
+
+### Satellite manufacturing thrives in California despite cost and regulatory pressures
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/)
+
+---
+
+### APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. New Sharpest [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/)
+
+---
+
+### NASA’s IXPE May Have Proven 90-Year-Old Theory
+**Fonte:** Nasa News
+
+A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/)
+
+---
+
+### Artemis III Orion Crew and Service Models Joined
+**Fonte:** Nasa News
+
+Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA&#8217;s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/)
+
+---
+
+### NASA’s Perseverance Captures Phobos and Earth
+**Fonte:** Nasa News
+
+Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/)
+
+---
+
+### NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
+**Fonte:** Nasa News
+
+Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons. This is the first time humanity has captured from the surface of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/)
+
+---
+
+### Advanced Mini-laboratories Automate Space Station Research
+**Fonte:** Nasa News
+
+The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time. Fully automated devices, like Redwire’s &#160;ADvanced Space Experiment Processors (ADSEPs), have been designed to conduct more space science with less crew time. Within each ADSEP facility there [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/)
+
+---
+
+### APOD: 2026 August 5 – Spokes on Saturn’s B Ring
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin Spokes on Saturn&#8217;s B Ring Explanation: Don’t get spooked...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/)
+
+---
+
+### The Paradox of Lençóis Maranhenses National Park
+**Fonte:** Nasa News
+
+The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/)
 
 ---
 

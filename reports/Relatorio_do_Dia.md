@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 05/08/2026 11:16
+# 🚀 Relatório da Agência Espacial - 06/08/2026 11:17
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceX to begin Starship orbital flights
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 1. NASA’s IXPE May Have Proven 90-Year-Old Theory
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira final acaba de ficar mais próxima. A SpaceX confirmou o início dos voos orbitais da Starship, o foguete mais potente da história, pronto para revolucionar o transporte de cargas pesadas e pavimentar o caminho definitivo para a colonização de Marte.
+> A física quântica acaba de ser testada no laboratório mais extremo do universo. Utilizando o observatório IXPE, a NASA pode ter comprovado uma teoria de 90 anos sobre como o 'vácuo' se comporta sob campos magnéticos ultra-intensos. É a ciência de ponta saindo dos livros e sendo validada no coração de uma estrela de nêutrons.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-to-begin-starship-orbital-flights/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/)
 
 ---
 
-## 2. Telesat lands $1.63 billion Canadian defense contract
+## 2. NASA Awards Contract for Commercial Satellite Data Acquisition
+**Fonte:** Nasa News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A NASA acaba de consolidar o setor privado como o novo pilar da ciência climática global. Com a seleção de oito novas empresas para o seu programa de aquisição de dados, a agência injeta fôlego comercial no monitoramento da Terra, provando que o mercado de satélites não é apenas sobre lançamentos, mas sobre o valor estratégico da informação.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/)
+
+---
+
+## 3. NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Preparem-se para a imagem que vai redefinir nossa perspectiva no cosmos. Pela primeira vez na história, o rover Perseverance capturou o momento exato em que a Terra 'desaparece' atrás da lua marciana Fobos. Um triunfo da engenharia de precisão e da sincronização orbital que coloca a humanidade, literalmente, com os olhos em Marte e o coração em casa.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/)
+
+---
+
+## 4. Axiom Space adds more than $175 million to funding round
 **Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de constelações em órbita baixa deu um salto bilionário. A Telesat fechou um contrato de 1,6 bilhão de dólares com a defesa do Canadá, consolidando a transição das comunicações militares globais para redes de satélites de nova geração.
+> O futuro das estações espaciais privadas acaba de ganhar um fôlego de 175 milhões de dólares. A Axiom Space garantiu um aporte massivo para acelerar a construção de seus módulos comerciais, sinalizando ao mercado que a sucessão da Estação Espacial Internacional já tem dono, capital e tecnologia para dominar a órbita baixa da Terra.
 
-🔗 [Ler notícia completa](https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/)
+🔗 [Ler notícia completa](https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/)
 
 ---
 
-## 3. China’s Shijian-31 satellite is sweeping GEO using a unique orbit
+## 5. Rubicon ASCENT thruster moves from hot-fire testing to production
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Alerta na órbita geoestacionária. A China colocou em prática uma manobra inédita com o satélite Shijian-31, que utiliza uma órbita única para realizar varreduras estratégicas, sinalizando um avanço sofisticado — e provocativo — em vigilância e mobilidade espacial.
+> A propulsão espacial 'verde' deu o salto definitivo da prancheta para a linha de montagem. O motor ASCENT da Rubicon, projetado para satélites manobráveis, encerrou seus testes de queima e entrou oficialmente em fase de produção. É a inovação técnica que o mercado precisava para garantir satélites mais ágeis e menos poluentes em nossas órbitas cada vez mais congestionadas.
 
-🔗 [Ler notícia completa](https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/)
-
----
-
-## 4. NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Previsão do tempo solar com precisão cirúrgica. A missão PUNCH da NASA validou uma técnica capaz de prever a chegada de ejeções de massa coronal com erro de apenas 30 minutos, uma inovação vital para blindar nossa tecnologia contra apagões espaciais.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/)
-
----
-
-## 5. NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb acaba de revelar o nascimento frenético de estrelas no sistema FS Tau. Através da poeira cósmica, as novas imagens mostram processos de formação estelar em detalhes sem precedentes, reescrevendo o que sabemos sobre as origens de sistemas solares.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/)
+🔗 [Ler notícia completa](https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/)
 
 ---
 
