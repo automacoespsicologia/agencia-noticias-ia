@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/08/2026 11:17
+# 📥 Balde de Notícias Brutas - 08/08/2026 09:32
 
-Atualmente existem **766** notícias aguardando a curadoria do Editor.
+Atualmente existem **781** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2455,15 +2455,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 
 ---
 
-### Axiom Space adds more than $175 million to funding round
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/)
-
----
-
 ### HASC NDAA markup challenges Space Force on satellite programs
 **Fonte:** Space News
 
@@ -3613,15 +3604,6 @@ The first named storm of the 2026 Atlantic hurricane season brought intense rain
 Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/)
-
----
-
-### NASA Awards Contract for Commercial Satellite Data Acquisition
-**Fonte:** Nasa News
-
-NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/)
 
 ---
 
@@ -6687,15 +6669,6 @@ APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissions
 
 ---
 
-### Rubicon ASCENT thruster moves from hot-fire testing to production
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/)
-
----
-
 ### Military demand shapes market for satellite propulsion
 **Fonte:** Space News
 
@@ -6840,15 +6813,6 @@ APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissi
 
 ---
 
-### NASA’s IXPE May Have Proven 90-Year-Old Theory
-**Fonte:** Nasa News
-
-A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/)
-
----
-
 ### Artemis III Orion Crew and Service Models Joined
 **Fonte:** Nasa News
 
@@ -6864,15 +6828,6 @@ Technicians joined the Orion crew and service modules together on July 30, 2026,
 Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/)
-
----
-
-### NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
-**Fonte:** Nasa News
-
-Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons. This is the first time humanity has captured from the surface of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/)
 
 ---
 
@@ -6900,6 +6855,186 @@ APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissions
 The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/)
+
+---
+
+### Senate installs new chiefs for U.S. military space acquisition, spy satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/)
+
+---
+
+### FCC Space Bureau deputy takes the reins amid licensing overhaul
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/)
+
+---
+
+### U.S. Senate confirms Schiess to lead Space Force 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/)
+
+---
+
+### Europe increases size and cost of IRIS² constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/)
+
+---
+
+### Bipartisan Senate bill would sharpen Space Force training for conflict with China
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/)
+
+---
+
+### How should Europe’s militaries respond to space threats
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/)
+
+---
+
+### Lessons for the future of NASA Mars exploration from a 1970s mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/)
+
+---
+
+### Redwire to fly dedicated Starfall mission for microgravity research
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/)
+
+---
+
+### Three companies building the tech to grow crops on the moon
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/)
+
+---
+
+### Rocket Lab launches 8th iQPS satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/)
+
+---
+
+### APOD: 2026 August 8 – A Messier Moment for Tempel 2
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/)
+
+---
+
+### 2026 IGARSS Hyperwall Schedule
+**Fonte:** Nasa News
+
+IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions &#038; Technical Innovation Advancing Earth System InsightsKaren St. Germain TUESDAY, AUGUST 11 10:00 AMSTELLA: Open-Source Multisenor Platforms For ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/)
+
+---
+
+### NASA’s IXPE Studies Magnetar
+**Fonte:** Nasa News
+
+Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist&#8217;s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/)
+
+---
+
+### NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon 
+**Fonte:** Nasa News
+
+Before astronauts return to the Moon’s surface&#160;through NASA’s&#160;Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers&#160;at the&#160;Lunar Development and Test Facility&#160;are tackling one of exploration’s biggest challenges:&#160;Moon dust.&#160; Unlike sand on Earth, lunar d...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/)
+
+---
+
+### APOD: 2026 August 7 – Rubin’s Cosmos Field
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/)
+
+---
+
+### Sensing the Poles’ Hidden Heat
+**Fonte:** Nasa News
+
+New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/)
+
+---
+
+### Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality
+**Fonte:** Nasa News
+
+The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27–29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/)
+
+---
+
+### NASA’s SkyFall Helicopters at Work (Artist’s Concept)
+**Fonte:** Nasa News
+
+Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet.  The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/)
+
+---
+
+### Antenna Testing for NASA’s SkyFall Mission
+**Fonte:** Nasa News
+
+Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California.  The antenna was pointed up during test to minimize reflections and interferences with the antenna pattern during the measurement. Equipped with four instr...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/)
+
+---
+
+### I Am Artemis: Tom Percy
+**Fonte:** Nasa News
+
+As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System Program. Percy serves as a focal point in working with providers SpaceX [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/)
 
 ---
 
