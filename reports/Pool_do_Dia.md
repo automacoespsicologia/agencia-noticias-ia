@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/08/2026 09:32
+# 📥 Balde de Notícias Brutas - 09/08/2026 09:33
 
-Atualmente existem **781** notícias aguardando a curadoria do Editor.
+Atualmente existem **778** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2299,15 +2299,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/europe-is-rearming-together-except-in-space/)
-
----
-
-### Blue Origin seeks to resume New Glenn launches by year’s end
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/)
 
 ---
 
@@ -5409,15 +5400,6 @@ Join a national community of precipitation reporters providing critical data to 
 
 ---
 
-### SpaceX launches 21 satellites for military data network 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/)
-
----
-
 ### Building the infrastructure for a shifting space economy with Massi Ladovaz
 **Fonte:** Space News
 
@@ -5721,15 +5703,6 @@ The hills and basins of Seattle, Washington, have been sculpted by glaciers and 
 Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/)
-
----
-
-### NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica
-**Fonte:** Nasa News
-
-Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/)
 
 ---
 
@@ -6813,15 +6786,6 @@ APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissi
 
 ---
 
-### Artemis III Orion Crew and Service Models Joined
-**Fonte:** Nasa News
-
-Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA&#8217;s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/)
-
----
-
 ### NASA’s Perseverance Captures Phobos and Earth
 **Fonte:** Nasa News
 
@@ -6966,15 +6930,6 @@ IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytellin
 
 ---
 
-### NASA’s IXPE Studies Magnetar
-**Fonte:** Nasa News
-
-Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist&#8217;s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/)
-
----
-
 ### NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon 
 **Fonte:** Nasa News
 
@@ -7035,6 +6990,24 @@ Description SkyFall ground-penetrating radar engineer Maya Román connects a coa
 As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System Program. Percy serves as a focal point in working with providers SpaceX [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/)
+
+---
+
+### Northrop Grumman, Canadian Space Agency repurpose their Gateway projects
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/)
+
+---
+
+### APOD: 2026 August 7 – Rubin’s Cosmos Field
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/)
 
 ---
 
