@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 09/08/2026 09:33
+# 📥 Balde de Notícias Brutas - 10/08/2026 10:12
 
-Atualmente existem **778** notícias aguardando a curadoria do Editor.
+Atualmente existem **775** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5535,15 +5535,6 @@ Description Captured by the multispectral imager instrument on NASA’s Psyche m
 
 ---
 
-### AI rocket engine startup LegendSpace raises $29.5 million angel round
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/)
-
----
-
 ### Agile Space Industries Appoints new CTO and Board member.
 **Fonte:** Space News
 
@@ -6444,15 +6435,6 @@ Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory,
 
 ---
 
-### NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space
-**Fonte:** Nasa News
-
-On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/)
-
----
-
 ### APOD: 2026 July 31 – NGC 4372 and the Dark Doodad
 **Fonte:** Nasa News
 
@@ -6660,15 +6642,6 @@ APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissions
 
 ---
 
-### NASA Will Attempt to Observe Rocket Part’s Lunar Impact
-**Fonte:** Nasa News
-
-Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/)
-
----
-
 ### Ames Science Stars of the Month – August 2026
 **Fonte:** Nasa News
 
@@ -6684,15 +6657,6 @@ The NASA Ames Science Directorate recognizes the outstanding contributions of (p
 Your challenge is to tell us the location of the satellite image and why it is interesting....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/)
-
----
-
-### NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
-**Fonte:** Nasa News
-
-NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advance lunar surface infrastructure development, commercial partners such as Blue Origin, Firefly Aerospace, Intuitive Machines, and Voyager Lunar Systems are working toward delivering landers by 2028. These [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/)
 
 ---
 
@@ -6966,15 +6930,6 @@ The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (Cosm
 
 ---
 
-### NASA’s SkyFall Helicopters at Work (Artist’s Concept)
-**Fonte:** Nasa News
-
-Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet.  The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/)
-
----
-
 ### Antenna Testing for NASA’s SkyFall Mission
 **Fonte:** Nasa News
 
@@ -7008,6 +6963,24 @@ As NASA sets its sights on long-term exploration of the Moon and Mars, the agenc
 APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin&#8217;s COSMOS Field [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/)
+
+---
+
+### Katalyst Space makes progress in restoring control of Swift servicing spacecraft
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/)
+
+---
+
+### APOD: 2026 August 10 – Three Galaxy Pairs
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/)
 
 ---
 
