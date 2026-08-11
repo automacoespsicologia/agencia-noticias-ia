@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 10/08/2026 10:12
+# 📥 Balde de Notícias Brutas - 11/08/2026 09:55
 
-Atualmente existem **775** notícias aguardando a curadoria do Editor.
+Atualmente existem **786** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2572,15 +2572,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### NASA interested in Hubble reboost if costs can be reduced
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/)
-
----
-
 ### NASA concerns about Russian repairs prompted ISS safe haven decision
 **Fonte:** Space News
 
@@ -2983,15 +2974,6 @@ During the 2025-2026 school year, educators from the NASA Science Activation Pro
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/)
-
----
-
-### Tilebox Launches Verifiable AI Workflows for Satellite Data
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/)
 
 ---
 
@@ -3712,15 +3694,6 @@ Even small asteroids lead complex lives. During its flyby of the asteroid Donald
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/)
-
----
-
-### Chinese spaceplane releases object into orbit, according to commercial space surveillance
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/)
 
 ---
 
@@ -5562,15 +5535,6 @@ Description Captured by the multispectral imager instrument on NASA’s Psyche m
 
 ---
 
-### Italian startup ORiS raises funding for laser power-beaming technology
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/)
-
----
-
 ### Pipelines to payloads: risk management lessons for the space economy
 **Fonte:** Space News
 
@@ -6705,15 +6669,6 @@ Wildland fires in early August 2026 pushed air quality to unhealthy levels, dest
 
 ---
 
-### New Glenn explosion linked to rocket engine valve
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/)
-
----
-
 ### Capella, Iceye and Umbra win NRO radar-data contracts
 **Fonte:** Space News
 
@@ -6981,6 +6936,150 @@ APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions 
 APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/)
+
+---
+
+### H3 launches navigation satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/h3-launches-navigation-satellite/)
+
+---
+
+### Rocket Lab builds deployable infrastructure for Electron launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/)
+
+---
+
+### Kepler books Neutron for 2028 optical relay launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/)
+
+---
+
+### Chinese Long March 7A rocket explodes shortly after liftoff
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/)
+
+---
+
+### National security doesn’t need more maps or imagery; it needs measurement
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/)
+
+---
+
+### Tank problem delays first RFA launch
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/tank-problem-delays-first-rfa-launch/)
+
+---
+
+### Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/)
+
+---
+
+### Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
+**Fonte:** Nasa News
+
+Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional supersurface.” The “supersurface” represents a period in time when a net depositional environment changed […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/)
+
+---
+
+### APOD: 2026 August 11 – Six Moons of Saturn
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/)
+
+---
+
+### Bountiful Roebuck Bay 
+**Fonte:** Nasa News
+
+Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/)
+
+---
+
+### Community College Instructors Bring Astronomy Textbook Into 21st Century
+**Fonte:** Nasa News
+
+Teaching the beautiful and inspirational science of astronomy using only the conceptual framework offered by a traditional textbook – without incorporating the wealth of incredible resources, images and activities from NASA – falls short of the more modern, active learning experience that could better serve students evolving learning strategies. Three project teams from the NASA […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/)
+
+---
+
+### NASA+ Debuts on discovery+, Coming Soon to HBO Max
+**Fonte:** Nasa News
+
+As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/)
+
+---
+
+### Lion Nebula Roars to Life With NASA’s Webb
+**Fonte:** Nasa News
+
+Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/)
+
+---
+
+### Launch Into a New School Year With NASA
+**Fonte:** Nasa News
+
+A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/)
+
+---
+
+### El Niño Alters Marine Life in the Pacific
+**Fonte:** Nasa News
+
+Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/)
+
+---
+
+### APOD: 2026 August 9 – Contemplating the Sun
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/)
 
 ---
 
