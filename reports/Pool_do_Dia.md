@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/08/2026 09:55
+# 📥 Balde de Notícias Brutas - 12/08/2026 09:56
 
-Atualmente existem **786** notícias aguardando a curadoria do Editor.
+Atualmente existem **798** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4500,15 +4500,6 @@ A predawn Moon-and-planets meetup, a returning comet, a great chance to see the 
 
 ---
 
-### NASA’s Chandra Examines Milky Way at Arms’ Length
-**Fonte:** Nasa News
-
-A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/)
-
----
-
 ### NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
 **Fonte:** Nasa News
 
@@ -4587,15 +4578,6 @@ NASA astronaut Chris Williams took this photo of an orbital sunrise from the Int
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/)
-
----
-
-### Chinese satellite manufacturer Hongqing raises $191 million
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/)
 
 ---
 
@@ -6219,15 +6201,6 @@ Description NASA’s Curiosity Mars rover captured this sand-capped butte, nickn
 
 ---
 
-### NASA’s Curiosity Discovers a Field of Martian Polygons
-**Fonte:** Nasa News
-
-Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/)
-
----
-
 ### Understanding How Martian Auroras Are Made
 **Fonte:** Nasa News
 
@@ -6423,15 +6396,6 @@ APODScienceAPODAPOD: 2026 July 31 – NGC…Today’s APODArchiveSubmissionsInde
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/)
-
----
-
-### U.S. Air Force expands Blue Origin rocket cargo contract 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/)
 
 ---
 
@@ -6993,15 +6957,6 @@ APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions
 
 ---
 
-### Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/)
-
----
-
 ### Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
 **Fonte:** Nasa News
 
@@ -7080,6 +7035,159 @@ Satellite measurements of chlorophyll at the sea surface signal shifts in the oc
 APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/)
+
+---
+
+### Firefly increases vehicle production even as launches lag
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/)
+
+---
+
+### U.S. expands missile production as Army seeks more depth in its arsenal
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/)
+
+---
+
+### Golden Dome faces 2027 funding cliff 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/golden-dome-faces-2027-funding-cliff/)
+
+---
+
+### National lab visit boosts NASA’s confidence in space nuclear propulsion mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/)
+
+---
+
+### Golden Dome money starting to reach contractors, but long-term funding still unclear
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/)
+
+---
+
+### Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/)
+
+---
+
+### TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/)
+
+---
+
+### SpaceX increasing footprint in missile defense
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacex-increasing-footprint-in-missile-defense/)
+
+---
+
+### Former Space Force general joins Lunar Outpost board
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/)
+
+---
+
+### BlackSky wins seven-figure, multiyear international contract
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/)
+
+---
+
+### Stops Along the Path of Totality
+**Fonte:** Nasa News
+
+Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/)
+
+---
+
+### What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)
+**Fonte:** Nasa News
+
+This article is&#160;for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/)
+
+---
+
+### NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
+**Fonte:** Nasa News
+
+NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/)
+
+---
+
+### Lion Nebula Roars in Webb’s Sights
+**Fonte:** Nasa News
+
+Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula&#8217;s &#8220;mane&#8221; is clear and detailed in this image released on Aug. 10, 2026, due to Webb&#8217;s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/)
+
+---
+
+### NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
+**Fonte:** Nasa News
+
+Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula. Located in the Large Magellanic Cloud, a small neighbor galaxy […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/)
+
+---
+
+### Building the Moon Base: NASA Stories at the Ion  
+**Fonte:** Nasa News
+
+As NASA&#160;prepares&#160;to return astronauts to the lunar surface&#160;for&#160;longer stays and increasingly complex operations, building&#160;the&#160;Moon Base&#160;will require&#160;new&#160;ideas, advanced technologies, and&#160;expertise&#160;across many fields.&#160; During NASA Stories at the Ion on July 30,&#160;Shatel Bhakta, principal systems engineer for NASA’s Moon Base&#160;Progra...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/)
+
+---
+
+### NASA Shares Station Research Today Supporting Moon, Mars Tomorrow
+**Fonte:** Nasa News
+
+The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 11/08/2026 09:55
+# 🚀 Relatório da Agência Espacial - 12/08/2026 09:56
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Chandra Examines Milky Way at Arms’ Length
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 1. NASA’s Artemis II Moon Mission Research Continues on Earth
+**Fonte:** Nasa News | **Categoria:** Exploração Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Nossa casa no cosmos acaba de 'crescer'. Novos dados do observatório de raios-X Chandra revelam que os braços espirais da Via Láctea se estendem muito além do que imaginávamos, forçando os astrônomos a redesenharem o mapa estrutural da nossa própria galáxia.
+> A humanidade voltou à órbita lunar e os dados científicos já estão transformando nossos planos para o futuro. Com o sucesso da missão Artemis II, a NASA iniciou uma análise profunda das observações coletadas durante o voo tripulado. Esses resultados não são apenas estatísticas; eles são o guia definitivo para a construção da primeira Base Lunar permanente, transformando a experiência real de quatro astronautas no espaço profundo em protocolos de sobrevivência para as próximas gerações.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/)
+🔗 [Ler notícia completa](https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
 
 ---
 
-## 2. Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite
+## 2. National lab visit boosts NASA’s confidence in space nuclear propulsion mission
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A barreira do silêncio na reentrada atmosférica está prestes a cair. Uma colaboração entre a Astrolight e a ATMOS Space Cargo planeja testar o primeiro link de laser entre um veículo de reentrada e um satélite, uma tecnologia que promete conexões de dados ultrarrápidas onde hoje só existe o 'apagão' de rádio.
+> A viagem para Marte acaba de ficar mais próxima da realidade com um avanço crítico na propulsão nuclear espacial. A NASA confirmou um salto de confiança nesta tecnologia após testes em laboratórios nacionais de elite, validando sistemas que podem reduzir drasticamente o tempo de viagem interplanetária. Deixamos para trás a era da ficção: a propulsão nuclear é agora a peça central da infraestrutura técnica para garantir que o ser humano chegue ao Planeta Vermelho com segurança e rapidez.
 
-🔗 [Ler notícia completa](https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/)
-
----
-
-## 3. Chinese satellite manufacturer Hongqing raises $191 million
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O setor privado chinês deu um salto bilionário hoje. A fabricante de satélites Hongqing captou 191 milhões de dólares em uma nova rodada de investimento, consolidando a aceleração agressiva da China na corrida pelas megaconstelações de banda larga que pretendem rivalizar com a Starlink.
-
-🔗 [Ler notícia completa](https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/)
+🔗 [Ler notícia completa](https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/)
 
 ---
 
-## 4. U.S. Air Force expands Blue Origin rocket cargo contract 
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 3. NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A logística militar está deixando a superfície para ganhar a órbita. A Força Aérea dos Estados Unidos ampliou drasticamente seu contrato de 'foguete cargueiro' com a Blue Origin, sinalizando que o transporte de suprimentos em escala global via espaço é a próxima grande fronteira estratégica do mercado.
+> O solo de Marte acaba de revelar um segredo geológico que muda nossa compreensão sobre o clima antigo do planeta. Através de amostras coletadas pelo rover Curiosity, cientistas identificaram que o tamanho dos cristais de hematita funciona como um 'termômetro mineralógico'. Essa descoberta validada permite mapear, com precisão inédita, as variações ambientais de bilhões de anos atrás, aproximando-nos da resposta definitiva sobre quando — e por quanto tempo — Marte foi realmente habitável.
 
-🔗 [Ler notícia completa](https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/)
 
 ---
 
-## 5. NASA’s Curiosity Discovers a Field of Martian Polygons
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 4. Space Force completes procurement reorganization, creating nine acquisition portfolios
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O rover Curiosity acaba de flagrar uma paisagem alienígena intrigante: um campo maciço de formações poligonais em Marte. A descoberta oferece provas inéditas de ciclos climáticos intensos e variações de umidade no passado de Gale Crater, peças fundamentais para entender se o planeta já foi habitável.
+> Em um movimento que redefine o mercado global de defesa, a Força Espacial dos Estados Unidos concluiu uma reorganização massiva em seu sistema de compras. Com a criação de nove portfólios de aquisição estratégica, o Pentágono está sinalizando uma mudança drástica para contratos mais ágeis e focados em startups de tecnologia. Essa reestruturação bilionária não apenas acelera a inovação em órbita, mas também força toda a indústria aeroespacial a se adaptar a um ritmo de produção e escala nunca antes visto.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/)
+
+---
+
+## 5. Vast signs additional partners for commercial space station microgravity research
+**Fonte:** Space News | **Categoria:** Negócios
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A era das estações espaciais comerciais deixou de ser uma promessa e se tornou um mercado multibilionário em plena expansão. A startup Vast consolidou parcerias decisivas para pesquisas em microgravidade na estação Haven-1, garantindo que o setor privado tome as rédeas da exploração em órbita baixa antes mesmo da aposentadoria da ISS. O movimento confirma que o espaço se tornou o novo laboratório de elite para indústrias farmacêuticas e de materiais, consolidando uma economia que acontece inteiramente fora da Terra.
+
+🔗 [Ler notícia completa](https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/)
 
 ---
 
