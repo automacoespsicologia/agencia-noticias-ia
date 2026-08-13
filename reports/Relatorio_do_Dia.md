@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 12/08/2026 09:56
+# 🚀 Relatório da Agência Espacial - 13/08/2026 09:58
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Artemis II Moon Mission Research Continues on Earth
-**Fonte:** Nasa News | **Categoria:** Exploração Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A humanidade voltou à órbita lunar e os dados científicos já estão transformando nossos planos para o futuro. Com o sucesso da missão Artemis II, a NASA iniciou uma análise profunda das observações coletadas durante o voo tripulado. Esses resultados não são apenas estatísticas; eles são o guia definitivo para a construção da primeira Base Lunar permanente, transformando a experiência real de quatro astronautas no espaço profundo em protocolos de sobrevivência para as próximas gerações.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
-
----
-
-## 2. National lab visit boosts NASA’s confidence in space nuclear propulsion mission
+## 1. Astranis unveils geostationary surveillance satellite
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A viagem para Marte acaba de ficar mais próxima da realidade com um avanço crítico na propulsão nuclear espacial. A NASA confirmou um salto de confiança nesta tecnologia após testes em laboratórios nacionais de elite, validando sistemas que podem reduzir drasticamente o tempo de viagem interplanetária. Deixamos para trás a era da ficção: a propulsão nuclear é agora a peça central da infraestrutura técnica para garantir que o ser humano chegue ao Planeta Vermelho com segurança e rapidez.
+> A Astranis está mudando as regras do jogo na órbita geoestacionária. A empresa revelou o 'Perceptor', um satélite de pequeno porte projetado especificamente para vigilância persistente a 36 mil quilômetros de altitude. É a agilidade dos microssatélites chegando a uma órbita antes dominada apenas por gigantes, abrindo uma nova fronteira no monitoramento estratégico do espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/)
-
----
-
-## 3. NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O solo de Marte acaba de revelar um segredo geológico que muda nossa compreensão sobre o clima antigo do planeta. Através de amostras coletadas pelo rover Curiosity, cientistas identificaram que o tamanho dos cristais de hematita funciona como um 'termômetro mineralógico'. Essa descoberta validada permite mapear, com precisão inédita, as variações ambientais de bilhões de anos atrás, aproximando-nos da resposta definitiva sobre quando — e por quanto tempo — Marte foi realmente habitável.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/)
+🔗 [Ler notícia completa](https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/)
 
 ---
 
-## 4. Space Force completes procurement reorganization, creating nine acquisition portfolios
-**Fonte:** Space News | **Categoria:** Mercado
+## 2. NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
+**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Em um movimento que redefine o mercado global de defesa, a Força Espacial dos Estados Unidos concluiu uma reorganização massiva em seu sistema de compras. Com a criação de nove portfólios de aquisição estratégica, o Pentágono está sinalizando uma mudança drástica para contratos mais ágeis e focados em startups de tecnologia. Essa reestruturação bilionária não apenas acelera a inovação em órbita, mas também força toda a indústria aeroespacial a se adaptar a um ritmo de produção e escala nunca antes visto.
+> Wrenches down! A NASA declarou concluído o hardware do LEMS, o primeiro instrumento científico finalizado para ser instalado manualmente por astronautas na superfície lunar. Esse monitor sísmico de última geração será os 'ouvidos' da missão Artemis na Lua, capturando dados cruciais sobre o interior do nosso satélite natural pela primeira vez em décadas.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/)
 
 ---
 
-## 5. Vast signs additional partners for commercial space station microgravity research
-**Fonte:** Space News | **Categoria:** Negócios
+## 3. Quantum computing is about to become a national security problem in orbit
+**Fonte:** Space News | **Categoria:** Segurança e Defesa
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A era das estações espaciais comerciais deixou de ser uma promessa e se tornou um mercado multibilionário em plena expansão. A startup Vast consolidou parcerias decisivas para pesquisas em microgravidade na estação Haven-1, garantindo que o setor privado tome as rédeas da exploração em órbita baixa antes mesmo da aposentadoria da ISS. O movimento confirma que o espaço se tornou o novo laboratório de elite para indústrias farmacêuticas e de materiais, consolidando uma economia que acontece inteiramente fora da Terra.
+> O próximo grande desafio da segurança espacial já tem nome: criptografia quântica. Especialistas alertam que o avanço da computação quântica pode tornar obsoletas as defesas atuais dos satélites militares. A corrida agora é para implementar infraestruturas de distribuição de chaves quânticas em órbita antes que a vantagem tecnológica mude de mãos.
 
-🔗 [Ler notícia completa](https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/)
+🔗 [Ler notícia completa](https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/)
+
+---
+
+## 4. Space Force orders two more GPS satellites from Lockheed Martin for $514 million
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Movimentação pesada no mercado de defesa: a Força Espacial dos Estados Unidos encomendou mais dois satélites GPS à Lockheed Martin em um contrato de 514 milhões de dólares. O investimento bilionário reforça a necessidade global por sistemas de navegação cada vez mais resilientes e precisos em um cenário de crescentes interferências eletrônicas.
+
+🔗 [Ler notícia completa](https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/)
+
+---
+
+## 5. Redwire to fly dedicated Starfall mission for microgravity research
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A Redwire anunciou a missão Starfall, o primeiro voo comercial totalmente dedicado à pesquisa em microgravidade. Diferente de missões compartilhadas, a Starfall oferece uma plataforma otimizada para a fabricação de biofármacos e cristais em órbita, consolidando o espaço como um laboratório industrial de alta performance para empresas da Terra.
+
+🔗 [Ler notícia completa](https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/08/2026 09:56
+# 📥 Balde de Notícias Brutas - 13/08/2026 09:58
 
-Atualmente existem **798** notícias aguardando a curadoria do Editor.
+Atualmente existem **809** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2104,15 +2104,6 @@ Written by Abigail Fraeman, Deputy Project Scientist at Jet Propulsion Laborator
 
 ---
 
-### NASA Uses Mineralogical Marker to Understand Ancient Martian Climate
-**Fonte:** Nasa News
-
-Scientists analyzed 20 Martian samples collected by NASA’s Curiosity Rover and found that differences in hematite crystallite size at varying elevations could serve as a new mineralogical marker for understanding Mars’ ancient climate....
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/)
-
----
-
 ### Nancy Grace Roman Space Telescope Poster
 **Fonte:** Nasa News
 
@@ -2533,15 +2524,6 @@ NASA&#8217;s Juno spacecraft captured this color-enhanced view of Jupiter&#8217;
 NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes.  Another&#160;team&#160;from&#160;the same unive...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/)
-
----
-
-### NASA’s Artemis II Moon Mission Research Continues on Earth
-**Fonte:** Nasa News
-
-Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
 
 ---
 
@@ -3960,15 +3942,6 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
 
 ---
 
-### Vast signs additional partners for commercial space station microgravity research
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/)
-
----
-
 ### York satellite demonstrates two-way UHF communications from low Earth orbit
 **Fonte:** Space News
 
@@ -4866,15 +4839,6 @@ Your challenge is to tell us the location of the satellite image and why it is i
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/)
-
----
-
-### Space Force completes procurement reorganization, creating nine acquisition portfolios
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/)
 
 ---
 
@@ -7065,15 +7029,6 @@ APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions 
 
 ---
 
-### National lab visit boosts NASA’s confidence in space nuclear propulsion mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/)
-
----
-
 ### Golden Dome money starting to reach contractors, but long-term funding still unclear
 **Fonte:** Space News
 
@@ -7188,6 +7143,150 @@ As NASA&#160;prepares&#160;to return astronauts to the lunar surface&#160;for&#1
 The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/)
+
+---
+
+### Astranis unveils geostationary surveillance satellite
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/)
+
+---
+
+### Virgin Galactic delays resumption of commercial flights to 2027
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/)
+
+---
+
+### Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/)
+
+---
+
+### Pentagon missile buildup changing the factory floor
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/)
+
+---
+
+### Space Command identifies capabilities it needs for the next space war
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/)
+
+---
+
+### Golden Dome creates digital hub to expand commercial participation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/)
+
+---
+
+### China’s iSpace raises first batch of series E funding for reusable rocketry
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/)
+
+---
+
+### One species, one planet: The moon is our ethical dress rehearsal for Mars
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/)
+
+---
+
+### APOD: 2026 August 13 – Total Solar Eclipse Over Spain
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/)
+
+---
+
+### NASA Data Helps Commercial Space Plan Living Off Our Moon 
+**Fonte:** Nasa News
+
+The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/)
+
+---
+
+### 2026 Total Solar Eclipse in Spain
+**Fonte:** Nasa News
+
+A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/)
+
+---
+
+### NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
+**Fonte:** Nasa News
+
+Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/)
+
+---
+
+### NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights
+**Fonte:** Nasa News
+
+NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/)
+
+---
+
+### Pursuing a Dream of Working for NASA
+**Fonte:** Nasa News
+
+As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team &#8211; an integral part of the agency’s missions that will enable humans to return to the surface [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/)
+
+---
+
+### APOD: 2026 August 12 – Perseids over a Little Planet
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids over a [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/)
+
+---
+
+### Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products
+**Fonte:** Nasa News
+
+CSDA’s assessment reports help inform the user community about the quality of commercial Digital Elevation Models (DEMs)....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/)
 
 ---
 
