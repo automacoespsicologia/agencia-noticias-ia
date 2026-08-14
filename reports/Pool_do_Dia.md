@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/08/2026 09:58
+# 📥 Balde de Notícias Brutas - 14/08/2026 09:55
 
-Atualmente existem **809** notícias aguardando a curadoria do Editor.
+Atualmente existem **818** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3229,15 +3229,6 @@ Buoyant volcanic rock fragments from an underwater eruption drifted across the B
 
 ---
 
-### Space Force orders two more GPS satellites from Lockheed Martin for $514 million
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/)
-
----
-
 ### Nebraska’s Wide, Rolling Domain
 **Fonte:** Nasa News
 
@@ -4209,15 +4200,6 @@ With the North American fire season underway, and a record number of acres alrea
 This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/)
-
----
-
-### Quantum computing is about to become a national security problem in orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/)
 
 ---
 
@@ -6732,15 +6714,6 @@ The coastal dune field in Brazil looks like a desert but fills with freshwater l
 
 ---
 
-### Redwire to fly dedicated Starfall mission for microgravity research
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/)
-
----
-
 ### Three companies building the tech to grow crops on the moon
 **Fonte:** Space News
 
@@ -7101,15 +7074,6 @@ This article is&#160;for students grades 5-8. The Nancy Grace Roman Space Telesc
 
 ---
 
-### NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
-**Fonte:** Nasa News
-
-NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/)
-
----
-
 ### Lion Nebula Roars in Webb’s Sights
 **Fonte:** Nasa News
 
@@ -7143,15 +7107,6 @@ As NASA&#160;prepares&#160;to return astronauts to the lunar surface&#160;for&#1
 The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/)
-
----
-
-### Astranis unveils geostationary surveillance satellite
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/)
 
 ---
 
@@ -7287,6 +7242,132 @@ APOD Science APOD APOD: 2026 August 12 –… Today’s APOD Archive Submissions
 CSDA’s assessment reports help inform the user community about the quality of commercial Digital Elevation Models (DEMs)....
 
 🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/)
+
+---
+
+### Bulgaria advances project to launch new space, defense innovation hub
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/)
+
+---
+
+### In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/)
+
+---
+
+### CesiumAstro buys semiconductor specialist to boost constellation plans
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/)
+
+---
+
+### Space Force awards five companies $60 million for multi-vendor satellite network tests
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/)
+
+---
+
+### Space Command expands Alabama footprint as headquarters relocation advances
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/)
+
+---
+
+### An optical link ‘internet’ to connect networks in space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/)
+
+---
+
+### Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/)
+
+---
+
+### Paragon lays off staff after Gateway cancellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/)
+
+---
+
+### APOD: 2026 August 14 – Total Solar Eclipse from Greenland
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/)
+
+---
+
+### A Sunflower’s View of Totality
+**Fonte:** Nasa News
+
+The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/)
+
+---
+
+### NASA’s 737 Reveals New Paint
+**Fonte:** Nasa News
+
+NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.&#160; The aircraft will perform lunar-gravity parabolic flights to validate [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/)
+
+---
+
+### For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too
+**Fonte:** Nasa News
+
+Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/)
+
+---
+
+### Perseids Meteor Shower
+**Fonte:** Nasa News
+
+The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/perseids-meteor-shower-2/)
+
+---
+
+### Cascade Volcanoes Shrouded in Smoke
+**Fonte:** Nasa News
+
+From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/)
 
 ---
 
