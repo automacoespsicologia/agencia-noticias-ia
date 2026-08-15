@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 14/08/2026 09:55
+# 📥 Balde de Notícias Brutas - 15/08/2026 09:20
 
-Atualmente existem **818** notícias aguardando a curadoria do Editor.
+Atualmente existem **830** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -7368,6 +7368,114 @@ The constellation Orion is framed by two Perseid meteors in this photo from Aug.
 From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/)
+
+---
+
+### U.S. Space Force adds second surveillance sensor to Japanese constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/)
+
+---
+
+### Wallops gears up for an increase in launches
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/)
+
+---
+
+### Spire and PlanetiQ win NOAA radio-occultation contracts
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/)
+
+---
+
+### Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/)
+
+---
+
+### Blue Origin outlines plans for second Cape Canaveral launch pad
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/)
+
+---
+
+### Intuitive Machines wins contract for three GEO satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/)
+
+---
+
+### APOD: 2026 August 15 – Bright Perseids from Sweden
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/)
+
+---
+
+### NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies 
+**Fonte:** Nasa News
+
+NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on the Moon shaped by&#160;new technology.&#160; The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition&#160;invites&#160;student teams to e...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/)
+
+---
+
+### NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow
+**Fonte:** Nasa News
+
+In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/)
+
+---
+
+### Volunteer Develops Machine-Learning Tool to Identify Rare Clouds
+**Fonte:** Nasa News
+
+Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project....
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/)
+
+---
+
+### NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun 
+**Fonte:** Nasa News
+
+As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/)
+
+---
+
+### Total Solar Eclipse in Sunflower Field
+**Fonte:** Nasa News
+
+This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/)
 
 ---
 

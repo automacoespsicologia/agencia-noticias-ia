@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 13/08/2026 09:58
+# 🚀 Relatório da Agência Espacial - 15/08/2026 09:20
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Astranis unveils geostationary surveillance satellite
+## 1. SpaceX aborts Starship Flight 13 launch attempt
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Astranis está mudando as regras do jogo na órbita geoestacionária. A empresa revelou o 'Perceptor', um satélite de pequeno porte projetado especificamente para vigilância persistente a 36 mil quilômetros de altitude. É a agilidade dos microssatélites chegando a uma órbita antes dominada apenas por gigantes, abrindo uma nova fronteira no monitoramento estratégico do espaço.
+> O caminho para Marte encontrou um novo obstáculo técnico. A SpaceX interrompeu o lançamento do Voo 13 da Starship no último segundo, evidenciando que, mesmo com uma cadência de voos sem precedentes, a complexidade do maior foguete do mundo ainda desafia os limites da engenharia aeroespacial moderna.
 
-🔗 [Ler notícia completa](https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/)
-
----
-
-## 2. NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
-**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Wrenches down! A NASA declarou concluído o hardware do LEMS, o primeiro instrumento científico finalizado para ser instalado manualmente por astronautas na superfície lunar. Esse monitor sísmico de última geração será os 'ouvidos' da missão Artemis na Lua, capturando dados cruciais sobre o interior do nosso satélite natural pela primeira vez em décadas.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/)
+🔗 [Ler notícia completa](https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/)
 
 ---
 
-## 3. Quantum computing is about to become a national security problem in orbit
-**Fonte:** Space News | **Categoria:** Segurança e Defesa
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O próximo grande desafio da segurança espacial já tem nome: criptografia quântica. Especialistas alertam que o avanço da computação quântica pode tornar obsoletas as defesas atuais dos satélites militares. A corrida agora é para implementar infraestruturas de distribuição de chaves quânticas em órbita antes que a vantagem tecnológica mude de mãos.
-
-🔗 [Ler notícia completa](https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/)
-
----
-
-## 4. Space Force orders two more GPS satellites from Lockheed Martin for $514 million
+## 2. Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Movimentação pesada no mercado de defesa: a Força Espacial dos Estados Unidos encomendou mais dois satélites GPS à Lockheed Martin em um contrato de 514 milhões de dólares. O investimento bilionário reforça a necessidade global por sistemas de navegação cada vez mais resilientes e precisos em um cenário de crescentes interferências eletrônicas.
+> A barreira entre o seu bolso e as estrelas acaba de cair. Com a aprovação da FCC para que a Lynk e a Anterix testem a conexão direta de satélites com smartphones em redes privadas, a indústria de telecomunicações entra em um ponto sem retorno rumo à conectividade global absoluta.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/)
+🔗 [Ler notícia completa](https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/)
 
 ---
 
-## 5. Redwire to fly dedicated Starfall mission for microgravity research
+## 3. Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Redwire anunciou a missão Starfall, o primeiro voo comercial totalmente dedicado à pesquisa em microgravidade. Diferente de missões compartilhadas, a Starfall oferece uma plataforma otimizada para a fabricação de biofármacos e cristais em órbita, consolidando o espaço como um laboratório industrial de alta performance para empresas da Terra.
+> Esqueça satélites estáticos; o futuro é a manobrabilidade total. A Força Espacial dos EUA encomendou novos veículos da Impulse Space para demonstrações de mobilidade orbital, sinalizando uma mudança estratégica onde a capacidade de desviar de ameaças e realizar serviços em órbita se torna a nova prioridade de defesa.
 
-🔗 [Ler notícia completa](https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/)
+
+---
+
+## 4. US-Indian Spacecraft Captures Mexico City Subsidence
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O radar mais sofisticado já lançado começou a mostrar seu poder. Dados da missão NISAR, uma parceria bilionária entre NASA e Índia, revelaram com precisão milimétrica o afundamento do solo na Cidade do México, provando que a tecnologia de radar de síntese de abertura é nossa melhor aliada contra crises geológicas.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/)
+
+---
+
+## 5. Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A China consolidou sua posição na elite da propulsão a metano. O lançamento do Zhuque-2E, carregando satélites de teste para conexão direta com dispositivos móveis, não apenas valida o uso de combustíveis mais limpos e eficientes, mas coloca as constelações chinesas em rota de colisão direta com o domínio da Starlink.
+
+🔗 [Ler notícia completa](https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/)
 
 ---
 
