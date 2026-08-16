@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/08/2026 09:20
+# 📥 Balde de Notícias Brutas - 16/08/2026 09:22
 
-Atualmente existem **830** notícias aguardando a curadoria do Editor.
+Atualmente existem **827** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -577,15 +577,6 @@ As winter turned to spring, the skies over the Gulf of Alaska displayed textbook
 Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As&#160;the&#160;four&#160;Artemis II&#160;astronauts&#160;traveled on&#160;a&#160;694,481-mile journey around the Moon and back,&#160;the Orion spacecraft&#160;provided them with all the essentials&#160;for deep space life, including&#160;daily&#160;exercise. The crew used an exercise device called the flywheel throug...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/)
-
----
-
-### US-Indian Spacecraft Captures Mexico City Subsidence
-**Fonte:** Nasa News
-
-Description A scientist produced this map of land subsidence (sinking) in Mexico City using data from the NISAR (NASA-ISRO Synthetic Aperture Radar) mission captured between Oct. 25, 2025, and Jan. 17, 2026. The region has been a well-known hot spot of subsidence for decades, and images like this help confirm that NISAR is performing as […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/)
 
 ---
 
@@ -1597,15 +1588,6 @@ The NASA-funded Translational Research Institute for Space Health (TRISH) has se
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/)
-
----
-
-### Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/)
 
 ---
 
@@ -2749,15 +2731,6 @@ Your challenge is to tell us the location of the satellite image and why it is i
 This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and even to determine how luggage is loaded onto an airplane. Mass distribution can be a tricky thing to understand. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/)
-
----
-
-### Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/)
 
 ---
 
@@ -5292,15 +5265,6 @@ Join a national community of precipitation reporters providing critical data to 
 
 ---
 
-### SpaceX aborts Starship Flight 13 launch attempt
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/)
-
----
-
 ### Building the infrastructure for a shifting space economy with Massi Ladovaz
 **Fonte:** Space News
 
@@ -7119,15 +7083,6 @@ The International Space Station has been busy throughout 2026, as it continues t
 
 ---
 
-### Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/)
-
----
-
 ### Pentagon missile buildup changing the factory floor
 **Fonte:** Space News
 
@@ -7476,6 +7431,24 @@ As humanity looks to the Moon and stars for future exploration, predicting space
 This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/)
+
+---
+
+### Lunar orbiter among upcoming NASA CLPS task orders
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/)
+
+---
+
+### APOD: 2026 August 16 – Milky Way over Yellowstone
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/)
 
 ---
 

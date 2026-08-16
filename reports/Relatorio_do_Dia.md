@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 15/08/2026 09:20
+# 🚀 Relatório da Agência Espacial - 16/08/2026 09:22
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceX aborts Starship Flight 13 launch attempt
+## 1. Intuitive Machines wins contract for three GEO satellites
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A Intuitive Machines está quebrando fronteiras. Conhecida por seus pousos lunares, a empresa acaba de garantir um contrato de peso para construir três satélites em órbita geoestacionária. É uma expansão estratégica agressiva que coloca a gigante do setor comercial em uma das órbitas mais valiosas e disputadas do planeta.
+
+🔗 [Ler notícia completa](https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/)
+
+---
+
+## 2. NIAC 2026 Selections
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Bloquear o Sol com nuvens de poeira controladas? Isso não é ficção científica, é o novo projeto selecionado pelo programa NIAC da NASA. Liderado pelo JPL, o estudo propõe uma técnica radical de gerenciamento solar para reduzir a insolação na Terra. Uma inovação técnica que pode redefinir o papel da exploração espacial na luta contra a crise climática.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/)
+
+---
+
+## 3. China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho para Marte encontrou um novo obstáculo técnico. A SpaceX interrompeu o lançamento do Voo 13 da Starship no último segundo, evidenciando que, mesmo com uma cadência de voos sem precedentes, a complexidade do maior foguete do mundo ainda desafia os limites da engenharia aeroespacial moderna.
+> A China deu um passo decisivo na nova fronteira orbital com a criação de uma aliança industrial focada em VLEO — as órbitas muito baixas. Satélites operando nessa região prometem comunicações com latência quase zero e monitoramento com resolução sem precedentes, sinalizando uma mudança tectônica no mercado de infraestrutura espacial asiático.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/)
-
----
-
-## 2. Lynk and Anterix get FCC nod to test satellite D2D for private utility networks
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A barreira entre o seu bolso e as estrelas acaba de cair. Com a aprovação da FCC para que a Lynk e a Anterix testem a conexão direta de satélites com smartphones em redes privadas, a indústria de telecomunicações entra em um ponto sem retorno rumo à conectividade global absoluta.
-
-🔗 [Ler notícia completa](https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/)
+🔗 [Ler notícia completa](https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/)
 
 ---
 
-## 3. Space Force orders two more Impulse Space vehicles for maneuvering demonstrations
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. MDA Space wins contract for Radarsat replenishment satellite
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça satélites estáticos; o futuro é a manobrabilidade total. A Força Espacial dos EUA encomendou novos veículos da Impulse Space para demonstrações de mobilidade orbital, sinalizando uma mudança estratégica onde a capacidade de desviar de ameaças e realizar serviços em órbita se torna a nova prioridade de defesa.
+> A MDA Space consolida seu domínio na observação terrestre com um contrato massivo para a reposição da constelação Radarsat. Este movimento garante a continuidade de dados vitais de radar e reafirma a posição da empresa como um player de elite no monitoramento global, em um momento onde dados de alta precisão são a moeda de ouro do setor.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/)
+🔗 [Ler notícia completa](https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/)
 
 ---
 
-## 4. US-Indian Spacecraft Captures Mexico City Subsidence
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 5. Space Force awards Slingshot $69 million for AI-enabled training technology
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O radar mais sofisticado já lançado começou a mostrar seu poder. Dados da missão NISAR, uma parceria bilionária entre NASA e Índia, revelaram com precisão milimétrica o afundamento do solo na Cidade do México, provando que a tecnologia de radar de síntese de abertura é nossa melhor aliada contra crises geológicas.
+> A inteligência artificial acaba de se tornar o pilar central da defesa orbital. A Força Espacial dos Estados Unidos destinou 69 milhões de dólares à Slingshot Aerospace para o desenvolvimento de sistemas de treinamento baseados em IA. É o sinal claro de que o mercado espacial de segurança está migrando para a automação cognitiva de alta velocidade.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/)
-
----
-
-## 5. Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A China consolidou sua posição na elite da propulsão a metano. O lançamento do Zhuque-2E, carregando satélites de teste para conexão direta com dispositivos móveis, não apenas valida o uso de combustíveis mais limpos e eficientes, mas coloca as constelações chinesas em rota de colisão direta com o domínio da Starlink.
-
-🔗 [Ler notícia completa](https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/)
 
 ---
 
