@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/08/2026 09:22
+# 📥 Balde de Notícias Brutas - 17/08/2026 09:35
 
-Atualmente existem **827** notícias aguardando a curadoria do Editor.
+Atualmente existem **826** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3897,15 +3897,6 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
 
 ---
 
-### MDA Space wins contract for Radarsat replenishment satellite
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/)
-
----
-
 ### York satellite demonstrates two-way UHF communications from low Earth orbit
 **Fonte:** Space News
 
@@ -4191,15 +4182,6 @@ This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 672
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/)
-
----
-
-### China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/)
 
 ---
 
@@ -5130,15 +5112,6 @@ In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got
 
 ---
 
-### Space Force awards Slingshot $69 million for AI-enabled training technology
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/)
-
----
-
 ### Saltzman’s farewell warning: Prepare for war in space to preserve peace
 **Fonte:** Space News
 
@@ -5559,15 +5532,6 @@ Brown carbon, emitted by wildland fires and tracked over the span of a week in J
 NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars”&#160;event&#160;brought employees, families, and community members together for an evening filled with music, connection, and celebration.&#160;&#160; Organizers planned the event, which took place July 16, to mark the 250th&#160;anniversary of the founding of the United States of America.&#160; The evening&#160;featured a ...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/)
-
----
-
-### NIAC 2026 Selections
-**Fonte:** Nasa News
-
-Phase I Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I David BugbyCombinatory Architecture offering Neomobility, on-Venus Adaptability, and Survivability (CANVAS)NASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I Anish DamodaranPS21: Transforming Submillimeter S...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/)
 
 ---
 
@@ -7371,15 +7335,6 @@ From the International Space Station, astronauts photographed Mount Hood and Mou
 
 ---
 
-### Intuitive Machines wins contract for three GEO satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/)
-
----
-
 ### APOD: 2026 August 15 – Bright Perseids from Sweden
 **Fonte:** Nasa News
 
@@ -7449,6 +7404,42 @@ This composite image shows the progression of a total solar eclipse over San Mil
 APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/)
+
+---
+
+### Lynk and Omnispace form Elveo Mobile to advance D2D services
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/)
+
+---
+
+### Satellite operators emphasize launch deals in a constrained market
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/)
+
+---
+
+### U.S. defense agencies tap three companies for satellite disposal study
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/)
+
+---
+
+### APOD: 2026 August 17 – A Golden Corona Eclipse
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/)
 
 ---
 
