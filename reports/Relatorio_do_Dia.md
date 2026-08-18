@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 16/08/2026 09:22
+# 🚀 Relatório da Agência Espacial - 18/08/2026 09:26
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Intuitive Machines wins contract for three GEO satellites
-**Fonte:** Space News | **Categoria:** Mercado
+## 1. NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
+**Fonte:** Nasa News | **Categoria:** Exploração Humana
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Intuitive Machines está quebrando fronteiras. Conhecida por seus pousos lunares, a empresa acaba de garantir um contrato de peso para construir três satélites em órbita geoestacionária. É uma expansão estratégica agressiva que coloca a gigante do setor comercial em uma das órbitas mais valiosas e disputadas do planeta.
+> A contagem regressiva terminou no Cazaquistão. O astronauta da NASA, Anil Menon, já está em órbita a caminho da Estação Espacial Internacional a bordo da Soyuz MS-29. Acompanhado por dois cosmonautas, Menon inicia uma missão de longa duração que é peça-chave para as pesquisas científicas das Expedições 74 e 75, reforçando a presença humana contínua no laboratório orbital mais famoso do mundo.
 
-🔗 [Ler notícia completa](https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/)
 
 ---
 
-## 2. NIAC 2026 Selections
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 2. ULA names Peller as new CEO
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Bloquear o Sol com nuvens de poeira controladas? Isso não é ficção científica, é o novo projeto selecionado pelo programa NIAC da NASA. Liderado pelo JPL, o estudo propõe uma técnica radical de gerenciamento solar para reduzir a insolação na Terra. Uma inovação técnica que pode redefinir o papel da exploração espacial na luta contra a crise climática.
+> Mudança estratégica na gigante dos lançamentos: a United Launch Alliance acaba de nomear Stephen Peller como seu novo CEO. Peller assume o comando em um momento de transição crítica, com o desafio de estabilizar as finanças da empresa e acelerar a cadência operacional do foguete Vulcan Centaur, em meio a uma competição feroz pelo domínio do mercado de cargas pesadas e segurança nacional.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/)
+🔗 [Ler notícia completa](https://spacenews.com/ula-names-peller-as-new-ceo/)
 
 ---
 
-## 3. China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations
+## 3. Hubble Solves Merger Mystery From Milky Way’s Early Years
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O Telescópio Hubble acaba de desvendar um segredo de bilhões de anos sobre o nosso próprio lar. Novos dados confirmam, de forma definitiva, que a Via Láctea 'canibalizou' uma galáxia anã durante suas fases iniciais de formação. Essa descoberta resolve um dos maiores mistérios da arqueologia galáctica, revelando como a fusão violenta de estruturas moldou a evolução da nossa galáxia até os dias de hoje.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/)
+
+---
+
+## 4. Chinese Long March 7A rocket explodes shortly after liftoff
+**Fonte:** Space News | **Categoria:** Operações
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um revés dramático para as ambições espaciais de Pequim: um foguete Long March 7A explodiu pouco após o lançamento no centro de Wenchang. O incidente, que resultou na perda de um satélite de nova geração, interrompe uma sequência impressionante de sucessos da China e levanta questões sobre o controle de qualidade em meio à tentativa do país de manter uma cadência recorde de lançamentos para sua megaconstelação.
+
+🔗 [Ler notícia completa](https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/)
+
+---
+
+## 5. Lynk and Omnispace form Elveo Mobile to advance D2D services
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A China deu um passo decisivo na nova fronteira orbital com a criação de uma aliança industrial focada em VLEO — as órbitas muito baixas. Satélites operando nessa região prometem comunicações com latência quase zero e monitoramento com resolução sem precedentes, sinalizando uma mudança tectônica no mercado de infraestrutura espacial asiático.
+> O mercado de conectividade direta para smartphones acaba de sofrer um abalo sísmico. As empresas Lynk e Omnispace anunciaram sua fusão para criar a Elveo Mobile, uma nova potência dedicada a eliminar as zonas sem sinal no planeta. A união combina patentes cruciais e espectro de satélites para acelerar a tecnologia 'Direct-to-Device', prometendo revolucionar a forma como bilhões de dispositivos se conectam ao redor do globo.
 
-🔗 [Ler notícia completa](https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/)
-
----
-
-## 4. MDA Space wins contract for Radarsat replenishment satellite
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A MDA Space consolida seu domínio na observação terrestre com um contrato massivo para a reposição da constelação Radarsat. Este movimento garante a continuidade de dados vitais de radar e reafirma a posição da empresa como um player de elite no monitoramento global, em um momento onde dados de alta precisão são a moeda de ouro do setor.
-
-🔗 [Ler notícia completa](https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/)
-
----
-
-## 5. Space Force awards Slingshot $69 million for AI-enabled training technology
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A inteligência artificial acaba de se tornar o pilar central da defesa orbital. A Força Espacial dos Estados Unidos destinou 69 milhões de dólares à Slingshot Aerospace para o desenvolvimento de sistemas de treinamento baseados em IA. É o sinal claro de que o mercado espacial de segurança está migrando para a automação cognitiva de alta velocidade.
-
-🔗 [Ler notícia completa](https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/)
+🔗 [Ler notícia completa](https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/)
 
 ---
 

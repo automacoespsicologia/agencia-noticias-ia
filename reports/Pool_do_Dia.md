@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/08/2026 09:35
+# 📥 Balde de Notícias Brutas - 18/08/2026 09:26
 
-Atualmente existem **826** notícias aguardando a curadoria do Editor.
+Atualmente existem **843** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -7440,6 +7440,159 @@ APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submi
 APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/)
+
+---
+
+### NRO to expand use of HawkEye 360’s satellite intelligence
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/)
+
+---
+
+### HEO to use Planet satellites for non-Earth imaging
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/)
+
+---
+
+### New EU sanctions target leaders of Russia’s space industry
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/)
+
+---
+
+### ULA names Peller as new CEO
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ula-names-peller-as-new-ceo/)
+
+---
+
+### L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/)
+
+---
+
+### The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/)
+
+---
+
+### SEOPS adds second Waymaker rideshare mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/)
+
+---
+
+### A rocket crashed into the moon. It was harmless, but the next one might not be.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/)
+
+---
+
+### Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/)
+
+---
+
+### Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary
+**Fonte:** Nasa News
+
+By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/)
+
+---
+
+### NASA Selects Companies to Provide Payload Processing Services
+**Fonte:** Nasa News
+
+NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/)
+
+---
+
+### NASA Mission Studies Air Pollution Over Ethiopia
+**Fonte:** Nasa News
+
+A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/)
+
+---
+
+### Next Generation of Planetary Scientists Learn Public Engagement Skills
+**Fonte:** Nasa News
+
+FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures....
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/)
+
+---
+
+### Colorful Collage of Tarantula Nebula
+**Fonte:** Nasa News
+
+Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/)
+
+---
+
+### NASA Challenge Tests Wheel Designs for Moon Base Mobility
+**Fonte:** Nasa News
+
+As NASA prepares to&#160;establish&#160;the&#160;Moon Base,&#160;advancing surface mobility will be key to helping crews and robotic systems travel farther across&#160;the lunar surface.&#160; To help advance that capability, the&#160;Rock and Roll with NASA Challenge invited&#160;public&#160;innovators&#160;to design and build next-generation lunar rover wheels.&#160; Five teams from 128 submissi...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/)
+
+---
+
+### Hubble Solves Merger Mystery From Milky Way’s Early Years
+**Fonte:** Nasa News
+
+New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/)
+
+---
+
+### Chasing Fire Clouds in Utah
+**Fonte:** Nasa News
+
+NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/)
 
 ---
 
