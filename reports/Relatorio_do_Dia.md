@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 18/08/2026 09:26
+# 🚀 Relatório da Agência Espacial - 19/08/2026 09:28
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
-**Fonte:** Nasa News | **Categoria:** Exploração Humana
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A contagem regressiva terminou no Cazaquistão. O astronauta da NASA, Anil Menon, já está em órbita a caminho da Estação Espacial Internacional a bordo da Soyuz MS-29. Acompanhado por dois cosmonautas, Menon inicia uma missão de longa duração que é peça-chave para as pesquisas científicas das Expedições 74 e 75, reforçando a presença humana contínua no laboratório orbital mais famoso do mundo.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/)
-
----
-
-## 2. ULA names Peller as new CEO
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Mudança estratégica na gigante dos lançamentos: a United Launch Alliance acaba de nomear Stephen Peller como seu novo CEO. Peller assume o comando em um momento de transição crítica, com o desafio de estabilizar as finanças da empresa e acelerar a cadência operacional do foguete Vulcan Centaur, em meio a uma competição feroz pelo domínio do mercado de cargas pesadas e segurança nacional.
-
-🔗 [Ler notícia completa](https://spacenews.com/ula-names-peller-as-new-ceo/)
-
----
-
-## 3. Hubble Solves Merger Mystery From Milky Way’s Early Years
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O Telescópio Hubble acaba de desvendar um segredo de bilhões de anos sobre o nosso próprio lar. Novos dados confirmam, de forma definitiva, que a Via Láctea 'canibalizou' uma galáxia anã durante suas fases iniciais de formação. Essa descoberta resolve um dos maiores mistérios da arqueologia galáctica, revelando como a fusão violenta de estruturas moldou a evolução da nossa galáxia até os dias de hoje.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/)
-
----
-
-## 4. Chinese Long March 7A rocket explodes shortly after liftoff
-**Fonte:** Space News | **Categoria:** Operações
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Um revés dramático para as ambições espaciais de Pequim: um foguete Long March 7A explodiu pouco após o lançamento no centro de Wenchang. O incidente, que resultou na perda de um satélite de nova geração, interrompe uma sequência impressionante de sucessos da China e levanta questões sobre o controle de qualidade em meio à tentativa do país de manter uma cadência recorde de lançamentos para sua megaconstelação.
-
-🔗 [Ler notícia completa](https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/)
-
----
-
-## 5. Lynk and Omnispace form Elveo Mobile to advance D2D services
+## 1. China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de conectividade direta para smartphones acaba de sofrer um abalo sísmico. As empresas Lynk e Omnispace anunciaram sua fusão para criar a Elveo Mobile, uma nova potência dedicada a eliminar as zonas sem sinal no planeta. A união combina patentes cruciais e espectro de satélites para acelerar a tecnologia 'Direct-to-Device', prometendo revolucionar a forma como bilhões de dispositivos se conectam ao redor do globo.
+> A hegemonia da SpaceX no reuso de foguetes acaba de ganhar um concorrente de peso. A startup chinesa Landspace realizou com sucesso a recuperação do propulsor Zhuque-3 após seu segundo voo orbital. Este marco técnico não é apenas um show de engenharia; é o sinal claro de que a China dominou a tecnologia de pouso vertical reutilizável, mudando drasticamente o equilíbrio de custos no mercado de lançamentos global.
 
-🔗 [Ler notícia completa](https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/)
+🔗 [Ler notícia completa](https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/)
+
+---
+
+## 2. Earth observation satellites pass telecom in European space industry sales
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Mudança tectônica na economia espacial: pela primeira vez na história, as vendas de satélites de observação da Terra ultrapassaram o setor de telecomunicações na indústria europeia. Esse movimento valida uma tendência global onde o valor do espaço está migrando da simples conectividade para a geração de dados estratégicos e inteligência geoespacial, redesenhando as prioridades dos grandes investidores do setor.
+
+🔗 [Ler notícia completa](https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/)
+
+---
+
+## 3. OQ Technology plans direct-to-smartphone demo with cellular spectrum
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O fim das zonas mortas de sinal está mais próximo. A OQ Technology demonstrou com sucesso a conexão direta entre satélites e smartphones usando espectro celular padrão. Ao contrário de soluções proprietárias fechadas, essa inovação técnica permite que qualquer dispositivo móvel se conecte à rede orbital sem modificações, abrindo um mercado multibilionário de comunicação universal e segurança pública.
+
+🔗 [Ler notícia completa](https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/)
+
+---
+
+## 4. Report links Starliner problems to overconfidence and unrealistic schedules
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O relatório final sobre os problemas da Starliner chegou e o veredito é duro: excesso de confiança e cronogramas irreais comprometeram o projeto da Boeing. Para o mercado, o documento é um divisor de águas que impõe novos padrões de transparência e rigor técnico para contratos de transporte de tripulação, afetando diretamente a confiança dos investidores na gigante aeroespacial.
+
+🔗 [Ler notícia completa](https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/)
+
+---
+
+## 5. NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A NASA acaba de divulgar imagens raras da nova cratera na Lua, formada pelo impacto de um estágio do Falcon 9. Mais do que um registro visual, esses dados coletados pelo orbitador LRO permitem que cientistas validem modelos de física de impacto em alta velocidade que são impossíveis de replicar em laboratórios terrestres. É a ciência aproveitando eventos orbitais inesperados para entender a evolução das superfícies planetárias.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/)
 
 ---
 

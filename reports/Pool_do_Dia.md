@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/08/2026 09:26
+# 📥 Balde de Notícias Brutas - 19/08/2026 09:27
 
-Atualmente existem **843** notícias aguardando a curadoria do Editor.
+Atualmente existem **851** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4788,15 +4788,6 @@ Radar data from the NISAR satellite show that La Guaira and nearby areas experie
 
 ---
 
-### NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station
-**Fonte:** Nasa News
-
-NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/)
-
----
-
 ### Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data
 **Fonte:** Nasa News
 
@@ -6795,15 +6786,6 @@ APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions
 
 ---
 
-### Chinese Long March 7A rocket explodes shortly after liftoff
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/)
-
----
-
 ### National security doesn’t need more maps or imagery; it needs measurement
 **Fonte:** Space News
 
@@ -7407,15 +7389,6 @@ APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submi
 
 ---
 
-### Lynk and Omnispace form Elveo Mobile to advance D2D services
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/)
-
----
-
 ### Satellite operators emphasize launch deals in a constrained market
 **Fonte:** Space News
 
@@ -7467,15 +7440,6 @@ APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissio
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/)
-
----
-
-### ULA names Peller as new CEO
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/ula-names-peller-as-new-ceo/)
 
 ---
 
@@ -7578,21 +7542,129 @@ As NASA prepares to&#160;establish&#160;the&#160;Moon Base,&#160;advancing surfa
 
 ---
 
-### Hubble Solves Merger Mystery From Milky Way’s Early Years
-**Fonte:** Nasa News
-
-New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/)
-
----
-
 ### Chasing Fire Clouds in Utah
 **Fonte:** Nasa News
 
 NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/)
+
+---
+
+### Space nuclear programs face near- and long-term challenges
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/)
+
+---
+
+### China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/)
+
+---
+
+### Rocket Lab to test Space Force data network connection in orbit in 2027
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/)
+
+---
+
+### Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/)
+
+---
+
+### New report takes closer look at the Space Force spending surge
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/)
+
+---
+
+### Behind the Lens: Meet NASA Johnson’s Photographers
+**Fonte:** Nasa News
+
+Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.&#160; From astronaut training and engineering tests to&#160;mission&#160;control operations and milestone celebrations, their images preserve the history&#160;of exploration while capturing the&#160;people and teams&#160;behind the missions shaping the&#160;next era.&#160...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/)
+
+---
+
+### APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/)
+
+---
+
+### NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
+**Fonte:** Nasa News
+
+Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/)
+
+---
+
+### NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
+**Fonte:** Nasa News
+
+NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/)
+
+---
+
+### NASA’s B777 Gets New Coat of Paint
+**Fonte:** Nasa News
+
+NASA&#8217;s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA&#8217;s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/)
+
+---
+
+### NASA Glenn’s Legacy Forged Through Decades of Flight Research
+**Fonte:** Nasa News
+
+Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting&#160;aircraft&#160;into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-glenn-inflight-research/)
+
+---
+
+### APOD: 2026 August 18 – Perseids from Perseus
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor s...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/)
+
+---
+
+### Lala Batters Hawaii
+**Fonte:** Nasa News
+
+The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/)
 
 ---
 
