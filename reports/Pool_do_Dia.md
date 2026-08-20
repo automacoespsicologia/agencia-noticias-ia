@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/08/2026 09:27
+# 📥 Balde de Notícias Brutas - 20/08/2026 09:28
 
-Atualmente existem **851** notícias aguardando a curadoria do Editor.
+Atualmente existem **860** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2572,15 +2572,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### OQ Technology plans direct-to-smartphone demo with cellular spectrum
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/)
-
----
-
 ### NASA to select new headquarters building by end of year
 **Fonte:** Space News
 
@@ -4356,15 +4347,6 @@ This image released on June 26, 2026, features the globular cluster NGC 6723, so
 
 ---
 
-### Report links Starliner problems to overconfidence and unrealistic schedules
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/)
-
----
-
 ### FCC to vote on satellite licensing overhaul July 22
 **Fonte:** Space News
 
@@ -4830,15 +4812,6 @@ For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has alwa
 This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular clusters&#160;are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are ...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/)
-
----
-
-### Earth observation satellites pass telecom in European space industry sales
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/)
 
 ---
 
@@ -7560,15 +7533,6 @@ NASA aircraft are sampling smoke lofted high into the atmosphere by one of the m
 
 ---
 
-### China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/)
-
----
-
 ### Rocket Lab to test Space Force data network connection in orbit in 2027
 **Fonte:** Space News
 
@@ -7614,15 +7578,6 @@ APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIn
 
 ---
 
-### NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
-**Fonte:** Nasa News
-
-Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/)
-
----
-
 ### NASA Student Aviation Challenge Focuses on Nation’s Infrastructure
 **Fonte:** Nasa News
 
@@ -7665,6 +7620,132 @@ APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexS
 The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/)
+
+---
+
+### Hypersonic missile startup Castelion raises $1 billion 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/)
+
+---
+
+### Eartheye Space forges strategic partnership with IN2
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/)
+
+---
+
+### Katalyst Space and NASA abandon plans for Swift reboost
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/)
+
+---
+
+### Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/)
+
+---
+
+### The space industry’s next challenge: supply chain resilience
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/)
+
+---
+
+### Vantor names new head of U.S. government business
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/vantor-names-new-head-of-u-s-government-business/)
+
+---
+
+### Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/)
+
+---
+
+### APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 20 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Elephant&#8217;s [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/)
+
+---
+
+### NASA TechLeap Prize: Orbital Clarity Challenge
+**Fonte:** Nasa News
+
+The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s&#160;Heliophysics Division,&#160;Flight Opportunities program, and&#160;Center of Excellence for Collaborative Innovation.&#160;The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbi...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/)
+
+---
+
+### NASA Updates Next Steps for Commercial Swift Boost Mission
+**Fonte:** Nasa News
+
+Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/)
+
+---
+
+### Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+**Fonte:** Nasa News
+
+Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/)
+
+---
+
+### Ancient Milky Way Merger
+**Fonte:** Nasa News
+
+This artist&#8217;s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/ancient-milky-way-merger/)
+
+---
+
+### NASA Establishes State Hubs to Grow Technical Aerospace Workforce
+**Fonte:** Nasa News
+
+NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/)
+
+---
+
+### Career Spotlight: Mechanic (Ages 14-18)
+**Fonte:** Nasa News
+
+What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/)
 
 ---
 
