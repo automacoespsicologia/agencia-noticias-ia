@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/08/2026 09:28
+# 📥 Balde de Notícias Brutas - 21/08/2026 09:31
 
-Atualmente existem **860** notícias aguardando a curadoria do Editor.
+Atualmente existem **872** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2014,15 +2014,6 @@ In early May 2026, NASA employees, contractors, and volunteers helped to bring H
 
 ---
 
-### La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
-**Fonte:** Nasa News
-
-La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/)
-
----
-
 ### Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge
 **Fonte:** Nasa News
 
@@ -3544,15 +3535,6 @@ Even small asteroids lead complex lives. During its flyby of the asteroid Donald
 
 ---
 
-### Stages of Star Formation
-**Fonte:** Nasa News
-
-This image, captured by NASA&#8217;s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the Orion Nebula. Every stage of star formation — from the youngest stellar embryos to protoplanetary discs [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/stages-of-star-formation/)
-
----
-
 ### ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 **Fonte:** Space News
 
@@ -4830,15 +4812,6 @@ This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#1
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/)
-
----
-
-### Space capitalism needs more than a bull market
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/)
 
 ---
 
@@ -7326,15 +7299,6 @@ Certain kinds of clouds are misbehaving – appearing more often and lower in th
 
 ---
 
-### NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun 
-**Fonte:** Nasa News
-
-As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/)
-
----
-
 ### Total Solar Eclipse in Sunflower Field
 **Fonte:** Nasa News
 
@@ -7623,15 +7587,6 @@ The powerful storm delivered extreme rainfall and damaging winds to the state, p
 
 ---
 
-### Hypersonic missile startup Castelion raises $1 billion 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/)
-
----
-
 ### Eartheye Space forges strategic partnership with IN2
 **Fonte:** Space News
 
@@ -7746,6 +7701,159 @@ NASA has awarded approximately $10.5 million to seven institutions to help stren
 What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/)
+
+---
+
+### Landspace aims to refly recovered Zhuque-3 booster within six months
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/)
+
+---
+
+### New space transportation policy focuses on increased launch rates
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/)
+
+---
+
+### Golden Dome chief touts progress as funding questions loom
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/)
+
+---
+
+### Elve qualifies millimeter-wave amplifiers for spaceflight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/)
+
+---
+
+### SpaceWERX selects 11 firms to scale technologies for military space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/)
+
+---
+
+### What’s next for ISR in space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/whats-next-for-isr-in-space/)
+
+---
+
+### Rocket Lab launches 9th satellite for iQPS
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/)
+
+---
+
+### Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/)
+
+---
+
+### Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/)
+
+---
+
+### Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/)
+
+---
+
+### Europe’s Scorching Summer
+**Fonte:** Nasa News
+
+A series of heat waves in 2026 is breaking records and taking a toll in Europe....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/europes-scorching-summer/)
+
+---
+
+### SmallSat 2026
+**Fonte:** Nasa News
+
+SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LI...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/smallsat-2026/)
+
+---
+
+### Artemis Mission Patches
+**Fonte:** Nasa News
+
+A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission. NASA’s Exploration Ground [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-mission-patches/)
+
+---
+
+### NASA Selects University Teams to Help Advance Aviation Research
+**Fonte:** Nasa News
+
+NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities. The agency made awards through&#160;its&#160;University Leadership Initiative, which offers&#160;&#160;student teams the opportunity to contribute to real-world flight research that...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/)
+
+---
+
+### The View from Above: The Gemini Visual Acuity Experiments
+**Fonte:** Nasa News
+
+NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belching&#160;trains, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/)
+
+---
+
+### NASA Data Feeds River Forecasts as Snow Drought Effects Linger
+**Fonte:** Nasa News
+
+NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state....
+
+🔗 [Link da Notícia](https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/)
+
+---
+
+### An Uncommon Drifter in the Denmark Strait
+**Fonte:** Nasa News
+
+A large iceberg, observed in summer 2026, had drifted more than 1,000 kilometers south from the northeastern Greenland bay where it likely originated....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-uncommon-drifter-in-the-denmark-strait/)
 
 ---
 

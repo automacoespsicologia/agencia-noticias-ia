@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 20/08/2026 09:28
+# 🚀 Relatório da Agência Espacial - 21/08/2026 09:31
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
-**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
+## 1. Curiosity Captures a 360-Degree View at ‘Nevado Sajama’
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O momento que o mundo esperava finalmente chegou: a NASA anunciou os astronautas da missão Artemis III. Este grupo de elite será responsável pelo histórico retorno humano à superfície lunar em 2027. É a consolidação de décadas de planejamento técnico que agora ganha rostos, nomes e a missão de cravar novas botas no regolito do polo sul da Lua.
+> Marte em detalhes nunca vistos: a sonda Curiosity acaba de enviar um panorama colossal de 1,5 bilhão de pixels. Esta imagem gigante revela formações geológicas complexas conhecidas como 'boxwork', oferecendo aos cientistas uma visão inédita sobre como o relevo marciano foi esculpido ao longo de bilhões de anos.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/)
 
 ---
 
-## 2. Hypersonic missile startup Castelion raises $1 billion 
-**Fonte:** Space News | **Categoria:** Negócios
+## 2. Landspace aims to refly recovered Zhuque-3 booster within six months
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de defesa espacial acaba de atingir um novo patamar de investimento. A startup Castelion levantou um bilhão de dólares em uma rodada massiva para acelerar o desenvolvimento de mísseis hipersônicos. O movimento confirma que a nova corrida espacial não é apenas sobre exploração, mas sobre o domínio de tecnologias de mobilidade estratégica em altíssima velocidade.
+> A corrida pela reutilização ganha um novo capítulo fora dos Estados Unidos: a startup chinesa Landspace anunciou que pretende voar novamente um propulsor recuperado do foguete Zhuque-3 em apenas seis meses. É um marco técnico que coloca a China na disputa direta pelo mercado de lançamentos orbitais de baixo custo.
 
-🔗 [Ler notícia completa](https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/)
+🔗 [Ler notícia completa](https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/)
 
 ---
 
-## 3. Space capitalism needs more than a bull market
-**Fonte:** Space News | **Categoria:** Grandes Movimentações de Mercado
+## 3. Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+**Fonte:** Nasa News | **Categoria:** Ciência Especializada
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira final agora é um ativo de capital aberto. O IPO da SpaceX está redefinindo o que chamamos de 'capitalismo espacial'. Mais do que o impacto financeiro imediato, a entrada da gigante de Elon Musk na bolsa sinaliza que a infraestrutura orbital amadureceu o suficiente para ser o motor econômico da próxima década, exigindo lucros tão altos quanto seus foguetes.
+> Sobreviventes improváveis na Lua: um estudo publicado na Science Advances confirma que micróbios levados por humanos podem resistir às condições extremas do Polo Sul lunar. A descoberta é vital para os protocolos de biossegurança da missão Artemis e redefine como planejamos a presença humana de longo prazo fora da Terra.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/)
+🔗 [Ler notícia completa](https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/)
 
 ---
 
-## 4. Stages of Star Formation
-**Fonte:** Nasa News | **Categoria:** Descobertas Científicas
+## 4. LeoLabs deploys mobile space-tracking radar in Indo-Pacific 
+**Fonte:** Space News | **Categoria:** Mercado e Defesa
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb capturou o que pode ser a 'certidão de nascimento' mais detalhada do cosmos. Imagens inéditas da Nuvem Molecular de Órion revelam, em alta resolução, todas as fases da formação estelar — desde embriões de estrelas até sistemas solares em formação. É um salto gigantesco para entendermos como o nosso próprio Sol e a Terra surgiram no caos do gás interestelar.
+> Vigilância orbital em movimento: a LeoLabs acaba de implantar um radar móvel de rastreio espacial na região do Indo-Pacífico. A tecnologia permite monitorar ameaças e detritos com precisão sem precedentes, garantindo segurança em uma órbita cada vez mais congestionada e disputada por potências globais.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/stages-of-star-formation/)
+🔗 [Ler notícia completa](https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/)
 
 ---
 
-## 5. NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun 
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 5. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está transformando a Inteligência Artificial no nosso principal escudo contra o Sol. Através do projeto COFFIES, novos modelos de aprendizado de máquina conseguem agora prever com precisão tempestades solares e regiões ativas que causam apagões de rádio na Terra. Uma inovação técnica vital para proteger a rede de satélites e garantir a sobrevivência de astronautas em missões de longa duração.
+> Pistas sobre a origem da vida: a análise de um meteorito recuperado imediatamente após sua queda está revelando segredos sobre a água em asteroides primitivos. Cientistas da NASA identificaram compostos que podem ter sido os ingredientes essenciais para o surgimento de vida no sistema solar, preservados por bilhões de anos no espaço.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/)
 
 ---
 
