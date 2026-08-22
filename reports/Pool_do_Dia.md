@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/08/2026 09:31
+# 📥 Balde de Notícias Brutas - 22/08/2026 09:21
 
-Atualmente existem **872** notícias aguardando a curadoria do Editor.
+Atualmente existem **875** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -532,15 +532,6 @@ There’s no sign reading “home sweet home” in the hangar where the X‑59 n
 By Earth Resources Observation and Science (EROS) Center  For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done.  Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/)
-
----
-
-### Curiosity Captures a 360-Degree View at ‘Nevado Sajama’
-**Fonte:** Nasa News
-
-Description NASA’s Curiosity Mars rover captured this 360-degree view of a region filled with low ridges called boxwork formations between Nov. 9 and Dec. 7, 2025 (the 4,714th to 4,741st Martian days, or sols, of the mission). At 1.5 billion pixels, this is one of the largest panoramas Curiosity has ever taken (the rover’s largest […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/)
 
 ---
 
@@ -2776,15 +2767,6 @@ This article is for students grades 5-8. Mass distribution affects everything fr
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/)
-
----
-
-### LeoLabs deploys mobile space-tracking radar in Indo-Pacific 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/)
 
 ---
 
@@ -5109,15 +5091,6 @@ Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and part
 Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, supports this mission by using small, remotely piloted and autonomous aircraft as cost‑effective platforms to mature innovative ideas, accelerate learning, [&#823...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/)
-
----
-
-### NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
-**Fonte:** Nasa News
-
-A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system....
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/)
 
 ---
 
@@ -7668,15 +7641,6 @@ Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalys
 
 ---
 
-### Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
-**Fonte:** Nasa News
-
-Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/)
-
----
-
 ### Ancient Milky Way Merger
 **Fonte:** Nasa News
 
@@ -7701,15 +7665,6 @@ NASA has awarded approximately $10.5 million to seven institutions to help stren
 What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/)
-
----
-
-### Landspace aims to refly recovered Zhuque-3 booster within six months
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/)
 
 ---
 
@@ -7854,6 +7809,78 @@ NASA Earth science data is supporting machine-learning forecasts that inform dec
 A large iceberg, observed in summer 2026, had drifted more than 1,000 kilometers south from the northeastern Greenland bay where it likely originated....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-uncommon-drifter-in-the-denmark-strait/)
+
+---
+
+### New Novaspace forecast: 6,500+ EO satellites to launch by 2035
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/)
+
+---
+
+### LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/)
+
+---
+
+### Draper Selects Proteus Space for Advanced On-Orbit Mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/)
+
+---
+
+### APOD: 2026 August 22 – Mostly Perseids
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/)
+
+---
+
+### NASA Shares Views of August Solar Eclipse from Ground, Air, Space
+**Fonte:** Nasa News
+
+On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/)
+
+---
+
+### TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code
+**Fonte:** Nasa News
+
+For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety C...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/)
+
+---
+
+### Webb Opens Treasure Chest
+**Fonte:** Nasa News
+
+NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-opens-treasure-chest/)
+
+---
+
+### NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
+**Fonte:** Nasa News
+
+President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/)
 
 ---
 
