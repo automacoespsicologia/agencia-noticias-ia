@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/08/2026 09:21
+# 📥 Balde de Notícias Brutas - 23/08/2026 09:22
 
-Atualmente existem **875** notícias aguardando a curadoria do Editor.
+Atualmente existem **871** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1660,15 +1660,6 @@ The South Dakota State University team took first place at NASA’s fifth annual
 Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/)
-
----
-
-### NASA TechLeap Prize: Robotically Manipulated Payload Challenge
-**Fonte:** Nasa News
-
-The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing.&#160;NASA Flight Opportunities&#160;invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/)
 
 ---
 
@@ -3706,15 +3697,6 @@ NASA astronauts will venture outside the International Space Station on Tuesday,
 
 ---
 
-### Loft Orbital to test AI models on spacecraft for Earth observation
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/)
-
----
-
 ### Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation
 **Fonte:** Space News
 
@@ -5091,15 +5073,6 @@ Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and part
 Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, supports this mission by using small, remotely piloted and autonomous aircraft as cost‑effective platforms to mature innovative ideas, accelerate learning, [&#823...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/)
-
----
-
-### How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
-**Fonte:** Nasa News
-
-Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future uncrewed demonstration missions at the Moon, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/)
 
 ---
 
@@ -7074,15 +7047,6 @@ CSDA’s assessment reports help inform the user community about the quality of 
 
 ---
 
-### In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/)
-
----
-
 ### CesiumAstro buys semiconductor specialist to boost constellation plans
 **Fonte:** Space News
 
@@ -7467,15 +7431,6 @@ NASA aircraft are sampling smoke lofted high into the atmosphere by one of the m
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/)
-
----
-
-### Rocket Lab to test Space Force data network connection in orbit in 2027
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/)
 
 ---
 
@@ -7881,6 +7836,15 @@ NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared ima
 President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/)
+
+---
+
+### Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+**Fonte:** Nasa News
+
+By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/)
 
 ---
 
