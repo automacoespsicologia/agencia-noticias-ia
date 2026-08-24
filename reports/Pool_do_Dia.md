@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/08/2026 09:22
+# 📥 Balde de Notícias Brutas - 24/08/2026 09:41
 
-Atualmente existem **871** notícias aguardando a curadoria do Editor.
+Atualmente existem **867** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4167,15 +4167,6 @@ The Northwest Earth and Space Science Pathways (NESSP) project recently conclude
 
 ---
 
-### NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
-**Fonte:** Nasa News
-
-For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics Research Facility (FDRF), the first major NASA wind tunnel built in more than 40 years. &#160; “The ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/)
-
----
-
 ### NASA Astronaut Chris Williams Preps for Spacewalk
 **Fonte:** Nasa News
 
@@ -7596,15 +7587,6 @@ Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalys
 
 ---
 
-### Ancient Milky Way Merger
-**Fonte:** Nasa News
-
-This artist&#8217;s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/ancient-milky-way-merger/)
-
----
-
 ### NASA Establishes State Hubs to Grow Technical Aerospace Workforce
 **Fonte:** Nasa News
 
@@ -7767,15 +7749,6 @@ A large iceberg, observed in summer 2026, had drifted more than 1,000 kilometers
 
 ---
 
-### New Novaspace forecast: 6,500+ EO satellites to launch by 2035
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/)
-
----
-
 ### LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation
 **Fonte:** Space News
 
@@ -7821,30 +7794,21 @@ For more information, contact Mark K. Leader, Glenn Research Center, mark.leader
 
 ---
 
-### Webb Opens Treasure Chest
-**Fonte:** Nasa News
-
-NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-opens-treasure-chest/)
-
----
-
-### NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
-**Fonte:** Nasa News
-
-President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/)
-
----
-
 ### Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
 **Fonte:** Nasa News
 
 By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/)
+
+---
+
+### What Lake Bonneville Left Behind
+**Fonte:** Nasa News
+
+The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/)
 
 ---
 

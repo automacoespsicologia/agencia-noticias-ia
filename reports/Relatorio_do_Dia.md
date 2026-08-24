@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 23/08/2026 09:22
+# 🚀 Relatório da Agência Espacial - 24/08/2026 09:41
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Ancient Milky Way Merger
+## 1. Capella, Iceye and Umbra win NRO radar-data contracts
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O setor de inteligência acaba de dar um passo decisivo rumo à comercialização total: a NRO selecionou as gigantes Capella, Iceye e Umbra para fornecer dados de radar de abertura sintética. É o fim do monopólio estatal sobre a visão noturna global, transformando satélites comerciais nos novos olhos estratégicos do Pentágono.
+
+🔗 [Ler notícia completa](https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/)
+
+---
+
+## 2. SpaceX increasing footprint in missile defense
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A SpaceX está redefinindo a defesa antimísseis. Com uma pegada cada vez maior em sistemas de alerta precoce, a empresa de Elon Musk prova que as megaconstelações de baixo custo são a nova muralha tecnológica contra ameaças hipersônicas, fundindo de vez o mercado comercial com a segurança nacional.
+
+🔗 [Ler notícia completa](https://spacenews.com/spacex-increasing-footprint-in-missile-defense/)
+
+---
+
+## 3. Poland commits $745 million to EU’s IRIS² constellation project
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A soberania digital europeia ganhou um reforço de peso: a Polônia comprometeu 745 milhões de dólares no projeto IRIS². Esse investimento massivo acelera a criação de uma rede de conectividade resiliente e independente, sinalizando que a Europa está pronta para competir de igual para igual na infraestrutura orbital.
+
+🔗 [Ler notícia completa](https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/)
+
+---
+
+## 4. An optical link ‘internet’ to connect networks in space
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A infraestrutura da futura economia espacial acaba de ganhar um novo alicerce. O desenvolvimento de uma 'internet' de links ópticos para conectar redes no espaço promete eliminar os gargalos de comunicação entre satélites, permitindo a transferência massiva de dados sem depender de estações terrestres saturadas.
+
+🔗 [Ler notícia completa](https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/)
+
+---
+
+## 5. NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A nossa galáxia tem um passado muito mais violento do que imaginávamos. Um estudo publicado na revista Nature, com dados do telescópio Hubble, confirmou que a Via Láctea colidiu e absorveu uma galáxia anã há 12 bilhões de anos. Essa descoberta redefine a cronologia da nossa evolução galáctica e mostra que o que vemos hoje no céu é o resultado de uma fusão cósmica ancestral.
+> As lições da missão Artemis II estão finalmente sendo aplicadas: os dados térmicos e estruturais da cápsula Orion estão validando o caminho para a primeira base lunar da história. Não é mais uma questão de 'se', mas de 'como' o design de engenharia agora garante a sobrevivência humana em missões de longa duração no espaço profundo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/ancient-milky-way-merger/)
-
----
-
-## 2. NASA’s Newest Wind Tunnel Builds on Legacy of Innovation
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Depois de quatro décadas, a NASA inaugura seu mais novo centro de testes de elite: o Flight Dynamics Research Facility. Este túnel de vento vertical de última geração na Virgínia será o coração dos testes para os veículos que pousarão em Marte e para a nova geração de táxis aéreos, marcando um salto tecnológico monumental na simulação de voo atmosférico.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/)
-
----
-
-## 3. NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor
-**Fonte:** Nasa News | **Categoria:** Grandes Movimentações
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Um momento histórico para a exploração espacial: a tripulação da Artemis II será condecorada com a Medalha de Honra Espacial do Congresso. Este reconhecimento simboliza o sucesso da primeira missão tripulada à órbita lunar em mais de 50 anos, consolidando a infraestrutura política e técnica necessária para o estabelecimento definitivo de uma base humana na Lua.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/)
-
----
-
-## 4. New Novaspace forecast: 6,500+ EO satellites to launch by 2035
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de Observação da Terra está prestes a entrar em hiperfluxo. Um novo relatório da Novaspace prevê o lançamento de mais de 6.500 satélites até 2035. Esse crescimento massivo sinaliza uma transformação profunda no mercado global, onde o monitoramento climático e a inteligência geoespacial em tempo real se tornarão os principais ativos da economia espacial na próxima década.
-
-🔗 [Ler notícia completa](https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/)
-
----
-
-## 5. Webb Opens Treasure Chest
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb acaba de revelar o que os cientistas chamam de 'Baú de Tesouros' na Nebulosa de Carina. Através de sensores infravermelhos sem precedentes, o Webb perfurou camadas de poeira cósmica para expor o nascimento de estrelas em alta resolução, oferecendo novos dados sobre como o material estelar se aglutina para formar sistemas solares.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/webb-opens-treasure-chest/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/)
 
 ---
 
