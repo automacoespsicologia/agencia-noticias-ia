@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/08/2026 09:41
+# 📥 Balde de Notícias Brutas - 25/08/2026 09:29
 
-Atualmente existem **867** notícias aguardando a curadoria do Editor.
+Atualmente existem **874** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3870,15 +3870,6 @@ Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby w
 
 ---
 
-### NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
-**Fonte:** Nasa News
-
-Seven&#160;weeks&#160;after&#160;the Orion spacecraft&#160;returned&#160;four&#160;astronauts from&#160;humanity’s&#160;first crewed journey around the Moon since Apollo,&#160;Artemis II&#160;Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how&#160;it is shaping NASA’s return to the lunar surface and future missions to Mars.&#160; Introduced by&#160;NASA’s John...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/)
-
----
-
 ### La NASA compartirá los últimos avances del programa Base Lunar
 **Fonte:** Nasa News
 
@@ -5544,15 +5535,6 @@ Description This graphic illustrates the areas of Jupiter’s moon Io sampled by
 
 ---
 
-### Poland commits $745 million to EU’s IRIS² constellation project
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/)
-
----
-
 ### Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech
 **Fonte:** Space News
 
@@ -6381,15 +6363,6 @@ Wildland fires in early August 2026 pushed air quality to unhealthy levels, dest
 
 ---
 
-### Capella, Iceye and Umbra win NRO radar-data contracts
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/)
-
----
-
 ### Finding room in Starlink’s shadow
 **Fonte:** Space News
 
@@ -6822,15 +6795,6 @@ APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions 
 
 ---
 
-### SpaceX increasing footprint in missile defense
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-increasing-footprint-in-missile-defense/)
-
----
-
 ### Former Space Force general joins Lunar Outpost board
 **Fonte:** Space News
 
@@ -7062,15 +7026,6 @@ CSDA’s assessment reports help inform the user community about the quality of 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/)
-
----
-
-### An optical link ‘internet’ to connect networks in space
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/)
 
 ---
 
@@ -7809,6 +7764,114 @@ By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science 
 The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/)
+
+---
+
+### Robotics and the future of on-orbit labor
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/)
+
+---
+
+### Aerospace demonstrates DiskSats in low-Earth orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/)
+
+---
+
+### Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/)
+
+---
+
+### The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/)
+
+---
+
+### Tory Bruno Named Honorary Chair Of World Space Week 2027
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/)
+
+---
+
+### NASA Sets Coverage for Roman Space Telescope Launch from Florida
+**Fonte:** Nasa News
+
+Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/)
+
+---
+
+### Perseverance Captures Another Phobos Transit
+**Fonte:** Nasa News
+
+Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/)
+
+---
+
+### Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth
+**Fonte:** Nasa News
+
+At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) cente...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/)
+
+---
+
+### NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix
+**Fonte:** Nasa News
+
+NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/)
+
+---
+
+### MAIA Air Sensor at Work in Addis Ababa
+**Fonte:** Nasa News
+
+Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/)
+
+---
+
+### Mapping Air Pollution With MAIA Sensors in Addis Ababa
+**Fonte:** Nasa News
+
+Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/)
+
+---
+
+### APOD: 2026 August 24 – Comet 220P in Outburst
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/)
 
 ---
 

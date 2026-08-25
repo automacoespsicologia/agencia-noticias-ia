@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 24/08/2026 09:41
+# 🚀 Relatório da Agência Espacial - 25/08/2026 09:30
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Capella, Iceye and Umbra win NRO radar-data contracts
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O setor de inteligência acaba de dar um passo decisivo rumo à comercialização total: a NRO selecionou as gigantes Capella, Iceye e Umbra para fornecer dados de radar de abertura sintética. É o fim do monopólio estatal sobre a visão noturna global, transformando satélites comerciais nos novos olhos estratégicos do Pentágono.
-
-🔗 [Ler notícia completa](https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/)
-
----
-
-## 2. SpaceX increasing footprint in missile defense
+## 1. Aerospace demonstrates DiskSats in low-Earth orbit
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX está redefinindo a defesa antimísseis. Com uma pegada cada vez maior em sistemas de alerta precoce, a empresa de Elon Musk prova que as megaconstelações de baixo custo são a nova muralha tecnológica contra ameaças hipersônicas, fundindo de vez o mercado comercial com a segurança nacional.
+> Esqueça o formato de caixa dos satélites convencionais: o futuro da órbita baixa é plano. A Aerospace Corporation acaba de demonstrar com sucesso os DiskSats. Esses satélites em formato de disco podem ser empilhados como pratos, permitindo que um único foguete lance centenas de unidades, otimizando drasticamente o volume de carga e reduzindo os custos de acesso ao espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/spacex-increasing-footprint-in-missile-defense/)
-
----
-
-## 3. Poland commits $745 million to EU’s IRIS² constellation project
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A soberania digital europeia ganhou um reforço de peso: a Polônia comprometeu 745 milhões de dólares no projeto IRIS². Esse investimento massivo acelera a criação de uma rede de conectividade resiliente e independente, sinalizando que a Europa está pronta para competir de igual para igual na infraestrutura orbital.
-
-🔗 [Ler notícia completa](https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/)
+🔗 [Ler notícia completa](https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/)
 
 ---
 
-## 4. An optical link ‘internet’ to connect networks in space
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A infraestrutura da futura economia espacial acaba de ganhar um novo alicerce. O desenvolvimento de uma 'internet' de links ópticos para conectar redes no espaço promete eliminar os gargalos de comunicação entre satélites, permitindo a transferência massiva de dados sem depender de estações terrestres saturadas.
-
-🔗 [Ler notícia completa](https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/)
-
----
-
-## 5. NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path
+## 2. Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging 
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> As lições da missão Artemis II estão finalmente sendo aplicadas: os dados térmicos e estruturais da cápsula Orion estão validando o caminho para a primeira base lunar da história. Não é mais uma questão de 'se', mas de 'como' o design de engenharia agora garante a sobrevivência humana em missões de longa duração no espaço profundo.
+> Estamos prestes a ver, literalmente, continentes em outros sistemas solares. Uma nova técnica de interferometria óptica, a VLBI, promete reconstruir imagens da superfície de exoplanetas semelhantes à Terra. É o fim dos meros 'pontos de luz' e o início da cartografia interestelar real, permitindo identificar características geográficas em mundos a anos-luz de distância.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/)
+
+---
+
+## 3. Sustained maneuver has a propulsion problem
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O dilema da mobilidade orbital acaba de ser desafiado. Novos propulsores iônicos de grade avançados estão sendo testados para permitir o chamado 'manuseio sustentado'. Essa tecnologia permite que satélites mudem de órbita constantemente para fugir de detritos ou ameaças sem esgotar seu combustível, um salto vital para a resiliência da infraestrutura espacial moderna.
+
+🔗 [Ler notícia completa](https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/)
+
+---
+
+## 4. Gilat to buy Comtech satcoms business six years after failed merger
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> No mundo dos negócios espaciais, a persistência venceu. Seis anos após uma tentativa fracassada, a Gilat finalmente fechou a compra da divisão de comunicações via satélite da Comtech. Esse movimento estratégico consolida uma gigante no setor de infraestrutura terrestre, essencial para dar suporte às megaconstelações que agora conectam o planeta.
+
+🔗 [Ler notícia completa](https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/)
+
+---
+
+## 5. The SpaceX IPO tells one story. Here is the more important one.
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O mercado financeiro espacial atingiu seu 'momento internet'. Com a crescente movimentação em torno do IPO da SpaceX, analistas indicam que não estamos apenas diante de uma bolha, mas da construção de uma camada de infraestrutura econômica sem precedentes. O espaço deixou de ser uma fronteira de exploração para se tornar o motor da próxima revolução industrial global.
+
+🔗 [Ler notícia completa](https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/)
 
 ---
 
