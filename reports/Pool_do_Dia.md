@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/08/2026 09:29
+# 📥 Balde de Notícias Brutas - 26/08/2026 09:35
 
-Atualmente existem **874** notícias aguardando a curadoria do Editor.
+Atualmente existem **881** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3058,15 +3058,6 @@ This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composit
 
 ---
 
-### Sustained maneuver has a propulsion problem
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/)
-
----
-
 ### NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews
 **Fonte:** Nasa News
 
@@ -3145,15 +3136,6 @@ Buoyant volcanic rock fragments from an underwater eruption drifted across the B
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/)
-
----
-
-### Gilat to buy Comtech satcoms business six years after failed merger
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/)
 
 ---
 
@@ -4191,15 +4173,6 @@ Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29
 Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a dr...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
-
----
-
-### The SpaceX IPO tells one story. Here is the more important one.
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/)
 
 ---
 
@@ -5406,15 +5379,6 @@ NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars�
 Paul StankusBrookhaven Science Associates&#160; The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature &#8212; gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects. Our innovation is to deploy a new approach to precision [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/)
-
----
-
-### Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging 
-**Fonte:** Nasa News
-
-Paul&#160;StankusBrookhaven Science Associates The scientific goal of the proposed work will be reconstructing the image, ie resolving surface features, of an Earth-like exoplanet around a nearby star as seen in visible light. The innovation is in two stages. First, the design of a new kind of nulling interferometer &#8212; &#8220;dynamic hierarchical nulling&#8221; &#8212; combining inputs [&#823...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/)
 
 ---
 
@@ -7776,15 +7740,6 @@ The drying of the massive lake exposed playas that became the setting for feats 
 
 ---
 
-### Aerospace demonstrates DiskSats in low-Earth orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/)
-
----
-
 ### Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026
 **Fonte:** Space News
 
@@ -7872,6 +7827,114 @@ Description This map of Addis Ababa, the capital of Ethiopia, shows the location
 APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/)
+
+---
+
+### Propulsion is having a moment
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/propulsion-is-having-a-moment/)
+
+---
+
+### Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/)
+
+---
+
+### Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/)
+
+---
+
+### APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/)
+
+---
+
+### New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network
+**Fonte:** Nasa News
+
+NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than 40 spacecraft exploring the solar system and interstellar space. The new [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/)
+
+---
+
+### NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+**Fonte:** Nasa News
+
+NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/)
+
+---
+
+### NASA Ames’ Contributions to Roman’s Mission
+**Fonte:** Nasa News
+
+Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of galaxies over cosmic time. Key contributions to Roman’s mission [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/)
+
+---
+
+### NASA Ames Experts Available for Roman Space Telescope Interviews 
+**Fonte:** Nasa News
+
+NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/)
+
+---
+
+### NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars
+**Fonte:** Nasa News
+
+Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water. “Pandora’s data […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/)
+
+---
+
+### Galactic Gems Glisten in New Gallery From NASA’s Chandra
+**Fonte:** Nasa News
+
+Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A new gallery released today from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety. Astronomers put galaxies into three main categories: spirals like our own Milky Way with arms emanating […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/)
+
+---
+
+### Astronauts Anil Menon and Sophie Adenot on Spacewalk
+**Fonte:** Nasa News
+
+From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/)
+
+---
+
+### Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions
+**Fonte:** Nasa News
+
+Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/)
 
 ---
 
