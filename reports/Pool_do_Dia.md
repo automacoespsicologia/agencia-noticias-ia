@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 26/08/2026 09:35
+# 📥 Balde de Notícias Brutas - 27/08/2026 19:23
 
-Atualmente existem **881** notícias aguardando a curadoria do Editor.
+Atualmente existem **895** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -7935,6 +7935,132 @@ From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured
 Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/)
+
+---
+
+### The electronics ‘under the hood’ of space networking
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-electronics-under-the-hood-of-space-networking/)
+
+---
+
+### LatConnect 60 and Phi Earth Partner to Connect Space and Soil
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/)
+
+---
+
+### RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/)
+
+---
+
+### The threat environment and processing at the edge
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-threat-environment-and-processing-at-the-edge/)
+
+---
+
+### NASA Invites Media to Turkey Artemis Accords Signing Ceremony
+**Fonte:** Nasa News
+
+Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory. NASA Administrator Jared Isaacman will host Turkish Minister of Industry&#160;and Technology&#160;Mehmet Fatih Kacır for the ceremony, together with U.S. Department of State officials. This event is in person only. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/)
+
+---
+
+### Civil Servants Sworn in at NASA Ames
+**Fonte:** Nasa News
+
+New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA&#8217;s Ames Research Center in California’s Silicon Valley since [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/)
+
+---
+
+### 9 Things to Know About NASA’s Nancy Grace Roman Space Telescope
+**Fonte:** Nasa News
+
+NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/)
+
+---
+
+### NASA Astronaut Jonny Kim Departs Agency to Continue Military Service
+**Fonte:** Nasa News
+
+After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy. Kim launched to the space station in April 2025 aboard the Soyuz MS‑27 spacecraft to conduct [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/)
+
+---
+
+### APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colorful Aurora over [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/)
+
+---
+
+### Rare, Widespread Snow in the Atacama Desert
+**Fonte:** Nasa News
+
+Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/)
+
+---
+
+### Building Foresight for Earth Science, featuring Lindsey Jacobson
+**Fonte:** Nasa News
+
+NASA&#8217;s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/)
+
+---
+
+### Roman Space Telescope Travels to SpaceX Hangar
+**Fonte:** Nasa News
+
+NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/)
+
+---
+
+### NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science 
+**Fonte:** Nasa News
+
+During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at the right time.  Pilots from NASA’s Johnson Space Center&#160;flew the WB-57F&#160;high altitude research&#160;aircraft&#160;from Ellington ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/)
+
+---
+
+### NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned
+**Fonte:** Nasa News
+
+NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/)
 
 ---
 
