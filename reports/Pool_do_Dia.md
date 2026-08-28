@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/08/2026 19:23
+# 📥 Balde de Notícias Brutas - 28/08/2026 20:38
 
-Atualmente existem **895** notícias aguardando a curadoria do Editor.
+Atualmente existem **901** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8061,6 +8061,60 @@ During the Aug. 12 total solar eclipse over Europe, scientists aimed to study 
 NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/)
+
+---
+
+### NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge 
+**Fonte:** Nasa News
+
+NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&#160;LunaRecycle&#160;Challenge, which&#160;focused on&#160;developing&#160;solutions for&#160;reducing waste&#160;during missions to the Moon or deep space by&#160;recycling common materials,&#160;like fabrics, plastics...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/)
+
+---
+
+### President Honors NASA’s Artemis II Crew with Highest US Space Award
+**Fonte:** Nasa News
+
+President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/)
+
+---
+
+### President Trump Signs Executive Order to Create US Space Academy  
+**Fonte:** Nasa News
+
+To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/)
+
+---
+
+### Grants
+**Fonte:** Nasa News
+
+*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/grants-2/)
+
+---
+
+### APOD: 2026 August 28 – The Sky Turns Above Paranal
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Sky [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/)
+
+---
+
+### The Forested Floodplains of Congaree National Park
+**Fonte:** Nasa News
+
+The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/)
 
 ---
 
