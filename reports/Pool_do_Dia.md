@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/08/2026 20:38
+# 📥 Balde de Notícias Brutas - 29/08/2026 14:07
 
-Atualmente existem **901** notícias aguardando a curadoria do Editor.
+Atualmente existem **897** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4077,15 +4077,6 @@ This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 672
 
 ---
 
-### SatVu restarts commercial operations with HotSat-2
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/)
-
----
-
 ### Craft Prospect selected for The Sunday Times Scotland Fast 50
 **Fonte:** Space News
 
@@ -6417,15 +6408,6 @@ The coastal dune field in Brazil looks like a desert but fills with freshwater l
 
 ---
 
-### Europe increases size and cost of IRIS² constellation
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/)
-
----
-
 ### Bipartisan Senate bill would sharpen Space Force training for conflict with China
 **Fonte:** Space News
 
@@ -6666,15 +6648,6 @@ Teaching the beautiful and inspirational science of astronomy using only the con
 As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/)
-
----
-
-### Lion Nebula Roars to Life With NASA’s Webb
-**Fonte:** Nasa News
-
-Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/)
 
 ---
 
@@ -7767,15 +7740,6 @@ The drying of the massive lake exposed playas that became the setting for feats 
 
 ---
 
-### NASA Sets Coverage for Roman Space Telescope Launch from Florida
-**Fonte:** Nasa News
-
-Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/)
-
----
-
 ### Perseverance Captures Another Phobos Transit
 **Fonte:** Nasa News
 
@@ -8082,15 +8046,6 @@ President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, a
 
 ---
 
-### President Trump Signs Executive Order to Create US Space Academy  
-**Fonte:** Nasa News
-
-To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/)
-
----
-
 ### Grants
 **Fonte:** Nasa News
 
@@ -8115,6 +8070,15 @@ APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submiss
 The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/)
+
+---
+
+### NASA’s Artemis II Crew Receives Congressional Space Medal of Honor
+**Fonte:** Nasa News
+
+From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/)
 
 ---
 

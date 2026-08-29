@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 28/08/2026 20:38
+# 🚀 Relatório da Agência Espacial - 29/08/2026 14:07
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Sets Coverage for Roman Space Telescope Launch from Florida
+## 1. 9 Things to Know About NASA’s Nancy Grace Roman Space Telescope
+**Fonte:** Nasa News | **Categoria:** Ciência e Inovação
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O universo acaba de ganhar um novo par de olhos monumentais. O Telescópio Espacial Nancy Grace Roman está pronto para o lançamento, prometendo mapear o cosmos com uma visão 100 vezes mais ampla que a do Hubble. Esta missão emblemática da NASA não busca apenas imagens bonitas; ela vai mergulhar nos mistérios da energia escura e caçar exoplanetas distantes, inaugurando uma nova era para a astrofísica moderna.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/)
+
+---
+
+## 2. NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O próximo grande salto na nossa visão do cosmos já tem data marcada. A NASA e a SpaceX confirmaram a janela de lançamento do Telescópio Espacial Nancy Grace Roman para agosto de 2026. Com uma visão cem vezes mais ampla que a do Hubble, este observatório de elite foi projetado para caçar exoplanetas e desvendar o enigma da energia escura, prometendo revolucionar o que sabemos sobre a expansão do universo.
+> A missão Pandora acaba de quebrar uma barreira importante: é o primeiro satélite do programa 'Astrophysics Pioneers' da NASA a entrar em operação. Com um design de baixo custo mas alta precisão, o Pandora está analisando a atmosfera de pelo menos 20 exoplanetas e suas estrelas hospedeiras. É a prova de que satélites menores podem entregar descobertas científicas de escala global.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/)
-
----
-
-## 2. President Trump Signs Executive Order to Create US Space Academy  
-**Fonte:** Nasa News | **Categoria:** Mercado e Política
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pela liderança no setor espacial acaba de ganhar um novo alicerce estratégico. Foi assinado o decreto para a criação da primeira Academia Espacial dos Estados Unidos. A iniciativa visa formar uma nova geração de líderes e engenheiros de elite, consolidando o espaço como um domínio crítico para a segurança nacional e para o crescimento acelerado da economia cislunar.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/)
 
 ---
 
-## 3. Europe increases size and cost of IRIS² constellation
-**Fonte:** Space News | **Categoria:** Mercado e Geopolítica
+## 3. President Honors NASA’s Artemis II Crew with Highest US Space Award
+**Fonte:** Nasa News | **Categoria:** Exploração Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Europa decidiu acelerar para não ficar para trás no mercado das megaconstelações. A União Europeia aprovou uma expansão ambiciosa no projeto IRIS², aumentando significativamente o número de satélites e o orçamento da rede. O objetivo é garantir uma infraestrutura soberana de comunicações seguras e internet de alta velocidade, desafiando o domínio global de gigantes comerciais.
+> Momento histórico para a nova era lunar: a tripulação da missão Artemis II recebeu a Medalha de Honra Espacial do Congresso, o reconhecimento mais alto dos Estados Unidos. Reid Wiseman, Victor Glover, Christina Koch e Jeremy Hansen foram condecorados por sua jornada pioneira ao redor da Lua, consolidando o sucesso do primeiro voo tripulado ao espaço profundo em mais de meio século.
 
-🔗 [Ler notícia completa](https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/)
 
 ---
 
-## 4. SatVu restarts commercial operations with HotSat-2
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A inteligência geoespacial acaba de ganhar uma 'visão de calor' sem precedentes. A startup SatVu retomou as operações comerciais do HotSat-2, o satélite que utiliza sensores térmicos de alta resolução para monitorar infraestruturas de energia a partir da órbita. Essa tecnologia permite mapear a eficiência energética e identificar desperdícios em cidades inteiras, transformando dados espaciais em ferramentas climáticas diretas.
+> A infraestrutura de comunicação espacial acaba de receber um upgrade crítico. A NASA ativou uma nova antena de 34 metros de largura em sua rede de comunicações de espaço profundo na Califórnia. Esse novo 'gigante' de rádio é essencial para suportar o tráfego crescente de dados das missões Artemis e garantir que a humanidade nunca perca o sinal, mesmo nas distâncias mais extremas do sistema solar.
 
-🔗 [Ler notícia completa](https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/)
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/)
 
 ---
 
-## 5. Lion Nebula Roars to Life With NASA’s Webb
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. Kepler books Neutron for 2028 optical relay launch
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Telescópio James Webb capturou detalhes inéditos da Nebulosa do Leão, revelando estruturas complexas de poeira e gás que eram invisíveis até agora. Ao combinar sua potência infravermelha com dados históricos do Hubble, o Webb validou novas teorias sobre a evolução de nebulosas planetárias e o ciclo de vida das estrelas, reafirmando seu papel como a ferramenta científica mais avançada da humanidade.
+> O mercado de lançadores pesados ganha um novo protagonista com a Kepler Space fechando contrato para lançar sua constelação de retransmissão óptica a bordo do foguete Neutron, da Rocket Lab. O acordo para 2028 sinaliza uma movimentação estratégica de mercado, apostando em comunicações via laser e na viabilidade comercial de novos veículos de lançamento reutilizáveis.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/)
+🔗 [Ler notícia completa](https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/)
 
 ---
 
