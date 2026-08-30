@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/08/2026 14:07
+# 📥 Balde de Notícias Brutas - 30/08/2026 14:14
 
-Atualmente existem **897** notícias aguardando a curadoria do Editor.
+Atualmente existem **893** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -6579,15 +6579,6 @@ APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions
 
 ---
 
-### Kepler books Neutron for 2028 optical relay launch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/)
-
----
-
 ### National security doesn’t need more maps or imagery; it needs measurement
 **Fonte:** Space News
 
@@ -7830,15 +7821,6 @@ APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submis
 
 ---
 
-### New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network
-**Fonte:** Nasa News
-
-NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than 40 spacecraft exploring the solar system and interstellar space. The new [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/)
-
----
-
 ### NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
 **Fonte:** Nasa News
 
@@ -7863,15 +7845,6 @@ Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope wil
 NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/)
-
----
-
-### NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars
-**Fonte:** Nasa News
-
-Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water. “Pandora’s data […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/)
 
 ---
 
@@ -7956,15 +7929,6 @@ New civil servants and guests pose for a group photo with NASA and center leader
 
 ---
 
-### 9 Things to Know About NASA’s Nancy Grace Roman Space Telescope
-**Fonte:** Nasa News
-
-NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/)
-
----
-
 ### NASA Astronaut Jonny Kim Departs Agency to Continue Military Service
 **Fonte:** Nasa News
 
@@ -8037,15 +8001,6 @@ NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&
 
 ---
 
-### President Honors NASA’s Artemis II Crew with Highest US Space Award
-**Fonte:** Nasa News
-
-President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/)
-
----
-
 ### Grants
 **Fonte:** Nasa News
 
@@ -8079,6 +8034,15 @@ The meandering Congaree River sustains towering forest ecosystems and fashions o
 From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/)
+
+---
+
+### NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+**Fonte:** Nasa News
+
+Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/)
 
 ---
 
