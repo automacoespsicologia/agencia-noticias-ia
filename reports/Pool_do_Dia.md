@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 30/08/2026 14:14
+# 📥 Balde de Notícias Brutas - 31/08/2026 16:38
 
-Atualmente existem **893** notícias aguardando a curadoria do Editor.
+Atualmente existem **896** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1906,15 +1906,6 @@ In a precursor to Memorial Day, people in Charleston, South Carolina, honored fa
 
 ---
 
-### European space industry warns EU Space Act could slow competitiveness
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/)
-
----
-
 ### As geopolitics reshape space, SpinLaunch sees an opening
 **Fonte:** Space News
 
@@ -3397,15 +3388,6 @@ Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hu
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/)
-
----
-
-### EQT to acquire Exolaunch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/eqt-to-acquire-exolaunch/)
 
 ---
 
@@ -7488,15 +7470,6 @@ What does a mechanic do? Machines and engines are all around us. They power ever
 
 ---
 
-### New space transportation policy focuses on increased launch rates
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/)
-
----
-
 ### Golden Dome chief touts progress as funding questions loom
 **Fonte:** Space News
 
@@ -7728,15 +7701,6 @@ The drying of the massive lake exposed playas that became the setting for feats 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/)
-
----
-
-### Perseverance Captures Another Phobos Transit
-**Fonte:** Nasa News
-
-Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/)
 
 ---
 
@@ -8037,12 +8001,75 @@ From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canad
 
 ---
 
-### NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+### Commercial Space Federation (CSF) Welcomes Two New Associate Members
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/)
+
+---
+
+### Speed to Field Starts Below the Prime
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/speed-to-field-starts-below-the-prime/)
+
+---
+
+### NASA’s Nancy Grace Roman Space Telescope Launches
 **Fonte:** Nasa News
 
-Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of [&#8230;]...
+NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency&#8217;s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, [&#8230;]...
 
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/)
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/)
+
+---
+
+### Roman Commissioning
+**Fonte:** Nasa News
+
+Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/)
+
+---
+
+### APOD: 2026 August 31 – Launch of the Roman Space Telescope
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/)
+
+---
+
+### Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
+**Fonte:** Nasa News
+
+Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.  From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/)
+
+---
+
+### NASA Deep Space Network’s New Goldstone Antenna Goes Online
+**Fonte:** Nasa News
+
+Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/)
+
+---
+
+### Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex
+**Fonte:** Nasa News
+
+Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground. The other three 34-meter antennas are, from left, DSS-26, DSS-25, and […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/)
 
 ---
 
