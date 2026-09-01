@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 31/08/2026 16:38
+# 📥 Balde de Notícias Brutas - 01/09/2026 13:52
 
-Atualmente existem **896** notícias aguardando a curadoria do Editor.
+Atualmente existem **900** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8070,6 +8070,42 @@ Description Long shadows are cast by the recently completed Deep Space Station 2
 Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground. The other three 34-meter antennas are, from left, DSS-26, DSS-25, and […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/)
+
+---
+
+### APOD: 2026 September 1 – A Plane Lunar Eclipse
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Plane [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/)
+
+---
+
+### Ice Island Survives Run-In With Joe Island
+**Fonte:** Nasa News
+
+In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/)
+
+---
+
+### NASA Welcomes Türkiye as Newest Artemis Accords Signatory  
+**Fonte:** Nasa News
+
+During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/)
+
+---
+
+### September 2026 Satellite Puzzler
+**Fonte:** Nasa News
+
+Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/)
 
 ---
 
