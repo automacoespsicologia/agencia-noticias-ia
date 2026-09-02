@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 01/09/2026 13:52
+# 📥 Balde de Notícias Brutas - 02/09/2026 13:10
 
-Atualmente existem **900** notícias aguardando a curadoria do Editor.
+Atualmente existem **904** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8106,6 +8106,42 @@ During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s 
 Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?...
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/)
+
+---
+
+### Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/)
+
+---
+
+### NASA Selects Blue Origin as Mars Telecommunications Network Provider
+**Fonte:** Nasa News
+
+NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunicati...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/)
+
+---
+
+### What’s Up: September 2026 Skywatching Tips from NASA
+**Fonte:** Nasa News
+
+Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/)
+
+---
+
+### Historic Engines Take Their Place on Artemis III
+**Fonte:** Nasa News
+
+On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/)
 
 ---
 
