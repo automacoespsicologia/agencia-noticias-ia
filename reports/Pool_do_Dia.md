@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 02/09/2026 13:10
+# 📥 Balde de Notícias Brutas - 03/09/2026 13:11
 
-Atualmente existem **904** notícias aguardando a curadoria do Editor.
+Atualmente existem **912** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8142,6 +8142,78 @@ Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, 
 On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/)
+
+---
+
+### Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/)
+
+---
+
+### APOD: 2026 September 3 – The Eclipse and the Stork
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/)
+
+---
+
+### Peatland Fires Darken Skies in Indonesia
+**Fonte:** Nasa News
+
+With Indonesia gripped by drought, fires are smoldering on the surface and underground....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/)
+
+---
+
+### NASA Revamps Challenge Linking Community College Studies to Aerospace Careers
+**Fonte:** Nasa News
+
+Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/)
+
+---
+
+### NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole
+**Fonte:** Nasa News
+
+NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/)
+
+---
+
+### Rising Over Louisiana
+**Fonte:** Nasa News
+
+On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/rising-over-louisiana/)
+
+---
+
+### NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds
+**Fonte:** Nasa News
+
+High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/)
+
+---
+
+### APOD: 2026 September 2 – Solar Eclipses and Culture
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/)
 
 ---
 
