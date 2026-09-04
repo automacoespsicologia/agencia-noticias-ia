@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/09/2026 13:11
+# 📥 Balde de Notícias Brutas - 04/09/2026 13:05
 
-Atualmente existem **912** notícias aguardando a curadoria do Editor.
+Atualmente existem **917** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8214,6 +8214,51 @@ High above Earth, thin veils of metallic haze drift through the edge of space. K
 APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/)
+
+---
+
+### A Trio of Tropical Cyclones in the Pacific
+**Fonte:** Nasa News
+
+The Pacific was buzzing with storms while the Atlantic was notably quiet....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/)
+
+---
+
+### NASA to Cover Progress 96 Spacecraft Launch, Docking
+**Fonte:** Nasa News
+
+NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/)
+
+---
+
+### Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog
+**Fonte:** Nasa News
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/)
+
+---
+
+### Igniting Roman’s Journey
+**Fonte:** Nasa News
+
+Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/igniting-romans-journey/)
+
+---
+
+### NASA’s Hubble Spies Superbubble Scene
+**Fonte:** Nasa News
+
+This Hubble Space Telescope image features a sprawling cosmic vista called N44....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 30/08/2026 14:14
+# 🚀 Relatório da Agência Espacial - 04/09/2026 13:05
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
-**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
+## 1. NASA’s Nancy Grace Roman Space Telescope Launches
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O universo escuro acaba de ganhar um novo inimigo: o Telescópio Espacial Nancy Grace Roman já está em órbita. Lançado por um Falcon Heavy, este gigante da NASA inicia uma jornada de um milhão de milhas para mapear bilhões de galáxias e desvendar os segredos da energia escura e da matéria escura. É o início de uma nova era para a astrofísica, com uma visão cem vezes mais ampla que a do Hubble.
+> O cosmos acaba de ganhar um novo par de olhos monumentais. O Telescópio Espacial Nancy Grace Roman foi lançado com sucesso a bordo de um Falcon Heavy, iniciando uma missão épica para mapear bilhões de galáxias e desvendar os segredos da energia escura. Preparem-se: a nossa visão do universo nunca mais será a mesma.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/)
 
 ---
 
-## 2. New space transportation policy focuses on increased launch rates
-**Fonte:** Space News | **Categoria:** Mercado
+## 2. NASA Selects Blue Origin as Mars Telecommunications Network Provider
+**Fonte:** Nasa News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A nova política de transporte espacial dos Estados Unidos acaba de ser revelada, e o foco é agressividade total na cadência de lançamentos. O governo americano sinaliza uma mudança histórica, priorizando contratos que garantam acesso imediato e frequente à órbita. Para as empresas privadas, o recado é claro: não basta chegar ao espaço, é preciso dominar a logística de alta velocidade.
+> A infraestrutura de Marte agora tem um novo arquiteto: a Blue Origin. A NASA selecionou a empresa de Jeff Bezos para desenvolver a Rede de Telecomunicações de Marte, um sistema de banda larga interplanetário que servirá como espinha dorsal para todas as futuras missões tripuladas e robóticas no Planeta Vermelho.
 
-🔗 [Ler notícia completa](https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/)
 
 ---
 
-## 3. European space industry warns EU Space Act could slow competitiveness
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. NASA Deep Space Network’s New Goldstone Antenna Goes Online
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Tensão no mercado europeu: as gigantes do setor espacial alertam que o novo rascunho do 'EU Space Act' pode ser um tiro no pé da competitividade. A indústria teme que o excesso de regulamentação asfixie a inovação e coloque o bloco em desvantagem crítica contra os avanços rápidos dos EUA e da China. O equilíbrio entre segurança e liberdade comercial nunca esteve tão ameaçado.
+> A linha que nos conecta ao desconhecido acaba de ficar mais forte. A nova antena DSS-23 da Rede de Espaço Profundo da NASA entrou em operação em Goldstone, na Califórnia. Com tecnologia de ponta, essa gigante de 34 metros é o upgrade crítico necessário para suportar o fluxo massivo de dados das missões Artemis e das naves que viajam rumo aos confins do sistema solar.
 
-🔗 [Ler notícia completa](https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/)
 
 ---
 
-## 4. EQT to acquire Exolaunch
-**Fonte:** Space News | **Categoria:** Negócios
+## 4. Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A consolidação do setor de logística espacial deu um salto bilionário com a aquisição da Exolaunch pela gestora EQT. O movimento confirma que o mercado de 'última milha' para pequenos satélites amadureceu e se tornou um ativo estratégico para o capital global. É a prova definitiva de que a infraestrutura invisível do espaço é, agora, o motor mais lucrativo da economia orbital.
+> A sobrevivência na Lua deu um salto tecnológico crucial. A Firefly Aerospace anunciou que utilizará unidades de aquecimento por radioisótopos da Zeno Power em seus landers lunares. É o uso prático da energia nuclear para vencer o maior desafio da exploração lunar: as noites geladas de duas semanas que costumam silenciar sondas para sempre.
 
-🔗 [Ler notícia completa](https://spacenews.com/eqt-to-acquire-exolaunch/)
+🔗 [Ler notícia completa](https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/)
 
 ---
 
-## 5. Perseverance Captures Another Phobos Transit
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. NASA Welcomes Türkiye as Newest Artemis Accords Signatory  
+**Fonte:** Nasa News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O rover Perseverance acaba de capturar uma imagem que redefine nossa perspectiva cósmica: a Terra sendo ocultada pela lua marciana Fobos. Além do valor poético, o registro é um triunfo da precisão técnica raras vezes visto, demonstrando a capacidade dos instrumentos Mastcam-Z em coordenar observações astronômicas complexas a partir da superfície de outro planeta.
+> A diplomacia espacial ganha um novo peso pesado. A Turquia assinou oficialmente os Acordos Artemis, tornando-se a 71ª nação a se unir à coalizão liderada pela NASA. O movimento consolida a Turquia como um player estratégico no crescente mercado da economia lunar e expande a cooperação internacional para a permanência humana sustentável fora da Terra.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/)
+🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/)
 
 ---
 
