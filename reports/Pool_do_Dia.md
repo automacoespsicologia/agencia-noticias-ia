@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/09/2026 13:05
+# 📥 Balde de Notícias Brutas - 05/09/2026 12:17
 
-Atualmente existem **917** notícias aguardando a curadoria do Editor.
+Atualmente existem **916** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -7416,15 +7416,6 @@ The powerful storm delivered extreme rainfall and damaging winds to the state, p
 
 ---
 
-### Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/)
-
----
-
 ### APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus
 **Fonte:** Nasa News
 
@@ -8019,15 +8010,6 @@ From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canad
 
 ---
 
-### NASA’s Nancy Grace Roman Space Telescope Launches
-**Fonte:** Nasa News
-
-NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency&#8217;s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/)
-
----
-
 ### Roman Commissioning
 **Fonte:** Nasa News
 
@@ -8052,15 +8034,6 @@ APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions
 Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.  From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/)
-
----
-
-### NASA Deep Space Network’s New Goldstone Antenna Goes Online
-**Fonte:** Nasa News
-
-Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/)
 
 ---
 
@@ -8091,15 +8064,6 @@ In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest
 
 ---
 
-### NASA Welcomes Türkiye as Newest Artemis Accords Signatory  
-**Fonte:** Nasa News
-
-During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/)
-
----
-
 ### September 2026 Satellite Puzzler
 **Fonte:** Nasa News
 
@@ -8115,15 +8079,6 @@ Here’s the August 2026 puzzler. Quick, where is this? And what makes this plac
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/)
-
----
-
-### NASA Selects Blue Origin as Mars Telecommunications Network Provider
-**Fonte:** Nasa News
-
-NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunicati...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/)
 
 ---
 
@@ -8259,6 +8214,42 @@ Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Gr
 This Hubble Space Telescope image features a sprawling cosmic vista called N44....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/)
+
+---
+
+### NASA Ames Fire Department Aircraft Firefighting Training
+**Fonte:** Nasa News
+
+The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/)
+
+---
+
+### NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community
+**Fonte:** Nasa News
+
+NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The&#160;RS-25&#160;Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The&#160;webinar&#160;will last about two hours and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/)
+
+---
+
+### Lunar Occultation of Venus
+**Fonte:** Nasa News
+
+On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/lunar-occultation-of-venus/)
+
+---
+
+### APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/)
 
 ---
 
