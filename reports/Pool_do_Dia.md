@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 05/09/2026 12:17
+# 📥 Balde de Notícias Brutas - 06/09/2026 12:33
 
-Atualmente existem **916** notícias aguardando a curadoria do Editor.
+Atualmente existem **917** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8250,6 +8250,15 @@ On Wednesday, June 17, skywatchers across the United States—and parts of Canad
 APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/)
+
+---
+
+### APOD: 2026 September 5 – Chasing the Moon’s Shadow
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon&#8217;s [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/)
 
 ---
 
