@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/09/2026 12:33
+# 📥 Balde de Notícias Brutas - 07/09/2026 14:42
 
-Atualmente existem **917** notícias aguardando a curadoria do Editor.
+Atualmente existem **919** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8259,6 +8259,24 @@ APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submis
 APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon&#8217;s [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/)
+
+---
+
+### APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/)
+
+---
+
+### A Bright Spot at Mount Michael
+**Fonte:** Nasa News
+
+With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/)
 
 ---
 
