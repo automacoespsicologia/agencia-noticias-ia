@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 07/09/2026 14:42
+# 📥 Balde de Notícias Brutas - 08/09/2026 13:14
 
-Atualmente existem **919** notícias aguardando a curadoria do Editor.
+Atualmente existem **921** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8277,6 +8277,24 @@ APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submi
 With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/)
+
+---
+
+### APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble: Decagon Around [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/)
+
+---
+
+### The Otherworldly Geology of Vasquez Rocks
+**Fonte:** Nasa News
+
+Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/)
 
 ---
 

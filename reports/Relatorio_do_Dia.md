@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 04/09/2026 13:05
+# 🚀 Relatório da Agência Espacial - 08/09/2026 13:14
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Nancy Grace Roman Space Telescope Launches
+## 1. Igniting Roman’s Journey
+**Fonte:** Nasa News | **Categoria:** Ciência e Inovação
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O espaço profundo acaba de ganhar um novo par de olhos monumentais. O Telescópio Espacial Nancy Grace Roman foi lançado com sucesso a bordo de um Falcon Heavy, iniciando uma jornada de um milhão de milhas. Projetado para desvendar os mistérios da energia escura e mapear exoplanetas, este observatório promete uma visão do cosmos cem vezes mais ampla que a do Hubble, redefinindo nossa compreensão do universo.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/igniting-romans-journey/)
+
+---
+
+## 2. Historic Engines Take Their Place on Artemis III
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O cosmos acaba de ganhar um novo par de olhos monumentais. O Telescópio Espacial Nancy Grace Roman foi lançado com sucesso a bordo de um Falcon Heavy, iniciando uma missão épica para mapear bilhões de galáxias e desvendar os segredos da energia escura. Preparem-se: a nossa visão do universo nunca mais será a mesma.
+> A força que nos levará de volta ao solo lunar já tem data e motores definidos. Técnicos da NASA iniciaram a instalação dos quatro motores RS-25 no estágio central do foguete SLS para a missão Artemis III. Reutilizando motores com histórico comprovado em voos espaciais, a agência finaliza a peça central do lançador que levará a primeira tripulação à superfície da Lua neste século, em 2027.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/)
-
----
-
-## 2. NASA Selects Blue Origin as Mars Telecommunications Network Provider
-**Fonte:** Nasa News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A infraestrutura de Marte agora tem um novo arquiteto: a Blue Origin. A NASA selecionou a empresa de Jeff Bezos para desenvolver a Rede de Telecomunicações de Marte, um sistema de banda larga interplanetário que servirá como espinha dorsal para todas as futuras missões tripuladas e robóticas no Planeta Vermelho.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/)
 
 ---
 
-## 3. NASA Deep Space Network’s New Goldstone Antenna Goes Online
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 3. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
+**Fonte:** Nasa News | **Categoria:** Infraestrutura Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A linha que nos conecta ao desconhecido acaba de ficar mais forte. A nova antena DSS-23 da Rede de Espaço Profundo da NASA entrou em operação em Goldstone, na Califórnia. Com tecnologia de ponta, essa gigante de 34 metros é o upgrade crítico necessário para suportar o fluxo massivo de dados das missões Artemis e das naves que viajam rumo aos confins do sistema solar.
+> A linha de comunicação com as missões de exploração profunda acaba de ser reforçada. Foi inaugurada a Deep Space Station 23 no complexo de Goldstone, na Califórnia. Esta nova antena de 34 metros é crucial para suportar o volume massivo de dados das missões Artemis e das futuras explorações em Marte, garantindo que a conexão entre a Terra e nossos exploradores seja mais estável e rápida do que nunca.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/)
 
 ---
 
-## 4. Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A sobrevivência na Lua deu um salto tecnológico crucial. A Firefly Aerospace anunciou que utilizará unidades de aquecimento por radioisótopos da Zeno Power em seus landers lunares. É o uso prático da energia nuclear para vencer o maior desafio da exploração lunar: as noites geladas de duas semanas que costumam silenciar sondas para sempre.
+> Cientistas da NASA conseguiram, pela primeira vez, olhar através da 'neblina metálica' que interrompe sinais de rádio na borda do espaço. Usando foguetes de sondagem de última geração, a equipe capturou dados inéditos de nuvens formadas por poeira de meteoros vaporizados. A descoberta é um marco técnico que ajudará a proteger sistemas de comunicação e navegação contra as imprevisíveis interferências da alta atmosfera.
 
-🔗 [Ler notícia completa](https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/)
 
 ---
 
-## 5. NASA Welcomes Türkiye as Newest Artemis Accords Signatory  
-**Fonte:** Nasa News | **Categoria:** Mercado
+## 5. Astronomers fear orbital data centers will interfere with observations
+**Fonte:** Space News | **Categoria:** Mercado e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A diplomacia espacial ganha um novo peso pesado. A Turquia assinou oficialmente os Acordos Artemis, tornando-se a 71ª nação a se unir à coalizão liderada pela NASA. O movimento consolida a Turquia como um player estratégico no crescente mercado da economia lunar e expande a cooperação internacional para a permanência humana sustentável fora da Terra.
+> A nova fronteira da computação em órbita está gerando um dilema sem precedentes. Enquanto empresas privadas aceleram a criação de data centers espaciais para processar IA em tempo real, astrônomos levantam um sinal de alerta sobre como essas constelações podem interferir nas observações científicas. É o nascimento de um novo mercado multibilionário que promete mudar o paradigma da infraestrutura digital global.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/)
 
 ---
 
