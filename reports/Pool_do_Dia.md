@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/09/2026 13:14
+# 📥 Balde de Notícias Brutas - 09/09/2026 13:20
 
-Atualmente existem **921** notícias aguardando a curadoria do Editor.
+Atualmente existem **924** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2983,15 +2983,6 @@ Equipped with rock picks and hand lenses, a team of geoscientists deployed to th
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/)
-
----
-
-### Astronomers fear orbital data centers will interfere with observations
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/)
 
 ---
 
@@ -8028,15 +8019,6 @@ APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions
 
 ---
 
-### Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
-**Fonte:** Nasa News
-
-Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.  From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/)
-
----
-
 ### Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex
 **Fonte:** Nasa News
 
@@ -8088,15 +8070,6 @@ Here’s the August 2026 puzzler. Quick, where is this? And what makes this plac
 Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/)
-
----
-
-### Historic Engines Take Their Place on Artemis III
-**Fonte:** Nasa News
-
-On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/)
 
 ---
 
@@ -8154,15 +8127,6 @@ On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed in
 
 ---
 
-### NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds
-**Fonte:** Nasa News
-
-High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/)
-
----
-
 ### APOD: 2026 September 2 – Solar Eclipses and Culture
 **Fonte:** Nasa News
 
@@ -8196,15 +8160,6 @@ NASA will provide live coverage of the launch and docking of a Roscosmos cargo s
 Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/)
-
----
-
-### Igniting Roman’s Journey
-**Fonte:** Nasa News
-
-Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/igniting-romans-journey/)
 
 ---
 
@@ -8295,6 +8250,78 @@ APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissio
 Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/)
+
+---
+
+### Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
+**Fonte:** Nasa News
+
+Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/)
+
+---
+
+### Anak Krakatau Rumbles Again
+**Fonte:** Nasa News
+
+A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/)
+
+---
+
+### From the Corps to the Cosmos, featuring Jaden Caradine
+**Fonte:** Nasa News
+
+Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA&#8217;s Langley Research Center in Hampton, Virginia, Caradine [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/)
+
+---
+
+### NASA Calls for Proposals to Accelerate Lunar Surface Technologies 
+**Fonte:** Nasa News
+
+NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/)
+
+---
+
+### Superbubble in the Large Magellanic Cloud
+**Fonte:** Nasa News
+
+NASA&#8217;s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/)
+
+---
+
+### NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  
+**Fonte:** Nasa News
+
+Algorithm NASA first applied to satellite imagery is now used to peer into antiquity  ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/)
+
+---
+
+### 1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day
+**Fonte:** Nasa News
+
+More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/)
+
+---
+
+### NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
+**Fonte:** Nasa News
+
+For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/)
 
 ---
 
