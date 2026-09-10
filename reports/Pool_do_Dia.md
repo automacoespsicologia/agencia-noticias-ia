@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 09/09/2026 13:20
+# 📥 Balde de Notícias Brutas - 10/09/2026 13:16
 
-Atualmente existem **924** notícias aguardando a curadoria do Editor.
+Atualmente existem **926** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1453,15 +1453,6 @@ NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chr
 
 ---
 
-### SpaceX launches CRS-34 cargo mission to ISS
-**Fonte:** Space News
-
-A Falcon 9 launched a Dragon cargo spacecraft May 15 carrying nearly 3,000 kilograms of cargo to the International Space Station....
-
-🔗 [Link da Notícia](https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/)
-
----
-
 ### NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
 **Fonte:** Nasa News
 
@@ -1804,15 +1795,6 @@ Look closely at this image from NASA’s Hubble Space Telescope and you’ll see
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/)
-
----
-
-### Voyager wins DARPA contract for solid rocket propellant technology
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/)
 
 ---
 
@@ -4146,15 +4128,6 @@ Long-term lunar exploration requires technology, infrastructure, and operations 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/)
-
----
-
-### Space Force fields mobile satellite-jamming system 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/)
 
 ---
 
@@ -8010,15 +7983,6 @@ Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth 
 
 ---
 
-### APOD: 2026 August 31 – Launch of the Roman Space Telescope
-**Fonte:** Nasa News
-
-APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/)
-
----
-
 ### Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex
 **Fonte:** Nasa News
 
@@ -8316,12 +8280,66 @@ More than 1,000 visitors explored NASA sea level science firsthand during World 
 
 ---
 
-### NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
+### APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
 **Fonte:** Nasa News
 
-For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]...
+APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The [&#8230;]...
 
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/)
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/)
+
+---
+
+### Dust Storm Sweeps Over Mali
+**Fonte:** Nasa News
+
+At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/)
+
+---
+
+### NASA Adds Relativity Space’s Terran R to Launch Services Contract
+**Fonte:** Nasa News
+
+A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/)
+
+---
+
+### NASA’s Chandra Unveils Mysterious X-Ray Objects
+**Fonte:** Nasa News
+
+Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/)
+
+---
+
+### How 2 US, European Satellites Are Studying Hurricanes During El Niño
+**Fonte:** Nasa News
+
+Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a h...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/)
+
+---
+
+### Artemis II Crew at NASA Marshall
+**Fonte:** Nasa News
+
+The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/)
+
+---
+
+### NASA Names Two Artemis II Astronauts to Emeritus Program
+**Fonte:** Nasa News
+
+Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/)
 
 ---
 
