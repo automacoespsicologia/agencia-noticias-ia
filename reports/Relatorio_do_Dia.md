@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 09/09/2026 13:20
+# 🚀 Relatório da Agência Espacial - 11/09/2026 13:11
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. APOD: 2026 August 31 – Launch of the Roman Space Telescope
-**Fonte:** Nasa News | **Categoria:** Ciência e Inovação
+## 1. NASA, IBM Launch AI Foundation Model for Lunar Science
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O cosmos acaba de ganhar novos olhos de alta potência. O Telescópio Espacial Nancy Grace Roman foi lançado com sucesso, prometendo mapear o universo com um campo de visão cem vezes superior ao do Hubble. Prepare-se: estamos prestes a mergulhar nos mistérios da energia escura e descobrir milhares de novos mundos em uma escala nunca antes vista.
+> O futuro da exploração lunar acaba de ganhar um cérebro digital de peso. A NASA e a IBM lançaram o primeiro modelo de inteligência artificial de código aberto focado exclusivamente na ciência lunar. A tecnologia promete transformar montanhas de dados brutos em mapas precisos de recursos e crateras, acelerando drasticamente o planejamento para o estabelecimento da primeira base humana permanente no satélite.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/)
 
 ---
 
-## 2. NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 2. NASA Adds Relativity Space’s Terran R to Launch Services Contract
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Em uma colaboração inédita, os telescópios Hubble e James Webb uniram forças para estudar os confins do nosso Sistema Solar. A descoberta é fascinante: objetos transnetunianos parecem 'lembrar' de seu passado bilionário, revelando segredos sobre a formação da nossa vizinhança cósmica que antes estavam escondidos na escuridão profunda.
+> A corrida pelo lançamento pesado tem um novo player oficial no tabuleiro da NASA. O foguete Terran R, da Relativity Space — o primeiro veículo do mundo quase totalmente impresso em 3D — acaba de ser integrado ao contrato de serviços de lançamento da agência. O movimento sinaliza uma confiança crescente do governo em tecnologias disruptivas de manufatura para missões científicas complexas.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/)
 
 ---
 
-## 3. Voyager wins DARPA contract for solid rocket propellant technology
+## 3. Orbital raises $5 million to join orbital data center race
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A propulsão espacial está prestes a ficar muito mais eficiente. A Voyager Space garantiu um contrato estratégico com a DARPA para desenvolver tecnologias avançadas de propelente sólido para foguetes. Essa inovação é a peça-chave que faltava para garantir maior mobilidade e rapidez em missões de defesa e exploração profunda.
+> A infraestrutura de nuvem está saindo da Terra. A startup Orbital captou 5 milhões de dólares para liderar a construção de centros de dados em órbita. Com o processamento na borda tornando-se crítico para satélites militares e comerciais, o objetivo é reduzir a latência e aumentar a segurança, movendo a inteligência computacional diretamente para o vácuo do espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/)
-
----
-
-## 4. SpaceX launches CRS-34 cargo mission to ISS
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A SpaceX mantém o ritmo frenético da nova economia orbital com o lançamento da missão CRS-34. São quase três toneladas de carga destinadas à Estação Espacial Internacional, incluindo experimentos científicos de ponta que podem revolucionar tratamentos aqui na Terra. A logística espacial nunca foi tão robusta e essencial.
-
-🔗 [Ler notícia completa](https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/)
+🔗 [Ler notícia completa](https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/)
 
 ---
 
-## 5. Space Force fields mobile satellite-jamming system 
-**Fonte:** Space News | **Categoria:** Defesa e Tecnologia
+## 4. NASA Answers President’s Call to Establish United States Space Academy
+**Fonte:** Nasa News | **Categoria:** Estratégia e Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Força Espacial dos Estados Unidos acaba de ativar seu novo sistema móvel de interferência de satélites. Essa inovação técnica redefine a guerra eletrônica no espaço, permitindo a proteção de infraestruturas críticas contra ameaças orbitais. O campo de batalha mudou, e o controle do espectro agora é o novo pilar da segurança nacional.
+> Em uma movimentação estratégica para consolidar a hegemonia tecnológica, foi oficialmente criada a Academia Espacial dos Estados Unidos. Liderada pelo administrador Jared Isaacman, a instituição nasce para formar a próxima geração da elite aeroespacial, respondendo a uma demanda urgente da indústria por mão de obra ultraespecializada capaz de sustentar a nova economia cislunar.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/)
+
+---
+
+## 5. NASA’s Artemis II Crew Receives Congressional Space Medal of Honor
+**Fonte:** Nasa News | **Categoria:** Descobertas e Missões
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um marco histórico para os desbravadores do século 21. A tripulação da Artemis II recebeu a Medalha de Honra Espacial do Congresso após completar com sucesso a primeira jornada tripulada ao redor da Lua em mais de 50 anos. A honraria sela a transição da exploração teórica para a presença prática no espaço profundo, validando as tecnologias que levarão os humanos de volta à superfície lunar em 2027.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/)
 
 ---
 

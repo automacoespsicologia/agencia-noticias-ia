@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 10/09/2026 13:16
+# 📥 Balde de Notícias Brutas - 11/09/2026 13:11
 
-Atualmente existem **926** notícias aguardando a curadoria do Editor.
+Atualmente existem **935** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8340,6 +8340,87 @@ The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Vict
 Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/)
+
+---
+
+### LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/)
+
+---
+
+### APOD: 2026 September 11 – M83: The Southern Pinwheel
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/)
+
+---
+
+### Monterrey Amid Mountains
+**Fonte:** Nasa News
+
+Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/)
+
+---
+
+### NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
+**Fonte:** Nasa News
+
+The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. NASA Deputy Administrator Matt Anderson will host Ambassador of Djibouti to the United States Mohamed Siad Douale for the ceremony, together with U.S. State Department Assistant [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/)
+
+---
+
+### NASA Answers President’s Call to Establish United States Space Academy
+**Fonte:** Nasa News
+
+Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/)
+
+---
+
+### NASA’s Life-Saving Technology Where Cell Signals Can’t Go
+**Fonte:** Nasa News
+
+Search and rescue technology developed in part by NASA saved five lives...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/)
+
+---
+
+### NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
+**Fonte:** Nasa News
+
+Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/)
+
+---
+
+### Dust and Water in Sagittarius A*
+**Fonte:** Nasa News
+
+A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA&#8217;s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/)
+
+---
+
+### NASA, IBM Launch AI Foundation Model for Lunar Science
+**Fonte:** Nasa News
+
+NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/)
 
 ---
 

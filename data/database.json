@@ -6187,6 +6187,71 @@
       "lead": "A Força Espacial dos Estados Unidos acaba de ativar seu novo sistema móvel de interferência de satélites. Essa inovação técnica redefine a guerra eletrônica no espaço, permitindo a proteção de infraestruturas críticas contra ameaças orbitais. O campo de batalha mudou, e o controle do espectro agora é o novo pilar da segurança nacional.",
       "category": "Defesa e Tecnologia",
       "data_publicacao": "2026-09-09 13:20"
+    },
+    {
+      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+      "link": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+      "description": "NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]",
+      "pub_date": "Thu, 10 Sep 2026 12:00:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-11",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O futuro da exploração lunar acaba de ganhar um cérebro digital de peso. A NASA e a IBM lançaram o primeiro modelo de inteligência artificial de código aberto focado exclusivamente na ciência lunar. A tecnologia promete transformar montanhas de dados brutos em mapas precisos de recursos e crateras, acelerando drasticamente o planejamento para o estabelecimento da primeira base humana permanente no satélite.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-09-11 13:11"
+    },
+    {
+      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+      "description": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts [&#8230;]",
+      "pub_date": "Wed, 09 Sep 2026 20:11:58 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-10",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A corrida pelo lançamento pesado tem um novo player oficial no tabuleiro da NASA. O foguete Terran R, da Relativity Space — o primeiro veículo do mundo quase totalmente impresso em 3D — acaba de ser integrado ao contrato de serviços de lançamento da agência. O movimento sinaliza uma confiança crescente do governo em tecnologias disruptivas de manufatura para missões científicas complexas.",
+      "category": "Mercado Espacial",
+      "data_publicacao": "2026-09-11 13:11"
+    },
+    {
+      "title": "Orbital raises $5 million to join orbital data center race",
+      "link": "https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/",
+      "description": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" alt=\"douglas-county-servers\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/douglas-county-servers-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w\" sizes=\"(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw\" /></figure>\n<p>A Los Angeles-based startup has raised $5 million to fund an in-orbit computing demonstration next year, ahead of plans to deploy more than 100,000 orbital data centers to meet surging demand for AI infrastructure.</p>\n<p>The post <a href=\"https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/\">Orbital raises $5 million to join orbital data center race</a> appeared first on <a href=\"https://spacenews.com\">SpaceNews</a>.</p>\n",
+      "pub_date": "Wed, 10 Jun 2026 12:44:49 +0000",
+      "source": "Space News",
+      "data_coleta": "2026-06-11",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A infraestrutura de nuvem está saindo da Terra. A startup Orbital captou 5 milhões de dólares para liderar a construção de centros de dados em órbita. Com o processamento na borda tornando-se crítico para satélites militares e comerciais, o objetivo é reduzir a latência e aumentar a segurança, movendo a inteligência computacional diretamente para o vácuo do espaço.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-09-11 13:11"
+    },
+    {
+      "title": "NASA Answers President’s Call to Establish United States Space Academy",
+      "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+      "description": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy [&#8230;]",
+      "pub_date": "Thu, 10 Sep 2026 20:26:52 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-11",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Em uma movimentação estratégica para consolidar a hegemonia tecnológica, foi oficialmente criada a Academia Espacial dos Estados Unidos. Liderada pelo administrador Jared Isaacman, a instituição nasce para formar a próxima geração da elite aeroespacial, respondendo a uma demanda urgente da indústria por mão de obra ultraespecializada capaz de sustentar a nova economia cislunar.",
+      "category": "Estratégia e Mercado",
+      "data_publicacao": "2026-09-11 13:11"
+    },
+    {
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+      "description": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized [&#8230;]",
+      "pub_date": "Fri, 28 Aug 2026 22:21:31 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-08-29",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Um marco histórico para os desbravadores do século 21. A tripulação da Artemis II recebeu a Medalha de Honra Espacial do Congresso após completar com sucesso a primeira jornada tripulada ao redor da Lua em mais de 50 anos. A honraria sela a transição da exploração teórica para a presença prática no espaço profundo, validando as tecnologias que levarão os humanos de volta à superfície lunar em 2027.",
+      "category": "Descobertas e Missões",
+      "data_publicacao": "2026-09-11 13:11"
     }
   ]
 }
