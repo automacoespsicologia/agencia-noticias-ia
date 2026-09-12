@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/09/2026 13:11
+# 📥 Balde de Notícias Brutas - 12/09/2026 12:34
 
-Atualmente existem **935** notícias aguardando a curadoria do Editor.
+Atualmente existem **934** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2722,15 +2722,6 @@ This article is for students grades 5-8. Mass distribution affects everything fr
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/)
-
----
-
-### Orbital raises $5 million to join orbital data center race
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/)
 
 ---
 
@@ -7947,15 +7938,6 @@ The meandering Congaree River sustains towering forest ecosystems and fashions o
 
 ---
 
-### NASA’s Artemis II Crew Receives Congressional Space Medal of Honor
-**Fonte:** Nasa News
-
-From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/)
-
----
-
 ### Commercial Space Federation (CSF) Welcomes Two New Associate Members
 **Fonte:** Space News
 
@@ -8298,15 +8280,6 @@ At a time of year when dust storm activity winds down, a plume of dust blanketed
 
 ---
 
-### NASA Adds Relativity Space’s Terran R to Launch Services Contract
-**Fonte:** Nasa News
-
-A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/)
-
----
-
 ### NASA’s Chandra Unveils Mysterious X-Ray Objects
 **Fonte:** Nasa News
 
@@ -8379,15 +8352,6 @@ The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a
 
 ---
 
-### NASA Answers President’s Call to Establish United States Space Academy
-**Fonte:** Nasa News
-
-Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/)
-
----
-
 ### NASA’s Life-Saving Technology Where Cell Signals Can’t Go
 **Fonte:** Nasa News
 
@@ -8415,12 +8379,39 @@ A brilliant concentration of stars takes center stage in this Aug. 11, 2026, ima
 
 ---
 
-### NASA, IBM Launch AI Foundation Model for Lunar Science
+### Help Refine Data from Space Telescopes with Artifact InSPECtor
 **Fonte:** Nasa News
 
-NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]...
+How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]...
 
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/)
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/)
+
+---
+
+### NASA’s Chandra Spots Galactic Gem
+**Fonte:** Nasa News
+
+Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA&#8217;s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/)
+
+---
+
+### NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return
+**Fonte:** Nasa News
+
+Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/)
+
+---
+
+### NASA Boosts Open Science, Data Sharing with Artemis Accords
+**Fonte:** Nasa News
+
+The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/)
 
 ---
 

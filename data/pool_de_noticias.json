@@ -8369,6 +8369,42 @@
       "source": "Nasa News",
       "data_coleta": "2026-09-11",
       "tentativas": 0
+    },
+    {
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+      "description": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
+      "pub_date": "Fri, 11 Sep 2026 19:48:09 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-12",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s Chandra Spots Galactic Gem",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+      "description": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA&#8217;s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical [&#8230;]",
+      "pub_date": "Fri, 11 Sep 2026 17:19:47 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-12",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "description": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where [&#8230;]",
+      "pub_date": "Fri, 11 Sep 2026 15:05:20 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-12",
+      "tentativas": 0
+    },
+    {
+      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "description": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those [&#8230;]",
+      "pub_date": "Fri, 11 Sep 2026 14:56:25 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-12",
+      "tentativas": 0
     }
   ]
 }
