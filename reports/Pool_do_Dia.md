@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/09/2026 12:34
+# 📥 Balde de Notícias Brutas - 13/09/2026 13:35
 
-Atualmente existem **934** notícias aguardando a curadoria do Editor.
+Atualmente existem **935** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8412,6 +8412,15 @@ Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news 
 The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/)
+
+---
+
+### APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/)
 
 ---
 

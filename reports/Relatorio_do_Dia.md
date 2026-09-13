@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 11/09/2026 13:11
+# 🚀 Relatório da Agência Espacial - 13/09/2026 13:35
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA, IBM Launch AI Foundation Model for Lunar Science
+## 1. Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking 
+**Fonte:** Space News | **Categoria:** Ciência e Exploração
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A China está apertando o cerco no espaço profundo. A sonda Tianwen-2 executou uma série de manobras de precisão enquanto se aproxima do asteroide alvo. Através de rastreamento por rádio, confirmamos que os motores da missão estão operando em potência máxima para o encontro histórico. É um passo decisivo na busca por amostras que podem revelar a origem do nosso Sistema Solar e consolidar o poderio chinês na exploração planetária.
+
+🔗 [Ler notícia completa](https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/)
+
+---
+
+## 2. Roman Space Telescope Travels to SpaceX Hangar
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da exploração lunar acaba de ganhar um cérebro digital de peso. A NASA e a IBM lançaram o primeiro modelo de inteligência artificial de código aberto focado exclusivamente na ciência lunar. A tecnologia promete transformar montanhas de dados brutos em mapas precisos de recursos e crateras, acelerando drasticamente o planejamento para o estabelecimento da primeira base humana permanente no satélite.
+> O próximo gigante da astronomia acaba de dar seu passo final antes de deixar a Terra. O Telescópio Espacial Nancy Grace Roman já está no hangar da SpaceX, devidamente encapsulado para o lançamento a bordo do Falcon Heavy. Com um campo de visão cem vezes maior que o do Hubble, o Roman se prepara para mapear a matéria escura e encontrar novos mundos com uma velocidade nunca antes vista pela ciência moderna.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/)
-
----
-
-## 2. NASA Adds Relativity Space’s Terran R to Launch Services Contract
-**Fonte:** Nasa News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pelo lançamento pesado tem um novo player oficial no tabuleiro da NASA. O foguete Terran R, da Relativity Space — o primeiro veículo do mundo quase totalmente impresso em 3D — acaba de ser integrado ao contrato de serviços de lançamento da agência. O movimento sinaliza uma confiança crescente do governo em tecnologias disruptivas de manufatura para missões científicas complexas.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/)
 
 ---
 
-## 3. Orbital raises $5 million to join orbital data center race
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 3. DARPA to explore ways to rapidly rebuild satellite networks if attacked
+**Fonte:** Space News | **Categoria:** Mercado e Defesa
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A infraestrutura de nuvem está saindo da Terra. A startup Orbital captou 5 milhões de dólares para liderar a construção de centros de dados em órbita. Com o processamento na borda tornando-se crítico para satélites militares e comerciais, o objetivo é reduzir a latência e aumentar a segurança, movendo a inteligência computacional diretamente para o vácuo do espaço.
+> A resiliência em órbita tornou-se a nova prioridade da defesa global. A DARPA anunciou um programa ambicioso para reconstruir redes de satélites em tempo recorde caso sejam atacadas em um cenário de conflito. O foco é a 'reconstituição rápida': lançar e integrar novas capacidades em questão de horas ou dias, garantindo que a infraestrutura crítica do Ocidente permaneça operacional mesmo sob fogo cruzado no espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/)
+🔗 [Ler notícia completa](https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/)
 
 ---
 
-## 4. NASA Answers President’s Call to Establish United States Space Academy
-**Fonte:** Nasa News | **Categoria:** Estratégia e Mercado
+## 4. Desert Field Test With NASA Advanced Rover Prototype
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Em uma movimentação estratégica para consolidar a hegemonia tecnológica, foi oficialmente criada a Academia Espacial dos Estados Unidos. Liderada pelo administrador Jared Isaacman, a instituição nasce para formar a próxima geração da elite aeroespacial, respondendo a uma demanda urgente da indústria por mão de obra ultraespecializada capaz de sustentar a nova economia cislunar.
+> O futuro da robótica espacial acaba de ser testado nos desertos da Califórnia. O protótipo ERNEST, um rover autônomo de quatro rodas do JPL, demonstrou capacidades de navegação em terrenos extremos sem qualquer intervenção humana. Projetado para as condições implacáveis da Lua e de Marte, o ERNEST utiliza inteligência artificial de ponta para decidir seus próprios caminhos, reduzindo o risco e aumentando a eficiência de futuras bases lunares.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/)
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/)
 
 ---
 
-## 5. NASA’s Artemis II Crew Receives Congressional Space Medal of Honor
-**Fonte:** Nasa News | **Categoria:** Descobertas e Missões
+## 5. SatVu zooms in energy facilities in Cuba, India and Australia
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Um marco histórico para os desbravadores do século 21. A tripulação da Artemis II recebeu a Medalha de Honra Espacial do Congresso após completar com sucesso a primeira jornada tripulada ao redor da Lua em mais de 50 anos. A honraria sela a transição da exploração teórica para a presença prática no espaço profundo, validando as tecnologias que levarão os humanos de volta à superfície lunar em 2027.
+> O monitoramento da Terra subiu de temperatura. A startup britânica SatVu acaba de liberar as primeiras imagens térmicas de alta resolução de seu satélite HotSat-2, revelando detalhes sem precedentes sobre a eficiência energética de usinas em Cuba, Índia e Austrália. Essa nova camada de inteligência comercial permite que governos e empresas detectem desperdícios de calor e infraestrutura crítica vulnerável, transformando o espaço em uma ferramenta vital para a sustentabilidade global.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/)
+🔗 [Ler notícia completa](https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/)
 
 ---
 
