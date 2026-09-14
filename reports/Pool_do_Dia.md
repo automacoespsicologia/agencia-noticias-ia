@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/09/2026 13:35
+# 📥 Balde de Notícias Brutas - 14/09/2026 15:35
 
-Atualmente existem **935** notícias aguardando a curadoria do Editor.
+Atualmente existem **934** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1063,15 +1063,6 @@ To&#160;facilitate&#160;discussion and information sharing on activities at NASA
 NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/)
-
----
-
-### SatVu zooms in energy facilities in Cuba, India and Australia
-**Fonte:** Space News
-
-SAN FRANCISCO – British startup SatVu released imagery from HotSat-2, a thermal satellite built to keep tabs on energy infrastructure. HotSat-2, built by Surrey Satellite Technology Ltd., is the second satellite in SatVu’s commercial high-resolution thermal-imaging constellation. The first, HotSat-1, failed six months after launch. HotSat-2 images released May 7 show refining of domestic crude [&h...
-
-🔗 [Link da Notícia](https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/)
 
 ---
 
@@ -2995,15 +2986,6 @@ This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composit
 
 ---
 
-### DARPA to explore ways to rapidly rebuild satellite networks if attacked
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/)
-
----
-
 ### What’s the Best Way to Monetize Space Energy?
 **Fonte:** Space News
 
@@ -3082,15 +3064,6 @@ Buoyant volcanic rock fragments from an underwater eruption drifted across the B
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/)
-
----
-
-### Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking 
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/)
 
 ---
 
@@ -3415,15 +3388,6 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 Rohit Goeptar was born into a poor family in Suriname, South America,&#160;the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/)
-
----
-
-### Desert Field Test With NASA Advanced Rover Prototype
-**Fonte:** Nasa News
-
-Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), the rover served here as a testbed for autonomy software developed for […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/)
 
 ---
 
@@ -7875,15 +7839,6 @@ NASA&#8217;s Earth-observing satellite missions track dozens of features of a ch
 
 ---
 
-### Roman Space Telescope Travels to SpaceX Hangar
-**Fonte:** Nasa News
-
-NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/)
-
----
-
 ### NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science 
 **Fonte:** Nasa News
 
@@ -8421,6 +8376,42 @@ The science from every Moon rock sample, lunar dataset, and discovery produced t
 APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/)
+
+---
+
+### Space’s growing billion-dollar club
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/)
+
+---
+
+### Summer Training: Catching Up With NASA’s Astronaut Candidates
+**Fonte:** Nasa News
+
+Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on Sept. 22, 2025, from NASA’s Johnson Space Center [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/)
+
+---
+
+### APOD: 2026 September 14 – Where Your Elements Came From
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Where Your Elements Came From Explanation: The hydrogen in your body and prese...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/)
+
+---
+
+### An Early Look at Fall Color in Canada
+**Fonte:** Nasa News
+
+Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/)
 
 ---
 
