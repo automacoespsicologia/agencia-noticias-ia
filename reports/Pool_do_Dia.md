@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 14/09/2026 15:35
+# 📥 Balde de Notícias Brutas - 15/09/2026 14:06
 
-Atualmente existem **934** notícias aguardando a curadoria do Editor.
+Atualmente existem **942** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8412,6 +8412,78 @@ APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsInd
 Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/)
+
+---
+
+### Iceye’s global presence expands to address sovereign demand
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/)
+
+---
+
+### Sept. 21: What Comes Next for On-Orbit Servicing?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/)
+
+---
+
+### Travel
+**Fonte:** Nasa News
+
+The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nssc/travel/)
+
+---
+
+### APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/)
+
+---
+
+### Webinar 9/23: NASA CSDA Program Update 2026
+**Fonte:** Nasa News
+
+This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/)
+
+---
+
+### New Crops, Health Research Proposals to Help NASA Advance Exploration
+**Fonte:** Nasa News
+
+NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.   The six food-focused investigations, supported by the agency’s Space […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/)
+
+---
+
+### NASA Welcomes Djibouti as Newest Artemis Accords Signatory  
+**Fonte:** Nasa News
+
+The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/)
+
+---
+
+### NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game
+**Fonte:** Nasa News
+
+Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania. NASA’s engagement at NFL games is part of the agency&#8217;s Inspiration Tour, aimed at strengthening connections between NASA and its [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/)
 
 ---
 
