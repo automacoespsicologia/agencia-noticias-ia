@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/09/2026 14:06
+# 📥 Balde de Notícias Brutas - 16/09/2026 13:58
 
-Atualmente existem **942** notícias aguardando a curadoria do Editor.
+Atualmente existem **947** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8484,6 +8484,51 @@ The Republic of Djibouti became the 72nd nation and eighth African country to si
 Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania. NASA’s engagement at NFL games is part of the agency&#8217;s Inspiration Tour, aimed at strengthening connections between NASA and its [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/)
+
+---
+
+### APOD: 2026 September 16 – Webb’s View of M64
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/)
+
+---
+
+### NASA Ames Stars of the Month: September 2026
+**Fonte:** Nasa News
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space B...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/)
+
+---
+
+### NASA Invites Media to International Observe the Moon Night
+**Fonte:** Nasa News
+
+NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space &#38; Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/)
+
+---
+
+### Celebrate International Observe the Moon Night with NASA
+**Fonte:** Nasa News
+
+In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA&#8217;s Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the country, including the International Observe the Moon Night celebration held at NASA&#8217;s Goddard Space [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/)
+
+---
+
+### Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building
+**Fonte:** Nasa News
+
+NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA&#8217;s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/)
 
 ---
 
