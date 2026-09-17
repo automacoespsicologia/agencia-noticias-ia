@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/09/2026 13:58
+# 📥 Balde de Notícias Brutas - 17/09/2026 14:03
 
-Atualmente existem **947** notícias aguardando a curadoria do Editor.
+Atualmente existem **959** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8529,6 +8529,114 @@ In April, the world watched as four humans circled the Moon for the first time i
 NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA&#8217;s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/)
+
+---
+
+### Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/)
+
+---
+
+### Icarus Robotics tests Joy in Canada ahead of ISS flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)
+
+---
+
+### APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/)
+
+---
+
+### Summer Goes Out With a Heat Dome
+**Fonte:** Nasa News
+
+Temperature records toppled across the central and southern U.S. as the autumnal equinox approached....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/)
+
+---
+
+### Passion Meets Precision at NASA’s Flight Research Lab
+**Fonte:** Nasa News
+
+Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/)
+
+---
+
+### NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
+**Fonte:** Nasa News
+
+It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/)
+
+---
+
+### NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar 
+**Fonte:** Nasa News
+
+NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/)
+
+---
+
+### NASA Watches Earth’s Weight, Finds Center of Mass
+**Fonte:** Nasa News
+
+Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/)
+
+---
+
+### Indonesia’s Anak Krakatau
+**Fonte:** Nasa News
+
+Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a regular occurrence at Anak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/indonesias-anak-krakatau/)
+
+---
+
+### Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars
+**Fonte:** Nasa News
+
+Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/)
+
+---
+
+### NASA Visits Schools Strengthening Florida’s Skilled Workforce
+**Fonte:** Nasa News
+
+NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers. Elaine Ho, associate [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/)
+
+---
+
+### NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore
+**Fonte:** Nasa News
+
+As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/)
 
 ---
 
