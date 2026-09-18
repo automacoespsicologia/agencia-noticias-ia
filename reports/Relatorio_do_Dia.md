@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 13/09/2026 13:35
+# 🚀 Relatório da Agência Espacial - 18/09/2026 13:19
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking 
-**Fonte:** Space News | **Categoria:** Ciência e Exploração
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A China está apertando o cerco no espaço profundo. A sonda Tianwen-2 executou uma série de manobras de precisão enquanto se aproxima do asteroide alvo. Através de rastreamento por rádio, confirmamos que os motores da missão estão operando em potência máxima para o encontro histórico. É um passo decisivo na busca por amostras que podem revelar a origem do nosso Sistema Solar e consolidar o poderio chinês na exploração planetária.
-
-🔗 [Ler notícia completa](https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/)
-
----
-
-## 2. Roman Space Telescope Travels to SpaceX Hangar
+## 1. NASA Ames’ Contributions to Roman’s Mission
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O próximo gigante da astronomia acaba de dar seu passo final antes de deixar a Terra. O Telescópio Espacial Nancy Grace Roman já está no hangar da SpaceX, devidamente encapsulado para o lançamento a bordo do Falcon Heavy. Com um campo de visão cem vezes maior que o do Hubble, o Roman se prepara para mapear a matéria escura e encontrar novos mundos com uma velocidade nunca antes vista pela ciência moderna.
+> O universo está prestes a ficar muito mais nítido. A NASA entra na reta final para o lançamento do Telescópio Espacial Nancy Grace Roman. Com uma visão cem vezes mais ampla que a do Hubble, essa joia da engenharia vai caçar matéria escura e exoplanetas, prometendo uma revolução sem precedentes na nossa compreensão do espaço profundo e da evolução das galáxias.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/)
+🔗 [Ler notícia completa](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/)
 
 ---
 
-## 3. DARPA to explore ways to rapidly rebuild satellite networks if attacked
-**Fonte:** Space News | **Categoria:** Mercado e Defesa
+## 2. Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A resiliência em órbita tornou-se a nova prioridade da defesa global. A DARPA anunciou um programa ambicioso para reconstruir redes de satélites em tempo recorde caso sejam atacadas em um cenário de conflito. O foco é a 'reconstituição rápida': lançar e integrar novas capacidades em questão de horas ou dias, garantindo que a infraestrutura crítica do Ocidente permaneça operacional mesmo sob fogo cruzado no espaço.
+> Cientistas do laboratório Brookhaven revelaram um método revolucionário para detectar ondas gravitacionais de baixa frequência. Utilizando espaçonaves opticamente independentes como sensores de astrometria de precisão, a técnica permite medir distorções no espaço-tempo sem a necessidade de conexões físicas entre satélites, abrindo uma nova janela para observar os eventos mais violentos do cosmos.
 
-🔗 [Ler notícia completa](https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/)
 
 ---
 
-## 4. Desert Field Test With NASA Advanced Rover Prototype
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 3. NASA Data Helps Commercial Space Plan Living Off Our Moon 
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da robótica espacial acaba de ser testado nos desertos da Califórnia. O protótipo ERNEST, um rover autônomo de quatro rodas do JPL, demonstrou capacidades de navegação em terrenos extremos sem qualquer intervenção humana. Projetado para as condições implacáveis da Lua e de Marte, o ERNEST utiliza inteligência artificial de ponta para decidir seus próprios caminhos, reduzindo o risco e aumentando a eficiência de futuras bases lunares.
+> Viver da terra... ou melhor, da Lua. A Lunar Station Corp está cruzando dados da NASA para mapear depósitos de ferro, titânio e água no solo lunar. É o início prático da economia cislunar: a mineração de recursos locais agora vai ditar exatamente onde as primeiras bases permanentes da humanidade serão construídas, transformando poeira em infraestrutura.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/)
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/)
 
 ---
 
-## 5. SatVu zooms in energy facilities in Cuba, India and Australia
+## 4. CesiumAstro buys semiconductor specialist to boost constellation plans
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O monitoramento da Terra subiu de temperatura. A startup britânica SatVu acaba de liberar as primeiras imagens térmicas de alta resolução de seu satélite HotSat-2, revelando detalhes sem precedentes sobre a eficiência energética de usinas em Cuba, Índia e Austrália. Essa nova camada de inteligência comercial permite que governos e empresas detectem desperdícios de calor e infraestrutura crítica vulnerável, transformando o espaço em uma ferramenta vital para a sustentabilidade global.
+> A corrida pela conectividade total acaba de ganhar um novo capítulo estratégico. A gigante das comunicações por satélite CesiumAstro adquiriu uma especialista em semicondutores para verticalizar sua produção de componentes. A movimentação sinaliza que, no mercado de constelações, a soberania tecnológica sobre o hardware é o diferencial crítico para garantir escalabilidade e dominar a órbita.
 
-🔗 [Ler notícia completa](https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/)
+🔗 [Ler notícia completa](https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/)
+
+---
+
+## 5. NASA Awards Launch Services for StarBurst Gamma-Ray Detector
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A SpaceX foi oficialmente selecionada para lançar o StarBurst, um satélite de elite projetado para caçar o rastro de colisões de estrelas de nêutrons. O projeto integra o programa Bandwagon e utiliza detectores de raios gama de última geração para resolver o quebra-cabeça da origem dos elementos pesados no universo, unindo a agilidade do setor privado à ciência fundamental da NASA.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/)
 
 ---
 

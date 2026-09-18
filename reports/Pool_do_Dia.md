@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/09/2026 14:03
+# 📥 Balde de Notícias Brutas - 18/09/2026 13:19
 
-Atualmente existem **959** notícias aguardando a curadoria do Editor.
+Atualmente existem **966** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8637,6 +8637,69 @@ NASA recently awarded $10.5 million to seven organizations nationwide through it
 As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/)
+
+---
+
+### Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/)
+
+---
+
+### Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/)
+
+---
+
+### Inside Europe’s push for space autonomy with Josef Aschbacher
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/)
+
+---
+
+### APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Messier 33: The [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/)
+
+---
+
+### NASA Awards Launch Services for StarBurst Gamma-Ray Detector
+**Fonte:** Nasa News
+
+NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/)
+
+---
+
+### NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station
+**Fonte:** Nasa News
+
+Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/)
+
+---
+
+### NASA Unveils Enterprise, the First Space Shuttle
+**Fonte:** Nasa News
+
+Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/)
 
 ---
 
