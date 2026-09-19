@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/09/2026 13:19
+# 📥 Balde de Notícias Brutas - 19/09/2026 12:49
 
-Atualmente existem **966** notícias aguardando a curadoria do Editor.
+Atualmente existem **968** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5265,15 +5265,6 @@ NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars�
 
 ---
 
-### Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection
-**Fonte:** Nasa News
-
-Paul StankusBrookhaven Science Associates&#160; The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature &#8212; gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects. Our innovation is to deploy a new approach to precision [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/)
-
----
-
 ### Interworld Slingshot Resource Surveys
 **Fonte:** Nasa News
 
@@ -6759,15 +6750,6 @@ APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submi
 
 ---
 
-### NASA Data Helps Commercial Space Plan Living Off Our Moon 
-**Fonte:** Nasa News
-
-The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/)
-
----
-
 ### 2026 Total Solar Eclipse in Spain
 **Fonte:** Nasa News
 
@@ -6828,15 +6810,6 @@ CSDA’s assessment reports help inform the user community about the quality of 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/)
-
----
-
-### CesiumAstro buys semiconductor specialist to boost constellation plans
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/)
 
 ---
 
@@ -7701,15 +7674,6 @@ APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submis
 NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/)
-
----
-
-### NASA Ames’ Contributions to Roman’s Mission
-**Fonte:** Nasa News
-
-Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of galaxies over cosmic time. Key contributions to Roman’s mission [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/)
 
 ---
 
@@ -8676,15 +8640,6 @@ APOD Science APOD APOD: 2026 September 18 –… Today’s APOD Archive Submissi
 
 ---
 
-### NASA Awards Launch Services for StarBurst Gamma-Ray Detector
-**Fonte:** Nasa News
-
-NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/)
-
----
-
 ### NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station
 **Fonte:** Nasa News
 
@@ -8700,6 +8655,69 @@ Media accreditation is open for the next cargo launch that will deliver NASA sci
 Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/)
+
+---
+
+### Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/)
+
+---
+
+### APOD: 2026 September 19 – A Zodiacal Night
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/)
+
+---
+
+### NASA Invites Media to Albania Artemis Accords Signing Ceremony
+**Fonte:** Nasa News
+
+The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/)
+
+---
+
+### NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’
+**Fonte:** Nasa News
+
+Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/)
+
+---
+
+### NASA Awards SpaceX Three Crew Flights to Space Station
+**Fonte:** Nasa News
+
+To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification....
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/)
+
+---
+
+### COSI Telescope Comes Together
+**Fonte:** Nasa News
+
+UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/cosi-telescope-comes-together/)
+
+---
+
+### NASA’s Hubble Spots an Out-of-Sync Galaxy
+**Fonte:** Nasa News
+
+Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/)
 
 ---
 
