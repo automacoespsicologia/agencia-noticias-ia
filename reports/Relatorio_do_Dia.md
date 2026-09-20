@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 19/09/2026 12:50
+# 🚀 Relatório da Agência Espacial - 20/09/2026 13:24
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Awards SpaceX Three Crew Flights to Space Station
-**Fonte:** Nasa News | **Categoria:** Mercado Espacial
+## 1. NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de dobrar a aposta na SpaceX, oficializando a compra de mais três missões tripuladas para a Estação Espacial Internacional. O movimento não é apenas um contrato bilionário; é a confirmação de que a nave Dragon se tornou a espinha dorsal indispensável da exploração americana em órbita baixa, garantindo a soberania dos EUA no espaço enquanto as parcerias comerciais atingem um novo patamar de maturidade.
+> A missão Lucy, da NASA, acaba de redefinir o que sabemos sobre os pequenos corpos do Sistema Solar. Dados enviados pela sonda revelam que o asteroide Donaldjohanson é, na verdade, um objeto binário de contato com um formato inusitado de 'amendoim' e um movimento de oscilação complexo. Essa descoberta valida modelos de colisões violentas no cinturão principal e oferece pistas cruciais sobre a evolução dinâmica dos blocos que formaram os planetas.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
 
 ---
 
-## 2. NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Olhos atentos na Lua: o Lunar Reconnaissance Orbiter da NASA detectou uma cratera de impacto descrita como um evento 'único em um século'. Com um halo escuro e material brilhante ejetado das profundezas, essa nova cicatriz lunar oferece aos cientistas uma oportunidade rara de estudar, em tempo real, como o bombardeio cósmico molda a superfície dos planetas e o que isso revela sobre a geologia do nosso satélite.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/)
-
----
-
-## 3. Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance
+## 2. K2 Space, Rocket Lab win key supplier roles in Space Force satcom program
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Uma revolução financeira silenciosa acaba de ganhar força de lei: as novas regras para títulos de infraestrutura de espaçoportos prometem transformar radicalmente como os centros de lançamento são financiados. Ao equiparar bases espaciais a portos e aeroportos tradicionais, o mercado abre as portas para investimentos privados massivos, acelerando a construção de terminais de acesso ao espaço em todo o globo.
+> A Força Espacial dos Estados Unidos deu um passo decisivo para modernizar suas comunicações táticas ao selecionar a Rocket Lab e a K2 Space como fornecedoras-chave de sua nova rede de satélites. O contrato coloca as duas empresas na vanguarda da defesa orbital, consolidando a tendência de migração do governo para plataformas comerciais ágeis e de alta capacidade, capazes de garantir conectividade resiliente em cenários de conflito.
 
-🔗 [Ler notícia completa](https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/)
-
----
-
-## 4. Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O veterano de Marte acaba de alcançar o inimaginável: o rover Curiosity completou cinco mil dias marcianos de operação contínua no Planeta Vermelho. Superando falhas técnicas e o desgaste extremo das rodas, o robô agora encara o desafio do Monte Sharp, provando que a engenharia de precisão humana pode operar por décadas a milhões de quilômetros de casa e ainda entregar descobertas fundamentais.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/)
+🔗 [Ler notícia completa](https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/)
 
 ---
 
-## 5. NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 3. NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today
+**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Em um feito inédito para a astrofísica, o observatório XRISM, liderado pelo Japão com apoio da NASA, conseguiu observar diretamente uma estrela capturando o 'vento' de sua companheira gigante. Essa descoberta técnica utiliza espectroscopia de raios-X de última geração para desvendar como sistemas binários alimentam explosões cósmicas violentas, revelando segredos sobre a evolução das estrelas que antes eram invisíveis aos nossos olhos.
+> É o fim de uma era para a exploração de Marte. Após mais de 11 anos em órbita, a missão MAVEN, da NASA, encerrou oficialmente suas atividades. A sonda foi a primeira dedicada exclusivamente a entender como o Planeta Vermelho perdeu sua atmosfera e sua água para o espaço. O legado da MAVEN é uma base de dados sem precedentes que agora servirá de guia para as futuras missões tripuladas que pretendem pousar em solo marciano.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/)
+
+---
+
+## 4. Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A fronteira da observação da Terra acaba de ser empurrada para o limite técnico. A Satrec Initiative anunciou o desenvolvimento de novos satélites ópticos com resolução da classe de 10 centímetros. Essa capacidade, antes restrita a satélites militares massivos, agora chega ao mercado comercial, prometendo uma clareza visual que pode transformar setores desde a inteligência estratégica até o monitoramento ambiental de ultraprecisão em tempo real.
+
+🔗 [Ler notícia completa](https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/)
+
+---
+
+## 5. Starlink veterans launch startup to broaden megaconstellation ownership
+**Fonte:** Space News | **Categoria:** Negócios
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um novo player de peso entra no jogo das megaconstelações: a startup Eclipse Space, fundada por veteranos da Starlink, saiu do modo furtivo com o objetivo de democratizar o acesso à infraestrutura orbital. A empresa planeja oferecer uma plataforma de satélites que permite a terceiros serem 'coproprietários' de redes globais, desafiando o modelo de monopólio verticalizado e sinalizando uma mudança estrutural na economia da conectividade via satélite.
+
+🔗 [Ler notícia completa](https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/)
 
 ---
 

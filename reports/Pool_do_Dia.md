@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/09/2026 12:49
+# 📥 Balde de Notícias Brutas - 20/09/2026 13:24
 
-Atualmente existem **968** notícias aguardando a curadoria do Editor.
+Atualmente existem **964** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2119,15 +2119,6 @@ NASA will host a public event featuring three crew members from the agency’s S
 This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years&#160;away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their&#160;diffractio...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/)
-
----
-
-### Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/)
 
 ---
 
@@ -8118,15 +8109,6 @@ Layers of sedimentary rock that jut from the Soledad Basin at surprising angles 
 
 ---
 
-### Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
-**Fonte:** Nasa News
-
-Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/)
-
----
-
 ### Anak Krakatau Rumbles Again
 **Fonte:** Nasa News
 
@@ -8541,15 +8523,6 @@ Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abr
 
 ---
 
-### NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater
-**Fonte:** Nasa News
-
-It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/)
-
----
-
 ### NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar 
 **Fonte:** Nasa News
 
@@ -8685,24 +8658,6 @@ The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.
 
 ---
 
-### NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’
-**Fonte:** Nasa News
-
-Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/)
-
----
-
-### NASA Awards SpaceX Three Crew Flights to Space Station
-**Fonte:** Nasa News
-
-To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification....
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/)
-
----
-
 ### COSI Telescope Comes Together
 **Fonte:** Nasa News
 
@@ -8718,6 +8673,15 @@ UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and I
 Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/)
+
+---
+
+### APOD: 2026 September 20 – Analemma over the Callanish Stones
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/)
 
 ---
 
