@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/09/2026 13:24
+# 📥 Balde de Notícias Brutas - 21/09/2026 15:35
 
-Atualmente existem **964** notícias aguardando a curadoria do Editor.
+Atualmente existem **963** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2248,15 +2248,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 
 ---
 
-### NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today
-**Fonte:** Nasa News
-
-The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/)
-
----
-
 ### Typhoon Jangmi
 **Fonte:** Nasa News
 
@@ -2833,15 +2824,6 @@ During the 2025-2026 school year, educators from the NASA Science Activation Pro
 
 ---
 
-### K2 Space, Rocket Lab win key supplier roles in Space Force satcom program
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/)
-
----
-
 ### GEO cancellations complicate space insurance recovery
 **Fonte:** Space News
 
@@ -3382,15 +3364,6 @@ Rohit Goeptar was born into a poor family in Suriname, South America,&#160;the k
 
 ---
 
-### NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
-**Fonte:** Nasa News
-
-Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history. Formed as fragments coalesced after a violent collision 155 million years ago, the asteroid was transformed by the […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
-
----
-
 ### ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
 **Fonte:** Space News
 
@@ -3894,15 +3867,6 @@ NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy M
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/)
-
----
-
-### Starlink veterans launch startup to broaden megaconstellation ownership
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/)
 
 ---
 
@@ -8577,15 +8541,6 @@ As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and comma
 
 ---
 
-### Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/)
-
----
-
 ### Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges
 **Fonte:** Space News
 
@@ -8682,6 +8637,42 @@ Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Teles
 APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/)
+
+---
+
+### Commercial Space Federation (CSF) Welcomes Two New Members
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/)
+
+---
+
+### Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival  
+**Fonte:** Nasa News
+
+On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.&#160; For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/)
+
+---
+
+### APOD: 2026 September 21 – Cocoon Nebula Wide Field
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Cocoon Nebula Wide Field Explanation: When does a nebula look like a comet? In...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/)
+
+---
+
+### Arctic Melt Season Length Levels Off
+**Fonte:** Nasa News
+
+While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/)
 
 ---
 
