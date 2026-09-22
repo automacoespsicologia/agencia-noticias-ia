@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/09/2026 15:35
+# 📥 Balde de Notícias Brutas - 22/09/2026 13:51
 
-Atualmente existem **963** notícias aguardando a curadoria do Editor.
+Atualmente existem **971** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8673,6 +8673,78 @@ APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsInd
 While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/)
+
+---
+
+### NASA Astronaut to Answer Questions from New Hampshire Students
+**Fonte:** Nasa News
+
+Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 11:35 a.m. EDT Thursday, Sept. 24, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by the McAuliffe-Shepard Discovery Center in Concord, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/)
+
+---
+
+### An Epic View of the Seasons
+**Fonte:** Nasa News
+
+The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/)
+
+---
+
+### Embracing the Equinox
+**Fonte:** Nasa News
+
+Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit. Many ancient observatories around the world observed equinoxes along with the more pronounced solstices. These days, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/)
+
+---
+
+### NASA Welcomes Albania as Newest Artemis Accords Signatory  
+**Fonte:** Nasa News
+
+The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/)
+
+---
+
+### NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce
+**Fonte:** Nasa News
+
+NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/)
+
+---
+
+### Perseverance’s View of ‘Turquoise Bay’
+**Fonte:** Nasa News
+
+Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/)
+
+---
+
+### NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game
+**Fonte:** Nasa News
+
+NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&#38;T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency&#8217;s Inspiration Tour, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/)
+
+---
+
+### NASA Discovery Reveals Complex Water Systems on Early Mars
+**Fonte:** Nasa News
+
+When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/)
 
 ---
 
