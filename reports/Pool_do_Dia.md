@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/09/2026 13:51
+# 📥 Balde de Notícias Brutas - 23/09/2026 14:02
 
-Atualmente existem **971** notícias aguardando a curadoria do Editor.
+Atualmente existem **978** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8745,6 +8745,69 @@ NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman,
 When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/)
+
+---
+
+### APOD: 2026 September 23 – A New Lunar Crater: McGetchin
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/)
+
+---
+
+### Boom Year for Desert Blooms
+**Fonte:** Nasa News
+
+Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/)
+
+---
+
+### Curiosity Blog, Sols 5010-5015: Checking out the Bands
+**Fonte:** Nasa News
+
+Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/)
+
+---
+
+### Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
+**Fonte:** Nasa News
+
+NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA’s Artemis (lunar and beyond) missions. The recommendations...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/)
+
+---
+
+### NASA-Funded Research Finds Complex Life Defying Record Heat
+**Fonte:** Nasa News
+
+Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/)
+
+---
+
+### NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
+**Fonte:** Nasa News
+
+Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/)
+
+---
+
+### APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chance Triple Alignment: [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/)
 
 ---
 
