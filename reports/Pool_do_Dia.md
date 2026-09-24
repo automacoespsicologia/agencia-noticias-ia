@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/09/2026 14:02
+# 📥 Balde de Notícias Brutas - 24/09/2026 13:58
 
-Atualmente existem **978** notícias aguardando a curadoria do Editor.
+Atualmente existem **989** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8808,6 +8808,105 @@ Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects t
 APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chance Triple Alignment: [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/)
+
+---
+
+### Ethereal Space Awarded NOAA SBEM Task Order 1
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/)
+
+---
+
+### NASA to Study Human Health, Performance During Crew-13 Mission
+**Fonte:** Nasa News
+
+During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health [...
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/)
+
+---
+
+### APOD: 2026 September 24 – The Ghosts of Five Supernovas
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/)
+
+---
+
+### Cloudy Cloak Over the Northwest
+**Fonte:** Nasa News
+
+A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/)
+
+---
+
+### NASA Modernizes Commercial Airline Systems
+**Fonte:** Nasa News
+
+NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/)
+
+---
+
+### NASA Welcomes Croatia as Newest Artemis Accords Signatory
+**Fonte:** Nasa News
+
+The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/)
+
+---
+
+### NASA Selects Far-Infrared Telescope as First in New Mission Class
+**Fonte:** Nasa News
+
+NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/)
+
+---
+
+### NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
+**Fonte:** Nasa News
+
+Agricultural emissions represent an important and understudied&#160;part of Earth’s land and atmosphere systems.&#160;The&#160;FarmFlux&#160;mission will&#160;deploy more than a dozen sensors to&#160;measure ozone, methane, ammonia,&#160;particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/)
+
+---
+
+### NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
+**Fonte:** Nasa News
+
+NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/)
+
+---
+
+### Arctic Sea Ice Reaches 2026 Annual Minimum Extent
+**Fonte:** Nasa News
+
+Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/)
+
+---
+
+### Shannon Lucid’s Record-Setting Mission Aboard Mir
+**Fonte:** Nasa News
+
+Shannon Lucid’s Record-Setting Mission Aboard Mir&#160; Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/)
 
 ---
 
