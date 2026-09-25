@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/09/2026 13:58
+# 📥 Balde de Notícias Brutas - 25/09/2026 14:22
 
-Atualmente existem **989** notícias aguardando a curadoria do Editor.
+Atualmente existem **999** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8907,6 +8907,96 @@ Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA 
 Shannon Lucid’s Record-Setting Mission Aboard Mir&#160; Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/)
+
+---
+
+### True or false on space industry trends with Pacôme Révillon
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/)
+
+---
+
+### Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/)
+
+---
+
+### APOD: 2026 September 25 – Globular Star Cluster Omega Centauri
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/)
+
+---
+
+### Explosive Intensification for Hurricane Polo
+**Fonte:** Nasa News
+
+Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/)
+
+---
+
+### NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
+**Fonte:** Nasa News
+
+Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/)
+
+---
+
+### NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
+**Fonte:** Nasa News
+
+Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron&#160;and Chris Birch&#160;will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut [&#82...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/)
+
+---
+
+### NASA Unveils Winning Designs for Mars Space Food Systems Challenge 
+**Fonte:** Nasa News
+
+NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/)
+
+---
+
+### NASA’s Machines for Mars Make Beer Bubbly 
+**Fonte:** Nasa News
+
+Carbon-capture technology repurposed for breweries spreads and finds new applications...
+
+🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/)
+
+---
+
+### Practicing for Safe Landings on the Moon and Beyond
+**Fonte:** Nasa News
+
+In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/)
+
+---
+
+### US-India Satellite Captures Time-lapse Video of Volcanic Eruption
+**Fonte:** Nasa News
+
+Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/)
 
 ---
 
