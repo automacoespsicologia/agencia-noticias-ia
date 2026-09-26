@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/09/2026 14:22
+# 📥 Balde de Notícias Brutas - 26/09/2026 13:34
 
-Atualmente existem **999** notícias aguardando a curadoria do Editor.
+Atualmente existem **1007** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8997,6 +8997,78 @@ In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and nav
 Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/)
+
+---
+
+### APOD: 2026 September 26 – Mirrored Meteor and Milky Way
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/)
+
+---
+
+### NASA, Boeing to Provide Update on Starliner Development
+**Fonte:** Nasa News
+
+During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/)
+
+---
+
+### NASA Welcomes San Marino Signing the Artemis Accords  
+**Fonte:** Nasa News
+
+The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/)
+
+---
+
+### NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
+**Fonte:** Nasa News
+
+Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/)
+
+---
+
+### 2026-2027 DWU: Middle School Design Challenge
+**Fonte:** Nasa News
+
+2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/)
+
+---
+
+### 2026-2027 DWU: High School Engineering Challenge
+**Fonte:** Nasa News
+
+2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA,&#160;at universities, and in the aviation industry are searching for ways to increase safety, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/)
+
+---
+
+### Hubble Spots Chaotic Secret in Galaxy
+**Fonte:** Nasa News
+
+A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA&#8217;s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/)
+
+---
+
+### TB 26-07 Aluminum Alloy 2219 Material Guidance
+**Fonte:** Nasa News
+
+For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of [...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/)
 
 ---
 

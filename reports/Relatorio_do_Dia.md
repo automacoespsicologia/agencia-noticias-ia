@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 20/09/2026 13:24
+# 🚀 Relatório da Agência Espacial - 26/09/2026 13:35
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 1. Revolv Space enters in-orbit servicing market with Infinite Orbits deal
+**Fonte:** Space News | **Categoria:** Mercado e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A missão Lucy, da NASA, acaba de redefinir o que sabemos sobre os pequenos corpos do Sistema Solar. Dados enviados pela sonda revelam que o asteroide Donaldjohanson é, na verdade, um objeto binário de contato com um formato inusitado de 'amendoim' e um movimento de oscilação complexo. Essa descoberta valida modelos de colisões violentas no cinturão principal e oferece pistas cruciais sobre a evolução dinâmica dos blocos que formaram os planetas.
+> A manutenção em órbita não é mais ficção, é mercado real. A Revolv Space acaba de firmar uma parceria estratégica com a Infinite Orbits para fornecer tecnologias de propulsão e controle para serviços de extensão de vida útil de satélites. Esse movimento consolida a transição para uma economia espacial circular, onde reparar em vez de descartar se torna o novo padrão de sustentabilidade e lucro no setor.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
+🔗 [Ler notícia completa](https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/)
 
 ---
 
-## 2. K2 Space, Rocket Lab win key supplier roles in Space Force satcom program
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 2. Sphinx Defense wins $287 million contract for strategic satellite communications software
+**Fonte:** Space News | **Categoria:** Defesa e Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Força Espacial dos Estados Unidos deu um passo decisivo para modernizar suas comunicações táticas ao selecionar a Rocket Lab e a K2 Space como fornecedoras-chave de sua nova rede de satélites. O contrato coloca as duas empresas na vanguarda da defesa orbital, consolidando a tendência de migração do governo para plataformas comerciais ágeis e de alta capacidade, capazes de garantir conectividade resiliente em cenários de conflito.
+> A Sphinx Defense acaba de garantir um contrato colossal de 287 milhões de dólares para modernizar as comunicações estratégicas por satélite dos Estados Unidos. O foco é o desenvolvimento de software de alta performance, provando que, na nova corrida espacial, o domínio do código e a segurança dos dados são tão valiosos quanto o hardware que orbita a Terra.
 
-🔗 [Ler notícia completa](https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/)
+🔗 [Ler notícia completa](https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/)
 
 ---
 
-## 3. NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today
-**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
+## 3. NASA Selects Far-Infrared Telescope as First in New Mission Class
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> É o fim de uma era para a exploração de Marte. Após mais de 11 anos em órbita, a missão MAVEN, da NASA, encerrou oficialmente suas atividades. A sonda foi a primeira dedicada exclusivamente a entender como o Planeta Vermelho perdeu sua atmosfera e sua água para o espaço. O legado da MAVEN é uma base de dados sem precedentes que agora servirá de guia para as futuras missões tripuladas que pretendem pousar em solo marciano.
+> A NASA anunciou o nascimento de uma nova linhagem de observatórios espaciais: a classe Probe Explorers. O primeiro selecionado é o PRIMA, um telescópio infravermelho projetado para desvendar os segredos da formação de galáxias e planetas. É um salto estratégico na astrofísica, preenchendo o vácuo de dados entre missões de médio e grande porte com tecnologia de ponta.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/)
 
 ---
 
-## 4. Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 4. NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira da observação da Terra acaba de ser empurrada para o limite técnico. A Satrec Initiative anunciou o desenvolvimento de novos satélites ópticos com resolução da classe de 10 centímetros. Essa capacidade, antes restrita a satélites militares massivos, agora chega ao mercado comercial, prometendo uma clareza visual que pode transformar setores desde a inteligência estratégica até o monitoramento ambiental de ultraprecisão em tempo real.
+> Engenheiros da NASA em Huntsville alcançaram um marco técnico crucial ao finalizar os testes de um sistema de propulsão de modo duplo para CubeSats. A tecnologia elimina a necessidade de sistemas de manobra volumosos e combustíveis voláteis, permitindo que pequenos satélites realizem missões complexas de longa duração que antes eram exclusivas de naves gigantescas.
 
-🔗 [Ler notícia completa](https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/)
 
 ---
 
-## 5. Starlink veterans launch startup to broaden megaconstellation ownership
-**Fonte:** Space News | **Categoria:** Negócios
+## 5. Spaceport crunch reviving interest in sea-based launch
+**Fonte:** Space News | **Categoria:** Infraestrutura
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Um novo player de peso entra no jogo das megaconstelações: a startup Eclipse Space, fundada por veteranos da Starlink, saiu do modo furtivo com o objetivo de democratizar o acesso à infraestrutura orbital. A empresa planeja oferecer uma plataforma de satélites que permite a terceiros serem 'coproprietários' de redes globais, desafiando o modelo de monopólio verticalizado e sinalizando uma mudança estrutural na economia da conectividade via satélite.
+> Com os portos espaciais terrestres atingindo o limite de capacidade, o setor olha agora para o mar. Novas plataformas offshore, como a proposta pela Seagate Space, estão ganhando tração para resolver o gargalo de lançamentos globais. O uso de bases marítimas promete maior flexibilidade de trajetória e segurança, transformando o oceano na próxima grande fronteira logística para foguetes de médio porte.
 
-🔗 [Ler notícia completa](https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/)
+🔗 [Ler notícia completa](https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/)
 
 ---
 
