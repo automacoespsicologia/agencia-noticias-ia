@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 26/09/2026 13:35
+# 🚀 Relatório da Agência Espacial - 27/09/2026 14:31
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Revolv Space enters in-orbit servicing market with Infinite Orbits deal
-**Fonte:** Space News | **Categoria:** Mercado e Tecnologia
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A manutenção em órbita não é mais ficção, é mercado real. A Revolv Space acaba de firmar uma parceria estratégica com a Infinite Orbits para fornecer tecnologias de propulsão e controle para serviços de extensão de vida útil de satélites. Esse movimento consolida a transição para uma economia espacial circular, onde reparar em vez de descartar se torna o novo padrão de sustentabilidade e lucro no setor.
-
-🔗 [Ler notícia completa](https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/)
-
----
-
-## 2. Sphinx Defense wins $287 million contract for strategic satellite communications software
-**Fonte:** Space News | **Categoria:** Defesa e Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Sphinx Defense acaba de garantir um contrato colossal de 287 milhões de dólares para modernizar as comunicações estratégicas por satélite dos Estados Unidos. O foco é o desenvolvimento de software de alta performance, provando que, na nova corrida espacial, o domínio do código e a segurança dos dados são tão valiosos quanto o hardware que orbita a Terra.
-
-🔗 [Ler notícia completa](https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/)
-
----
-
-## 3. NASA Selects Far-Infrared Telescope as First in New Mission Class
+## 1. NASA Discovery Reveals Complex Water Systems on Early Mars
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA anunciou o nascimento de uma nova linhagem de observatórios espaciais: a classe Probe Explorers. O primeiro selecionado é o PRIMA, um telescópio infravermelho projetado para desvendar os segredos da formação de galáxias e planetas. É um salto estratégico na astrofísica, preenchendo o vácuo de dados entre missões de médio e grande porte com tecnologia de ponta.
+> Surpresa em Marte: o rover Perseverance acaba de revelar que a cratera Jezero escondia um sistema de água muito mais complexo do que imaginávamos. A descoberta de rochas sedimentares em áreas inesperadas muda completamente nosso entendimento sobre o passado habitável do planeta vermelho e redefine os alvos na busca por vida extraterrestre.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/)
+🔗 [Ler notícia completa](https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/)
 
 ---
 
-## 4. NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
+## 2. UK explores Vast space station mission for astronaut with physical disability
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A corrida pelas estações espaciais comerciais ganha um capítulo histórico: o Reino Unido e a startup Vast anunciaram uma missão conjunta para a estação Haven-1. O diferencial? O projeto foca em tecnologia de acessibilidade para levar o primeiro astronauta com deficiência física ao espaço, desafiando os limites da engenharia orbital e da inclusão.
+
+🔗 [Ler notícia completa](https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/)
+
+---
+
+## 3. NASA Unveils Winning Designs for Mars Space Food Systems Challenge 
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Engenheiros da NASA em Huntsville alcançaram um marco técnico crucial ao finalizar os testes de um sistema de propulsão de modo duplo para CubeSats. A tecnologia elimina a necessidade de sistemas de manobra volumosos e combustíveis voláteis, permitindo que pequenos satélites realizem missões complexas de longa duração que antes eram exclusivas de naves gigantescas.
+> O cardápio para a primeira viagem humana a Marte acaba de ser definido. A NASA premiou os vencedores do Deep Space Food Challenge, com destaque para um sistema de nutrição adaptativa capaz de produzir alimentos frescos em ambientes extremos. É a peça tecnológica que faltava para garantir que futuros colonos sejam autossustentáveis longe da Terra.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/)
 
 ---
 
-## 5. Spaceport crunch reviving interest in sea-based launch
-**Fonte:** Space News | **Categoria:** Infraestrutura
+## 4. FCC to vote on satellite licensing overhaul July 22
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Com os portos espaciais terrestres atingindo o limite de capacidade, o setor olha agora para o mar. Novas plataformas offshore, como a proposta pela Seagate Space, estão ganhando tração para resolver o gargalo de lançamentos globais. O uso de bases marítimas promete maior flexibilidade de trajetória e segurança, transformando o oceano na próxima grande fronteira logística para foguetes de médio porte.
+> A regulação do espaço está sendo reescrita: a FCC prepara uma votação histórica para reformular o licenciamento de grandes constelações de satélites. Com o congestionamento da órbita baixa, as novas regras prometem impactar diretamente os planos de gigantes como SpaceX e Amazon, definindo quem terá prioridade no tráfego de dados global.
 
-🔗 [Ler notícia completa](https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/)
+🔗 [Ler notícia completa](https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/)
+
+---
+
+## 5. NASA Pushes New Wing Design to Find Structural Limits
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Engenharia levada ao limite: pesquisadores da NASA concluíram testes estruturais em um novo design de asa ultraleve e fina que promete revolucionar a aviação comercial. Mesmo submetida a tensões extremas além do planejado, a tecnologia validou uma nova arquitetura que pode reduzir drasticamente o consumo de combustível e a emissão de carbono no setor aeroespacial.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/)
 
 ---
 

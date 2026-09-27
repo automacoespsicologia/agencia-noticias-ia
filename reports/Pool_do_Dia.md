@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 26/09/2026 13:34
+# 📥 Balde de Notícias Brutas - 27/09/2026 14:31
 
-Atualmente existem **1007** notícias aguardando a curadoria do Editor.
+Atualmente existem **1003** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2086,15 +2086,6 @@ May 28, 2026 After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morg
 
 ---
 
-### Revolv Space enters in-orbit servicing market with Infinite Orbits deal
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/)
-
----
-
 ### NASA Awards Contract for Johnson Space Center Infrastructure
 **Fonte:** Nasa News
 
@@ -2569,15 +2560,6 @@ Once below a shallow sea, Jabal al Fāyah now stands above the desert in the Uni
 Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/)
-
----
-
-### Spaceport crunch reviving interest in sea-based launch
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/)
 
 ---
 
@@ -5505,15 +5487,6 @@ Concluding an eight-month science mission aboard the International Space Station
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/)
-
----
-
-### Sphinx Defense wins $287 million contract for strategic satellite communications software
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/)
 
 ---
 
@@ -8865,15 +8838,6 @@ The Republic of Croatia became the 74th signatory to the Artemis Accords on Wedn
 
 ---
 
-### NASA Selects Far-Infrared Telescope as First in New Mission Class
-**Fonte:** Nasa News
-
-NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/)
-
----
-
 ### NASA Aircraft to Make Low-Altitude Research Flights Over Colorado
 **Fonte:** Nasa News
 
@@ -9027,15 +8991,6 @@ The Republic of San Marino became the 76th signatory to the Artemis Accords duri
 
 ---
 
-### NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch
-**Fonte:** Nasa News
-
-Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/)
-
----
-
 ### 2026-2027 DWU: Middle School Design Challenge
 **Fonte:** Nasa News
 
@@ -9069,6 +9024,15 @@ A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4
 For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of [...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/)
+
+---
+
+### APOD: 2026 September 27 – Andromeda Before and After Photoshop
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/)
 
 ---
 
