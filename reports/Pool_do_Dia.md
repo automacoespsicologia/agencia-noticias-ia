@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/09/2026 14:31
+# 📥 Balde de Notícias Brutas - 28/09/2026 17:16
 
-Atualmente existem **1003** notícias aguardando a curadoria do Editor.
+Atualmente existem **1009** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2221,15 +2221,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 
 ---
 
-### UK explores Vast space station mission for astronaut with physical disability
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/)
-
----
-
 ### Researchers call for regulations to protect low Earth orbit environment
 **Fonte:** Space News
 
@@ -4077,15 +4068,6 @@ This image released on June 26, 2026, features the globular cluster NGC 6723, so
 
 ---
 
-### FCC to vote on satellite licensing overhaul July 22
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/)
-
----
-
 ### Unseen threats overhead: Drones endanger U.S. rocket launch sites
 **Fonte:** Space News
 
@@ -4965,15 +4947,6 @@ NASA&#8217;s James Webb Space Telescope takes us 4.4 billion years in the past w
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/)
-
----
-
-### NASA Pushes New Wing Design to Find Structural Limits
-**Fonte:** Nasa News
-
-NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/)
 
 ---
 
@@ -8712,15 +8685,6 @@ NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman,
 
 ---
 
-### NASA Discovery Reveals Complex Water Systems on Early Mars
-**Fonte:** Nasa News
-
-When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/)
-
----
-
 ### APOD: 2026 September 23 – A New Lunar Crater: McGetchin
 **Fonte:** Nasa News
 
@@ -8928,15 +8892,6 @@ Four crew members from three space agencies will launch to the International Spa
 
 ---
 
-### NASA Unveils Winning Designs for Mars Space Food Systems Challenge 
-**Fonte:** Nasa News
-
-NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/)
-
----
-
 ### NASA’s Machines for Mars Make Beer Bubbly 
 **Fonte:** Nasa News
 
@@ -9033,6 +8988,105 @@ For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.p
 APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/)
+
+---
+
+### Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/)
+
+---
+
+### Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/)
+
+---
+
+### NASA Celebrates as Artemis Accords Surpasses 75 Signatories 
+**Fonte:** Nasa News
+
+Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.&#160; “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/)
+
+---
+
+### Meet NASA’s Artemis II Crew During Houston Public Event
+**Fonte:** Nasa News
+
+The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/)
+
+---
+
+### What You Need to Know About NASA’s SpaceX Crew-13 Mission
+**Fonte:** Nasa News
+
+Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory....
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/)
+
+---
+
+### Space Station View of Earth at Night
+**Fonte:** Nasa News
+
+This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time on Sept. 8, 2026, from the International Space Station as it orbited 259 miles above Earth. Image credit: NASA/Jessica Meir...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/)
+
+---
+
+### NASA ORBIT Challenge 2027
+**Fonte:** Nasa News
+
+The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for spa...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/)
+
+---
+
+### Contractor to Civil Servant: NASA Welcomes Kristie Foster
+**Fonte:** Nasa News
+
+Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication. Her work at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, supports NASA’s mission to return American astronauts to the Moon, build a Moon Base for an enduring presence on the lunar surface, and ensure American leadership [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/)
+
+---
+
+### APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AnnotatedOriginal Cosmic Latte: [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/)
+
+---
+
+### Reliable Robots: Meet Johnson’s Dexterous Robotics Team
+**Fonte:** Nasa News
+
+The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions deeper into space, human-robot collaboration could become reality. Advanced robotic systems are critical for human spaceflight because they can enhance a crew’s performance and productivity while reducing risk and expanding the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/)
+
+---
+
+### Uncovering the Valleys Hidden Below Greenland’s Ice
+**Fonte:** Nasa News
+
+A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/)
 
 ---
 
