@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/09/2026 17:16
+# 📥 Balde de Notícias Brutas - 29/09/2026 15:18
 
-Atualmente existem **1009** notícias aguardando a curadoria do Editor.
+Atualmente existem **1020** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9087,6 +9087,105 @@ The idea of humans and robots working side-by-side in space was once the stuff o
 A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/)
+
+---
+
+### If AI cannot be trusted in a classroom, why should it be trusted in orbit?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/)
+
+---
+
+### NASA Opens Applications for Second Season of ORBIT Student Challenge
+**Fonte:** Nasa News
+
+Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov. 16, 2026,...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/research-program-for-students/)
+
+---
+
+### NSTGRO 2026
+**Fonte:** Nasa News
+
+NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forward System for Improved Optical Communication Capabilities Katie BarcakWilliam Ma...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/)
+
+---
+
+### Under the Microscope: NASA-Made Material for Moon Manufacturing
+**Fonte:** Nasa News
+
+Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research Center in Cleveland, the material could be created directly on the Moon or Mars, allowing NASA to pack fewer supplies — saving weight and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/)
+
+---
+
+### APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 September 29 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sh2-188: The Shrimp Nebula Explanation: What causes the swirl in the Shrimp Ne...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/)
+
+---
+
+### Fire Cloud with a Pileus on Top
+**Fonte:** Nasa News
+
+Scientists captured rare observations of an ephemeral pileus cloud hovering over a smoke-infused cloud that rose above a wildfire in Montana....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/)
+
+---
+
+### Mars Has Its Charmes
+**Fonte:** Nasa News
+
+Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/mars-has-its-charmes/)
+
+---
+
+### October’s Night Sky Notes: Spooky Stargazing
+**Fonte:** Nasa News
+
+The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/)
+
+---
+
+### NASA, Boeing Share Update on Commercial Starliner Development Plans
+**Fonte:** Nasa News
+
+On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/)
+
+---
+
+### NASA Armstrong Celebrates 80 Years of Flight Innovation
+**Fonte:** Nasa News
+
+On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation history. Fast forward 80 [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/)
+
+---
+
+### NASA Highlights Lessons Learned From Swift Boost Mission
+**Fonte:** Nasa News
+
+A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/)
 
 ---
 
