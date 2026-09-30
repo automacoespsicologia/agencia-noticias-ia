@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/09/2026 15:18
+# 📥 Balde de Notícias Brutas - 30/09/2026 15:32
 
-Atualmente existem **1020** notícias aguardando a curadoria do Editor.
+Atualmente existem **1032** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9186,6 +9186,114 @@ On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engine
 A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/)
+
+---
+
+### NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/)
+
+---
+
+### Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/)
+
+---
+
+### Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/)
+
+---
+
+### Terran Orbital Names Jamin Brown Chief Operating Officer
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/)
+
+---
+
+### APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/)
+
+---
+
+### Powerful Storms Continue to Prowl the Pacific
+**Fonte:** Nasa News
+
+Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/)
+
+---
+
+### NASA Opens 2027 Human Lander Challenge for Lunar Communications
+**Fonte:** Nasa News
+
+NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/)
+
+---
+
+### NASA Awards Orbital Safety Analysis Support Services Contract
+**Fonte:** Nasa News
+
+NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support [&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/)
+
+---
+
+### NASA Features Exploration, Science at International Space Conference 
+**Fonte:** Nasa News
+
+NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.&#160; The IAC, organized by the International Astronaut...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/)
+
+---
+
+### NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
+**Fonte:** Nasa News
+
+In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9&#215;4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9&#215;4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/)
+
+---
+
+### NASA Sets Crew-13 Launch, Docking Coverage
+**Fonte:** Nasa News
+
+NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Crew‑13 is scheduled to launch at 11:10 a.m. EDT, Thursday, Oct. 1, from Space Launch Complex 40 at [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/)
+
+---
+
+### Crew-13 Rocket and Spacecraft at Launch Pad
+**Fonte:** Nasa News
+
+Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/)
 
 ---
 
