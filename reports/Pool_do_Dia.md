@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 30/09/2026 15:32
+# 📥 Balde de Notícias Brutas - 01/10/2026 15:56
 
-Atualmente existem **1032** notícias aguardando a curadoria do Editor.
+Atualmente existem **1046** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9294,6 +9294,132 @@ NASA will provide live coverage of prelaunch, launch, and docking activities for
 Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/)
+
+---
+
+### World Space Week 2026 Celebrates the “Rocket Revolution” 
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/)
+
+---
+
+### Rethinking risk with electronics for space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rethinking-risk-with-electronics-for-space/)
+
+---
+
+### LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/)
+
+---
+
+### China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/)
+
+---
+
+### Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/)
+
+---
+
+### NASA’s Webb Provides Crash Course on Planet-Shattering Collisions
+**Fonte:** Nasa News
+
+In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/)
+
+---
+
+### APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Harvest Moon with [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/)
+
+---
+
+### An Agricultural “Island” in the Saskatchewan River Delta
+**Fonte:** Nasa News
+
+Surrounded by wetlands, Manitoba’s northernmost farmland near The Pas turns from green to brown over the 2026 growing season....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/)
+
+---
+
+### Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them
+**Fonte:** Nasa News
+
+Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/)
+
+---
+
+### Help Overlap Zoo Reveal Cosmic Dust
+**Fonte:** Nasa News
+
+Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/)
+
+---
+
+### NASA Adds New Science Investigations for Moon Base
+**Fonte:** Nasa News
+
+Editor&#8217;s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/)
+
+---
+
+### NASA Awards Contract to Develop 5G Communications for Moon
+**Fonte:** Nasa News
+
+NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)
+
+---
+
+### NASA, International Partners Advance Work on Space Crops
+**Fonte:** Nasa News
+
+NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon....
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/)
+
+---
+
+### Star Trails
+**Fonte:** Nasa News
+
+This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/star-trails/)
 
 ---
 
