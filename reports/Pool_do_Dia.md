@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 01/10/2026 15:56
+# 📥 Balde de Notícias Brutas - 02/10/2026 15:16
 
-Atualmente existem **1046** notícias aguardando a curadoria do Editor.
+Atualmente existem **1053** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9420,6 +9420,69 @@ NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a join
 This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/star-trails/)
+
+---
+
+### APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas
+**Fonte:** Nasa News
+
+What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/)
+
+---
+
+### Rains Swamp the Gandak River
+**Fonte:** Nasa News
+
+After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/)
+
+---
+
+### 10 Things: Movie Night
+**Fonte:** Nasa News
+
+Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Dawn Planetary […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/10-things-movie-night/)
+
+---
+
+### NASA Awards Enterprise Logistics Support Services Agreements
+**Fonte:** Nasa News
+
+NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources. The $1.4 billion blanket purchase agreements will support equipment and property management, transportation, disposal, product support, flight hardware support operations, equipment maintenance ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/)
+
+---
+
+### NASA’s SpaceX Crew-13 Launches
+**Fonte:** Nasa News
+
+In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/)
+
+---
+
+### What’s Up: October 2026 Skywatching Tips from NASA
+**Fonte:** Nasa News
+
+A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. Skywatching Highlights Transcript Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters. That’s […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/)
+
+---
+
+### NASA’s SpaceX Crew-13 Launches to International Space Station
+**Fonte:** Nasa News
+
+Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/)
 
 ---
 
