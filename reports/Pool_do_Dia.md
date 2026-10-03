@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 02/10/2026 15:16
+# 📥 Balde de Notícias Brutas - 03/10/2026 14:06
 
-Atualmente existem **1053** notícias aguardando a curadoria do Editor.
+Atualmente existem **1060** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9483,6 +9483,69 @@ A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch t
 Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/)
+
+---
+
+### APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/)
+
+---
+
+### NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia
+**Fonte:** Nasa News
+
+As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/)
+
+---
+
+### Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission
+**Fonte:** Nasa News
+
+NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/)
+
+---
+
+### NASA’s DAVINCI Probe Can Stand the Heat
+**Fonte:** Nasa News
+
+The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/)
+
+---
+
+### La NASA abre solicitudes para próxima promoción de directores de vuelo
+**Fonte:** Nasa News
+
+Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/)
+
+---
+
+### NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
+**Fonte:** Nasa News
+
+Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/)
+
+---
+
+### NASA Opens Applications for Next Class of Flight Directors
+**Fonte:** Nasa News
+
+NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/)
 
 ---
 
