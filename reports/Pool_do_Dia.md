@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/10/2026 14:06
+# 📥 Balde de Notícias Brutas - 04/10/2026 14:34
 
-Atualmente existem **1060** notícias aguardando a curadoria do Editor.
+Atualmente existem **1056** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9162,15 +9162,6 @@ The Ghoul Located within the constellation Perseus lies a star called Algol, als
 
 ---
 
-### NASA, Boeing Share Update on Commercial Starliner Development Plans
-**Fonte:** Nasa News
-
-On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/)
-
----
-
 ### NASA Armstrong Celebrates 80 Years of Flight Innovation
 **Fonte:** Nasa News
 
@@ -9270,15 +9261,6 @@ NASA will participate in the 77th International Astronautical Congress (IAC) in 
 
 ---
 
-### NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
-**Fonte:** Nasa News
-
-In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9&#215;4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9&#215;4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/)
-
----
-
 ### NASA Sets Crew-13 Launch, Docking Coverage
 **Fonte:** Nasa News
 
@@ -9342,15 +9324,6 @@ Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dr
 
 ---
 
-### NASA’s Webb Provides Crash Course on Planet-Shattering Collisions
-**Fonte:** Nasa News
-
-In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/)
-
----
-
 ### APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna
 **Fonte:** Nasa News
 
@@ -9393,15 +9366,6 @@ Galaxies, vast collections of billions of stars, gas, and dust held together by 
 Editor&#8217;s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/)
-
----
-
-### NASA Awards Contract to Develop 5G Communications for Moon
-**Fonte:** Nasa News
-
-NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/)
 
 ---
 
@@ -9477,15 +9441,6 @@ A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch t
 
 ---
 
-### NASA’s SpaceX Crew-13 Launches to International Space Station
-**Fonte:** Nasa News
-
-Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/)
-
----
-
 ### APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
 **Fonte:** Nasa News
 
@@ -9546,6 +9501,15 @@ Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, a
 NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/)
+
+---
+
+### APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/)
 
 ---
 
