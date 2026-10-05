@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/10/2026 14:34
+# 📥 Balde de Notícias Brutas - 05/10/2026 17:45
 
-Atualmente existem **1056** notícias aguardando a curadoria do Editor.
+Atualmente existem **1059** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4155,15 +4155,6 @@ Ray Jayawardhana begins his tenure today as the 10th president of the California
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/making-satellite-communications-more-resilient/)
-
----
-
-### NASA’s Artemis II Breaks Agency Streaming Record
-**Fonte:** Nasa News
-
-NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby, splashdown&#160;on&#160;NASA-owned&#160;platforms, including the 24/7 streams covering the mission and the Orion spacecraft&#160;views&#160;–&#160;demonstrating&#160;strong, sustained global enga...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/)
 
 ---
 
@@ -8811,15 +8802,6 @@ Agricultural emissions represent an important and understudied&#160;part of Eart
 
 ---
 
-### NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
-**Fonte:** Nasa News
-
-NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/)
-
----
-
 ### Arctic Sea Ice Reaches 2026 Annual Minimum Extent
 **Fonte:** Nasa News
 
@@ -9006,15 +8988,6 @@ APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissi
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/)
-
----
-
-### NASA Celebrates as Artemis Accords Surpasses 75 Signatories 
-**Fonte:** Nasa News
-
-Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.&#160; “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/)
 
 ---
 
@@ -9306,15 +9279,6 @@ Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dr
 
 ---
 
-### China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/)
-
----
-
 ### Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit
 **Fonte:** Space News
 
@@ -9468,15 +9432,6 @@ NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in 
 
 ---
 
-### NASA’s DAVINCI Probe Can Stand the Heat
-**Fonte:** Nasa News
-
-The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/)
-
----
-
 ### La NASA abre solicitudes para próxima promoción de directores de vuelo
 **Fonte:** Nasa News
 
@@ -9510,6 +9465,78 @@ NASA is seeking leaders for one of the most esteemed positions on Earth for huma
 APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/)
+
+---
+
+### Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/)
+
+---
+
+### NASA Astronaut Christina Koch at Eagles vs. Rams
+**Fonte:** Nasa News
+
+NASA astronaut and mission specialist of the agency&#8217;s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL games is [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/)
+
+---
+
+### NASA Testing Aims at Supercooled Large Droplet Aviation Safety
+**Fonte:** Nasa News
+
+NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.&#160;&#160; The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds containing unusually large drops of water that are [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/)
+
+---
+
+### Suspected Second-generation Planet Solves NASA Hubble Cold Case
+**Fonte:** Nasa News
+
+New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/)
+
+---
+
+### APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M104: The [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/)
+
+---
+
+### Moon-Like Madagascar
+**Fonte:** Nasa News
+
+A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/)
+
+---
+
+### Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek
+**Fonte:** Nasa News
+
+Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/)
+
+---
+
+### Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino
+**Fonte:** Nasa News
+
+&#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221; That&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/)
 
 ---
 

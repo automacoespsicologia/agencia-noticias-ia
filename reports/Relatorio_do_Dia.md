@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 04/10/2026 14:34
+# 🚀 Relatório da Agência Espacial - 05/10/2026 17:46
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Artemis II Breaks Agency Streaming Record
-**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
+## 1. Space Force picks 15 companies for $981 million training range contract
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A humanidade está oficialmente de volta ao espaço profundo. A missão Artemis II não apenas completou seu voo histórico ao redor da Lua, como pulverizou recordes de audiência com 149 milhões de visualizações. O sucesso desta jornada tripulada valida os sistemas de suporte à vida e navegação da NASA, servindo como o 'sinal verde' definitivo para o próximo passo: o pouso na superfície lunar.
+> A Força Espacial dos Estados Unidos acaba de injetar quase um bilhão de dólares no setor privado. Quinze empresas foram selecionadas para um megacontrato de 981 milhões de dólares focado em infraestrutura de treinamento e simulação de combate. O movimento sinaliza uma mudança drástica na prontidão orbital, transformando a preparação para conflitos no espaço em um dos pilares mais lucrativos da nova economia de defesa.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/)
+🔗 [Ler notícia completa](https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/)
 
 ---
 
-## 2. NASA Celebrates as Artemis Accords Surpasses 75 Signatories 
-**Fonte:** Nasa News | **Categoria:** Geopolítica e Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O mapa da diplomacia espacial acaba de ser redesenhado. Com a adesão de novos membros como Croácia e Albânia, os Acordos Artemis ultrapassaram a marca histórica de 75 nações signatárias. Este movimento consolida a maior coalizão internacional de exploração espacial da história, estabelecendo padrões globais para a economia cislunar e isolando modelos de governança não colaborativos.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/)
-
----
-
-## 3. NASA’s DAVINCI Probe Can Stand the Heat
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Para desvendar os segredos de Vênus, a NASA precisou construir um sobrevivente. A sonda DAVINCI superou com sucesso testes térmicos brutais em câmaras que simulam o ambiente infernal do nosso planeta vizinho. Essa inovação em blindagem e instrumentação é um salto técnico necessário para resistir a pressões esmagadoras e temperaturas que derreteriam naves convencionais.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/)
-
----
-
-## 4. China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Pequim deu o xeque-mate no tabuleiro das megaconstelações este mês. O lançamento dos satélites Guowang e Yaogan-40 sinaliza uma aceleração sem precedentes no cronograma chinês para competir diretamente com a Starlink. A infraestrutura orbital da China agora entra em uma fase de implantação em massa, desafiando a hegemonia ocidental no fornecimento de internet e dados globais via satélite.
-
-🔗 [Ler notícia completa](https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/)
-
----
-
-## 5. NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova
+## 2. Suspected Second-generation Planet Solves NASA Hubble Cold Case
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Em um feito raro de observação astronômica, os telescópios Hubble e James Webb uniram forças para capturar a 'Supernova Athena'. Utilizando o fenômeno de lente gravitacional do aglomerado de galáxias MACS J0417, os cientistas conseguiram ampliar a luz de uma explosão estelar ocorrida há bilhões de anos, oferecendo dados cruciais sobre a expansão do universo e a matéria escura.
+> Planetas podem renascer das cinzas de estrelas mortas? Uma investigação do telescópio Hubble acaba de solucionar um 'caso antigo' da astronomia, confirmando a existência de sistemas planetários de segunda geração orbitando anãs brancas. A descoberta prova que a vida e a formação de mundos podem ser muito mais resilientes do que imaginávamos, desafiando as teorias sobre o destino final dos sistemas solares.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/)
+
+---
+
+## 3. Chinese university-led mission to study asteroid Apophis during close encounter with Earth
+**Fonte:** Space News | **Categoria:** Ciência e Política Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A China entrou oficialmente na corrida para interceptar o asteroide Apophis. Uma missão liderada por universidades chinesas planeja um encontro próximo com a rocha espacial durante seu voo rasante pela Terra em 2029. Enquanto o mundo observa o potencial impacto, Pequim acelera o passo para dominar a ciência de defesa planetária e o monitoramento de objetos próximos ao nosso planeta.
+
+🔗 [Ler notícia completa](https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/)
+
+---
+
+## 4. NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A NASA está redefinindo o design aeronáutico com uma tecnologia que parece ficção científica: tintas sensíveis à pressão. Pela primeira vez, engenheiros conseguiram mapear instabilidades em tempo real nas asas de aeronaves em túneis de vento transônicos sem o uso de sensores físicos pesados. Essa inovação promete aviões mais silenciosos, eficientes e rápidos, mudando as regras do jogo para a aviação comercial e militar.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/)
+
+---
+
+## 5. ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
+**Fonte:** Space News | **Categoria:** Negócios
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A startup ElevationSpace garantiu 40 milhões de dólares em uma rodada de investimentos Série B, consolidando a reentrada atmosférica como o próximo grande gargalo a ser explorado. Com um total de mais de 63 milhões arrecadados, a empresa foca em veículos de reentrada para trazer experimentos e materiais produzidos no espaço de volta à Terra, provando que a logística de retorno é tão valiosa quanto o próprio lançamento.
+
+🔗 [Ler notícia completa](https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/)
 
 ---
 
