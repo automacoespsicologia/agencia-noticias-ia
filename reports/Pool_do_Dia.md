@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 05/10/2026 17:45
+# 📥 Balde de Notícias Brutas - 06/10/2026 15:38
 
-Atualmente existem **1059** notícias aguardando a curadoria do Editor.
+Atualmente existem **1062** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3247,15 +3247,6 @@ Looking somewhat like a swarm of bees returning to their hive, this NASA&#160;Hu
 
 ---
 
-### Chinese university-led mission to study asteroid Apophis during close encounter with Earth
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/)
-
----
-
 ### Mu-g Technologies enters the parabolic flight business
 **Fonte:** Space News
 
@@ -3334,15 +3325,6 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 Rohit Goeptar was born into a poor family in Suriname, South America,&#160;the kind where both parents work three jobs and they still can only provide food and shelter for their family. At around age six, his family moved to California to start a new life. Only two years later, he moved back to South America [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/)
-
----
-
-### ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/)
 
 ---
 
@@ -5766,15 +5748,6 @@ APOD Science APOD APOD: 2026 July 30 – Red Sun… Today’s APOD Archive Submi
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/)
-
----
-
-### Space Force picks 15 companies for $981 million training range contract
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/)
 
 ---
 
@@ -9441,15 +9414,6 @@ Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los
 
 ---
 
-### NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
-**Fonte:** Nasa News
-
-Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/)
-
----
-
 ### NASA Opens Applications for Next Class of Flight Directors
 **Fonte:** Nasa News
 
@@ -9495,15 +9459,6 @@ NASA is leveraging its expertise and enhancing its test facilities to help addre
 
 ---
 
-### Suspected Second-generation Planet Solves NASA Hubble Cold Case
-**Fonte:** Nasa News
-
-New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/)
-
----
-
 ### APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams
 **Fonte:** Nasa News
 
@@ -9537,6 +9492,78 @@ Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick
 &#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221; That&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/)
+
+---
+
+### Resource competition intensifies with surge in megaconstellations
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/)
+
+---
+
+### NASA’s Curiosity Rover Catches Stunning Martian Dawn
+**Fonte:** Nasa News
+
+A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground as bright morning light illuminates [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/)
+
+---
+
+### NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
+**Fonte:** Nasa News
+
+A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/)
+
+---
+
+### APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 October 6 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. ESA, CAS, SMILE, UVI A Complete Auroral Oval from SMILE Explanation: Have you e...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/)
+
+---
+
+### The Beaver Brown Waters of Rupert Bay 
+**Fonte:** Nasa News
+
+Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/)
+
+---
+
+### Curiosity Blog, Sols 5029-5035: Back in the Lab
+**Fonte:** Nasa News
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/)
+
+---
+
+### A Journey to the Depths of Ancient Mars?
+**Fonte:** Nasa News
+
+Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/)
+
+---
+
+### NASA to Stream SpaceX Crew-12 Return, Splashdown Live
+**Fonte:** Nasa News
+
+NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/)
 
 ---
 
