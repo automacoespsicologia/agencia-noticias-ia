@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 05/10/2026 17:46
+# 🚀 Relatório da Agência Espacial - 07/10/2026 16:02
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Space Force picks 15 companies for $981 million training range contract
-**Fonte:** Space News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A Força Espacial dos Estados Unidos acaba de injetar quase um bilhão de dólares no setor privado. Quinze empresas foram selecionadas para um megacontrato de 981 milhões de dólares focado em infraestrutura de treinamento e simulação de combate. O movimento sinaliza uma mudança drástica na prontidão orbital, transformando a preparação para conflitos no espaço em um dos pilares mais lucrativos da nova economia de defesa.
-
-🔗 [Ler notícia completa](https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/)
-
----
-
-## 2. Suspected Second-generation Planet Solves NASA Hubble Cold Case
+## 1. Astronomers Solve Cosmic Cold Case with NASA Hubble Data
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Planetas podem renascer das cinzas de estrelas mortas? Uma investigação do telescópio Hubble acaba de solucionar um 'caso antigo' da astronomia, confirmando a existência de sistemas planetários de segunda geração orbitando anãs brancas. A descoberta prova que a vida e a formação de mundos podem ser muito mais resilientes do que imaginávamos, desafiando as teorias sobre o destino final dos sistemas solares.
+> Mundos que renascem das cinzas? Astrônomos utilizando dados do Hubble solucionaram um 'caso arquivado' cósmico ao encontrar evidências de que a estrela anã branca HS 0209 pode abrigar um planeta de segunda geração. A descoberta é revolucionária: ela sugere que, mesmo após a morte de uma estrela, novos planetas podem se formar a partir dos destroços, desafiando nossa compreensão sobre o ciclo de vida dos sistemas solares.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/)
-
----
-
-## 3. Chinese university-led mission to study asteroid Apophis during close encounter with Earth
-**Fonte:** Space News | **Categoria:** Ciência e Política Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A China entrou oficialmente na corrida para interceptar o asteroide Apophis. Uma missão liderada por universidades chinesas planeja um encontro próximo com a rocha espacial durante seu voo rasante pela Terra em 2029. Enquanto o mundo observa o potencial impacto, Pequim acelera o passo para dominar a ciência de defesa planetária e o monitoramento de objetos próximos ao nosso planeta.
-
-🔗 [Ler notícia completa](https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/)
 
 ---
 
-## 4. NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
+## 2. Under the Microscope: NASA-Made Material for Moon Manufacturing
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está redefinindo o design aeronáutico com uma tecnologia que parece ficção científica: tintas sensíveis à pressão. Pela primeira vez, engenheiros conseguiram mapear instabilidades em tempo real nas asas de aeronaves em túneis de vento transônicos sem o uso de sensores físicos pesados. Essa inovação promete aviões mais silenciosos, eficientes e rápidos, mudando as regras do jogo para a aviação comercial e militar.
+> A NASA acaba de revelar o 'DNA' da construção civil espacial. Sob as lentes de um microscópio, pesquisadores apresentaram um novo material com estrutura cristalina caleidoscópica projetado especificamente para manufatura na Lua e em Marte. Essa inovação técnica permite que futuras colônias fabriquem suas próprias ferramentas e estruturas usando recursos locais, eliminando a dependência logística extrema de suprimentos vindos da Terra.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/)
 
 ---
 
-## 5. ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million
-**Fonte:** Space News | **Categoria:** Negócios
+## 3. NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A startup ElevationSpace garantiu 40 milhões de dólares em uma rodada de investimentos Série B, consolidando a reentrada atmosférica como o próximo grande gargalo a ser explorado. Com um total de mais de 63 milhões arrecadados, a empresa foca em veículos de reentrada para trazer experimentos e materiais produzidos no espaço de volta à Terra, provando que a logística de retorno é tão valiosa quanto o próprio lançamento.
+> O próximo titã da exploração está no pátio. O Telescópio Espacial Nancy Grace Roman chegou oficialmente ao Centro Espacial Kennedy para os preparativos finais de lançamento. Considerado o sucessor espiritual do Hubble e do Webb, o Roman será a peça central do mercado de astrofísica da próxima década, prometendo mapear o universo com uma velocidade e amplitude nunca antes vistas pela humanidade.
 
-🔗 [Ler notícia completa](https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/)
+
+---
+
+## 4. NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
+**Fonte:** Nasa News | **Categoria:** Geopolítica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A coalizão internacional pela exploração lunar atingiu um número histórico: a Costa do Marfim assinou os Acordos Artemis, tornando-se a 75ª nação a se comprometer com as normas de exploração pacífica da NASA. Esse movimento consolida a hegemonia diplomática do programa Artemis e isola modelos de exploração não cooperativos, garantindo que o futuro da Lua seja construído sob um padrão global de transparência.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/)
+
+---
+
+## 5. NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O fim da dependência de solo: a tecnologia NaviGate demonstrou com sucesso a determinação de órbita precisa e autônoma a bordo do transportador ION da D-Orbit. Na prática, isso significa que satélites agora podem saber exatamente onde estão no espaço sem precisar de sinais constantes da Terra, um marco crítico para a segurança e para o gerenciamento de tráfego em órbitas cada vez mais congestionadas.
+
+🔗 [Ler notícia completa](https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/)
 
 ---
 

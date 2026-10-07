@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/10/2026 15:38
+# 📥 Balde de Notícias Brutas - 07/10/2026 16:02
 
-Atualmente existem **1062** notícias aguardando a curadoria do Editor.
+Atualmente existem **1072** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9564,6 +9564,96 @@ Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026
 NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/)
+
+---
+
+### Announcing the finalists for the 2026 SpaceNews Icon Awards
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/)
+
+---
+
+### Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/)
+
+---
+
+### Artemis II Crew Moon Photo Annotations
+**Fonte:** Nasa News
+
+A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member&#8217;s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/)
+
+---
+
+### APOD: 2026 October 7 – Supernova Remnant Pa 30
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/)
+
+---
+
+### Arctic Sea Ice Shrinks to Its 2026 Minimum
+**Fonte:** Nasa News
+
+Satellite records show Arctic sea ice covering less of the ocean in both winter and summer....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/)
+
+---
+
+### NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure
+**Fonte:** Nasa News
+
+After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct. 9, as part of the company’s Commercial Resupply Services-24 mission, or Northrop Grumman CRS-24. Watch NASA’s live coverage of undocking and departure beginning at 12:30 [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/)
+
+---
+
+### October 2026 Satellite Puzzler
+**Fonte:** Nasa News
+
+Your challenge is to tell us the location of the satellite image and why it is interesting....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/)
+
+---
+
+### Lunar Grounding Challenge
+**Fonte:** Nasa News
+
+As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesuit can buildup a substantial negative potential due [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/)
+
+---
+
+### NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory
+**Fonte:** Nasa News
+
+NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this procurement is to deliver a laboratory facility to support the testing and development of power systems, with associated site work, infrastructure, and systems. The laboratory will provide modern [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/)
+
+---
+
+### Astronomers Solve Cosmic Cold Case with NASA Hubble Data
+**Fonte:** Nasa News
+
+Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet.&#160;This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/)
 
 ---
 
