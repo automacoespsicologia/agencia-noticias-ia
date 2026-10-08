@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 07/10/2026 16:02
+# 📥 Balde de Notícias Brutas - 08/10/2026 16:04
 
-Atualmente existem **1072** notícias aguardando a curadoria do Editor.
+Atualmente existem **1077** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2155,15 +2155,6 @@ A wildland fire charred grassland, coastal sage scrub, and chaparral across one-
 NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be time and material for any over and above and unforeseen [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/)
-
----
-
-### NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
-**Fonte:** Nasa News
-
-Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the coming weeks. The observatory will arrive aboard NASA’s Pegasus barge from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where teams completed its construction, assembly, and testing. Credentialed media [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/)
 
 ---
 
@@ -8829,15 +8820,6 @@ Several ingredients came together off the Pacific coast of Mexico to generate on
 
 ---
 
-### NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
-**Fonte:** Nasa News
-
-Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/)
-
----
-
 ### NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
 **Fonte:** Nasa News
 
@@ -9063,15 +9045,6 @@ NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Mate
 
 ---
 
-### Under the Microscope: NASA-Made Material for Moon Manufacturing
-**Fonte:** Nasa News
-
-Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research Center in Cleveland, the material could be created directly on the Moon or Mars, allowing NASA to pack fewer supplies — saving weight and [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/)
-
----
-
 ### APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
 **Fonte:** Nasa News
 
@@ -9123,15 +9096,6 @@ On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engine
 A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/)
-
----
-
-### NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/)
 
 ---
 
@@ -9648,12 +9612,93 @@ NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the
 
 ---
 
-### Astronomers Solve Cosmic Cold Case with NASA Hubble Data
+### What will it take to build a moon base?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/what-will-it-take-to-build-a-moon-base/)
+
+---
+
+### NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
 **Fonte:** Nasa News
 
-Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet.&#160;This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer [&#8230;]...
+As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, and solidify American leadership in space nuclear power and propulsion.&#160; “We are entering the ‘Nuclear NASA-...
 
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/)
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/)
+
+---
+
+### NASA Advances LISA Mission Contributions With New Test Telescope
+**Fonte:** Nasa News
+
+NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/)
+
+---
+
+### APOD: 2026 October 8 – The Saturn System Smörgåsbord
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/)
+
+---
+
+### Fighting Drought in Texas Cotton Country
+**Fonte:** Nasa News
+
+Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/)
+
+---
+
+### NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival
+**Fonte:** Nasa News
+
+NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/)
+
+---
+
+### NASA’s SpaceX 35th Commercial Resupply Mission Overview
+**Fonte:** Nasa News
+
+NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station. ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/)
+
+---
+
+### NASA’s PRIMA Spacecraft (Artist’s Concept)
+**Fonte:** Nasa News
+
+Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/)
+
+---
+
+### NASA’s Curiosity Looks Back After Reaching Elevation Milestone
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/)
+
+---
+
+### NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/)
 
 ---
 

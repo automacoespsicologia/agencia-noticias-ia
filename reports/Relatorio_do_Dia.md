@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 07/10/2026 16:02
+# 🚀 Relatório da Agência Espacial - 08/10/2026 16:05
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Astronomers Solve Cosmic Cold Case with NASA Hubble Data
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Mundos que renascem das cinzas? Astrônomos utilizando dados do Hubble solucionaram um 'caso arquivado' cósmico ao encontrar evidências de que a estrela anã branca HS 0209 pode abrigar um planeta de segunda geração. A descoberta é revolucionária: ela sugere que, mesmo após a morte de uma estrela, novos planetas podem se formar a partir dos destroços, desafiando nossa compreensão sobre o ciclo de vida dos sistemas solares.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/)
-
----
-
-## 2. Under the Microscope: NASA-Made Material for Moon Manufacturing
+## 1. NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de revelar o 'DNA' da construção civil espacial. Sob as lentes de um microscópio, pesquisadores apresentaram um novo material com estrutura cristalina caleidoscópica projetado especificamente para manufatura na Lua e em Marte. Essa inovação técnica permite que futuras colônias fabriquem suas próprias ferramentas e estruturas usando recursos locais, eliminando a dependência logística extrema de suprimentos vindos da Terra.
+> A fronteira final acaba de ficar mais próxima. Em uma parceria estratégica sem precedentes, a NASA e o Departamento de Energia dos EUA anunciaram o desenvolvimento de motores nucleares de próxima geração. Esqueça a propulsão química convencional: essa tecnologia promete dobrar a velocidade das missões tripuladas, reduzindo drasticamente o tempo de viagem para Marte e consolidando o domínio atômico na exploração do espaço profundo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/)
-
----
-
-## 3. NASA Invites Media to See Roman Space Telescope Arrive at Kennedy
-**Fonte:** Nasa News | **Categoria:** Mercado Espacial
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O próximo titã da exploração está no pátio. O Telescópio Espacial Nancy Grace Roman chegou oficialmente ao Centro Espacial Kennedy para os preparativos finais de lançamento. Considerado o sucessor espiritual do Hubble e do Webb, o Roman será a peça central do mercado de astrofísica da próxima década, prometendo mapear o universo com uma velocidade e amplitude nunca antes vistas pela humanidade.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/)
 
 ---
 
-## 4. NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
-**Fonte:** Nasa News | **Categoria:** Geopolítica
+## 2. The Exploration Company establishes US entity to pursue government contracts
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A coalizão internacional pela exploração lunar atingiu um número histórico: a Costa do Marfim assinou os Acordos Artemis, tornando-se a 75ª nação a se comprometer com as normas de exploração pacífica da NASA. Esse movimento consolida a hegemonia diplomática do programa Artemis e isola modelos de exploração não cooperativos, garantindo que o futuro da Lua seja construído sob um padrão global de transparência.
+> A hegemonia da SpaceX no transporte de carga orbital tem um novo e ambicioso desafiante. A startup europeia The Exploration Company acaba de fundar sua entidade nos Estados Unidos para colocar a cápsula Nyx na disputa direta por contratos bilionários da NASA e do Pentágono. Com foco em veículos modulares e reutilizáveis, a Nyx promete ser a peça-chave na logística entre a Terra, as estações privadas e a futura Base Lunar.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/)
 
 ---
 
-## 5. NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 3. Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O fim da dependência de solo: a tecnologia NaviGate demonstrou com sucesso a determinação de órbita precisa e autônoma a bordo do transportador ION da D-Orbit. Na prática, isso significa que satélites agora podem saber exatamente onde estão no espaço sem precisar de sinais constantes da Terra, um marco crítico para a segurança e para o gerenciamento de tráfego em órbitas cada vez mais congestionadas.
+> A China está pronta para levar a guerra dos foguetes reutilizáveis ao próximo nível. A startup Orienspace iniciou oficialmente seu processo de abertura de capital para financiar o desenvolvimento do Gravity-2, um lançador pesado projetado para pousar e voar novamente, assim como o Falcon 9. Este movimento sinaliza que o mercado de lançamentos de baixo custo não é mais exclusividade ocidental e que a corrida pela infraestrutura em órbita ganhou um competidor de peso.
 
-🔗 [Ler notícia completa](https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/)
+🔗 [Ler notícia completa](https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/)
+
+---
+
+## 4. NASA Adds New Science Investigations for Moon Base
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O primeiro condomínio humano fora da Terra já tem sua planta científica definida. A NASA selecionou as investigações que formarão o núcleo da 'Moon Base', o primeiro posto avançado permanente no polo sul da Lua. De sistemas autônomos de oxigênio a estudos geológicos profundos, esses experimentos representam a transição definitiva de missões de 'visita' para a ocupação sustentada do nosso satélite natural.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/)
+
+---
+
+## 5. NASA Space Roboticist Challenge
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A autonomia no espaço acaba de ganhar braços e pernas — literalmente. A missão Fly Foundational Robots está lançando à órbita um braço robótico com sete graus de liberdade e inteligência artificial nativa. Capaz de tomar decisões em tempo real sem intervenção humana, essa tecnologia é o alicerce para a futura construção de naves em órbita e a manutenção de infraestruturas cislunares, onde o erro humano não é uma opção.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/)
 
 ---
 
