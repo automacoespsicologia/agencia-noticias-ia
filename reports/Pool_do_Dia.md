@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/10/2026 16:04
+# 📥 Balde de Notícias Brutas - 09/10/2026 15:46
 
-Atualmente existem **1077** notícias aguardando a curadoria do Editor.
+Atualmente existem **1082** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2230,15 +2230,6 @@ The sprawling storm promised to deliver torrential rain across a wide swath of s
 
 ---
 
-### NASA Space Roboticist Challenge
-**Fonte:** Nasa News
-
-The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a compelling experiment and the capability [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/)
-
----
-
 ### Look Up!
 **Fonte:** Nasa News
 
@@ -4392,15 +4383,6 @@ Your challenge is to tell us the location of the satellite image and why it is i
 
 ---
 
-### The Exploration Company establishes US entity to pursue government contracts
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/)
-
----
-
 ### Environmental groups urge FCC to pause orbital data center applications
 **Fonte:** Space News
 
@@ -6045,15 +6027,6 @@ APOD Science APOD APOD: 2026 August 4 –… Today’s APOD Archive Submissions 
 Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/)
-
----
-
-### Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/)
 
 ---
 
@@ -9261,15 +9234,6 @@ Galaxies, vast collections of billions of stars, gas, and dust held together by 
 
 ---
 
-### NASA Adds New Science Investigations for Moon Base
-**Fonte:** Nasa News
-
-Editor&#8217;s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/)
-
----
-
 ### NASA, International Partners Advance Work on Space Crops
 **Fonte:** Nasa News
 
@@ -9621,15 +9585,6 @@ NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the
 
 ---
 
-### NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
-**Fonte:** Nasa News
-
-As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, and solidify American leadership in space nuclear power and propulsion.&#160; “We are entering the ‘Nuclear NASA-...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/)
-
----
-
 ### NASA Advances LISA Mission Contributions With New Test Telescope
 **Fonte:** Nasa News
 
@@ -9699,6 +9654,96 @@ Description NASA’s Curiosity Mars rover captured this view looking back at the
 Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/)
+
+---
+
+### Cosmic House of Mirrors
+**Fonte:** Nasa News
+
+Galaxies warp and multiply as if in a house of mirrors in this image from NASA&#8217;s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/cosmic-house-of-mirrors/)
+
+---
+
+### APOD: 2026 October 9 – Stickney Crater
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/)
+
+---
+
+### Floodwaters Overwhelm Thailand
+**Fonte:** Nasa News
+
+Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/)
+
+---
+
+### NASA Briefing to Highlight Contributions to Martian Moons Mission
+**Fonte:** Nasa News
+
+Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/)
+
+---
+
+### NASA Announces Bold Science Initiatives for America’s Golden Age Summit
+**Fonte:** Nasa News
+
+Editor&#8217;s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/)
+
+---
+
+### NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
+**Fonte:** Nasa News
+
+A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/)
+
+---
+
+### Crew-12 Returns to Earth
+**Fonte:** Nasa News
+
+The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA&#8217;s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/crew-12-returns-to-earth/)
+
+---
+
+### NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
+**Fonte:** Nasa News
+
+NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/)
+
+---
+
+### Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin
+**Fonte:** Nasa News
+
+First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/)
+
+---
+
+### NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
+**Fonte:** Nasa News
+
+After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/)
 
 ---
 

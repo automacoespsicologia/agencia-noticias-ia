@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 08/10/2026 16:05
+# 🚀 Relatório da Agência Espacial - 09/10/2026 15:46
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA, Energy Department Advance New Era of Nuclear-Powered Exploration
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira final acaba de ficar mais próxima. Em uma parceria estratégica sem precedentes, a NASA e o Departamento de Energia dos EUA anunciaram o desenvolvimento de motores nucleares de próxima geração. Esqueça a propulsão química convencional: essa tecnologia promete dobrar a velocidade das missões tripuladas, reduzindo drasticamente o tempo de viagem para Marte e consolidando o domínio atômico na exploração do espaço profundo.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/)
-
----
-
-## 2. The Exploration Company establishes US entity to pursue government contracts
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A hegemonia da SpaceX no transporte de carga orbital tem um novo e ambicioso desafiante. A startup europeia The Exploration Company acaba de fundar sua entidade nos Estados Unidos para colocar a cápsula Nyx na disputa direta por contratos bilionários da NASA e do Pentágono. Com foco em veículos modulares e reutilizáveis, a Nyx promete ser a peça-chave na logística entre a Terra, as estações privadas e a futura Base Lunar.
-
-🔗 [Ler notícia completa](https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/)
-
----
-
-## 3. Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A China está pronta para levar a guerra dos foguetes reutilizáveis ao próximo nível. A startup Orienspace iniciou oficialmente seu processo de abertura de capital para financiar o desenvolvimento do Gravity-2, um lançador pesado projetado para pousar e voar novamente, assim como o Falcon 9. Este movimento sinaliza que o mercado de lançamentos de baixo custo não é mais exclusividade ocidental e que a corrida pela infraestrutura em órbita ganhou um competidor de peso.
-
-🔗 [Ler notícia completa](https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/)
-
----
-
-## 4. NASA Adds New Science Investigations for Moon Base
+## 1. Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O primeiro condomínio humano fora da Terra já tem sua planta científica definida. A NASA selecionou as investigações que formarão o núcleo da 'Moon Base', o primeiro posto avançado permanente no polo sul da Lua. De sistemas autônomos de oxigênio a estudos geológicos profundos, esses experimentos representam a transição definitiva de missões de 'visita' para a ocupação sustentada do nosso satélite natural.
+> O Telescópio James Webb acaba de redefinir os limites do universo observável. Ao rastrear a galáxia hospedeira da mais distante 'Rajada Rápida de Rádio' já detectada, o observatório resolveu um mistério de quase duas décadas. Esta descoberta não apenas valida a origem desses flashes milenares, mas abre uma nova fronteira para entendermos como a matéria se organizava no início dos tempos.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/)
 
 ---
 
-## 5. NASA Space Roboticist Challenge
+## 2. NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A autonomia no espaço acaba de ganhar braços e pernas — literalmente. A missão Fly Foundational Robots está lançando à órbita um braço robótico com sete graus de liberdade e inteligência artificial nativa. Capaz de tomar decisões em tempo real sem intervenção humana, essa tecnologia é o alicerce para a futura construção de naves em órbita e a manutenção de infraestruturas cislunares, onde o erro humano não é uma opção.
+> O fim da era do lixo espacial pode estar próximo com o lançamento da missão SSPICY da NASA. O projeto está testando tecnologias de inspeção robótica de última geração, aproximando-se de satélites desativados para demonstrar capacidades de reparo em órbita. É o primeiro passo concreto para uma economia circular no espaço, onde a manutenção substitui o descarte.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/)
+
+---
+
+## 3. NASA Advances LISA Mission Contributions With New Test Telescope
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A busca pelas ondas gravitacionais ganhou um reforço de vidro de altíssima precisão. A NASA e a L3Harris iniciaram a montagem do telescópio para a missão LISA, utilizando uma tecnologia óptica revolucionária capaz de detectar as menores ondulações no tecido do espaço-tempo. Este avanço técnico promete transformar o vácuo espacial em um laboratório para testar as leis fundamentais da física.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/)
+
+---
+
+## 4. NASA Boosts Open Science, Data Sharing with Artemis Accords
+**Fonte:** Nasa News | **Categoria:** Geopolítica/Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A diplomacia espacial atingiu um marco histórico com os Acordos Artemis superando a marca de 70 países signatários. Este movimento consolida um mercado global baseado na transparência e na ciência aberta, onde cada dado coletado na Lua será compartilhado internacionalmente. É a maior coalizão da história para garantir que a futura Base Lunar seja um esforço coletivo da humanidade.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/)
+
+---
+
+## 5. Space’s growing billion-dollar club
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O setor espacial está consolidando seu próprio 'clube do bilhão'. Um novo relatório de inteligência aponta o crescimento acelerado dos unicórnios espaciais — startups que ultrapassaram avaliações bilionárias em 2026. Com foco em infraestrutura orbital e inteligência geoespacial, essas empresas deixaram de ser apostas de risco para se tornarem os novos pilares da economia global.
+
+🔗 [Ler notícia completa](https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/)
 
 ---
 
