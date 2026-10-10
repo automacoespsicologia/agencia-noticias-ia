@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 09/10/2026 15:46
+# 📥 Balde de Notícias Brutas - 10/10/2026 14:58
 
-Atualmente existem **1082** notícias aguardando a curadoria do Editor.
+Atualmente existem **1081** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8145,30 +8145,12 @@ Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news 
 
 ---
 
-### NASA Boosts Open Science, Data Sharing with Artemis Accords
-**Fonte:** Nasa News
-
-The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/)
-
----
-
 ### APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea
 **Fonte:** Nasa News
 
 APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/)
-
----
-
-### Space’s growing billion-dollar club
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/)
 
 ---
 
@@ -9585,15 +9567,6 @@ NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the
 
 ---
 
-### NASA Advances LISA Mission Contributions With New Test Telescope
-**Fonte:** Nasa News
-
-NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/)
-
----
-
 ### APOD: 2026 October 8 – The Saturn System Smörgåsbord
 **Fonte:** Nasa News
 
@@ -9702,15 +9675,6 @@ Editor&#8217;s note: This release was updated Oct. 8, 2026 with the formal name 
 
 ---
 
-### NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies
-**Fonte:** Nasa News
-
-A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/)
-
----
-
 ### Crew-12 Returns to Earth
 **Fonte:** Nasa News
 
@@ -9729,21 +9693,48 @@ NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of R
 
 ---
 
-### Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin
-**Fonte:** Nasa News
-
-First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/)
-
----
-
 ### NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
 **Fonte:** Nasa News
 
 After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/)
+
+---
+
+### NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium
+**Fonte:** Nasa News
+
+As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/)
+
+---
+
+### APOD: 2026 October 10 – Lunar Farside
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/)
+
+---
+
+### NASA Seeks US Industry Plans for Commercial Space Stations
+**Fonte:** Nasa News
+
+NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/)
+
+---
+
+### NASA Demonstrates Next-Generation Heat Shield Technologies
+**Fonte:** Nasa News
+
+NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/)
 
 ---
 
