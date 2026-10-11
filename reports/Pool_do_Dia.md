@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 10/10/2026 14:58
+# 📥 Balde de Notícias Brutas - 11/10/2026 15:17
 
-Atualmente existem **1081** notícias aguardando a curadoria do Editor.
+Atualmente existem **1082** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9735,6 +9735,15 @@ NASA is advancing American leadership in space by taking the next step toward a 
 NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/)
+
+---
+
+### APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Ice Fishing [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/)
 
 ---
 
