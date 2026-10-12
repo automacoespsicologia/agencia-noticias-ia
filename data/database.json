@@ -7032,6 +7032,71 @@
       "lead": "O setor espacial está consolidando seu próprio 'clube do bilhão'. Um novo relatório de inteligência aponta o crescimento acelerado dos unicórnios espaciais — startups que ultrapassaram avaliações bilionárias em 2026. Com foco em infraestrutura orbital e inteligência geoespacial, essas empresas deixaram de ser apostas de risco para se tornarem os novos pilares da economia global.",
       "category": "Mercado",
       "data_publicacao": "2026-10-09 15:46"
+    },
+    {
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+      "description": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National [&#8230;]",
+      "pub_date": "Fri, 09 Oct 2026 18:11:44 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-10-10",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O fim da hegemonia estatal na órbita baixa acaba de ganhar data e contrato. A NASA publicou a solicitação final de propostas para as estações espaciais comerciais que substituirão a ISS. É o movimento de mercado mais agressivo da década, transferindo a gestão da presença humana no espaço para gigantes do setor privado e consolidando a nova economia orbital.",
+      "category": "Mercado",
+      "data_publicacao": "2026-10-12 18:30"
+    },
+    {
+      "title": "La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar",
+      "link": "https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/",
+      "description": "Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer [&#8230;]",
+      "pub_date": "Wed, 27 May 2026 19:17:19 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-05-28",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A infraestrutura para a Base Lunar permanente deu um salto crítico hoje. A NASA oficializou contratos para o desenvolvimento de novos veículos lunares tripulados e módulos de pouso de carga pesada. Não estamos mais falando de visitas rápidas: a logística necessária para sustentar a vida humana na superfície da Lua está sendo construída agora por uma nova coalizão industrial.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-10-12 18:30"
+    },
+    {
+      "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+      "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+      "description": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
+      "pub_date": "Wed, 07 Oct 2026 20:15:49 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-10-08",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A astrofísica entra oficialmente em uma nova era com a seleção da missão PRIMA. Sendo a primeira de uma classe inédita de 'Probe Explorers', este observatório de infravermelho profundo será a nossa ferramenta mais potente para entender a formação de galáxias e a evolução química do cosmos, preenchendo a lacuna de conhecimento que nem mesmo o James Webb conseguiu alcançar.",
+      "category": "Ciência",
+      "data_publicacao": "2026-10-12 18:30"
+    },
+    {
+      "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+      "description": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
+      "pub_date": "Mon, 27 Jul 2026 14:00:14 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-07-28",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Uma descoberta monumental sobre nossa vizinha mais próxima: a formação de estrelas na Galáxia de Andrômeda está em colapso. Novos dados validados revelam um declínio contínuo de 500 milhões de anos na criação de novos astros em M31. O achado redefine nosso entendimento sobre o ciclo de vida das grandes galáxias espirais e o futuro da nossa própria Via Láctea.",
+      "category": "Ciência",
+      "data_publicacao": "2026-10-12 18:30"
+    },
+    {
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "link": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+      "description": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
+      "pub_date": "Tue, 22 Sep 2026 17:33:10 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-23",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "As fronteiras do que chamamos de 'habitável' foram destruídas. Pesquisadores da NASA identificaram vida complexa prosperando em níveis de calor recordes, anteriormente considerados letais. Essa descoberta científica validada força uma reescrita imediata dos protocolos de exobiologia, ampliando drasticamente o espectro de planetas onde a vida pode estar escondida.",
+      "category": "Ciência",
+      "data_publicacao": "2026-10-12 18:30"
     }
   ]
 }

@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/10/2026 15:17
+# 📥 Balde de Notícias Brutas - 12/10/2026 18:30
 
-Atualmente existem **1082** notícias aguardando a curadoria do Editor.
+Atualmente existem **1085** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9744,6 +9744,33 @@ NASA is testing heat shields that can keep astronauts safe as they return from m
 APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Ice Fishing [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/)
+
+---
+
+### Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/)
+
+---
+
+### APOD: 2026 October 12 – Jupiter and the Moons
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/)
+
+---
+
+### Antarctic Sea Ice Grows to Its 2026 Maximum
+**Fonte:** Nasa News
+
+The ice reached its third-lowest maximum extent since satellite observations began....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/)
 
 ---
 
