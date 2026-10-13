@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/10/2026 18:30
+# 📥 Balde de Notícias Brutas - 13/10/2026 16:40
 
-Atualmente existem **1085** notícias aguardando a curadoria do Editor.
+Atualmente existem **1086** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1939,15 +1939,6 @@ With peak wildfire season approaching, scientists with NASA’s FireSense projec
 The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/)
-
----
-
-### La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
-**Fonte:** Nasa News
-
-Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/)
 
 ---
 
@@ -5463,15 +5454,6 @@ Editor&#8217;s note: This media advisory was updated July 27, 2026 to reflect an
 
 ---
 
-### NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down
-**Fonte:** Nasa News
-
-NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/)
-
----
-
 ### Boeing still working with NASA to schedule next Starliner flight
 **Fonte:** Space News
 
@@ -8631,15 +8613,6 @@ NASA’s Office of the Chief Health and Medical Officer formed a working group i
 
 ---
 
-### NASA-Funded Research Finds Complex Life Defying Record Heat
-**Fonte:** Nasa News
-
-Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/)
-
----
-
 ### NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
 **Fonte:** Nasa News
 
@@ -9603,15 +9576,6 @@ NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scien
 
 ---
 
-### NASA’s PRIMA Spacecraft (Artist’s Concept)
-**Fonte:** Nasa News
-
-Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to ...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/)
-
----
-
 ### NASA’s Curiosity Looks Back After Reaching Elevation Milestone
 **Fonte:** Nasa News
 
@@ -9720,15 +9684,6 @@ APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions In
 
 ---
 
-### NASA Seeks US Industry Plans for Commercial Space Stations
-**Fonte:** Nasa News
-
-NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/)
-
----
-
 ### NASA Demonstrates Next-Generation Heat Shield Technologies
 **Fonte:** Nasa News
 
@@ -9771,6 +9726,60 @@ APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submission
 The ice reached its third-lowest maximum extent since satellite observations began....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/)
+
+---
+
+### TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective
+**Fonte:** Nasa News
+
+For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproportional damping. As the damping interaction increases, the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/)
+
+---
+
+### NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
+**Fonte:** Nasa News
+
+A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/)
+
+---
+
+### NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
+**Fonte:** Nasa News
+
+NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/)
+
+---
+
+### APOD: 2026 October 13 – Desert Stairway to Heaven
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 October 13 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway to Heaven Explanation: This stairway in Chile ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/)
+
+---
+
+### An Impact Structure With Legs
+**Fonte:** Nasa News
+
+If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/)
+
+---
+
+### NASA’s SpaceX CRS-35 Mission to Launch Health Research
+**Fonte:** Nasa News
+
+NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/)
 
 ---
 
