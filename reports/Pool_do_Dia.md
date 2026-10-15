@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/10/2026 16:40
+# 📥 Balde de Notícias Brutas - 15/10/2026 13:51
 
-Atualmente existem **1086** notícias aguardando a curadoria do Editor.
+Atualmente existem **1098** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9780,6 +9780,114 @@ If the thought of extraterrestrial objects crashing into Earth weren’t creepy 
 NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/)
+
+---
+
+### Agile Space Industries Expands to Seattle Area with New Bellevue Office
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/)
+
+---
+
+### How mini-constellations could more quickly bring new tech to Europe, and to orbit
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/)
+
+---
+
+### APOD: 2026 October 15 – The Milky Way over Manhattan
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/)
+
+---
+
+### Fires Arrive in the Amazon Rainforest
+**Fonte:** Nasa News
+
+During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/)
+
+---
+
+### NASA to Host News Conference Previewing US Spacewalks 100, 101
+**Fonte:** Nasa News
+
+NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/)
+
+---
+
+### NASA Astronauts to Answer Questions from Florida Students
+**Fonte:** Nasa News
+
+Editor&#8217;s Note: This article was updated Thursday, Oct. 15, 2026, to reflect a change to the event start time. Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 12:30 p.m. EDT Friday, Oct. 16, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/)
+
+---
+
+### NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision
+**Fonte:** Nasa News
+
+Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/)
+
+---
+
+### NASA’s Space X CRS-35 Launch Jellyfish
+**Fonte:** Nasa News
+
+Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a &#8220;jellyfish&#8221;; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/)
+
+---
+
+### NASA Develops Batteries to Power Humanity’s Return to Moon
+**Fonte:** Nasa News
+
+If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/)
+
+---
+
+### NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
+**Fonte:** Nasa News
+
+NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/)
+
+---
+
+### APOD: 2026 October 14 – Mars and the Beehive Under an Aurora
+**Fonte:** Nasa News
+
+What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden....
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/)
+
+---
+
+### Hurricane Simon Lurks Off the Mexican Coast
+**Fonte:** Nasa News
+
+Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/)
 
 ---
 
