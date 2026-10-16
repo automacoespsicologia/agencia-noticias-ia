@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/10/2026 13:51
+# 📥 Balde de Notícias Brutas - 16/10/2026 13:42
 
-Atualmente existem **1098** notícias aguardando a curadoria do Editor.
+Atualmente existem **1110** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9888,6 +9888,114 @@ What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster be
 Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/)
+
+---
+
+### Oct. 29: Applying AI to the GEOINT Mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/applying-ai-to-the-geoint-mission-event/)
+
+---
+
+### How NASA is thinking about a moon base
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/)
+
+---
+
+### NASA’s Hubble Spies Spiral’s Edge
+**Fonte:** Nasa News
+
+This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/)
+
+---
+
+### APOD: 2026 October 16 – Chasing the International Space Station
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/)
+
+---
+
+### Isaias Dims the Gulf Coast
+**Fonte:** Nasa News
+
+High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/)
+
+---
+
+### NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
+**Fonte:** Nasa News
+
+NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/)
+
+---
+
+### NASA Satellites Observe Historic 2026 El Niño
+**Fonte:** Nasa News
+
+A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/)
+
+---
+
+### Power Up: Roll Out Solar Arrays Boost Space Station Power Supply
+**Fonte:** Nasa News
+
+From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/)
+
+---
+
+### NASA to Conduct Low-Altitude Flights Over Texas Farmland
+**Fonte:** Nasa News
+
+A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy [&#8...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/)
+
+---
+
+### NASA Welcomes All Ages, Experience Levels for Space Apps Challenge
+**Fonte:** Nasa News
+
+Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/)
+
+---
+
+### NASA Awards Enable Research, Technology to Build Future Workforce
+**Fonte:** Nasa News
+
+NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/)
+
+---
+
+### Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance 
+**Fonte:** Nasa News
+
+NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/)
 
 ---
 
