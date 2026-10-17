@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/10/2026 13:42
+# 📥 Balde de Notícias Brutas - 17/10/2026 12:38
 
-Atualmente existem **1110** notícias aguardando a curadoria do Editor.
+Atualmente existem **1114** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9996,6 +9996,42 @@ NASA has selected 12 U.S. institutions to receive $12 million to accelerate acad
 NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/)
+
+---
+
+### APOD: 2026 October 17 – 3D 67P
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/)
+
+---
+
+### NASA Names Stephen Cash Marshall Space Flight Center Director
+**Fonte:** Nasa News
+
+NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA&#8217;s missions are historic and it&#8217;s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/)
+
+---
+
+### Artemis II Heat Shield After Splashdown
+**Fonte:** Nasa News
+
+Shortly after NASA&#8217;s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/)
+
+---
+
+### I Am Artemis: Allison Mjoen
+**Fonte:** Nasa News
+
+As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/)
 
 ---
 
