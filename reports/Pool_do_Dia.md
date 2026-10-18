@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/10/2026 12:38
+# 📥 Balde de Notícias Brutas - 18/10/2026 12:56
 
-Atualmente existem **1114** notícias aguardando a curadoria do Editor.
+Atualmente existem **1115** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10032,6 +10032,15 @@ Shortly after NASA&#8217;s Artemis II mission splashed down on April 10, 2026, U
 As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/)
+
+---
+
+### APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/)
 
 ---
 
