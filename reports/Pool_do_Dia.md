@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/10/2026 12:56
+# 📥 Balde de Notícias Brutas - 19/10/2026 16:07
 
-Atualmente existem **1115** notícias aguardando a curadoria do Editor.
+Atualmente existem **1111** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3445,15 +3445,6 @@ NASA astronauts will venture outside the International Space Station on Tuesday,
 
 ---
 
-### NASA’s inspector general warns launch sites nearing capacity
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/)
-
----
-
 ### Commercial Space Federation (CSF) Welcomes New Associate Member
 **Fonte:** Space News
 
@@ -5508,15 +5499,6 @@ Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in Ju
 
 ---
 
-### Proposed rule would exempt commercial launch licensing from environmental regulations
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/)
-
----
-
 ### L3Harris delays missile business IPO to 2027 despite surging defense demand
 **Fonte:** Space News
 
@@ -7395,15 +7377,6 @@ The drying of the massive lake exposed playas that became the setting for feats 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/)
-
----
-
-### Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth
-**Fonte:** Nasa News
-
-At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) cente...
-
-🔗 [Link da Notícia](https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/)
 
 ---
 
@@ -9855,15 +9828,6 @@ Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the
 
 ---
 
-### NASA Develops Batteries to Power Humanity’s Return to Moon
-**Fonte:** Nasa News
-
-If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/)
-
----
-
 ### NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
 **Fonte:** Nasa News
 
@@ -9990,15 +9954,6 @@ NASA has selected 12 U.S. institutions to receive $12 million to accelerate acad
 
 ---
 
-### Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance 
-**Fonte:** Nasa News
-
-NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/)
-
----
-
 ### APOD: 2026 October 17 – 3D 67P
 **Fonte:** Nasa News
 
@@ -10041,6 +9996,15 @@ As the supercooled propellant flowed into the core stage, and NASA’s SLS (Spac
 APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/)
+
+---
+
+### Oct. 29: Applying AI/SI to the GEOINT Mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/)
 
 ---
 
