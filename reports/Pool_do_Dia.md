@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 19/10/2026 16:07
+# 📥 Balde de Notícias Brutas - 20/10/2026 14:02
 
-Atualmente existem **1111** notícias aguardando a curadoria do Editor.
+Atualmente existem **1123** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10005,6 +10005,114 @@ APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submission
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/)
+
+---
+
+### AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/)
+
+---
+
+### UARX Space troubleshoots anomalies on maiden OTV Flight
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/)
+
+---
+
+### APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/)
+
+---
+
+### The Human Fingerprint on Earth’s Water Cycle
+**Fonte:** Nasa News
+
+Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/)
+
+---
+
+### Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By
+**Fonte:** Nasa News
+
+Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/)
+
+---
+
+### NASA Improves Shock, Vibration Analysis
+**Fonte:** Nasa News
+
+Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/)
+
+---
+
+### Software
+**Fonte:** Nasa News
+
+Research teams at NASA&#8217;s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA&#8217;s Software Catalog. JeNo Development of jet noise prediction codes is multifaceted. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/)
+
+---
+
+### Experimental Facilities
+**Fonte:** Nasa News
+
+Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/)
+
+---
+
+### NASA’s Simulated Mars Crew Marks One Year Inside Habitat 
+**Fonte:** Nasa News
+
+The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston. ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/)
+
+---
+
+### Instrumentation
+**Fonte:** Nasa News
+
+To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake [&#8230...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/)
+
+---
+
+### Martian Dawn
+**Fonte:** Nasa News
+
+NASA&#8217;s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/martian-dawn/)
+
+---
+
+### APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual X-ray Hot Radio Source Explanation: Explanation : What is T...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/)
 
 ---
 
