@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/10/2026 14:02
+# 📥 Balde de Notícias Brutas - 21/10/2026 14:18
 
-Atualmente existem **1123** notícias aguardando a curadoria do Editor.
+Atualmente existem **1133** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10113,6 +10113,96 @@ NASA&#8217;s Curiosity captures the dawn on Mars – as well as elongated ridges
 APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual X-ray Hot Radio Source Explanation: Explanation : What is T...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/)
+
+---
+
+### Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/)
+
+---
+
+### Summer of Quantum: Building momentum for space-based QKD
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/)
+
+---
+
+### NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface
+**Fonte:** Nasa News
+
+From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/)
+
+---
+
+### APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/)
+
+---
+
+### Extratropical Cyclone Whips Past Iceland
+**Fonte:** Nasa News
+
+The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/)
+
+---
+
+### NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module
+**Fonte:** Nasa News
+
+Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/)
+
+---
+
+### NASA Experimental Mars Helicopter Blade Designs Target Longer Flights 
+**Fonte:** Nasa News
+
+NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers....
+
+🔗 [Link da Notícia](https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/)
+
+---
+
+### NASA Provides Progress Update on Moon Base Rovers
+**Fonte:** Nasa News
+
+As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/)
+
+---
+
+### Webb Captures Stellar Jets
+**Fonte:** Nasa News
+
+An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-captures-stellar-jets/)
+
+---
+
+### NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory
+**Fonte:** Nasa News
+
+The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/)
 
 ---
 
