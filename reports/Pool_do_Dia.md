@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/10/2026 14:18
+# 📥 Balde de Notícias Brutas - 22/10/2026 14:17
 
-Atualmente existem **1133** notícias aguardando a curadoria do Editor.
+Atualmente existem **1139** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9621,15 +9621,6 @@ The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down 
 
 ---
 
-### NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
-**Fonte:** Nasa News
-
-NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/)
-
----
-
 ### NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission
 **Fonte:** Nasa News
 
@@ -10134,15 +10125,6 @@ APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndex
 
 ---
 
-### NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface
-**Fonte:** Nasa News
-
-From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/)
-
----
-
 ### APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 **Fonte:** Nasa News
 
@@ -10158,24 +10140,6 @@ APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submis
 The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/)
-
----
-
-### NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module
-**Fonte:** Nasa News
-
-Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/)
-
----
-
-### NASA Experimental Mars Helicopter Blade Designs Target Longer Flights 
-**Fonte:** Nasa News
-
-NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers....
-
-🔗 [Link da Notícia](https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/)
 
 ---
 
@@ -10197,12 +10161,102 @@ An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reve
 
 ---
 
-### NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory
+### TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/)
+
+---
+
+### Global Satcom Services Revenues to Reach $145 Billion by 2035
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/)
+
+---
+
+### Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/)
+
+---
+
+### APOD: 2026 October 22 – The First Green Star, WD J1330+6435
 **Fonte:** Nasa News
 
-The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build [&#8230;]...
+APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First [&#8230;]...
 
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/)
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/)
+
+---
+
+### Fires Char New Guinea
+**Fonte:** Nasa News
+
+Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/)
+
+---
+
+### Faster to Science: A Letter to the Science Community
+**Fonte:** Nasa News
+
+NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall....
+
+🔗 [Link da Notícia](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/)
+
+---
+
+### NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
+**Fonte:** Nasa News
+
+NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/)
+
+---
+
+### NASA JPL Looks to Next 90 Years of Innovation, Exploration
+**Fonte:** Nasa News
+
+Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/)
+
+---
+
+### NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama
+**Fonte:** Nasa News
+
+As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA&#8217;s contributions to aeronautics and the agency&#8217;s continued commitment to [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/)
+
+---
+
+### Tracks Along the Longest Drive on Another World
+**Fonte:** Nasa News
+
+Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
+
+---
+
+### Science on the Space Station with NASA Astronaut Jessica Watkins
+**Fonte:** Nasa News
+
+NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/)
 
 ---
 
