@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/10/2026 14:17
+# 📥 Balde de Notícias Brutas - 23/10/2026 14:00
 
-Atualmente existem **1139** notícias aguardando a curadoria do Editor.
+Atualmente existem **1145** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10257,6 +10257,60 @@ Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Pr
 NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/)
+
+---
+
+### Rethinking networks in space with Aalyria’s Brian Barritt
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/)
+
+---
+
+### APOD: 2026 October 23 – Andromeda in Southern Spring
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/)
+
+---
+
+### El Niño Then and Now
+**Fonte:** Nasa News
+
+A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/)
+
+---
+
+### NASA Invites Media to 2026 von Braun Space Exploration Symposium
+**Fonte:** Nasa News
+
+Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity&#8217;s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/)
+
+---
+
+### Spiral’s Edge
+**Fonte:** Nasa News
+
+This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/spirals-edge/)
+
+---
+
+### NASA’s Hubble Charts Path for Roman with Gravitational Lenses 
+**Fonte:** Nasa News
+
+This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/)
 
 ---
 
