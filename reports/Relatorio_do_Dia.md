@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 21/10/2026 14:18
+# 🚀 Relatório da Agência Espacial - 24/10/2026 13:03
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. NASA, Partners Accelerate Lander Development for 2028 Moon Missions
+**Fonte:** Nasa News | **Categoria:** Mercado e Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida rumo a Marte acaba de ganhar um motor atômico. A NASA revelou avanços críticos no SR-1 Freedom, que será a primeira espaçonave da humanidade movida a fissão nuclear fora da órbita terrestre. O sistema de propulsão elétrica nuclear promete cortar drasticamente o tempo de viagem para o Planeta Vermelho, transformando o que era ficção científica na base logística da exploração interplanetária de elite.
+> A corrida rumo à Lua acaba de ganhar um novo ritmo. A NASA, em conjunto com gigantes como SpaceX e Blue Origin, anunciou uma reformulação estratégica nos designs dos sistemas de pouso tripulado para 2028. Com foco em simplificar operações e acelerar a construção da Base Lunar, essa movimentação consolida a união entre o setor público e privado para garantir a presença humana permanente no polo sul da Lua.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/)
 
 ---
 
-## 2. NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 2. Tracks Along the Longest Drive on Another World
+**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está prestes a acabar com os 'pontos cegos' dos mapas globais. O novo instrumento CASALS combina tecnologia laser de última geração com inteligência artificial para preencher as lacunas que os satélites atuais não conseguem medir. O resultado é um mapeamento 3D contínuo e ultrapreciso das florestas e terrenos da Terra, oferecendo dados sem precedentes para políticas climáticas e de infraestrutura.
+> História feita em Marte! O rover Perseverance acaba de quebrar o recorde de maior distância já percorrida em outro mundo, superando a marca de 45 quilômetros. Esse feito não é apenas um número: ele valida a autonomia de navegação e a engenharia de ponta que estão permitindo aos cientistas explorar regiões antes inacessíveis da Cratera Jezero, redefinindo o que sabemos sobre o passado do Planeta Vermelho.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/)
+🔗 [Ler notícia completa](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
 
 ---
 
-## 3. NASA Experimental Mars Helicopter Blade Designs Target Longer Flights 
+## 3. NASA Demonstrates Next-Generation Heat Shield Technologies
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Depois do sucesso histórico do Ingenuity, a NASA já está projetando os herdeiros do voo marciano. Engenheiros estão testando novos designs de pás de rotores, otimizados por simulações de supercomputadores, para helicópteros capazes de carregar cargas pesadas e voar por distâncias muito maiores na atmosfera rarefeita de Marte. É a engenharia aeronáutica sendo reinventada para outro mundo.
+> Inovação extrema na reentrada atmosférica: a NASA utilizou o descarte de lixo espacial para testar a próxima geração de escudos térmicos. Durante o retorno da missão de carga Cygnus, doze protótipos experimentais foram colocados à prova para coletar dados críticos de sobrevivência térmica. Essa técnica pode baratear drasticamente o desenvolvimento de cápsulas que levarão humanos e amostras de Marte com segurança à Terra.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/)
 
 ---
 
-## 4. NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs
+## 4. NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio SPHEREx da NASA acaba de entregar um 'censo cósmico' que desafia as fronteiras da astronomia. Os novos dados revelam uma diversidade impressionante de anãs marrons — objetos misteriosos que flutuam entre a definição de estrelas e planetas. Essa descoberta é o elo perdido para entendermos como o universo fabrica sistemas solares e a própria vida.
+> O fim de uma era para a astrofísica. O observatório Swift encerrou oficialmente suas operações após décadas rastreando as explosões mais violentas do cosmos. Deixando um legado de dados sem precedentes sobre buracos negros e explosões de raios gama, o Swift sai de cena devido ao desgaste orbital, mas sua 'herança científica' continuará alimentando descobertas por gerações.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/)
 
 ---
 
-## 5. NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory
-**Fonte:** Nasa News | **Categoria:** Mercado
+## 5. NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
+**Fonte:** Nasa News | **Categoria:** Ciência e Descobertas
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A diplomacia espacial consolida um novo padrão global. O Uzbequistão assinou oficialmente os Acordos Artemis, tornando-se a 77ª nação a integrar a coalizão liderada pela NASA para a exploração lunar. Essa adesão reforça a segurança jurídica e a cooperação internacional necessárias para o surgimento de uma economia sustentável na superfície da Lua e além.
+> O observatório de raios-X Chandra acaba de identificar uma classe de objetos misteriosos na Galáxia do Catavento que está intrigando a comunidade científica. Com emissões atípicas de ultravioleta e raios-X de baixa energia, esses corpos celestes podem ser a chave para desvendar novos processos de formação estelar e comportamentos extremos da matéria que desafiam os modelos astrofísicos atuais.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/)
 
 ---
 

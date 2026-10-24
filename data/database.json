@@ -7227,6 +7227,71 @@
       "lead": "A diplomacia espacial consolida um novo padrão global. O Uzbequistão assinou oficialmente os Acordos Artemis, tornando-se a 77ª nação a integrar a coalizão liderada pela NASA para a exploração lunar. Essa adesão reforça a segurança jurídica e a cooperação internacional necessárias para o surgimento de uma economia sustentável na superfície da Lua e além.",
       "category": "Mercado",
       "data_publicacao": "2026-10-21 14:18"
+    },
+    {
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "description": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX [&#8230;]",
+      "pub_date": "Fri, 23 Oct 2026 22:39:39 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-10-24",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "A corrida rumo à Lua acaba de ganhar um novo ritmo. A NASA, em conjunto com gigantes como SpaceX e Blue Origin, anunciou uma reformulação estratégica nos designs dos sistemas de pouso tripulado para 2028. Com foco em simplificar operações e acelerar a construção da Base Lunar, essa movimentação consolida a união entre o setor público e privado para garantir a presença humana permanente no polo sul da Lua.",
+      "category": "Mercado e Exploração",
+      "data_publicacao": "2026-10-24 13:03"
+    },
+    {
+      "title": "Tracks Along the Longest Drive on Another World",
+      "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "description": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]",
+      "pub_date": "Wed, 21 Oct 2026 15:50:44 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-10-22",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "História feita em Marte! O rover Perseverance acaba de quebrar o recorde de maior distância já percorrida em outro mundo, superando a marca de 45 quilômetros. Esse feito não é apenas um número: ele valida a autonomia de navegação e a engenharia de ponta que estão permitindo aos cientistas explorar regiões antes inacessíveis da Cratera Jezero, redefinindo o que sabemos sobre o passado do Planeta Vermelho.",
+      "category": "Ciência e Tecnologia",
+      "data_publicacao": "2026-10-24 13:03"
+    },
+    {
+      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+      "description": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to [&#8230;]",
+      "pub_date": "Fri, 09 Oct 2026 16:59:24 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-10-10",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "Inovação extrema na reentrada atmosférica: a NASA utilizou o descarte de lixo espacial para testar a próxima geração de escudos térmicos. Durante o retorno da missão de carga Cygnus, doze protótipos experimentais foram colocados à prova para coletar dados críticos de sobrevivência térmica. Essa técnica pode baratear drasticamente o desenvolvimento de cápsulas que levarão humanos e amostras de Marte com segurança à Terra.",
+      "category": "Inovação Técnica",
+      "data_publicacao": "2026-10-24 13:03"
+    },
+    {
+      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+      "description": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
+      "pub_date": "Fri, 23 Oct 2026 21:51:19 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-10-24",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O fim de uma era para a astrofísica. O observatório Swift encerrou oficialmente suas operações após décadas rastreando as explosões mais violentas do cosmos. Deixando um legado de dados sem precedentes sobre buracos negros e explosões de raios gama, o Swift sai de cena devido ao desgaste orbital, mas sua 'herança científica' continuará alimentando descobertas por gerações.",
+      "category": "Ciência",
+      "data_publicacao": "2026-10-24 13:03"
+    },
+    {
+      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+      "description": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two [&#8230;]",
+      "pub_date": "Tue, 22 Sep 2026 15:40:48 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-09-23",
+      "tentativas": 0,
+      "status": "publicado",
+      "lead": "O observatório de raios-X Chandra acaba de identificar uma classe de objetos misteriosos na Galáxia do Catavento que está intrigando a comunidade científica. Com emissões atípicas de ultravioleta e raios-X de baixa energia, esses corpos celestes podem ser a chave para desvendar novos processos de formação estelar e comportamentos extremos da matéria que desafiam os modelos astrofísicos atuais.",
+      "category": "Ciência e Descobertas",
+      "data_publicacao": "2026-10-24 13:03"
     }
   ]
 }

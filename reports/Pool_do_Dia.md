@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/10/2026 14:00
+# 📥 Balde de Notícias Brutas - 24/10/2026 13:03
 
-Atualmente existem **1145** notícias aguardando a curadoria do Editor.
+Atualmente existem **1152** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10311,6 +10311,69 @@ This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the e
 This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope....
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/)
+
+---
+
+### Nov. 5: Satellite Mission Management at the Edge
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/satellite-mission-management-at-the-edge-event/)
+
+---
+
+### APOD: 2026 October 24 – Rosetta’s Selfie
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta&#8217;s Selfie Explanation: [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/)
+
+---
+
+### NASA, Partners Accelerate Lander Development for 2028 Moon Missions
+**Fonte:** Nasa News
+
+As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/)
+
+---
+
+### NASA’s Artemis III Mission to Test Future Moon Lander Operations
+**Fonte:** Nasa News
+
+Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/)
+
+---
+
+### NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
+**Fonte:** Nasa News
+
+NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/)
+
+---
+
+### RS-25 Engine Tests at NASA Stennis
+**Fonte:** Nasa News
+
+Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/)
+
+---
+
+### NASA, Virginia Launch Power Partnership for Energy Security
+**Fonte:** Nasa News
+
+NASA is helping to foster long-term energy security in Virginia.&#160; NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/)
 
 ---
 
