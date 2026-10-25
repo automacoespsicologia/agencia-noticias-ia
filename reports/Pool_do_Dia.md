@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/10/2026 13:03
+# 📥 Balde de Notícias Brutas - 25/10/2026 13:31
 
-Atualmente existem **1152** notícias aguardando a curadoria do Editor.
+Atualmente existem **1148** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8586,15 +8586,6 @@ NASA’s Office of the Chief Health and Medical Officer formed a working group i
 
 ---
 
-### NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
-**Fonte:** Nasa News
-
-Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/)
-
----
-
 ### APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun
 **Fonte:** Nasa News
 
@@ -9648,15 +9639,6 @@ APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions In
 
 ---
 
-### NASA Demonstrates Next-Generation Heat Shield Technologies
-**Fonte:** Nasa News
-
-NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/)
-
----
-
 ### APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos
 **Fonte:** Nasa News
 
@@ -10242,15 +10224,6 @@ As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the U
 
 ---
 
-### Tracks Along the Longest Drive on Another World
-**Fonte:** Nasa News
-
-Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
-
----
-
 ### Science on the Space Station with NASA Astronaut Jessica Watkins
 **Fonte:** Nasa News
 
@@ -10332,30 +10305,12 @@ APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submission
 
 ---
 
-### NASA, Partners Accelerate Lander Development for 2028 Moon Missions
-**Fonte:** Nasa News
-
-As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/)
-
----
-
 ### NASA’s Artemis III Mission to Test Future Moon Lander Operations
 **Fonte:** Nasa News
 
 Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/)
-
----
-
-### NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza
-**Fonte:** Nasa News
-
-NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/)
 
 ---
 
@@ -10374,6 +10329,15 @@ Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS
 NASA is helping to foster long-term energy security in Virginia.&#160; NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/)
+
+---
+
+### APOD: 2026 October 25 – Dark Matter in a Simulated Universe
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/)
 
 ---
 
