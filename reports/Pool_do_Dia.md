@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/10/2026 13:31
+# 📥 Balde de Notícias Brutas - 26/10/2026 15:45
 
-Atualmente existem **1148** notícias aguardando a curadoria do Editor.
+Atualmente existem **1153** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10338,6 +10338,51 @@ NASA is helping to foster long-term energy security in Virginia.&#160; NASA’s 
 APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/)
+
+---
+
+### Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/)
+
+---
+
+### NASA’s X-59 Aircraft and Test Pilot
+**Fonte:** Nasa News
+
+NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency&#8217;s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/)
+
+---
+
+### NASA, USDA Sign Agreement Advancing Earth Science, Agriculture  
+**Fonte:** Nasa News
+
+NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools [&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/)
+
+---
+
+### 2026 October 26 – M42: The Great Nebula in Orion
+**Fonte:** Nasa News
+
+APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/)
+
+---
+
+### Hunting Red Leaves with Satellites
+**Fonte:** Nasa News
+
+A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/)
 
 ---
 
