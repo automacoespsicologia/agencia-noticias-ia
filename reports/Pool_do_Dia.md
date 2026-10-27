@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 26/10/2026 15:45
+# 📥 Balde de Notícias Brutas - 27/10/2026 15:04
 
-Atualmente existem **1153** notícias aguardando a curadoria do Editor.
+Atualmente existem **1164** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10383,6 +10383,105 @@ APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submiss
 A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/)
+
+---
+
+### Craft Prospect kicks off PERSEUS project to advance optical communications for space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/)
+
+---
+
+### Flexell Space Establishes French Subsidiary to Strengthen European Presence
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/)
+
+---
+
+### How a Johnson Mentor Shapes the Next Generation of NASA Talent 
+**Fonte:** Nasa News
+
+When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation &#38; Control (GN&#38;C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”&#160; In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/)
+
+---
+
+### APOD: 2026 October 27 – Noctilucent Clouds over Sweden
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/)
+
+---
+
+### A-81 Reaches South Georgia
+**Fonte:** Nasa News
+
+The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/)
+
+---
+
+### NASA’s Perseverance Views Dust at Neretva Vallis
+**Fonte:** Nasa News
+
+Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/)
+
+---
+
+### NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
+**Fonte:** Nasa News
+
+Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/)
+
+---
+
+### NEO Surveyor’s Sunshade Gets Inspected
+**Fonte:** Nasa News
+
+Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/)
+
+---
+
+### Solar Cells Inspected on NASA’s NEO Surveyor
+**Fonte:** Nasa News
+
+Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/)
+
+---
+
+### NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration
+**Fonte:** Nasa News
+
+The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/)
+
+---
+
+### NASA Invites Media to Moon Landing Simulation Experience in California
+**Fonte:** Nasa News
+
+Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30....
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/)
 
 ---
 
