@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/10/2026 15:04
+# 📥 Balde de Notícias Brutas - 28/10/2026 15:40
 
-Atualmente existem **1164** notícias aguardando a curadoria do Editor.
+Atualmente existem **1172** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10482,6 +10482,78 @@ The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in
 Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30....
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/)
+
+---
+
+### Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/)
+
+---
+
+### Ukrainian startup, GomSpace test satellite for future communications network
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/)
+
+---
+
+### Webb Sees Turbulent Star Nursery
+**Fonte:** Nasa News
+
+In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/)
+
+---
+
+### Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’
+**Fonte:** Nasa News
+
+Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/)
+
+---
+
+### APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/)
+
+---
+
+### The Land of the Standing-Up Rocks
+**Fonte:** Nasa News
+
+A national monument since the 1920s, Chiricahua is America’s newest national park....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/)
+
+---
+
+### NASA Invites Media to Crew Completion of Yearlong Mars Simulation
+**Fonte:** Nasa News
+
+The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/)
+
+---
+
+### NASA’s Neo Surveyor Sunshade
+**Fonte:** Nasa News
+
+A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/)
 
 ---
 
