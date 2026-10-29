@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 28/10/2026 15:40
+# 📥 Balde de Notícias Brutas - 29/10/2026 15:47
 
-Atualmente existem **1172** notícias aguardando a curadoria do Editor.
+Atualmente existem **1183** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10554,6 +10554,105 @@ The four volunteers who lived and worked in a simulated NASA Mars mission for mo
 A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/)
+
+---
+
+### Advice for optimizing the space industry with Laura Crabtree
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/)
+
+---
+
+### Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
+**Fonte:** Nasa News
+
+Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/)
+
+---
+
+### Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+**Fonte:** Nasa News
+
+You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. &#160; To have your [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/)
+
+---
+
+### NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+**Fonte:** Nasa News
+
+When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. &#8220;We&#8217;ve had some unnamed companies ask if we have any proprietary information,&#8221; says Dale Arney, senior team lead [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/)
+
+---
+
+### NASA’s Hubble Marks Way for Roman Space Telescope
+**Fonte:** Nasa News
+
+A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astronomers will use these [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/)
+
+---
+
+### Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb
+**Fonte:** Nasa News
+
+Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/)
+
+---
+
+### Contractor to Civil Servant: NASA Welcomes Jared Spiers
+**Fonte:** Nasa News
+
+Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Before graduating high school, he knew [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/)
+
+---
+
+### APOD: 29 October 2026 – The Horns of Venus
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/)
+
+---
+
+### Arnab Strikes India
+**Fonte:** Nasa News
+
+The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/)
+
+---
+
+### Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy
+**Fonte:** Nasa News
+
+Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/)
+
+---
+
+### NASA Welcomes Vietnam as Newest Artemis Accords Signatory 
+**Fonte:** Nasa News
+
+The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/)
 
 ---
 
