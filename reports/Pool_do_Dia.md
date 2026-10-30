@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 29/10/2026 15:47
+# 📥 Balde de Notícias Brutas - 30/10/2026 15:29
 
-Atualmente existem **1183** notícias aguardando a curadoria do Editor.
+Atualmente existem **1192** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10653,6 +10653,87 @@ Artemis II Commander Reid Wiseman has been named Caltech associate vice presiden
 The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/)
+
+---
+
+### November’s Night Sky Notes: Light-Day Away
+**Fonte:** Nasa News
+
+Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/)
+
+---
+
+### APOD: 2026 October 30 – Haunting the Cepheus Flare
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/)
+
+---
+
+### Vega Island Frozen in Fright
+**Fonte:** Nasa News
+
+The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/)
+
+---
+
+### Map Showing Potential Origins of Martian Meteorite Teghaza 001
+**Fonte:** Nasa News
+
+Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/)
+
+---
+
+### Slice of Martian Meteorite Teghaza 001
+**Fonte:** Nasa News
+
+Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/)
+
+---
+
+### Halloween Aboard the International Space Station 
+**Fonte:** Nasa News
+
+Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/)
+
+---
+
+### NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
+**Fonte:** Nasa News
+
+When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/)
+
+---
+
+### NASA Names Troy Asher Armstrong Flight Research Center Director
+**Fonte:** Nasa News
+
+NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/)
+
+---
+
+### NIH–NASA QuSAFE Challenge
+**Fonte:** Nasa News
+
+The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can [...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/)
 
 ---
 
