@@ -1,4 +1,4 @@
-# 📥 Balde de Notícias Brutas - 30/10/2026 15:29
+# 📥 Balde de Notícias Brutas - 31/10/2026 14:57
 
 Atualmente existem **1192** notícias aguardando a curadoria do Editor.
 
@@ -3049,15 +3049,6 @@ Voices Shaping the Future of Space Members of the public are invited to join som
 
 ---
 
-### Dawn Aerospace raises $25 million
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/dawn-aerospace-raises-25-million/)
-
----
-
 ### Look Up and Skynopy partner on automated satellite collision avoidance service
 **Fonte:** Space News
 
@@ -5226,15 +5217,6 @@ Description This graphic illustrates the areas of Jupiter’s moon Io sampled by
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/)
-
----
-
-### Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/)
 
 ---
 
@@ -7755,15 +7737,6 @@ With Indonesia gripped by drought, fires are smoldering on the surface and under
 Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/)
-
----
-
-### NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole
-**Fonte:** Nasa News
-
-NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/)
 
 ---
 
@@ -10350,15 +10323,6 @@ APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submi
 
 ---
 
-### NASA’s X-59 Aircraft and Test Pilot
-**Fonte:** Nasa News
-
-NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency&#8217;s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/)
-
----
-
 ### NASA, USDA Sign Agreement Advancing Earth Science, Agriculture  
 **Fonte:** Nasa News
 
@@ -10710,15 +10674,6 @@ Although no ghouls, goblins, or trick-or-treaters come knocking at the Internati
 
 ---
 
-### NASA-funded Study Details One of Oldest Mars Meteorites Ever Found
-**Fonte:** Nasa News
-
-When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/)
-
----
-
 ### NASA Names Troy Asher Armstrong Flight Research Center Director
 **Fonte:** Nasa News
 
@@ -10734,6 +10689,51 @@ NASA Administrator Jared Isaacman has named Troy Asher director of the agency’
 The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can [...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/)
+
+---
+
+### ESI supplying solar array components to missile defense programs
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/)
+
+---
+
+### APOD: 2026 October 31 – Night on a Spooky Planet
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/)
+
+---
+
+### NASA Releases MAX POWER Key Events for Media, Participants
+**Fonte:** Nasa News
+
+America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/)
+
+---
+
+### NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
+**Fonte:** Nasa News
+
+Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/)
+
+---
+
+### NASA Explores Potential Commercial Servicing for Hubble Telescope
+**Fonte:** Nasa News
+
+NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/)
 
 ---
 
