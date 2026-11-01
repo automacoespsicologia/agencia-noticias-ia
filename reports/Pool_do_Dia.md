@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 31/10/2026 14:57
+# 📥 Balde de Notícias Brutas - 01/11/2026 15:42
 
-Atualmente existem **1192** notícias aguardando a curadoria do Editor.
+Atualmente existem **1188** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8703,15 +8703,6 @@ Carbon-capture technology repurposed for breweries spreads and finds new applica
 
 ---
 
-### Practicing for Safe Landings on the Moon and Beyond
-**Fonte:** Nasa News
-
-In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/)
-
----
-
 ### US-India Satellite Captures Time-lapse Video of Volcanic Eruption
 **Fonte:** Nasa News
 
@@ -10170,15 +10161,6 @@ NASA Science wants to deliver science faster, so we’re changing how we compete
 
 ---
 
-### NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
-**Fonte:** Nasa News
-
-NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/)
-
----
-
 ### NASA JPL Looks to Next 90 Years of Innovation, Exploration
 **Fonte:** Nasa News
 
@@ -10275,15 +10257,6 @@ This observation is one of many gravitational lensing images taken by Hubble in 
 APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta&#8217;s Selfie Explanation: [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/)
-
----
-
-### NASA’s Artemis III Mission to Test Future Moon Lander Operations
-**Fonte:** Nasa News
-
-Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/)
 
 ---
 
@@ -10566,15 +10539,6 @@ A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but th
 
 ---
 
-### Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb
-**Fonte:** Nasa News
-
-Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/)
-
----
-
 ### Contractor to Civil Servant: NASA Welcomes Jared Spiers
 **Fonte:** Nasa News
 
@@ -10728,12 +10692,12 @@ Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this 
 
 ---
 
-### NASA Explores Potential Commercial Servicing for Hubble Telescope
+### APOD: 2026 November 1 – Colors of the Moon
 **Fonte:** Nasa News
 
-NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope....
+APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;]...
 
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/)
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/)
 
 ---
 

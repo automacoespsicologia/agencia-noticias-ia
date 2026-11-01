@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 31/10/2026 14:58
+# 🚀 Relatório da Agência Espacial - 01/11/2026 15:42
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Artemis III Mission to Test Future Moon Lander Operations
-**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
+## 1. Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A contagem regressiva para o retorno da humanidade à superfície lunar ganhou rostos e nomes oficiais. A NASA anunciou que os astronautas Randy Bresnik, Frank Rubio, Andre Douglas e o italiano Luca Parmitano formarão a tripulação da Artemis III. Com lançamento previsto para 2027, a missão será o teste definitivo das operações de pouso no Polo Sul lunar, consolidando o caminho para uma presença humana permanente fora da Terra.
+> De astronauta a estrategista de elite: Reid Wiseman, o comandante da histórica missão Artemis II, acaba de ser nomeado vice-diretor do prestigiado Jet Propulsion Laboratory. Esta movimentação coloca o primeiro homem a liderar o retorno humano à Lua no coração da robótica planetária da NASA, fundindo a experiência de voo tripulado com a próxima geração de exploração por sondas.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/)
 
 ---
 
-## 2. NASA Explores Potential Commercial Servicing for Hubble Telescope
-**Fonte:** Nasa News | **Categoria:** Movimentação de Mercado
+## 2. Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O lendário telescópio Hubble pode estar prestes a entrar em uma nova era comercial. A NASA emitiu um pedido oficial ao setor privado buscando capacidades de manutenção e serviços em órbita para o observatório. A iniciativa marca uma mudança de paradigma: o uso de infraestrutura comercial para prolongar a vida útil de ativos científicos bilionários e manter nossa janela aberta para o cosmos.
+> A independência energética fora da Terra deu um salto crucial: a DARPA fechou um acordo para testar em solo o primeiro controlador autônomo de reatores nucleares espaciais. Essa tecnologia é a 'espinha dorsal' necessária para sustentar bases permanentes na Lua e em Marte, permitindo que colônias sobrevivam sem depender exclusivamente de luz solar durante as gélidas noites planetárias.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/)
+🔗 [Ler notícia completa](https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/)
 
 ---
 
-## 3. Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb
-**Fonte:** Nasa News | **Categoria:** Descobertas Científicas
+## 3. Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Quando o Hubble e o James Webb unem forças, o resultado é uma visão sem precedentes do caos estelar. Uma nova imagem composta revelou a Nebulosa da Cabeça de Gato, no coração da Nebulosa de Carina, em detalhes fantasmagóricos. Ao combinar luz visível e infravermelha, cientistas validaram a existência de fluxos dinâmicos de formação estelar antes ocultos pela poeira cósmica.
+> A Astranis acaba de sacudir o setor comercial ao garantir um lançamento exclusivo com a SpaceX para toda a sua nova frota de satélites Block 4. O contrato para uma missão dedicada do Falcon 9 demonstra a maturidade dos pequenos satélites geoestacionários e sinaliza uma aceleração sem precedentes na oferta de conectividade global escalável.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/)
+🔗 [Ler notícia completa](https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/)
 
 ---
 
-## 4. NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions
+## 4. NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Oitocentos e trinta segundos de puro poder: a NASA concluiu com sucesso um teste crítico do motor RS-25, o coração do foguete SLS. O ensaio de hot fire, realizado no Mississippi, validou a performance do motor sob condições reais de voo. Essa é a peça tecnológica fundamental que dará o empuxo necessário para as futuras missões Artemis transportarem tripulações ao espaço profundo.
+> O hardware para a primeira base lunar da humanidade superou seu desafio mais difícil. O módulo de pouso comercial da Voyager Technologies completou com sucesso os testes de estresse térmico e vácuo no JPL. A aprovação valida que sistemas de transporte privado já possuem a robustez necessária para suportar as condições extremas do polo sul lunar.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/)
 
 ---
 
-## 5. Practicing for Safe Landings on the Moon and Beyond
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 5. NASA Welcomes Vietnam as Newest Artemis Accords Signatory 
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Pousar com precisão milimétrica na Lua acaba de ficar mais fácil. O experimento SPLICE, da NASA, completou voos de teste utilizando drones de última geração para validar novos sistemas de navegação e orientação. Essa tecnologia de ponta permite que futuras naves identifiquem perigos em tempo real e escolham locais de pouso seguros de forma totalmente autônoma, uma inovação vital para a logística da Base Lunar.
+> A diplomacia orbital avança no Sudeste Asiático: o Vietnã é o mais novo signatário dos Acordos Artemis, tornando-se a 78ª nação a se unir à coalizão liderada pelos Estados Unidos. A adesão fortalece a governança global para a exploração pacífica da Lua e consolida um bloco geopolítico robusto focado na transparência e na sustentabilidade do espaço profundo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/)
+🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/)
 
 ---
 
