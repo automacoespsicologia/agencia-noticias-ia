@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 01/11/2026 15:42
+# 📥 Balde de Notícias Brutas - 02/11/2026 19:04
 
-Atualmente existem **1188** notícias aguardando a curadoria do Editor.
+Atualmente existem **1190** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9648,15 +9648,6 @@ For more information, contact Joel W. Sills, Langley Research Center, joel.w.sil
 
 ---
 
-### NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
-**Fonte:** Nasa News
-
-A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/)
-
----
-
 ### NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
 **Fonte:** Nasa News
 
@@ -10125,15 +10116,6 @@ An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reve
 
 ---
 
-### Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/)
-
----
-
 ### APOD: 2026 October 22 – The First Green Star, WD J1330+6435
 **Fonte:** Nasa News
 
@@ -10284,15 +10266,6 @@ NASA is helping to foster long-term energy security in Virginia.&#160; NASA’s 
 APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/)
-
----
-
-### Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/)
 
 ---
 
@@ -10566,24 +10539,6 @@ The first named storm of the North Indian Ocean’s cyclone season made landfall
 
 ---
 
-### Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy
-**Fonte:** Nasa News
-
-Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/)
-
----
-
-### NASA Welcomes Vietnam as Newest Artemis Accords Signatory 
-**Fonte:** Nasa News
-
-The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/)
-
----
-
 ### November’s Night Sky Notes: Light-Day Away
 **Fonte:** Nasa News
 
@@ -10698,6 +10653,69 @@ Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this 
 APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/)
+
+---
+
+### How to Expand Reliable, Flexible Access to Space
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/)
+
+---
+
+### NASA’s CHAPEA Crew “Returns” to Earth
+**Fonte:** Nasa News
+
+The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/)
+
+---
+
+### What’s Up: November 2026 Skywatching Tips from NASA
+**Fonte:** Nasa News
+
+Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/)
+
+---
+
+### NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch
+**Fonte:** Nasa News
+
+Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/)
+
+---
+
+### NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+**Fonte:** Nasa News
+
+NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing. ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/)
+
+---
+
+### APOD: 2026 November 2 – A Long Cloud on Mars
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/)
+
+---
+
+### Pennsylvania’s Grand Canyon
+**Fonte:** Nasa News
+
+Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/)
 
 ---
 

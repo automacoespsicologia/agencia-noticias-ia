@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 01/11/2026 15:42
+# 🚀 Relatório da Agência Espacial - 02/11/2026 19:04
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy
-**Fonte:** Nasa News | **Categoria:** Mercado Espacial
+## 1. NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
+**Fonte:** Nasa News | **Categoria:** Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> De astronauta a estrategista de elite: Reid Wiseman, o comandante da histórica missão Artemis II, acaba de ser nomeado vice-diretor do prestigiado Jet Propulsion Laboratory. Esta movimentação coloca o primeiro homem a liderar o retorno humano à Lua no coração da robótica planetária da NASA, fundindo a experiência de voo tripulado com a próxima geração de exploração por sondas.
+> Esqueça a ideia de que o espaço é apenas um lugar para lançar satélites e deixá-los lá. O setor atingiu um ponto de inflexão com a consolidação da tecnologia ISAM — manutenção, montagem e manufatura em órbita. O novo relatório 'State of Play' da NASA mostra que o mercado de 'oficinas e fábricas espaciais' deixou de ser ficção científica, atraindo investimentos massivos para transformar o vácuo em um canteiro de obras dinâmico e lucrativo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/)
+🔗 [Ler notícia completa](https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/)
 
 ---
 
-## 2. Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 2. NextSTEP-3 B: Moon Base Demonstrations
+**Fonte:** Nasa News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A independência energética fora da Terra deu um salto crucial: a DARPA fechou um acordo para testar em solo o primeiro controlador autônomo de reatores nucleares espaciais. Essa tecnologia é a 'espinha dorsal' necessária para sustentar bases permanentes na Lua e em Marte, permitindo que colônias sobrevivam sem depender exclusivamente de luz solar durante as gélidas noites planetárias.
+> O caminho para a ocupação definitiva da Lua acaba de ficar mais claro. Com o lançamento do programa NextSTEP-3 B, a NASA está convocando oficialmente a indústria privada para demonstrações práticas de infraestrutura na superfície lunar. O foco agora é transição: passar das missões de 'visita' para a construção de uma base sustentável, com sistemas de energia e habitação que definirão a soberania na fronteira cislunar.
 
-🔗 [Ler notícia completa](https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/)
+🔗 [Ler notícia completa](https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/)
 
 ---
 
-## 3. Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 3. UK startup Applied Atomics to enter US market with focus on military space mobility
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Astranis acaba de sacudir o setor comercial ao garantir um lançamento exclusivo com a SpaceX para toda a sua nova frota de satélites Block 4. O contrato para uma missão dedicada do Falcon 9 demonstra a maturidade dos pequenos satélites geoestacionários e sinaliza uma aceleração sem precedentes na oferta de conectividade global escalável.
+> A mobilidade no espaço profundo acaba de ganhar um competidor de peso atômico. A startup Applied Atomics anunciou sua entrada no mercado norte-americano com foco em propulsão nuclear para missões militares. O movimento sinaliza uma mudança estratégica no setor de defesa espacial, priorizando veículos que possuam autonomia total e capacidade de manobra rápida para proteger ativos críticos em órbitas contestadas.
 
-🔗 [Ler notícia completa](https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/)
+🔗 [Ler notícia completa](https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/)
 
 ---
 
-## 4. NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 4. NASA Testing Wastewater Treatment Facility for Future Moon Base      
+**Fonte:** Nasa News | **Categoria:** Tecnologia
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O hardware para a primeira base lunar da humanidade superou seu desafio mais difícil. O módulo de pouso comercial da Voyager Technologies completou com sucesso os testes de estresse térmico e vácuo no JPL. A aprovação valida que sistemas de transporte privado já possuem a robustez necessária para suportar as condições extremas do polo sul lunar.
+> A sobrevivência em Marte e na Lua depende de um ciclo de recursos fechado, e a NASA acaba de validar uma peça fundamental desse quebra-cabeça. Um novo sistema móvel de tratamento de águas residuais, desenvolvido no Kennedy Space Center, foi enviado para testes rigorosos em ambientes extremos. Essa inovação técnica é o que permitirá que futuras colônias espaciais operem sem a necessidade de reabastecimento constante vindo da Terra.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/)
 
 ---
 
-## 5. NASA Welcomes Vietnam as Newest Artemis Accords Signatory 
-**Fonte:** Nasa News | **Categoria:** Mercado Espacial
+## 5. NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A diplomacia orbital avança no Sudeste Asiático: o Vietnã é o mais novo signatário dos Acordos Artemis, tornando-se a 78ª nação a se unir à coalizão liderada pelos Estados Unidos. A adesão fortalece a governança global para a exploração pacífica da Lua e consolida um bloco geopolítico robusto focado na transparência e na sustentabilidade do espaço profundo.
+> O Telescópio James Webb continua a reescrever nossa compreensão do cosmos com imagens inéditas da Nebulosa 'Cabeça de Gato'. A sensibilidade infravermelha do Webb expôs estruturas complexas e berçários estelares que estavam ocultos por poeira cósmica há milênios. Além do visual deslumbrante, a descoberta fornece dados cruciais sobre como ventos estelares violentos moldam a matéria no universo, validando novas teorias sobre a formação de estrelas massivas.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/)
 
 ---
 
