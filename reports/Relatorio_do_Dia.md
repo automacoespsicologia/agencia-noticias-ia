@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 02/11/2026 19:04
+# 🚀 Relatório da Agência Espacial - 03/11/2026 16:47
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
-**Fonte:** Nasa News | **Categoria:** Tecnologia
+## 1. NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça a ideia de que o espaço é apenas um lugar para lançar satélites e deixá-los lá. O setor atingiu um ponto de inflexão com a consolidação da tecnologia ISAM — manutenção, montagem e manufatura em órbita. O novo relatório 'State of Play' da NASA mostra que o mercado de 'oficinas e fábricas espaciais' deixou de ser ficção científica, atraindo investimentos massivos para transformar o vácuo em um canteiro de obras dinâmico e lucrativo.
+> O futuro da exploração humana em Marte acaba de ganhar um escudo contra o perigo invisível. O rover Perseverance mapeou como a poeira microscópica marciana adere aos trajes e pode invadir a corrente sanguínea dos astronautas. Esses dados técnicos são a peça que faltava para projetar as tecnologias de filtragem que manterão nossos pioneiros vivos no Planeta Vermelho.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/)
 
 ---
 
-## 2. NextSTEP-3 B: Moon Base Demonstrations
-**Fonte:** Nasa News | **Categoria:** Negócios
+## 2. Reditus Space completes first reentry vehicle
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho para a ocupação definitiva da Lua acaba de ficar mais claro. Com o lançamento do programa NextSTEP-3 B, a NASA está convocando oficialmente a indústria privada para demonstrações práticas de infraestrutura na superfície lunar. O foco agora é transição: passar das missões de 'visita' para a construção de uma base sustentável, com sistemas de energia e habitação que definirão a soberania na fronteira cislunar.
+> A logística orbital acaba de dar um salto decisivo com a conclusão do primeiro veículo de reentrada comercial da Reditus Space. Essa nova tecnologia de recuperação promete viabilizar o retorno seguro de materiais valiosos fabricados no espaço, transformando a órbita da Terra em um braço industrial ativo e conectado diretamente às nossas fábricas aqui embaixo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/)
+🔗 [Ler notícia completa](https://spacenews.com/reditus-space-completes-first-reentry-vehicle/)
 
 ---
 
-## 3. UK startup Applied Atomics to enter US market with focus on military space mobility
-**Fonte:** Space News | **Categoria:** Mercado
+## 3. NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A mobilidade no espaço profundo acaba de ganhar um competidor de peso atômico. A startup Applied Atomics anunciou sua entrada no mercado norte-americano com foco em propulsão nuclear para missões militares. O movimento sinaliza uma mudança estratégica no setor de defesa espacial, priorizando veículos que possuam autonomia total e capacidade de manobra rápida para proteger ativos críticos em órbitas contestadas.
+> O telescópio Hubble acaba de detectar um mistério químico nas profundezas do espaço: galáxias anãs vizinhas estão 'perdendo' o oxigênio que deveriam ter. Essa descoberta científica validada desafia as teorias atuais sobre a evolução galáctica e força os astrônomos a buscarem processos ocultos que estão drenando a matéria-prima da vida pelo cosmos.
 
-🔗 [Ler notícia completa](https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/)
 
 ---
 
-## 4. NASA Testing Wastewater Treatment Facility for Future Moon Base      
-**Fonte:** Nasa News | **Categoria:** Tecnologia
+## 4. Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A sobrevivência em Marte e na Lua depende de um ciclo de recursos fechado, e a NASA acaba de validar uma peça fundamental desse quebra-cabeça. Um novo sistema móvel de tratamento de águas residuais, desenvolvido no Kennedy Space Center, foi enviado para testes rigorosos em ambientes extremos. Essa inovação técnica é o que permitirá que futuras colônias espaciais operem sem a necessidade de reabastecimento constante vindo da Terra.
+> O monitoramento do caos orbital atingiu o status de prioridade estratégica. Com a explosão das megaconstelações, o mercado de Consciência Situacional Espacial deve movimentar impressionantes 61 bilhões de dólares. É a nova corrida do ouro focada em segurança, onde a capacidade de prever colisões no espaço se tornou o ativo mais valioso da economia global.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/)
+🔗 [Ler notícia completa](https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/)
 
 ---
 
-## 5. NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. Vantor wins $70 million award to enhance NGA data-delivery platform
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Telescópio James Webb continua a reescrever nossa compreensão do cosmos com imagens inéditas da Nebulosa 'Cabeça de Gato'. A sensibilidade infravermelha do Webb expôs estruturas complexas e berçários estelares que estavam ocultos por poeira cósmica há milênios. Além do visual deslumbrante, a descoberta fornece dados cruciais sobre como ventos estelares violentos moldam a matéria no universo, validando novas teorias sobre a formação de estrelas massivas.
+> A inteligência geoespacial entra em uma nova era com o contrato de 70 milhões de dólares vencido pela Vantor para otimizar plataformas de entrega de dados da NGA. Essa movimentação de mercado reforça como a fusão entre análise de imagens de satélite e plataformas digitais de alta velocidade é hoje o pilar central da segurança nacional das grandes potências.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/)
+🔗 [Ler notícia completa](https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/)
 
 ---
 

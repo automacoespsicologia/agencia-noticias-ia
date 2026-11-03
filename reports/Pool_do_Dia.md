@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 02/11/2026 19:04
+# 📥 Balde de Notícias Brutas - 03/11/2026 16:47
 
-Atualmente existem **1190** notícias aguardando a curadoria do Editor.
+Atualmente existem **1193** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2230,15 +2230,6 @@ Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NAS
 
 ---
 
-### NASA Testing Wastewater Treatment Facility for Future Moon Base      
-**Fonte:** Nasa News
-
-A mobile wastewater treatment system built at NASA&#8217;s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditions designed to closely mimic the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/)
-
----
-
 ### Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries
 **Fonte:** Nasa News
 
@@ -2632,15 +2623,6 @@ This article is for students grades 5-8. Mass distribution affects everything fr
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/)
-
----
-
-### UK startup Applied Atomics to enter US market with focus on military space mobility
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/)
 
 ---
 
@@ -3984,15 +3966,6 @@ In celebration of the 250th birthday of the United States, NASA has unveiled fou
 Flight testing is a team sport. For nearly 80 years, teams at NASA’s Armstrong Flight Research Center in Edwards, California, have used flight testing to push the limits of aerodynamics and advance aviation. Earlier this year, NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) initiative tested a wing concept that would maximize the smooth flow of [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/)
-
----
-
-### NextSTEP-3 B: Moon Base Demonstrations
-**Fonte:** Nasa News
-
-Notice ID: Coming Soon NASA&#8217;s Human Spaceflight Mission Directorate is seeking innovative ideas from industry partners through a new solicitation appendix under the NextSTEP-3 Omnibus Broad Agency Announcement. Appendix B: Moon Base Demonstrations calls for industry-led demonstrations, risk reduction, and special topic activities that enable an enduring human presence on the lunar surface. N...
-
-🔗 [Link da Notícia](https://www.nasa.gov/general/nextstep-3-b-moon-base-demonstrations/)
 
 ---
 
@@ -10494,15 +10467,6 @@ You may never soar under the clouds or over the organic sands of Saturn’s moon
 
 ---
 
-### NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing
-**Fonte:** Nasa News
-
-When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. &#8220;We&#8217;ve had some unnamed companies ask if we have any proprietary information,&#8221; says Dale Arney, senior team lead [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/)
-
----
-
 ### NASA’s Hubble Marks Way for Roman Space Telescope
 **Fonte:** Nasa News
 
@@ -10638,15 +10602,6 @@ America’s newest aerospace expo and air show – MAX POWER – is fast approac
 
 ---
 
-### NASA’s James Webb Space Telescope Captures Eerie Cat’s Head
-**Fonte:** Nasa News
-
-Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/)
-
----
-
 ### APOD: 2026 November 1 – Colors of the Moon
 **Fonte:** Nasa News
 
@@ -10716,6 +10671,78 @@ APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissi
 Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/)
+
+---
+
+### DETUMBLER: Airbus’ Passive Spin Stabilization Solution
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/)
+
+---
+
+### Astronaut and Earth
+**Fonte:** Nasa News
+
+CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/astronaut-and-earth/)
+
+---
+
+### TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking
+**Fonte:** Nasa News
+
+For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due [&#82...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/)
+
+---
+
+### NASA Astronaut, STEM Creator Connect with Students for STEM Day
+**Fonte:** Nasa News
+
+Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/)
+
+---
+
+### APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/)
+
+---
+
+### The Pacific’s Busy Storm Season
+**Fonte:** Nasa News
+
+Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/)
+
+---
+
+### Happy 65 Years: NASA’s Johnson Space Center Then and Now
+**Fonte:** Nasa News
+
+Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/)
+
+---
+
+### TB 26-09 Measured Hammer-Tap Inputs
+**Fonte:** Nasa News
+
+For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/)
 
 ---
 
