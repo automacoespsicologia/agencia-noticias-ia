@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 03/11/2026 16:47
+# 📥 Balde de Notícias Brutas - 04/11/2026 16:46
 
-Atualmente existem **1193** notícias aguardando a curadoria do Editor.
+Atualmente existem **1194** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -766,15 +766,6 @@ Summer is “Go” for launch, and NASA has a universe of ways to help you to ju
 In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/)
-
----
-
-### Vantor wins $70 million award to enhance NGA data-delivery platform
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/)
 
 ---
 
@@ -2182,15 +2173,6 @@ Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer b
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/)
-
----
-
-### Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/)
 
 ---
 
@@ -4515,15 +4497,6 @@ The waxing gibbous moon is nestled in the darkness of space in this June 26, 202
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/)
-
----
-
-### Reditus Space completes first reentry vehicle
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/reditus-space-completes-first-reentry-vehicle/)
 
 ---
 
@@ -10323,15 +10296,6 @@ Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater
 
 ---
 
-### NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
-**Fonte:** Nasa News
-
-Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/)
-
----
-
 ### NEO Surveyor’s Sunshade Gets Inspected
 **Fonte:** Nasa News
 
@@ -10647,15 +10611,6 @@ Media accreditation is open for the next launch to deliver NASA science investig
 
 ---
 
-### NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
-**Fonte:** Nasa News
-
-NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing. ...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/)
-
----
-
 ### APOD: 2026 November 2 – A Long Cloud on Mars
 **Fonte:** Nasa News
 
@@ -10743,6 +10698,60 @@ Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicate
 For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/)
+
+---
+
+### Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/)
+
+---
+
+### NASA Space Grant Students Fuel Agency’s Inspiration Tour
+**Fonte:** Nasa News
+
+NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/)
+
+---
+
+### Hubble Reveals Cosmic Mystery
+**Fonte:** Nasa News
+
+This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/)
+
+---
+
+### NASA, NOAA Track 2026 Antarctic Ozone Hole
+**Fonte:** Nasa News
+
+Weather provided ideal conditions for enhanced ozone depletion...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/2026-ozone-hole/)
+
+---
+
+### APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/)
+
+---
+
+### Before the Dawn in America’s Heartland
+**Fonte:** Nasa News
+
+With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/)
 
 ---
 
