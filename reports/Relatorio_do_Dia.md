@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 03/11/2026 16:47
+# 🚀 Relatório da Agência Espacial - 05/11/2026 17:02
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust
+## 1. NASA Announces X-70 Experimental Aircraft to Advance Flight Research 
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da exploração humana em Marte acaba de ganhar um escudo contra o perigo invisível. O rover Perseverance mapeou como a poeira microscópica marciana adere aos trajes e pode invadir a corrente sanguínea dos astronautas. Esses dados técnicos são a peça que faltava para projetar as tecnologias de filtragem que manterão nossos pioneiros vivos no Planeta Vermelho.
+> A NASA acaba de elevar o nível da aviação experimental com o novo X-70 Fractal. Mais do que apenas um avião, esta é uma plataforma ultra-adaptável projetada para ser o laboratório voador definitivo, prometendo revolucionar a velocidade com que novas tecnologias aeroespaciais saem do papel e ganham os céus.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/)
 
 ---
 
-## 2. Reditus Space completes first reentry vehicle
+## 2. NASA Shares Plans to Accelerate Artemis, Return to Moon
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A contagem regressiva para a Lua foi oficialmente acelerada. A liderança da NASA confirmou que a estratégia para levar humanos de volta à superfície lunar está agora fixada para 2028, impulsionando toda a cadeia de suprimentos espacial global em direção ao Polo Sul do nosso satélite natural.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/)
+
+---
+
+## 3. DETUMBLER: Airbus’ Passive Spin Stabilization Solution
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A logística orbital acaba de dar um salto decisivo com a conclusão do primeiro veículo de reentrada comercial da Reditus Space. Essa nova tecnologia de recuperação promete viabilizar o retorno seguro de materiais valiosos fabricados no espaço, transformando a órbita da Terra em um braço industrial ativo e conectado diretamente às nossas fábricas aqui embaixo.
+> Dizer adeus ao caos dos satélites descontrolados ficou mais fácil com a nova solução da Airbus. O sistema DETUMBLER utiliza estabilização passiva para impedir o giro errático de objetos em órbita, uma inovação técnica crucial para a limpeza do lixo espacial e para a segurança de constelações multibilionárias.
 
-🔗 [Ler notícia completa](https://spacenews.com/reditus-space-completes-first-reentry-vehicle/)
-
----
-
-## 3. NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio Hubble acaba de detectar um mistério químico nas profundezas do espaço: galáxias anãs vizinhas estão 'perdendo' o oxigênio que deveriam ter. Essa descoberta científica validada desafia as teorias atuais sobre a evolução galáctica e força os astrônomos a buscarem processos ocultos que estão drenando a matéria-prima da vida pelo cosmos.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/)
+🔗 [Ler notícia completa](https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/)
 
 ---
 
-## 4. Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 4. NASA Navigation Experiment Shows Promise for Planetary Landings
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O monitoramento do caos orbital atingiu o status de prioridade estratégica. Com a explosão das megaconstelações, o mercado de Consciência Situacional Espacial deve movimentar impressionantes 61 bilhões de dólares. É a nova corrida do ouro focada em segurança, onde a capacidade de prever colisões no espaço se tornou o ativo mais valioso da economia global.
+> Esqueça os pousos arriscados em locais desconhecidos. A NASA demonstrou com sucesso o sistema SPLICE, uma inteligência artificial de navegação que permite que naves escolham o ponto exato de toque no solo em tempo real. É o fim da era da incerteza e o início da precisão absoluta em Marte e na Lua.
 
-🔗 [Ler notícia completa](https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/)
 
 ---
 
-## 5. Vantor wins $70 million award to enhance NGA data-delivery platform
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 5. NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A inteligência geoespacial entra em uma nova era com o contrato de 70 milhões de dólares vencido pela Vantor para otimizar plataformas de entrega de dados da NGA. Essa movimentação de mercado reforça como a fusão entre análise de imagens de satélite e plataformas digitais de alta velocidade é hoje o pilar central da segurança nacional das grandes potências.
+> O Telescópio James Webb perfurou o véu de poeira da nebulosa NGC 7129 para revelar uma visão sem precedentes do nascimento estelar. A observação de jatos supersônicos expelidos por estrelas recém-nascidas entrega aos astrônomos as peças que faltavam para entender como o caos molda a evolução do nosso universo.
 
-🔗 [Ler notícia completa](https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/)
 
 ---
 

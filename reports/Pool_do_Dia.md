@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 04/11/2026 16:46
+# 📥 Balde de Notícias Brutas - 05/11/2026 17:01
 
-Atualmente existem **1194** notícias aguardando a curadoria do Editor.
+Atualmente existem **1204** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10752,6 +10752,96 @@ APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submis
 With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/)
+
+---
+
+### Building a ‘highway to the moon and back’ with Winnie Lai
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/)
+
+---
+
+### Midwestern City Lights
+**Fonte:** Nasa News
+
+City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/midwestern-city-lights/)
+
+---
+
+### NASA Astronauts to Answer Questions from Florida Students
+**Fonte:** Nasa News
+
+Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With NASA&#160;YouTube channel. This event is hosted by Freedom Crossing Academy in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/)
+
+---
+
+### Hubble Learns Galactic History From Stars
+**Fonte:** Nasa News
+
+This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/)
+
+---
+
+### APOD: 2026 November 5 – Enceladus in Silhouette
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/)
+
+---
+
+### Cyprus: Island of Snakes, Cats, and Ophiolites
+**Fonte:** Nasa News
+
+The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/)
+
+---
+
+### NASA Announces X-70 Experimental Aircraft to Advance Flight Research 
+**Fonte:** Nasa News
+
+On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#160; The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will all...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/)
+
+---
+
+### NASA Shares Plans to Accelerate Artemis, Return to Moon
+**Fonte:** Nasa News
+
+In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/)
+
+---
+
+### NASA Announces Ka-Band Satellite Relay Awards for Space Communications
+**Fonte:** Nasa News
+
+NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/)
+
+---
+
+### NASA Navigation Experiment Shows Promise for Planetary Landings
+**Fonte:** Nasa News
+
+NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/)
 
 ---
 
