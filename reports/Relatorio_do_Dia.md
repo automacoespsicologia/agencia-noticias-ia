@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 05/11/2026 17:02
+# 🚀 Relatório da Agência Espacial - 06/11/2026 16:33
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Announces X-70 Experimental Aircraft to Advance Flight Research 
+## 1. CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O mercado espacial acaba de testemunhar uma movimentação financeira colossal: a CesiumAstro captou 730 milhões de dólares em sua rodada Série D, elevando sua avaliação para mais de 4,5 bilhões de dólares. Com esse aporte, a empresa planeja acelerar a constelação Synchronicity, consolidando-se como um gigante na infraestrutura de comunicações via satélite de próxima geração.
+
+🔗 [Ler notícia completa](https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/)
+
+---
+
+## 2. NASA’s CHAPEA Crew “Returns” to Earth
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de elevar o nível da aviação experimental com o novo X-70 Fractal. Mais do que apenas um avião, esta é uma plataforma ultra-adaptável projetada para ser o laboratório voador definitivo, prometendo revolucionar a velocidade com que novas tecnologias aeroespaciais saem do papel e ganham os céus.
+> Missão cumprida em solo terrestre para os futuros exploradores de Marte. Após 378 dias de isolamento absoluto, a tripulação da missão CHAPEA da NASA deixou o habitat simulado em Houston. Os dados coletados sobre saúde e desempenho humano nesse período são o alicerce técnico que permitirá à humanidade sobreviver aos desafios reais do Planeta Vermelho.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/)
 
 ---
 
-## 2. NASA Shares Plans to Accelerate Artemis, Return to Moon
-**Fonte:** Nasa News | **Categoria:** Mercado Espacial
+## 3. Hubble Reveals Cosmic Mystery
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A contagem regressiva para a Lua foi oficialmente acelerada. A liderança da NASA confirmou que a estratégia para levar humanos de volta à superfície lunar está agora fixada para 2028, impulsionando toda a cadeia de suprimentos espacial global em direção ao Polo Sul do nosso satélite natural.
+> O telescópio Hubble revelou um enigma químico nas profundezas do cosmos. Ao estudar 37 galáxias anãs vizinhas, cientistas descobriram que a distribuição de oxigênio desafia os modelos atuais de evolução galáctica. Essa descoberta valida novas teorias sobre como os elementos essenciais para a vida são forjados e espalhados pelo universo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/)
-
----
-
-## 3. DETUMBLER: Airbus’ Passive Spin Stabilization Solution
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Dizer adeus ao caos dos satélites descontrolados ficou mais fácil com a nova solução da Airbus. O sistema DETUMBLER utiliza estabilização passiva para impedir o giro errático de objetos em órbita, uma inovação técnica crucial para a limpeza do lixo espacial e para a segurança de constelações multibilionárias.
-
-🔗 [Ler notícia completa](https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/)
 
 ---
 
-## 4. NASA Navigation Experiment Shows Promise for Planetary Landings
+## 4. NASA Announces Ka-Band Satellite Relay Awards for Space Communications
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça os pousos arriscados em locais desconhecidos. A NASA demonstrou com sucesso o sistema SPLICE, uma inteligência artificial de navegação que permite que naves escolham o ponto exato de toque no solo em tempo real. É o fim da era da incerteza e o início da precisão absoluta em Marte e na Lua.
+> A NASA está redesenhando a forma como os dados viajam pelo espaço. A agência selecionou três empresas para desenvolver tecnologias de retransmissão em banda Ka, uma inovação que permitirá conexões de altíssima velocidade para naves espaciais atuais sem a necessidade de upgrades físicos caros. É a modernização definitiva da rede de comunicações interplanetárias.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/)
 
 ---
 
-## 5. NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. Send Your Name to Titan Aboard NASA’s Dragonfly Mission
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Telescópio James Webb perfurou o véu de poeira da nebulosa NGC 7129 para revelar uma visão sem precedentes do nascimento estelar. A observação de jatos supersônicos expelidos por estrelas recém-nascidas entrega aos astrônomos as peças que faltavam para entender como o caos molda a evolução do nosso universo.
+> A fronteira do voo extraterrestre está prestes a ser expandida com a missão Dragonfly. A NASA está convidando o público para participar simbolicamente da primeira missão científica que utilizará um drone rotorcraft para explorar a superfície de Titã, a lua de Saturno. É um marco da engenharia aeroespacial que testará voos autônomos em uma atmosfera densa e rica em matéria orgânica.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/)
 
 ---
 

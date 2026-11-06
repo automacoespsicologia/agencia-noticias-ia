@@ -1,4 +1,4 @@
-# 📥 Balde de Notícias Brutas - 05/11/2026 17:01
+# 📥 Balde de Notícias Brutas - 06/11/2026 16:33
 
 Atualmente existem **1204** notícias aguardando a curadoria do Editor.
 
@@ -9270,15 +9270,6 @@ A newly released panorama captured by NASA’s Curiosity rover offers the most d
 
 ---
 
-### NASA’s Webb Captures Commotion From Nebula’s Stellar Jets
-**Fonte:** Nasa News
-
-A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/)
-
----
-
 ### APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
 **Fonte:** Nasa News
 
@@ -10629,15 +10620,6 @@ Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Al
 
 ---
 
-### DETUMBLER: Airbus’ Passive Spin Stabilization Solution
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/)
-
----
-
 ### Astronaut and Earth
 **Fonte:** Nasa News
 
@@ -10809,24 +10791,6 @@ The third-largest island in the Mediterranean Sea exposes an ancient piece of th
 
 ---
 
-### NASA Announces X-70 Experimental Aircraft to Advance Flight Research 
-**Fonte:** Nasa News
-
-On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#160; The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will all...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/)
-
----
-
-### NASA Shares Plans to Accelerate Artemis, Return to Moon
-**Fonte:** Nasa News
-
-In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/)
-
----
-
 ### NASA Announces Ka-Band Satellite Relay Awards for Space Communications
 **Fonte:** Nasa News
 
@@ -10836,12 +10800,48 @@ NASA selected three companies on Wednesday to perform work to develop Ka-band sp
 
 ---
 
-### NASA Navigation Experiment Shows Promise for Planetary Landings
+### CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/)
+
+---
+
+### Cork Takes the Heat So DRACO’s Data Can Survive
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/)
+
+---
+
+### M30’s Sparkling Stars
 **Fonte:** Nasa News
 
-NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place [&#8230;]...
+This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about [&#8230;]...
 
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/)
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/m30s-sparkling-stars/)
+
+---
+
+### APOD: 2026 November 6 – A Farewell to Swift
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/)
+
+---
+
+### Taking a Gander at Utah’s Goosenecks
+**Fonte:** Nasa News
+
+The San Juan River has carved deep, improbably curvy meanders into the desert landscape....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/)
 
 ---
 
