@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 06/11/2026 16:33
+# 📥 Balde de Notícias Brutas - 07/11/2026 15:21
 
-Atualmente existem **1204** notícias aguardando a curadoria do Editor.
+Atualmente existem **1201** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -10413,15 +10413,6 @@ Read this release in English here. Puede que nunca llegues a surcar los cielos b
 
 ---
 
-### Send Your Name to Titan Aboard NASA’s Dragonfly Mission
-**Fonte:** Nasa News
-
-You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. &#160; To have your [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/)
-
----
-
 ### NASA’s Hubble Marks Way for Roman Space Telescope
 **Fonte:** Nasa News
 
@@ -10575,15 +10566,6 @@ APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submission
 
 ---
 
-### NASA’s CHAPEA Crew “Returns” to Earth
-**Fonte:** Nasa News
-
-The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/)
-
----
-
 ### What’s Up: November 2026 Skywatching Tips from NASA
 **Fonte:** Nasa News
 
@@ -10701,15 +10683,6 @@ NASA’s Inspiration Tour spread the excitement of space exploration and aeronau
 
 ---
 
-### Hubble Reveals Cosmic Mystery
-**Fonte:** Nasa News
-
-This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/)
-
----
-
 ### NASA, NOAA Track 2026 Antarctic Ozone Hole
 **Fonte:** Nasa News
 
@@ -10791,24 +10764,6 @@ The third-largest island in the Mediterranean Sea exposes an ancient piece of th
 
 ---
 
-### NASA Announces Ka-Band Satellite Relay Awards for Space Communications
-**Fonte:** Nasa News
-
-NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/)
-
----
-
-### CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/)
-
----
-
 ### Cork Takes the Heat So DRACO’s Data Can Survive
 **Fonte:** Space News
 
@@ -10842,6 +10797,24 @@ APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissi
 The San Juan River has carved deep, improbably curvy meanders into the desert landscape....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/)
+
+---
+
+### APOD: 2026 November 7 – De Gerlache-Kocher Massif
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/)
+
+---
+
+### Supercomputing Tech Demo Schedule
+**Fonte:** Nasa News
+
+Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Mat...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/)
 
 ---
 

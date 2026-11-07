@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 06/11/2026 16:33
+# 🚀 Relatório da Agência Espacial - 07/11/2026 15:22
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission
-**Fonte:** Space News | **Categoria:** Mercado Espacial
+## 1. China builds institutional framework for space computing push
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado espacial acaba de testemunhar uma movimentação financeira colossal: a CesiumAstro captou 730 milhões de dólares em sua rodada Série D, elevando sua avaliação para mais de 4,5 bilhões de dólares. Com esse aporte, a empresa planeja acelerar a constelação Synchronicity, consolidando-se como um gigante na infraestrutura de comunicações via satélite de próxima geração.
+> A computação espacial deu um salto gigante hoje. A China acaba de consolidar um novo marco institucional para levar o processamento de dados de alto desempenho diretamente para a órbita. Esqueça o simples envio de fotos: estamos falando de satélites que funcionam como centros de dados inteligentes, capazes de analisar informações no vácuo antes mesmo de tocarem o solo. É o início da era da inteligência artificial extraterrestre.
 
-🔗 [Ler notícia completa](https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/)
+🔗 [Ler notícia completa](https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/)
 
 ---
 
-## 2. NASA’s CHAPEA Crew “Returns” to Earth
+## 2. NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um mistério escondido no coração da nossa galáxia acaba de ser desvendado. O observatório Chandra localizou o que parecem ser os restos de uma supernova inédita bem no centro da Via Láctea. Essa descoberta científica validada não apenas reescreve a história violenta da nossa vizinhança cósmica, mas nos dá pistas cruciais sobre como a morte de estrelas gigantes molda o ambiente onde o Sol e a Terra estão inseridos.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/)
+
+---
+
+## 3. Millions of Stars in Cigar Galaxy
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Prepare-se para ver o universo com outros olhos. Em uma colaboração histórica, os telescópios James Webb e Hubble uniram forças para revelar milhões de estrelas na Galáxia do Charuto. O novo registro mostra, com uma precisão sem precedentes, o caos e a beleza das maternidades estelares e como ventos galácticos massivos espalham os elementos químicos necessários para a vida pelo cosmos.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/)
+
+---
+
+## 4. NASA Improves Shock, Vibration Analysis
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Missão cumprida em solo terrestre para os futuros exploradores de Marte. Após 378 dias de isolamento absoluto, a tripulação da missão CHAPEA da NASA deixou o habitat simulado em Houston. Os dados coletados sobre saúde e desempenho humano nesse período são o alicerce técnico que permitirá à humanidade sobreviver aos desafios reais do Planeta Vermelho.
+> O caminho para as estrelas acaba de ficar mais seguro e eficiente. A NASA anunciou hoje um avanço técnico revolucionário na análise de vibração e choque para foguetes. Com novos algoritmos de previsão, os engenheiros agora podem antecipar exatamente como cada componente de uma nave reagirá à fúria do lançamento, reduzindo drasticamente o risco de falhas e o custo de missões que levarão a humanidade de volta à Lua.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/)
-
----
-
-## 3. Hubble Reveals Cosmic Mystery
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio Hubble revelou um enigma químico nas profundezas do cosmos. Ao estudar 37 galáxias anãs vizinhas, cientistas descobriram que a distribuição de oxigênio desafia os modelos atuais de evolução galáctica. Essa descoberta valida novas teorias sobre como os elementos essenciais para a vida são forjados e espalhados pelo universo.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/)
+🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/)
 
 ---
 
-## 4. NASA Announces Ka-Band Satellite Relay Awards for Space Communications
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 5. Faster to Science: A Letter to the Science Community
+**Fonte:** Nasa News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está redesenhando a forma como os dados viajam pelo espaço. A agência selecionou três empresas para desenvolver tecnologias de retransmissão em banda Ka, uma inovação que permitirá conexões de altíssima velocidade para naves espaciais atuais sem a necessidade de upgrades físicos caros. É a modernização definitiva da rede de comunicações interplanetárias.
+> A burocracia espacial está com os dias contados. A NASA enviou um sinal claro ao mercado e à comunidade científica com a iniciativa 'Faster to Science'. Em uma mudança radical de estratégia, a agência vai reformular a forma como seleciona e compete por novas missões, prometendo entregar descobertas em tempo recorde. É o setor público acelerando o passo para não ficar para trás na nova corrida espacial privada.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/)
-
----
-
-## 5. Send Your Name to Titan Aboard NASA’s Dragonfly Mission
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira do voo extraterrestre está prestes a ser expandida com a missão Dragonfly. A NASA está convidando o público para participar simbolicamente da primeira missão científica que utilizará um drone rotorcraft para explorar a superfície de Titã, a lua de Saturno. É um marco da engenharia aeroespacial que testará voos autônomos em uma atmosfera densa e rica em matéria orgânica.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/)
+🔗 [Ler notícia completa](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/)
 
 ---
 
