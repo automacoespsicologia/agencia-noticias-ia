@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 07/11/2026 15:21
+# 📥 Balde de Notícias Brutas - 08/11/2026 15:43
 
-Atualmente existem **1201** notícias aguardando a curadoria do Editor.
+Atualmente existem **1200** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2275,15 +2275,6 @@ A powerful but mostly unseen water system at work during rocket engine tests at 
 
 ---
 
-### China builds institutional framework for space computing push
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/)
-
----
-
 ### Fighting Fire With Fire
 **Fonte:** Nasa News
 
@@ -2767,15 +2758,6 @@ The city’s metro area has pushed westward since it last hosted World Cup match
 NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the [&#823...
 
 🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/)
-
----
-
-### NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
-**Fonte:** Nasa News
-
-Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/)
 
 ---
 
@@ -3714,15 +3696,6 @@ NASA and the U.S. Small Business Administration will sign a memorandum of agreem
 The Republic of Botswana signed the Artemis Accords&#160;Thursday&#160;during a ceremony&#160;hosted by NASA&#160;at the agency’s headquarters in Washington,&#160;becoming the&#160;sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. “It is my privilege to welcome Botswana as the newest signatory of the Artemis Ac...
 
 🔗 [Link da Notícia](https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/)
-
----
-
-### Millions of Stars in Cigar Galaxy
-**Fonte:** Nasa News
-
-NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA&#8217;s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy. Because Webb can see infrared light, it is able to peer through clouds of [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/)
 
 ---
 
@@ -9918,15 +9891,6 @@ Written by Alex Innanen, Atmospheric Scientist at York University Earth planning
 
 ---
 
-### NASA Improves Shock, Vibration Analysis
-**Fonte:** Nasa News
-
-Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/)
-
----
-
 ### Software
 **Fonte:** Nasa News
 
@@ -10068,15 +10032,6 @@ APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submis
 Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/)
-
----
-
-### Faster to Science: A Letter to the Science Community
-**Fonte:** Nasa News
-
-NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall....
-
-🔗 [Link da Notícia](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/)
 
 ---
 
@@ -10815,6 +10770,42 @@ APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submission
 Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Mat...
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/)
+
+---
+
+### NASA Announces $1 Million to Students for Moon Base Challenge
+**Fonte:** Nasa News
+
+On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/)
+
+---
+
+### APOD: 2026 November 8 – Major Fireball Meteor
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/)
+
+---
+
+### NASA Awards Moon Base Transportation, Technology, Science Projects
+**Fonte:** Nasa News
+
+NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/)
+
+---
+
+### NASA Seeks Next Generation of Explorers to Join Astronaut Corps
+**Fonte:** Nasa News
+
+NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/)
 
 ---
 

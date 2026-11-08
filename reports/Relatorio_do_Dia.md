@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 07/11/2026 15:22
+# 🚀 Relatório da Agência Espacial - 08/11/2026 15:43
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. China builds institutional framework for space computing push
+## 1. NASA Awards Moon Base Transportation, Technology, Science Projects
+**Fonte:** Nasa News | **Categoria:** Infraestrutura e Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A NASA acaba de elevar o patamar da colonização lunar: com o anúncio do rover movido a energia nuclear PROMISE e novos contratos milionários para transferência orbital, a agência consolida a infraestrutura necessária para uma presença humana permanente. Não estamos apenas visitando a Lua; estamos instalando os alicerces logísticos da primeira economia verdadeiramente extraterrestre.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/)
+
+---
+
+## 2. NASA’s Chandra Unveils Mysterious X-Ray Objects
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um enigma astrofísico de décadas pode estar perto do fim. Utilizando o Observatório de Raios-X Chandra, cientistas identificaram uma classe inteiramente nova de objetos cósmicos que se comportam de maneira inédita. A descoberta promete reescrever os manuais sobre a evolução das galáxias e como a matéria interage sob condições extremas no vácuo espacial.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/)
+
+---
+
+## 3. Summer of Quantum: Building momentum for space-based QKD
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A computação espacial deu um salto gigante hoje. A China acaba de consolidar um novo marco institucional para levar o processamento de dados de alto desempenho diretamente para a órbita. Esqueça o simples envio de fotos: estamos falando de satélites que funcionam como centros de dados inteligentes, capazes de analisar informações no vácuo antes mesmo de tocarem o solo. É o início da era da inteligência artificial extraterrestre.
+> A segurança digital global está prestes a ganhar um escudo orbital. O avanço da Distribuição de Chaves Quânticas (QKD) baseada no espaço marca um salto técnico vital: a criação de uma rede de comunicações imune a hackers. É a tecnologia quântica saindo dos laboratórios para proteger a infraestrutura crítica da Terra a partir das estrelas.
 
-🔗 [Ler notícia completa](https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/)
-
----
-
-## 2. NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Um mistério escondido no coração da nossa galáxia acaba de ser desvendado. O observatório Chandra localizou o que parecem ser os restos de uma supernova inédita bem no centro da Via Láctea. Essa descoberta científica validada não apenas reescreve a história violenta da nossa vizinhança cósmica, mas nos dá pistas cruciais sobre como a morte de estrelas gigantes molda o ambiente onde o Sol e a Terra estão inseridos.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/)
+🔗 [Ler notícia completa](https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/)
 
 ---
 
-## 3. Millions of Stars in Cigar Galaxy
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Prepare-se para ver o universo com outros olhos. Em uma colaboração histórica, os telescópios James Webb e Hubble uniram forças para revelar milhões de estrelas na Galáxia do Charuto. O novo registro mostra, com uma precisão sem precedentes, o caos e a beleza das maternidades estelares e como ventos galácticos massivos espalham os elementos químicos necessários para a vida pelo cosmos.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/)
-
----
-
-## 4. NASA Improves Shock, Vibration Analysis
+## 4. Interworld Slingshot Resource Surveys
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O caminho para as estrelas acaba de ficar mais seguro e eficiente. A NASA anunciou hoje um avanço técnico revolucionário na análise de vibração e choque para foguetes. Com novos algoritmos de previsão, os engenheiros agora podem antecipar exatamente como cada componente de uma nave reagirá à fúria do lançamento, reduzindo drasticamente o risco de falhas e o custo de missões que levarão a humanidade de volta à Lua.
+> Esqueça os pousos lentos e complexos: a nova fronteira da prospecção mineral será feita em alta velocidade. Um novo conceito técnico utiliza espectroscopia Raman em voos rasantes para mapear recursos preciosos sem a necessidade de tocar o solo. É a transformação de sondas de reconhecimento em geólogos espaciais ultrarrápidos, mudando as regras do jogo para a mineração de asteroides.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/)
 
 ---
 
-## 5. Faster to Science: A Letter to the Science Community
-**Fonte:** Nasa News | **Categoria:** Mercado
+## 5. Three companies building the tech to grow crops on the moon
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A burocracia espacial está com os dias contados. A NASA enviou um sinal claro ao mercado e à comunidade científica com a iniciativa 'Faster to Science'. Em uma mudança radical de estratégia, a agência vai reformular a forma como seleciona e compete por novas missões, prometendo entregar descobertas em tempo recorde. É o setor público acelerando o passo para não ficar para trás na nova corrida espacial privada.
+> A autossuficiência biológica fora da Terra deu um passo decisivo hoje. Três empresas de vanguarda validaram tecnologias para o cultivo de colheitas em solo lunar, superando desafios críticos de radiação e ciclos de nutrientes. O sucesso desses sistemas é a peça que faltava para garantir que as futuras colônias em Marte e na Lua não dependam exclusivamente de carregamentos vindos da Terra.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/)
+🔗 [Ler notícia completa](https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/)
 
 ---
 
