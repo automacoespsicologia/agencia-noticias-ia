@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 08/11/2026 15:43
+# 📥 Balde de Notícias Brutas - 09/11/2026 19:26
 
-Atualmente existem **1200** notícias aguardando a curadoria do Editor.
+Atualmente existem **1204** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5013,15 +5013,6 @@ NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars�
 
 ---
 
-### Interworld Slingshot Resource Surveys
-**Fonte:** Nasa News
-
-Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys&#8211;without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon, ore content at asteroids, and volatile-bearing minerals at Mars&#8217; moons&#8...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/)
-
----
-
 ### Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness 
 **Fonte:** Nasa News
 
@@ -6018,15 +6009,6 @@ The coastal dune field in Brazil looks like a desert but fills with freshwater l
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/)
-
----
-
-### Three companies building the tech to grow crops on the moon
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/)
 
 ---
 
@@ -7863,15 +7845,6 @@ APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissi
 At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/)
-
----
-
-### NASA’s Chandra Unveils Mysterious X-Ray Objects
-**Fonte:** Nasa News
-
-Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/)
 
 ---
 
@@ -9954,15 +9927,6 @@ APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndex
 
 ---
 
-### Summer of Quantum: Building momentum for space-based QKD
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/)
-
----
-
 ### APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 **Fonte:** Nasa News
 
@@ -10791,21 +10755,93 @@ APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submission
 
 ---
 
-### NASA Awards Moon Base Transportation, Technology, Science Projects
-**Fonte:** Nasa News
-
-NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/)
-
----
-
 ### NASA Seeks Next Generation of Explorers to Join Astronaut Corps
 **Fonte:** Nasa News
 
 NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/)
+
+---
+
+### CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/)
+
+---
+
+### NASA Advanced Mid-Power Electric Rocket Challenge
+**Fonte:** Nasa News
+
+Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall e...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/)
+
+---
+
+### La NASA destina un millón de dólares al reto estudiantil Base Lunar
+**Fonte:** Nasa News
+
+Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/)
+
+---
+
+### Astronauts Across Generations Share the Stage
+**Fonte:** Nasa News
+
+On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA&#8217;s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency&#8217;s [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/)
+
+---
+
+### MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future
+**Fonte:** Nasa News
+
+Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/)
+
+---
+
+### NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
+**Fonte:** Nasa News
+
+NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/)
+
+---
+
+### CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars 
+**Fonte:** Nasa News
+
+After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation.&#160; Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery&#160;entered the roughly 1,700-square-foot, 3D-printed habitat at [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/)
+
+---
+
+### APOD: 2026 November 9 – Rigel and the Witch Head Nebula
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 November 9 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the Witch Head Nebula Explanation: Does the blue nebula look like the ...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/)
+
+---
+
+### Ozone Hole Reaches Its 2026 Maximum
+**Fonte:** Nasa News
+
+The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/)
 
 ---
 
