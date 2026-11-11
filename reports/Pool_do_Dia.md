@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 09/11/2026 19:26
+# 📥 Balde de Notícias Brutas - 11/11/2026 16:50
 
-Atualmente existem **1204** notícias aguardando a curadoria do Editor.
+Atualmente existem **1213** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3750,15 +3750,6 @@ A mission to raise the orbit of NASA’s Swift observatory is poised for launch 
 NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar [&#82...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/)
-
----
-
-### Euclid Sees Heart of Milky Way
-**Fonte:** Nasa News
-
-Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/)
 
 ---
 
@@ -9720,15 +9711,6 @@ NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agenc
 
 ---
 
-### NASA Satellites Observe Historic 2026 El Niño
-**Fonte:** Nasa News
-
-A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/)
-
----
-
 ### Power Up: Roll Out Solar Arrays Boost Space Station Power Supply
 **Fonte:** Nasa News
 
@@ -10239,15 +10221,6 @@ The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in
 Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30....
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/)
-
----
-
-### Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/)
 
 ---
 
@@ -10773,15 +10746,6 @@ NASA is looking for the explorers who will help write the next chapter of human 
 
 ---
 
-### NASA Advanced Mid-Power Electric Rocket Challenge
-**Fonte:** Nasa News
-
-Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall e...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/)
-
----
-
 ### La NASA destina un millón de dólares al reto estudiantil Base Lunar
 **Fonte:** Nasa News
 
@@ -10809,15 +10773,6 @@ Thousands gathered over several days in early November to experience MAX POWER �
 
 ---
 
-### NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
-**Fonte:** Nasa News
-
-NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/)
-
----
-
 ### CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars 
 **Fonte:** Nasa News
 
@@ -10842,6 +10797,132 @@ APODScienceAPODAPOD: 2026 November 9 –…Today’s APODArchiveSubmissionsIndex
 The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/)
+
+---
+
+### Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/)
+
+---
+
+### Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/)
+
+---
+
+### Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/)
+
+---
+
+### ESCAPADE on its way to Mars after Earth flybys
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/)
+
+---
+
+### APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/)
+
+---
+
+### Water Surges Into Navajo Reservoir
+**Fonte:** Nasa News
+
+Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/)
+
+---
+
+### NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
+**Fonte:** Nasa News
+
+Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/)
+
+---
+
+### NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
+**Fonte:** Nasa News
+
+NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/)
+
+---
+
+### NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
+**Fonte:** Nasa News
+
+The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/)
+
+---
+
+### CHAPEA Crew Leaves a Mark
+**Fonte:** Nasa News
+
+The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.&#160;Health [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/)
+
+---
+
+### APOD: 2026 November 10 – Saturn Behind the Moon
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/)
+
+---
+
+### Autumn Mornings Bring Valley Fog
+**Fonte:** Nasa News
+
+Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/)
+
+---
+
+### Curiosity Blog, Sols 5056-5062: Charging Back Up!
+**Fonte:** Nasa News
+
+By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/)
+
+---
+
+### Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole
+**Fonte:** Nasa News
+
+Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/)
 
 ---
 

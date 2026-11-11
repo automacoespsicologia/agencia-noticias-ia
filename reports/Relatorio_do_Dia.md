@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 09/11/2026 19:26
+# 🚀 Relatório da Agência Espacial - 11/11/2026 16:51
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 1. NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Rumo ao Planeta Vermelho! As sondas gêmeas da missão ESCAPADE da NASA completaram com sucesso manobras cruciais de estilingue gravitacional na Terra e agora seguem em alta velocidade para Marte. O sucesso técnico no uso combinado de gravidade e queima de motores marca um avanço essencial para viabilizar missões científicas complexas com alta eficiência de combustível no espaço profundo.
+> Estamos prestes a 'ouvir' planetas em vez de apenas vê-los. Novas pesquisas da NASA revelam como o futuro observatório LISA será capaz de usar ondulações no tecido do espaço-tempo para detectar exoplanetas invisíveis aos telescópios atuais, transformando radicalmente a nossa busca por novos mundos através das ondas gravitacionais.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/)
 
 ---
 
-## 2. Euclid Sees Heart of Milky Way
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 2. Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
+**Fonte:** Nasa News | **Categoria:** Inovação
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O detetive do universo escuro revela seus segredos. O telescópio Euclid, fruto de uma colaboração entre ESA e NASA, capturou imagens inéditas e detalhadas do coração da Via Láctea. Os dados obtidos nesta observação prometem revolucionar nossa compreensão sobre a matéria escura e a energia que molda o cosmos, oferecendo um vislumbre sem precedentes das origens da nossa própria galáxia.
+> O próximo grande salto da exploração planetária terá hélices e voará nos céus de Saturno. A missão Dragonfly, que enviará um drone robótico para explorar as dunas orgânicas de Titã, entrou em uma nova fase global, convidando o público a embarcar simbolicamente nessa jornada que busca os blocos fundamentais da vida em outro mundo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/)
 
 ---
 
-## 3. NASA Advanced Mid-Power Electric Rocket Challenge
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 3. Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
+**Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A revolução da propulsão elétrica ganha um novo capítulo. A NASA lançou o desafio AMPERE para desenvolver motores iônicos por efeito Hall de média potência, uma tecnologia crítica para a nova geração de satélites de defesa e exploração. O objetivo é garantir que futuras naves espaciais sejam mais ágeis, duradouras e capazes de realizar manobras complexas que hoje são impossíveis.
+> A corrida espacial está deixando a terra firme e indo para o mar. Em uma movimentação estratégica de mercado, a Kratos e a Seagate Space fecharam uma parceria para viabilizar lançamentos móveis a partir do oceano, uma inovação logística que promete dar às missões de segurança nacional uma agilidade e flexibilidade geográfica sem precedentes.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/)
+🔗 [Ler notícia completa](https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/)
 
 ---
 
-## 4. NASA Satellites Observe Historic 2026 El Niño
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 4. Scout Space raises $18 million to expand orbital tracking technology
+**Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O planeta sob vigilância máxima: satélites da NASA validaram que o fenômeno El Niño de 2026 está se tornando um dos eventos climáticos mais intensos já registrados pela humanidade. Através de dados precisos de altimetria oceânica, cientistas agora conseguem prever com clareza mudanças drásticas no ciclo global de chuvas, fornecendo informações vitais para a segurança alimentar e infraestrutura mundial.
+> O congestionamento orbital acaba de ganhar um novo xerife. A startup Scout Space levantou 18 milhões de dólares para acelerar sua tecnologia de rastreamento no espaço, focada em monitorar ameaças e destroços em tempo real, um setor que se tornou o novo 'oceano azul' para investidores que buscam segurança na infraestrutura espacial.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/)
+🔗 [Ler notícia completa](https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/)
 
 ---
 
-## 5. Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 5. NASA’s Simulated Mars Crew Marks One Year Inside Habitat 
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida pela energia orbital ganha força com a nova parceria estratégica entre a Flexell Space e a Satoro. As empresas vão realizar demonstrações em órbita de células solares de próxima geração, muito mais leves e eficientes que as atuais. O movimento sinaliza uma grande transição no mercado espacial, focado em sustentar a crescente economia de dados e as futuras bases habitadas na Lua.
+> Isolamento total: quatro voluntários da NASA acabam de concluir 378 dias vivendo em um habitat que simula a realidade implacável de Marte. Os dados coletados nessa jornada de mais de um ano sem janelas para o mundo exterior são a chave final para entendermos como o corpo e a mente humana vão resistir à futura colonização do Planeta Vermelho.
 
-🔗 [Ler notícia completa](https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/)
+🔗 [Ler notícia completa](https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/)
 
 ---
 
