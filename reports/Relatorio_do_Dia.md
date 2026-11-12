@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 11/11/2026 16:51
+# 🚀 Relatório da Agência Espacial - 12/11/2026 17:18
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 1. Xona secures spectrum approval for satellite navigation network
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Estamos prestes a 'ouvir' planetas em vez de apenas vê-los. Novas pesquisas da NASA revelam como o futuro observatório LISA será capaz de usar ondulações no tecido do espaço-tempo para detectar exoplanetas invisíveis aos telescópios atuais, transformando radicalmente a nossa busca por novos mundos através das ondas gravitacionais.
+> O monopólio governamental sobre o GPS está prestes a enfrentar um desafio sem precedentes no setor privado. A Xona Space Systems acaba de garantir as licenças de espectro cruciais para operar sua própria rede de navegação via satélite. Com foco em precisão extrema para carros autônomos e infraestrutura crítica, a Xona posiciona-se para ser a primeira grande alternativa comercial ao sistema de posicionamento global que conhecemos.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/)
+🔗 [Ler notícia completa](https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/)
 
 ---
 
-## 2. Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
-**Fonte:** Nasa News | **Categoria:** Inovação
+## 2. New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O próximo grande salto da exploração planetária terá hélices e voará nos céus de Saturno. A missão Dragonfly, que enviará um drone robótico para explorar as dunas orgânicas de Titã, entrou em uma nova fase global, convidando o público a embarcar simbolicamente nessa jornada que busca os blocos fundamentais da vida em outro mundo.
+> Cientistas estão transformando o gelo da Antártida em um laboratório espacial de proporções gigantescas. O novo instrumento PUEO, da NASA, utilizará o manto de gelo do polo sul para detectar neutrinos de ultra-alta energia — as partículas mais energéticas e misteriosas do universo. É a engenharia de elite aproveitando os ambientes mais extremos da Terra para abrir uma nova janela para a física do cosmos profundo.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/)
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/)
 
 ---
 
-## 3. Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
-**Fonte:** Space News | **Categoria:** Negócios
+## 3. ESCAPADE on its way to Mars after Earth flybys
+**Fonte:** Space News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida espacial está deixando a terra firme e indo para o mar. Em uma movimentação estratégica de mercado, a Kratos e a Seagate Space fecharam uma parceria para viabilizar lançamentos móveis a partir do oceano, uma inovação logística que promete dar às missões de segurança nacional uma agilidade e flexibilidade geográfica sem precedentes.
+> A missão ESCAPADE está oficialmente a caminho de Marte após completar com sucesso seus sobrevoos de assistência gravitacional pela Terra. Pela primeira vez, dois satélites gêmeos trabalharão em conjunto para mapear como o vento solar 'arranca' a atmosfera do Planeta Vermelho em tempo real. Esta jornada é fundamental para resolver o enigma de como Marte se tornou um deserto árido e se um dia poderemos restaurar sua habitabilidade.
 
-🔗 [Ler notícia completa](https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/)
+🔗 [Ler notícia completa](https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/)
 
 ---
 
-## 4. Scout Space raises $18 million to expand orbital tracking technology
-**Fonte:** Space News | **Categoria:** Negócios
+## 4. Experience the Launch of NASA’s Roman Space Telescope 
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O congestionamento orbital acaba de ganhar um novo xerife. A startup Scout Space levantou 18 milhões de dólares para acelerar sua tecnologia de rastreamento no espaço, focada em monitorar ameaças e destroços em tempo real, um setor que se tornou o novo 'oceano azul' para investidores que buscam segurança na infraestrutura espacial.
+> A NASA está prestes a entregar aos astrônomos uma visão 'panorâmica' do universo com o Telescópio Espacial Nancy Grace Roman. Com um campo de visão cem vezes superior ao do Hubble, esta nova joia da engenharia espacial foi projetada para caçar exoplanetas e mapear a matéria escura com uma velocidade sem precedentes. O projeto entra agora em sua fase final de integração, prometendo revolucionar nossa compreensão sobre a expansão do cosmos.
 
-🔗 [Ler notícia completa](https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/)
+🔗 [Ler notícia completa](https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/)
 
 ---
 
-## 5. NASA’s Simulated Mars Crew Marks One Year Inside Habitat 
-**Fonte:** Nasa News | **Categoria:** Ciência
+## 5. Redwire pursues opportunities in landers and power systems for NASA’s moon base plans
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Isolamento total: quatro voluntários da NASA acabam de concluir 378 dias vivendo em um habitat que simula a realidade implacável de Marte. Os dados coletados nessa jornada de mais de um ano sem janelas para o mundo exterior são a chave final para entendermos como o corpo e a mente humana vão resistir à futura colonização do Planeta Vermelho.
+> A economia lunar está deixando de ser ficção para se tornar um mercado industrial robusto. A Redwire anunciou uma movimentação estratégica para liderar o fornecimento de infraestrutura e sistemas de energia para as futuras bases na Lua. Ao focar em tecnologias de pouso e sustentação de longa duração, a empresa sinaliza para investidores que a presença humana permanente no solo lunar é a próxima grande fronteira de escala comercial desta década.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/)
+🔗 [Ler notícia completa](https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/)
 
 ---
 

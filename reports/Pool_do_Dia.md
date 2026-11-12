@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 11/11/2026 16:50
+# 📥 Balde de Notícias Brutas - 12/11/2026 17:18
 
-Atualmente existem **1213** notícias aguardando a curadoria do Editor.
+Atualmente existem **1214** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -820,15 +820,6 @@ On May 4, 1976, a spacecraft resembling a disco ball entered orbit almost 3,700 
 Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/)
-
----
-
-### Scout Space raises $18 million to expand orbital tracking technology
-**Fonte:** Space News
-
-Series A funding will support manufacturing expansion in Northern Virginia...
-
-🔗 [Link da Notícia](https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/)
 
 ---
 
@@ -9864,15 +9855,6 @@ Research teams at the NASA Glenn Research Center perform experiments in world-cl
 
 ---
 
-### NASA’s Simulated Mars Crew Marks One Year Inside Habitat 
-**Fonte:** Nasa News
-
-The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston. ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/)
-
----
-
 ### Instrumentation
 **Fonte:** Nasa News
 
@@ -10293,15 +10275,6 @@ A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Sur
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/)
-
----
-
-### Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA
-**Fonte:** Nasa News
-
-Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/)
 
 ---
 
@@ -10818,15 +10791,6 @@ The ozone hole ranked seventh largest by area in 48 years of monitoring, but it 
 
 ---
 
-### Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/)
-
----
-
 ### ESCAPADE on its way to Mars after Earth flybys
 **Fonte:** Space News
 
@@ -10872,15 +10836,6 @@ NASA will welcome home the Expedition 74 crew during a public event at Space Cen
 
 ---
 
-### NASA Scientists Show How Gravitational Waves Can Reveal New Worlds
-**Fonte:** Nasa News
-
-The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/)
-
----
-
 ### CHAPEA Crew Leaves a Mark
 **Fonte:** Nasa News
 
@@ -10923,6 +10878,60 @@ By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Fr
 Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/)
+
+---
+
+### Senate committee takes up nominees for NASA chief financial officer and inspector general
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/)
+
+---
+
+### NASA’s Hubble Offers Cosmic Sampler of Targets for Roman
+**Fonte:** Nasa News
+
+A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/)
+
+---
+
+### Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA
+**Fonte:** Nasa News
+
+As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/)
+
+---
+
+### APOD: 2026 November 12 – Moon, Venus and Spica Meet
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/)
+
+---
+
+### Scotland’s Flow Country
+**Fonte:** Nasa News
+
+Blanket bogs in the Scottish Highlands store vast amounts of carbon....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/)
+
+---
+
+### Curiosity Blog, Sols 5063-5069 Rocks and Chips
+**Fonte:** Nasa News
+
+Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/)
 
 ---
 
