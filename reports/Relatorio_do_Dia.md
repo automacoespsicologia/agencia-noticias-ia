@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 12/11/2026 17:18
+# 🚀 Relatório da Agência Espacial - 13/11/2026 16:54
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Xona secures spectrum approval for satellite navigation network
-**Fonte:** Space News | **Categoria:** Mercado
+## 1. AST SpaceMobile presses case for developing own launch vehicle
+**Fonte:** Space News | **Categoria:** Negócios
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O monopólio governamental sobre o GPS está prestes a enfrentar um desafio sem precedentes no setor privado. A Xona Space Systems acaba de garantir as licenças de espectro cruciais para operar sua própria rede de navegação via satélite. Com foco em precisão extrema para carros autônomos e infraestrutura crítica, a Xona posiciona-se para ser a primeira grande alternativa comercial ao sistema de posicionamento global que conhecemos.
+> A corrida espacial acaba de sofrer uma reviravolta ambiciosa. A AST SpaceMobile, gigante das conexões diretas entre satélites e celulares, agora quer dominar o transporte: a empresa anunciou que está desenvolvendo seu próprio foguete, o Blacklift. É um movimento agressivo de verticalização que promete chacoalhar o mercado de lançamentos e reduzir a dependência de terceiros para colocar suas megaconstelações em órbita.
 
-🔗 [Ler notícia completa](https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/)
+🔗 [Ler notícia completa](https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/)
 
 ---
 
-## 2. New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
+## 2. NASA’s Hubble Charts Path for Roman with Gravitational Lenses 
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Cientistas estão transformando o gelo da Antártida em um laboratório espacial de proporções gigantescas. O novo instrumento PUEO, da NASA, utilizará o manto de gelo do polo sul para detectar neutrinos de ultra-alta energia — as partículas mais energéticas e misteriosas do universo. É a engenharia de elite aproveitando os ambientes mais extremos da Terra para abrir uma nova janela para a física do cosmos profundo.
+> O lendário telescópio Hubble está atuando como o batedor de elite para a próxima grande missão da NASA. Através do estudo de lentes gravitacionais, os cientistas estão mapeando com precisão inédita os alvos para o Nancy Grace Roman Space Telescope. Essa sinergia tecnológica garante que o novo observatório 'flagship' já inicie suas operações com o mapa perfeito para desvendar os segredos da matéria escura.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/)
-
----
-
-## 3. ESCAPADE on its way to Mars after Earth flybys
-**Fonte:** Space News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A missão ESCAPADE está oficialmente a caminho de Marte após completar com sucesso seus sobrevoos de assistência gravitacional pela Terra. Pela primeira vez, dois satélites gêmeos trabalharão em conjunto para mapear como o vento solar 'arranca' a atmosfera do Planeta Vermelho em tempo real. Esta jornada é fundamental para resolver o enigma de como Marte se tornou um deserto árido e se um dia poderemos restaurar sua habitabilidade.
-
-🔗 [Ler notícia completa](https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/)
 
 ---
 
-## 4. Experience the Launch of NASA’s Roman Space Telescope 
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+## 3. NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA está prestes a entregar aos astrônomos uma visão 'panorâmica' do universo com o Telescópio Espacial Nancy Grace Roman. Com um campo de visão cem vezes superior ao do Hubble, esta nova joia da engenharia espacial foi projetada para caçar exoplanetas e mapear a matéria escura com uma velocidade sem precedentes. O projeto entra agora em sua fase final de integração, prometendo revolucionar nossa compreensão sobre a expansão do cosmos.
+> Um marco histórico para a humanidade: a sonda Voyager 1 acaba de atingir a distância de um 'dia-luz' da Terra. O objeto mais distante já construído pelo homem agora está a mais de 16 bilhões de milhas — tão longe que qualquer comando enviado pela NASA leva exatamente 24 horas para ser recebido. É a prova definitiva da resiliência técnica de uma missão que já dura quase meio século e continua avançando no vazio interestelar.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/)
 
 ---
 
-## 5. Redwire pursues opportunities in landers and power systems for NASA’s moon base plans
-**Fonte:** Space News | **Categoria:** Mercado
+## 4. NASA Watches Earth’s Weight, Finds Center of Mass
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A economia lunar está deixando de ser ficção para se tornar um mercado industrial robusto. A Redwire anunciou uma movimentação estratégica para liderar o fornecimento de infraestrutura e sistemas de energia para as futuras bases na Lua. Ao focar em tecnologias de pouso e sustentação de longa duração, a empresa sinaliza para investidores que a presença humana permanente no solo lunar é a próxima grande fronteira de escala comercial desta década.
+> Cientistas da NASA confirmaram que o centro de massa da Terra está em movimento constante. Graças a dados de satélites de última geração, a agência detectou oscilações milimétricas causadas pela redistribuição sazonal de água no planeta. Essa descoberta validada é crítica para a humanidade: ela serve como o ponto de referência definitivo para calibrar a precisão de todos os sistemas de navegação GPS e monitoramento climático global.
 
-🔗 [Ler notícia completa](https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/)
+🔗 [Ler notícia completa](https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/)
+
+---
+
+## 5. Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O futuro da logística no espaço acaba de ganhar conectividade Wi-Fi de alta performance. Em uma demonstração técnica crucial para as futuras missões Artemis, a NASA e a startup Solstar validaram o uso de redes sem fio em operações de proximidade orbital. Essa tecnologia permite que naves e robôs troquem dados em tempo real durante manobras de acoplamento, eliminando a dependência de cabos e sistemas de rádio complexos.
+
+🔗 [Ler notícia completa](https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/)
 
 ---
 

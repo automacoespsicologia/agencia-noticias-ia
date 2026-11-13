@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 12/11/2026 17:18
+# 📥 Balde de Notícias Brutas - 13/11/2026 16:54
 
-Atualmente existem **1214** notícias aguardando a curadoria do Editor.
+Atualmente existem **1219** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -1048,15 +1048,6 @@ NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch
 
 ---
 
-### Redwire pursues opportunities in landers and power systems for NASA’s moon base plans
-**Fonte:** Space News
-
-Redwire is taking a renewed interest in lunar landers given the demand signal from NASA to support the agency’s ambitions to develop a moon base....
-
-🔗 [Link da Notícia](https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/)
-
----
-
 ### Military space boom meets Beltway friction
 **Fonte:** Space News
 
@@ -1804,15 +1795,6 @@ Students in New York will hear from NASA astronaut Jessica Meir as she answers t
 Chennai, on India&#8217;s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station. Earth observations from the space station let us see how our planet [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/chennai-city-lights/)
-
----
-
-### New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
-**Fonte:** Nasa News
-
-The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe. ...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/)
 
 ---
 
@@ -2866,15 +2848,6 @@ NASA astronaut Anil Menon will be available for limited media interviews beginni
 An astronaut aboard the International Space Station took this picture of downtown San Francisco and nearby communities&#160;on May 27, 2026. The image captures two of the region&#8217;s iconic bridges. The Golden Gate Bridge connects the northern San Francisco Peninsula with Marin County to the north, while the San Francisco-Oakland Bay Bridge spans the bay toward [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/)
-
----
-
-### Experience the Launch of NASA’s Roman Space Telescope 
-**Fonte:** Nasa News
-
-Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!&#160;&#160; Digital creators and social media users are invited to register to our NASA Social for the Nancy [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/)
 
 ---
 
@@ -5694,15 +5667,6 @@ APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submiss
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/)
-
----
-
-### Xona secures spectrum approval for satellite navigation network
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/)
 
 ---
 
@@ -10791,15 +10755,6 @@ The ozone hole ranked seventh largest by area in 48 years of monitoring, but it 
 
 ---
 
-### ESCAPADE on its way to Mars after Earth flybys
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/)
-
----
-
 ### APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact
 **Fonte:** Nasa News
 
@@ -10932,6 +10887,96 @@ Blanket bogs in the Scottish Highlands store vast amounts of carbon....
 Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/)
+
+---
+
+### AST SpaceMobile presses case for developing own launch vehicle
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/)
+
+---
+
+### UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/)
+
+---
+
+### What role does industry play in Europe’s space sovereignty push?
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/)
+
+---
+
+### Outbursts from a Massive Star
+**Fonte:** Nasa News
+
+Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/)
+
+---
+
+### Gemini Astronaut Photos Inspired Early Earth Observation Program
+**Fonte:** Nasa News
+
+Astronauts James A. Lovell Jr. and Edwin E. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/)
+
+---
+
+### APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/)
+
+---
+
+### A Global Rebound for Mangroves
+**Fonte:** Nasa News
+
+After decades of decline, this ecologically significant type of forest is making a comeback....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/)
+
+---
+
+### I Am Artemis Katie Spicer
+**Fonte:** Nasa News
+
+For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/)
+
+---
+
+### Heart in the Sky at NASA Kennedy
+**Fonte:** Nasa News
+
+The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/)
+
+---
+
+### NASA Ames Stars of the Month: November 2026
+**Fonte:** Nasa News
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer a...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/)
 
 ---
 
