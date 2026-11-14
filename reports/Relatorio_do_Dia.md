@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 13/11/2026 16:54
+# 🚀 Relatório da Agência Espacial - 14/11/2026 15:29
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. AST SpaceMobile presses case for developing own launch vehicle
-**Fonte:** Space News | **Categoria:** Negócios
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A corrida espacial acaba de sofrer uma reviravolta ambiciosa. A AST SpaceMobile, gigante das conexões diretas entre satélites e celulares, agora quer dominar o transporte: a empresa anunciou que está desenvolvendo seu próprio foguete, o Blacklift. É um movimento agressivo de verticalização que promete chacoalhar o mercado de lançamentos e reduzir a dependência de terceiros para colocar suas megaconstelações em órbita.
-
-🔗 [Ler notícia completa](https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/)
-
----
-
-## 2. NASA’s Hubble Charts Path for Roman with Gravitational Lenses 
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O lendário telescópio Hubble está atuando como o batedor de elite para a próxima grande missão da NASA. Através do estudo de lentes gravitacionais, os cientistas estão mapeando com precisão inédita os alvos para o Nancy Grace Roman Space Telescope. Essa sinergia tecnológica garante que o novo observatório 'flagship' já inicie suas operações com o mapa perfeito para desvendar os segredos da matéria escura.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/)
-
----
-
-## 3. NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Um marco histórico para a humanidade: a sonda Voyager 1 acaba de atingir a distância de um 'dia-luz' da Terra. O objeto mais distante já construído pelo homem agora está a mais de 16 bilhões de milhas — tão longe que qualquer comando enviado pela NASA leva exatamente 24 horas para ser recebido. É a prova definitiva da resiliência técnica de uma missão que já dura quase meio século e continua avançando no vazio interestelar.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/)
-
----
-
-## 4. NASA Watches Earth’s Weight, Finds Center of Mass
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Cientistas da NASA confirmaram que o centro de massa da Terra está em movimento constante. Graças a dados de satélites de última geração, a agência detectou oscilações milimétricas causadas pela redistribuição sazonal de água no planeta. Essa descoberta validada é crítica para a humanidade: ela serve como o ponto de referência definitivo para calibrar a precisão de todos os sistemas de navegação GPS e monitoramento climático global.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/)
-
----
-
-## 5. Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
+## 1. Craft Prospect kicks off PERSEUS project to advance optical communications for space
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da logística no espaço acaba de ganhar conectividade Wi-Fi de alta performance. Em uma demonstração técnica crucial para as futuras missões Artemis, a NASA e a startup Solstar validaram o uso de redes sem fio em operações de proximidade orbital. Essa tecnologia permite que naves e robôs troquem dados em tempo real durante manobras de acoplamento, eliminando a dependência de cabos e sistemas de rádio complexos.
+> O fim do gargalo nas comunicações espaciais pode estar próximo. O projeto PERSEUS acaba de entrar em uma nova fase para acelerar o uso de links ópticos em órbita, prometendo conexões a laser que vão tornar as transmissões de rádio obsoletas e levar a internet de alta velocidade para o vácuo do espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/)
+🔗 [Ler notícia completa](https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/)
+
+---
+
+## 2. NASA, International Partners Advance Work on Space Crops
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Plantar na Lua deixou de ser ficção científica para se tornar um projeto de engenharia internacional. NASA, agências alemãs e canadenses assinaram um acordo histórico para desenvolver os primeiros sistemas reais de cultivo de alimentos fora da Terra, um passo crítico para a viabilidade da ocupação humana permanente no polo sul lunar.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/)
+
+---
+
+## 3. NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A NASA acaba de quebrar um jejum de 40 anos com a inauguração do Flight Dynamics Research Facility. Este novo túnel de vento de última geração será o coração dos testes aerodinâmicos para a próxima era de naves tripuladas e táxis aéreos, garantindo segurança em manobras que antes só podiam ser simuladas em computadores.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/)
+
+---
+
+## 4. NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Uma tecnologia desenvolvida originalmente para analisar outros mundos está agora revelando segredos perdidos no nosso. Um novo algoritmo de processamento de imagem da NASA, capaz de filtrar ruídos atmosféricos extremos, está permitindo que arqueólogos identifiquem estruturas ancestrais sob a vegetação densa, provando que o poder dos satélites é a nossa melhor lente para o passado.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/)
+
+---
+
+## 5. Shield Space and ClearSpace partner to defend satellites from orbital threats
+**Fonte:** Space News | **Categoria:** Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O mercado de segurança orbital ganha um novo gigante com a parceria entre Shield Space e ClearSpace. Em um momento de tensões geopolíticas crescentes e órbitas cada vez mais congestionadas, essa movimentação marca o nascimento de uma infraestrutura privada dedicada exclusivamente à defesa de ativos espaciais e remoção ativa de detritos perigosos.
+
+🔗 [Ler notícia completa](https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/)
 
 ---
 

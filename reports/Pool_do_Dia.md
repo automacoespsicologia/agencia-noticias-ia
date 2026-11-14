@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 13/11/2026 16:54
+# 📥 Balde de Notícias Brutas - 14/11/2026 15:29
 
-Atualmente existem **1219** notícias aguardando a curadoria do Editor.
+Atualmente existem **1215** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -8118,15 +8118,6 @@ NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cu
 
 ---
 
-### NASA Watches Earth’s Weight, Finds Center of Mass
-**Fonte:** Nasa News
-
-Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/)
-
----
-
 ### Indonesia’s Anak Krakatau
 **Fonte:** Nasa News
 
@@ -9846,15 +9837,6 @@ APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndex
 
 ---
 
-### Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/)
-
----
-
 ### APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia
 **Fonte:** Nasa News
 
@@ -9996,15 +9978,6 @@ Members of the media are invited to join NASA at the 2026 von Braun Space Explor
 This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/spirals-edge/)
-
----
-
-### NASA’s Hubble Charts Path for Roman with Gravitational Lenses 
-**Fonte:** Nasa News
-
-This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/)
 
 ---
 
@@ -10773,15 +10746,6 @@ Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New
 
 ---
 
-### NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities
-**Fonte:** Nasa News
-
-Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/)
-
----
-
 ### NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston
 **Fonte:** Nasa News
 
@@ -10890,15 +10854,6 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 
 ---
 
-### AST SpaceMobile presses case for developing own launch vehicle
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/)
-
----
-
 ### UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology
 **Fonte:** Space News
 
@@ -10977,6 +10932,15 @@ The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a fligh
 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer a...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/)
+
+---
+
+### Commercial Space Federation Welcomes CesiumAstro as a New Associate Member
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/)
 
 ---
 
