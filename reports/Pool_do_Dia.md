@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 14/11/2026 15:29
+# 📥 Balde de Notícias Brutas - 15/11/2026 16:01
 
-Atualmente existem **1215** notícias aguardando a curadoria do Editor.
+Atualmente existem **1210** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3501,15 +3501,6 @@ Peterson credits his military experience with preparing him for the 12-to-16-hou
 
 ---
 
-### Shield Space and ClearSpace partner to defend satellites from orbital threats
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/)
-
----
-
 ### York satellite demonstrates two-way UHF communications from low Earth orbit
 **Fonte:** Space News
 
@@ -5001,15 +4992,6 @@ David&#160;SmithDuke University&#160; The increasing population of spacefaring v
 Snow-capped mountains carved by deep river valleys preside over northwestern Washington state....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/)
-
----
-
-### NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
-**Fonte:** Nasa News
-
-Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind tunnel in more than 40 years. The event will include a brief media availability with: This event is in person only [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/)
 
 ---
 
@@ -7758,15 +7740,6 @@ NASA&#8217;s Hubble Space Telescope captures a photogenic nebula, N44, in the La
 
 ---
 
-### NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  
-**Fonte:** Nasa News
-
-Algorithm NASA first applied to satellite imagery is now used to peer into antiquity  ...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/)
-
----
-
 ### 1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day
 **Fonte:** Nasa News
 
@@ -8946,15 +8919,6 @@ Galaxies, vast collections of billions of stars, gas, and dust held together by 
 
 ---
 
-### NASA, International Partners Advance Work on Space Crops
-**Fonte:** Nasa News
-
-NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon....
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/)
-
----
-
 ### Star Trails
 **Fonte:** Nasa News
 
@@ -10050,15 +10014,6 @@ APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submiss
 A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/)
-
----
-
-### Craft Prospect kicks off PERSEUS project to advance optical communications for space
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/)
 
 ---
 

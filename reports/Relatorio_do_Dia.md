@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 14/11/2026 15:29
+# 🚀 Relatório da Agência Espacial - 15/11/2026 16:01
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Craft Prospect kicks off PERSEUS project to advance optical communications for space
-**Fonte:** Space News | **Categoria:** Inovação Técnica
+## 1. NASA’s SpaceX Crew-13 Launches
+**Fonte:** Nasa News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O fim do gargalo nas comunicações espaciais pode estar próximo. O projeto PERSEUS acaba de entrar em uma nova fase para acelerar o uso de links ópticos em órbita, prometendo conexões a laser que vão tornar as transmissões de rádio obsoletas e levar a internet de alta velocidade para o vácuo do espaço.
+> A rotina na órbita terrestre acaba de ganhar novos protagonistas. A missão Crew-13 da SpaceX decolou com sucesso, consolidando de vez o modelo de transporte comercial humano e reforçando a infraestrutura necessária para a ciência de longa duração na Estação Espacial Internacional.
 
-🔗 [Ler notícia completa](https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/)
 
 ---
 
-## 2. NASA, International Partners Advance Work on Space Crops
+## 2. NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Plantar na Lua deixou de ser ficção científica para se tornar um projeto de engenharia internacional. NASA, agências alemãs e canadenses assinaram um acordo histórico para desenvolver os primeiros sistemas reais de cultivo de alimentos fora da Terra, um passo crítico para a viabilidade da ocupação humana permanente no polo sul lunar.
+> O asteroide Donaldjohanson não é apenas uma rocha flutuante. Dados inéditos da sonda Lucy revelaram um corpo em formato de amendoim que 'cambaleia' pelo espaço, uma descoberta científica validada que nos obriga a reescrever os manuais sobre a complexa história e evolução dos pequenos astros no nosso sistema solar.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
 
 ---
 
-## 3. NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
+## 3. BAE microchip designed for strategic defense missions passes radiation test
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A sobrevivência no espaço profundo acaba de ficar mais robusta. Um novo microchip da BAE Systems, projetado para missões de defesa estratégica, superou com sucesso os testes de radiação extrema. É o coração eletrônico que faltava para garantir a resiliência da próxima geração de satélites contra o bombardeio cósmico.
+
+🔗 [Ler notícia completa](https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/)
+
+---
+
+## 4. NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de quebrar um jejum de 40 anos com a inauguração do Flight Dynamics Research Facility. Este novo túnel de vento de última geração será o coração dos testes aerodinâmicos para a próxima era de naves tripuladas e táxis aéreos, garantindo segurança em manobras que antes só podiam ser simuladas em computadores.
+> NASA e JAXA unem forças para desvendar as misteriosas luas de Marte. Com a missão MMX, a tecnologia de amostragem robótica atingirá um novo patamar, buscando trazer pedaços de Fobos para a Terra e respondendo a uma pergunta milenar: seriam essas luas asteroides capturados ou restos de uma colisão titânica?
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/)
+🔗 [Ler notícia completa](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/)
 
 ---
 
-## 4. NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  
+## 5. NASA Equips Astronauts, Industry with Robotic Intelligence 
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Uma tecnologia desenvolvida originalmente para analisar outros mundos está agora revelando segredos perdidos no nosso. Um novo algoritmo de processamento de imagem da NASA, capaz de filtrar ruídos atmosféricos extremos, está permitindo que arqueólogos identifiquem estruturas ancestrais sob a vegetação densa, provando que o poder dos satélites é a nossa melhor lente para o passado.
+> A inteligência artificial está saindo dos laboratórios para assumir o controle na superfície lunar. A NASA acaba de apresentar avanços em inteligência robótica que permitirão que máquinas tomem decisões autônomas e executem tarefas pesadas, liberando os astronautas do programa Artemis para o que realmente importa: a exploração científica de elite.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/)
-
----
-
-## 5. Shield Space and ClearSpace partner to defend satellites from orbital threats
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O mercado de segurança orbital ganha um novo gigante com a parceria entre Shield Space e ClearSpace. Em um momento de tensões geopolíticas crescentes e órbitas cada vez mais congestionadas, essa movimentação marca o nascimento de uma infraestrutura privada dedicada exclusivamente à defesa de ativos espaciais e remoção ativa de detritos perigosos.
-
-🔗 [Ler notícia completa](https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/)
+🔗 [Ler notícia completa](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/)
 
 ---
 
