@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 15/11/2026 16:01
+# 📥 Balde de Notícias Brutas - 16/11/2026 19:11
 
-Atualmente existem **1210** notícias aguardando a curadoria do Editor.
+Atualmente existem **1209** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2608,15 +2608,6 @@ Abstracts are now being accepted for the session, which will take place at the 2
 
 ---
 
-### NASA Equips Astronauts, Industry with Robotic Intelligence 
-**Fonte:** Nasa News
-
-As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and exploration. However, robotic motion control requires complex technology and advances in features like robotic decision-making and object recognition. These are the challenges a Boulder, Colorado-based robotics company is [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/)
-
----
-
 ### Jim Irons, Former Landsat Project Scientist, Wins Pecora Award
 **Fonte:** Nasa News
 
@@ -3244,15 +3235,6 @@ Rohit Goeptar was born into a poor family in Suriname, South America,&#160;the k
 Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/)
-
----
-
-### NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid
-**Fonte:** Nasa News
-
-Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history....
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/)
 
 ---
 
@@ -4074,15 +4056,6 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/)
-
----
-
-### BAE microchip designed for strategic defense missions passes radiation test
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/)
 
 ---
 
@@ -8964,15 +8937,6 @@ NASA selected 16 companies to provide Enterprise Logistics Support Services unde
 
 ---
 
-### NASA’s SpaceX Crew-13 Launches
-**Fonte:** Nasa News
-
-In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/)
-
----
-
 ### What’s Up: October 2026 Skywatching Tips from NASA
 **Fonte:** Nasa News
 
@@ -9609,15 +9573,6 @@ APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submission
 High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/)
-
----
-
-### NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission
-**Fonte:** Nasa News
-
-NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/)
 
 ---
 
@@ -10896,6 +10851,42 @@ The NASA Ames Science Directorate recognizes the outstanding contributions of (p
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/)
+
+---
+
+### Thunderbirds in Formation
+**Fonte:** Nasa News
+
+U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America&#8217;s 250th anniversary. Image [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/thunderbirds-in-formation/)
+
+---
+
+### Contractor to Civil Servant: NASA Welcomes Jim Mirandy
+**Fonte:** Nasa News
+
+The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce directive [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/)
+
+---
+
+### APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 7129: [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/)
+
+---
+
+### The Last Ice on Puncak Jaya
+**Fonte:** Nasa News
+
+Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/)
 
 ---
 
