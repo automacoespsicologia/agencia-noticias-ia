@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 16/11/2026 19:11
+# 📥 Balde de Notícias Brutas - 17/11/2026 18:04
 
-Atualmente existem **1209** notícias aguardando a curadoria do Editor.
+Atualmente existem **1216** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -6336,15 +6336,6 @@ A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesd
 
 ---
 
-### NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
-**Fonte:** Nasa News
-
-Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/)
-
----
-
 ### NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights
 **Fonte:** Nasa News
 
@@ -7242,15 +7233,6 @@ APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submis
 NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/)
-
----
-
-### NASA Ames Experts Available for Roman Space Telescope Interviews 
-**Fonte:** Nasa News
-
-NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/)
 
 ---
 
@@ -9504,15 +9486,6 @@ Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the
 
 ---
 
-### NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
-**Fonte:** Nasa News
-
-NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/)
-
----
-
 ### APOD: 2026 October 14 – Mars and the Beehive Under an Aurora
 **Fonte:** Nasa News
 
@@ -9798,15 +9771,6 @@ An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reve
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/)
-
----
-
-### Global Satcom Services Revenues to Reach $145 Billion by 2035
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/)
 
 ---
 
@@ -10782,15 +10746,6 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 
 ---
 
-### Outbursts from a Massive Star
-**Fonte:** Nasa News
-
-Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/)
-
----
-
 ### Gemini Astronaut Photos Inspired Early Earth Observation Program
 **Fonte:** Nasa News
 
@@ -10887,6 +10842,114 @@ APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submi
 Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/)
+
+---
+
+### How AI is pushing satellites to evolve
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/)
+
+---
+
+### Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/)
+
+---
+
+### SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/)
+
+---
+
+### Curiosity Blog, Sols 5072-5076: The Return of the Polygons
+**Fonte:** Nasa News
+
+Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/)
+
+---
+
+### NASA Invites Media, Public to View Roman Telescope’s First Images
+**Fonte:** Nasa News
+
+NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/)
+
+---
+
+### Space Selfie
+**Fonte:** Nasa News
+
+NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/space-selfie-2/)
+
+---
+
+### APOD: 2026 November 17 – Milky Way versus Aurora
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/)
+
+---
+
+### Tossing Fireworks from Cloud to Cloud
+**Fonte:** Nasa News
+
+For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/)
+
+---
+
+### Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago
+**Fonte:** Nasa News
+
+Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/)
+
+---
+
+### A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover
+**Fonte:** Nasa News
+
+Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
+
+---
+
+### NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion
+**Fonte:** Nasa News
+
+For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility [&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/)
+
+---
+
+### Sentinel-6B in Orbit Around Earth
+**Fonte:** Nasa News
+
+Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height....
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/)
 
 ---
 

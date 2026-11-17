@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 16/11/2026 19:11
+# 🚀 Relatório da Agência Espacial - 17/11/2026 18:04
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions
-**Fonte:** Nasa News | **Categoria:** Governo e Estratégia
+## 1. SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA acaba de apertar o passo na corrida rumo à Lua. Com o objetivo ambicioso de colocar humanos na superfície lunar até 2028, a agência revelou planos de aceleração para o programa Artemis que prometem sacudir toda a cadeia produtiva aeroespacial. Esse novo fôlego estratégico é o alicerce para consolidar a presença humana permanente no polo sul lunar e, finalmente, abrir as portas para Marte.
+> O futuro da energia e propulsão espacial acaba de ganhar um novo quartel-general. A SpaceNukes abriu oficialmente sua fábrica em Los Alamos para construir reatores nucleares de próxima geração. Esqueça os painéis solares limitados: estamos falando de energia compacta e massiva para sustentar bases na Lua e acelerar viagens tripuladas a Marte, mudando definitivamente as regras do jogo na exploração do sistema solar.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/)
+🔗 [Ler notícia completa](https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/)
 
 ---
 
-## 2. NASA Ames Experts Available for Roman Space Telescope Interviews 
-**Fonte:** Nasa News | **Categoria:** Inovação e Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Esqueça tudo o que você já viu sobre o cosmos. O telescópio espacial Nancy Grace Roman está pronto para o lançamento e promete uma revolução: sua visão panorâmica é cem vezes maior que a do Hubble. Esta obra-prima da engenharia foi desenhada para desvendar os mistérios da energia escura e mapear bilhões de galáxias, inaugurando o que os cientistas já chamam de a 'Era de Ouro' da astrofísica moderna.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/)
-
----
-
-## 3. Global Satcom Services Revenues to Reach $145 Billion by 2035
-**Fonte:** Space News | **Categoria:** Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O céu nunca foi tão lucrativo. Um relatório de mercado acaba de projetar que as receitas globais de serviços via satélite atingirão a marca histórica de 145 bilhões de dólares até 2035. Impulsionado pela explosão das megaconstelações e pela necessidade de conectividade total e ininterrupta, o setor espacial deixa de ser um nicho científico para se tornar a espinha dorsal da economia digital global.
-
-🔗 [Ler notícia completa](https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/)
-
----
-
-## 4. NASA Upgrades Vertical Motion Simulator for Modern Mission Needs
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Pousar na Lua ou pilotar naves supersônicas ficou muito mais seguro — e real. A NASA concluiu atualizações críticas no Vertical Motion Simulator, o maior simulador de movimento do planeta. Com novos sistemas de resposta e fidelidade física incomparável, a tecnologia agora permite que astronautas e pilotos testem os limites de veículos espaciais da próxima geração sem jamais tirar os pés do chão.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/)
-
----
-
-## 5. Outbursts from a Massive Star
+## 2. NASA Invites Media, Public to View Roman Telescope’s First Images
 **Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Observatório de Raios-X Chandra acaba de capturar o 'último suspiro' violento de um gigante estelar. Astrônomos identificaram o mecanismo exato por trás de explosões repetitivas em uma estrela massiva na galáxia NGC 4559, a 30 milhões de anos-luz da Terra. A descoberta, validada por dados multiespectrais, redefine nossa compreensão sobre a instabilidade de estrelas pré-supernova e a física extrema do universo.
+> Preparem-se para uma nova visão do cosmos. A NASA confirmou para dezembro a revelação das primeiras imagens do telescópio espacial Nancy Grace Roman. Com um campo de visão cem vezes superior ao do Hubble, o Roman promete não apenas fotos deslumbrantes, mas a resolução de mistérios fundamentais sobre a energia escura e a abundância de exoplanetas em nossa galáxia. O sucessor do James Webb está pronto para estrear.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/)
+
+---
+
+## 3. Katalyst Space and NASA abandon plans for Swift reboost
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Um alerta importante para o setor de serviços em órbita: a NASA e a Katalyst Space abandonaram oficialmente os planos de reboost do satélite Swift. Após problemas críticos de controle no veículo LINK, a missão foi cancelada, destacando os riscos extremos e os desafios técnicos da manutenção de satélites no espaço. O revés força o mercado a repensar estratégias para estender a vida útil de ativos bilionários na órbita terrestre.
+
+🔗 [Ler notícia completa](https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/)
+
+---
+
+## 4. ESA to seek lunar mapping capability for Argonaut lander
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A Europa acelera seu passo em direção à soberania lunar. A Agência Espacial Europeia iniciou a busca por tecnologias avançadas de mapeamento para o lander Argonaut. O projeto visa garantir pousos autônomos com precisão absoluta, permitindo que a ESA entregue cargas logísticas pesadas e infraestrutura científica em qualquer ponto da superfície da Lua, consolidando sua independência na nova economia cislunar.
+
+🔗 [Ler notícia completa](https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/)
+
+---
+
+## 5. Vast establishes division for national security projects
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A fronteira entre o espaço comercial e a defesa nacional acaba de ficar ainda mais estreita. A Vast, pioneira em estações espaciais privadas, anunciou a criação de uma divisão focada exclusivamente em projetos de segurança nacional. O movimento sinaliza que a infraestrutura privada em órbita será o novo pilar estratégico para as potências mundiais, unindo inovação ágil com as demandas rigorosas da inteligência e defesa.
+
+🔗 [Ler notícia completa](https://spacenews.com/vast-establishes-division-for-national-security-projects/)
 
 ---
 
