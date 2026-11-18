@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 17/11/2026 18:04
+# 🚀 Relatório da Agência Espacial - 18/11/2026 17:44
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O futuro da energia e propulsão espacial acaba de ganhar um novo quartel-general. A SpaceNukes abriu oficialmente sua fábrica em Los Alamos para construir reatores nucleares de próxima geração. Esqueça os painéis solares limitados: estamos falando de energia compacta e massiva para sustentar bases na Lua e acelerar viagens tripuladas a Marte, mudando definitivamente as regras do jogo na exploração do sistema solar.
-
-🔗 [Ler notícia completa](https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/)
-
----
-
-## 2. NASA Invites Media, Public to View Roman Telescope’s First Images
+## 1. NASA Data Clinches First-of-Its-Kind Stellar Merger
 **Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Preparem-se para uma nova visão do cosmos. A NASA confirmou para dezembro a revelação das primeiras imagens do telescópio espacial Nancy Grace Roman. Com um campo de visão cem vezes superior ao do Hubble, o Roman promete não apenas fotos deslumbrantes, mas a resolução de mistérios fundamentais sobre a energia escura e a abundância de exoplanetas em nossa galáxia. O sucessor do James Webb está pronto para estrear.
+> Pela primeira vez na história, astrônomos detectaram uma fusão estelar única na vizinha galáxia de Andrômeda. Uma estrela menor foi literalmente 'engolida' por uma supergigante, resultando em um astro rejuvenescido apelidado de 'Bao'. A descoberta, validada por dados da NASA, redefine nossa compreensão sobre a evolução e o ciclo de vida das estrelas no cosmos.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/)
-
----
-
-## 3. Katalyst Space and NASA abandon plans for Swift reboost
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Um alerta importante para o setor de serviços em órbita: a NASA e a Katalyst Space abandonaram oficialmente os planos de reboost do satélite Swift. Após problemas críticos de controle no veículo LINK, a missão foi cancelada, destacando os riscos extremos e os desafios técnicos da manutenção de satélites no espaço. O revés força o mercado a repensar estratégias para estender a vida útil de ativos bilionários na órbita terrestre.
-
-🔗 [Ler notícia completa](https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)
 
 ---
 
-## 4. ESA to seek lunar mapping capability for Argonaut lander
+## 2. Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
 **Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Europa acelera seu passo em direção à soberania lunar. A Agência Espacial Europeia iniciou a busca por tecnologias avançadas de mapeamento para o lander Argonaut. O projeto visa garantir pousos autônomos com precisão absoluta, permitindo que a ESA entregue cargas logísticas pesadas e infraestrutura científica em qualquer ponto da superfície da Lua, consolidando sua independência na nova economia cislunar.
+> O barateamento dos lançamentos espaciais está provocando uma mudança radical no design de naves: a massa saiu de cena e a área de superfície agora é a prioridade. Com lançamentos mais frequentes e baratos, engenheiros estão abandonando a obsessão pela leveza para focar em painéis solares e radiadores gigantescos, quebrando o maior gargalo técnico da atualidade.
 
-🔗 [Ler notícia completa](https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/)
+🔗 [Ler notícia completa](https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/)
 
 ---
 
-## 5. Vast establishes division for national security projects
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 3. NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
+**Fonte:** Nasa News | **Categoria:** Movimentação de Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira entre o espaço comercial e a defesa nacional acaba de ficar ainda mais estreita. A Vast, pioneira em estações espaciais privadas, anunciou a criação de uma divisão focada exclusivamente em projetos de segurança nacional. O movimento sinaliza que a infraestrutura privada em órbita será o novo pilar estratégico para as potências mundiais, unindo inovação ágil com as demandas rigorosas da inteligência e defesa.
+> A NASA abriu oficialmente a convocação para que a indústria privada acelere o desenvolvimento de tecnologias para a superfície lunar. O foco do programa NextSTEP-3 é criar uma infraestrutura coesa para a futura Base Lunar, transformando parcerias comerciais em pilares fundamentais para a sobrevivência humana sustentada fora da Terra.
 
-🔗 [Ler notícia completa](https://spacenews.com/vast-establishes-division-for-national-security-projects/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
+
+---
+
+## 4. NASA’s Hubble Marks Way for Roman Space Telescope
+**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O telescópio Hubble está atuando como o batedor oficial para a próxima grande missão da NASA. Através do mapeamento preciso de lentes gravitacionais, o Hubble está preparando o terreno para o Nancy Grace Roman Space Telescope, fornecendo as coordenadas exatas onde a nova joia da coroa buscará respostas sobre energia escura e matéria escura.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/)
+
+---
+
+## 5. Rocket Lab, STR win Space Force contracts for airborne-target tracking
+**Fonte:** Space News | **Categoria:** Grandes Movimentações
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A Rocket Lab acaba de subir um degrau estratégico no mercado de defesa global ao vencer contratos da Força Espacial dos EUA para o rastreamento de alvos móveis. A movimentação consolida a tendência de que empresas comerciais de lançamento estão se tornando fornecedoras vitais de infraestrutura tática e segurança nacional em órbita.
+
+🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/)
 
 ---
 

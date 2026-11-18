@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 17/11/2026 18:04
+# 📥 Balde de Notícias Brutas - 18/11/2026 17:44
 
-Atualmente existem **1216** notícias aguardando a curadoria do Editor.
+Atualmente existem **1222** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3735,15 +3735,6 @@ This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 672
 
 ---
 
-### ESA to seek lunar mapping capability for Argonaut lander
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/)
-
----
-
 ### Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions
 **Fonte:** Space News
 
@@ -4938,15 +4929,6 @@ NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars�
 David&#160;SmithDuke University&#160; The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementatio...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/)
-
----
-
-### Vast establishes division for national security projects
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/vast-establishes-division-for-national-security-projects/)
 
 ---
 
@@ -6837,15 +6819,6 @@ The powerful storm delivered extreme rainfall and damaging winds to the state, p
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/)
-
----
-
-### Katalyst Space and NASA abandon plans for Swift reboost
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/)
 
 ---
 
@@ -10863,30 +10836,12 @@ Ice near the summit of the Indonesian mountain peak has shrunk to scattered patc
 
 ---
 
-### SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/)
-
----
-
 ### Curiosity Blog, Sols 5072-5076: The Return of the Polygons
 **Fonte:** Nasa News
 
 Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/)
-
----
-
-### NASA Invites Media, Public to View Roman Telescope’s First Images
-**Fonte:** Nasa News
-
-NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/)
 
 ---
 
@@ -10950,6 +10905,105 @@ For the 16th consecutive year, NASA has received an unmodified, or “clean,” 
 Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height....
 
 🔗 [Link da Notícia](https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/)
+
+---
+
+### Origami and solar arrays
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/origami-and-solar-arrays/)
+
+---
+
+### What Is the Moon Base?
+**Fonte:** Nasa News
+
+This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/)
+
+---
+
+### Thank You for Doing NASA Science!
+**Fonte:** Nasa News
+
+It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/)
+
+---
+
+### NASA Data Clinches First-of-Its-Kind Stellar Merger
+**Fonte:** Nasa News
+
+Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)
+
+---
+
+### APOD: 2026 November 18 – A Medium-Sized Solar Flare
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/)
+
+---
+
+### Sierra Snow Season Spins Up
+**Fonte:** Nasa News
+
+A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/)
+
+---
+
+### NASA Launches Nuclear Power Systems Student Contest
+**Fonte:** Nasa News
+
+NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/)
+
+---
+
+### NASA Space Apps Challenge Breaks Global Hackathon Records  
+**Fonte:** Nasa News
+
+On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/)
+
+---
+
+### BPS Digital AVATAR Challenge
+**Fonte:** Nasa News
+
+The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration ...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/)
+
+---
+
+### New Album of Baby Star Sounds Shared by NASA’s Chandra
+**Fonte:** Nasa News
+
+A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes. By studying places in the universe where stars are currently being born and […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/)
+
+---
+
+### NASA to Cover 35th SpaceX Resupply Mission Space Station Departure
+**Fonte:** Nasa News
+
+Editor&#8217;s note: This advisory was updated on Nov. 18, 2026, to reflect changes to coverage and the return timeline. NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Friday, Nov. 20, for its return to Earth. Pending [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/)
 
 ---
 
