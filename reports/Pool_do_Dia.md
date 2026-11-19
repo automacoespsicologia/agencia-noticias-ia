@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 18/11/2026 17:44
+# 📥 Balde de Notícias Brutas - 19/11/2026 17:55
 
-Atualmente existem **1222** notícias aguardando a curadoria do Editor.
+Atualmente existem **1231** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -3789,15 +3789,6 @@ Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29
 
 ---
 
-### NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
-**Fonte:** Nasa News
-
-Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities.  NASA is seeking feedback on a dr...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
-
----
-
 ### TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report
 **Fonte:** Space News
 
@@ -5688,15 +5679,6 @@ APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissions
 
 ---
 
-### Rocket Lab, STR win Space Force contracts for airborne-target tracking
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/)
-
----
-
 ### NOAA purchases Spire hyperspectral microwave sounder data
 **Fonte:** Space News
 
@@ -6477,15 +6459,6 @@ From the International Space Station, astronauts photographed Mount Hood and Mou
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/)
-
----
-
-### Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/)
 
 ---
 
@@ -10062,15 +10035,6 @@ A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Sur
 
 ---
 
-### NASA’s Hubble Marks Way for Roman Space Telescope
-**Fonte:** Nasa News
-
-A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astronomers will use these [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/)
-
----
-
 ### Contractor to Civil Servant: NASA Welcomes Jared Spiers
 **Fonte:** Nasa News
 
@@ -10935,15 +10899,6 @@ It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Scienc
 
 ---
 
-### NASA Data Clinches First-of-Its-Kind Stellar Merger
-**Fonte:** Nasa News
-
-Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)
-
----
-
 ### APOD: 2026 November 18 – A Medium-Sized Solar Flare
 **Fonte:** Nasa News
 
@@ -11004,6 +10959,132 @@ A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby s
 Editor&#8217;s note: This advisory was updated on Nov. 18, 2026, to reflect changes to coverage and the return timeline. NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Friday, Nov. 20, for its return to Earth. Pending [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/)
+
+---
+
+### The sweet spot for constellation size
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-sweet-spot-for-constellation-size/)
+
+---
+
+### Making the case for optical
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/making-the-case-for-optical/)
+
+---
+
+### Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/)
+
+---
+
+### All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/)
+
+---
+
+### NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
+**Fonte:** Nasa News
+
+Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before....
+
+🔗 [Link da Notícia](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
+
+---
+
+### Lake Pelku
+**Fonte:** Nasa News
+
+An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/lake-pelku/)
+
+---
+
+### NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions
+**Fonte:** Nasa News
+
+NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/)
+
+---
+
+### NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
+**Fonte:** Nasa News
+
+NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/)
+
+---
+
+### APOD: 2026 November 19 – The Horsehead and Flame Nebulas
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Horsehead and Flame Nebulas Explanation: Today’s imag...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/)
+
+---
+
+### El Niño Rains Paint the Atacama
+**Fonte:** Nasa News
+
+Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/)
+
+---
+
+### NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch
+**Fonte:** Nasa News
+
+NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/)
+
+---
+
+### MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in
+**Fonte:** Nasa News
+
+Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.&#160; However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/)
+
+---
+
+### NASA Announces Mid-Power Electric Rocket Challenge for US Companies
+**Fonte:** Nasa News
+
+NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/)
+
+---
+
+### Empire State Building Goes Gold for Voyager
+**Fonte:** Nasa News
+
+The Empire State Building is seen illuminated in gold to celebrate NASA&#8217;s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/)
 
 ---
 

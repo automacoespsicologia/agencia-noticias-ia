@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 18/11/2026 17:44
+# 🚀 Relatório da Agência Espacial - 19/11/2026 17:55
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Data Clinches First-of-Its-Kind Stellar Merger
+## 1. NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
 **Fonte:** Nasa News | **Categoria:** Descoberta Científica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Pela primeira vez na história, astrônomos detectaram uma fusão estelar única na vizinha galáxia de Andrômeda. Uma estrela menor foi literalmente 'engolida' por uma supergigante, resultando em um astro rejuvenescido apelidado de 'Bao'. A descoberta, validada por dados da NASA, redefine nossa compreensão sobre a evolução e o ciclo de vida das estrelas no cosmos.
+> A humanidade acaba de fincar um novo marco nas profundezas do vácuo: a Voyager 1 atingiu a distância histórica de um dia-luz da Terra. Após quase 50 anos de viagem ininterrupta, a sonda recordista agora está a mais de 25 bilhões de quilômetros de nós. O feito não é apenas simbólico; ele reforça a resiliência de uma engenharia que continua a nos enviar dados do espaço interestelar, desafiando o tempo e a física no ponto mais remoto já alcançado por um objeto humano.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/)
-
----
-
-## 2. Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.
-**Fonte:** Space News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O barateamento dos lançamentos espaciais está provocando uma mudança radical no design de naves: a massa saiu de cena e a área de superfície agora é a prioridade. Com lançamentos mais frequentes e baratos, engenheiros estão abandonando a obsessão pela leveza para focar em painéis solares e radiadores gigantescos, quebrando o maior gargalo técnico da atualidade.
-
-🔗 [Ler notícia completa](https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/)
 
 ---
 
-## 3. NASA Seeks Industry Input to Accelerate Lunar Surface Technologies
-**Fonte:** Nasa News | **Categoria:** Movimentação de Mercado
+## 2. NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA abriu oficialmente a convocação para que a indústria privada acelere o desenvolvimento de tecnologias para a superfície lunar. O foco do programa NextSTEP-3 é criar uma infraestrutura coesa para a futura Base Lunar, transformando parcerias comerciais em pilares fundamentais para a sobrevivência humana sustentada fora da Terra.
+> Imagine encontrar agulhas em um palheiro cósmico um milhão de vezes mais rápido do que antes. Uma equipe internacional de cientistas desenvolveu um novo método, utilizando dados abertos da missão Fermi da NASA, que acelera drasticamente a descoberta de pulsares. Essa inovação no processamento de dados promete revolucionar nossa compreensão sobre estrelas de nêutrons e a evolução do universo, transformando décadas de busca manual em segundos de processamento computacional de alta performance.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/)
+🔗 [Ler notícia completa](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
 
 ---
 
-## 4. NASA’s Hubble Marks Way for Roman Space Telescope
-**Fonte:** Nasa News | **Categoria:** Ciência e Tecnologia
+## 3. Commercial launch providers shortlisted for China’s low-cost cargo spacecraft
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio Hubble está atuando como o batedor oficial para a próxima grande missão da NASA. Através do mapeamento preciso de lentes gravitacionais, o Hubble está preparando o terreno para o Nancy Grace Roman Space Telescope, fornecendo as coordenadas exatas onde a nova joia da coroa buscará respostas sobre energia escura e matéria escura.
+> A China está quebrando o monopólio estatal em sua logística orbital. O país acaba de selecionar empresas privadas para o desenvolvimento de naves de carga de baixo custo destinadas à sua estação espacial. Essa movimentação é um divisor de águas no mercado espacial asiático, sinalizando que a eficiência comercial e a competição entre startups agora são pilares centrais na estratégia de Pequim para dominar a órbita baixa terrestre.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/)
+🔗 [Ler notícia completa](https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/)
 
 ---
 
-## 5. Rocket Lab, STR win Space Force contracts for airborne-target tracking
-**Fonte:** Space News | **Categoria:** Grandes Movimentações
+## 4. Arianespace opens door to GEO rideshare opportunities from 2029
+**Fonte:** Space News | **Categoria:** Movimentação de Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Rocket Lab acaba de subir um degrau estratégico no mercado de defesa global ao vencer contratos da Força Espacial dos EUA para o rastreamento de alvos móveis. A movimentação consolida a tendência de que empresas comerciais de lançamento estão se tornando fornecedoras vitais de infraestrutura tática e segurança nacional em órbita.
+> A Arianespace está mudando as regras do jogo para quem quer chegar à órbita geoestacionária. A partir de 2029, a gigante europeia abrirá oficialmente o mercado de 'caronas' espaciais para missões em GEO, permitindo que satélites menores dividam custos e espaço em grandes lançamentos. É uma resposta direta à demanda por flexibilidade e redução de preços, prometendo democratizar o acesso a uma das regiões mais valiosas e disputadas do espaço.
 
-🔗 [Ler notícia completa](https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/)
+🔗 [Ler notícia completa](https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/)
+
+---
+
+## 5. NASA’s Curiosity Rover Catches Stunning Martian Dawn
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O amanhecer em Marte acaba de ser revelado com uma nitidez nunca antes vista. Novas imagens capturadas pelo rover Curiosity mostram detalhes inéditos de penhascos esculpidos pelo vento, revelando estruturas geológicas que cientistas esperavam estudar de perto há décadas. O panorama, registrado sob a luz azulada da manhã marciana, oferece dados cruciais sobre a erosão atmosférica e pode conter as chaves para decifrar a história climática do Planeta Vermelho.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/)
 
 ---
 
