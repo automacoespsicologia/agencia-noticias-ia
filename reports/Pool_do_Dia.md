@@ -1,4 +1,4 @@
-# 📥 Balde de Notícias Brutas - 19/11/2026 17:55
+# 📥 Balde de Notícias Brutas - 20/11/2026 17:28
 
 Atualmente existem **1231** notícias aguardando a curadoria do Editor.
 
@@ -2392,15 +2392,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### Commercial launch providers shortlisted for China’s low-cost cargo spacecraft
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/)
-
----
-
 ### Let’s procure in-orbit services like Earth observation data and services
 **Fonte:** Space News
 
@@ -4101,15 +4092,6 @@ Using satellite data, researchers connected harmful algal blooms with warm water
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/)
-
----
-
-### Arianespace opens door to GEO rideshare opportunities from 2029
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/)
 
 ---
 
@@ -9000,15 +8982,6 @@ Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick
 
 ---
 
-### NASA’s Curiosity Rover Catches Stunning Martian Dawn
-**Fonte:** Nasa News
-
-A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground as bright morning light illuminates [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/)
-
----
-
 ### APOD: 2026 October 6 – A Complete Auroral Oval from SMILE
 **Fonte:** Nasa News
 
@@ -10998,15 +10971,6 @@ Editor&#8217;s note: This advisory was updated on Nov. 18, 2026, to reflect chan
 
 ---
 
-### NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
-**Fonte:** Nasa News
-
-Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before....
-
-🔗 [Link da Notícia](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
-
----
-
 ### Lake Pelku
 **Fonte:** Nasa News
 
@@ -11022,15 +10986,6 @@ An astronaut on the International Space Station captured this photograph of Lake
 NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/)
-
----
-
-### NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
-**Fonte:** Nasa News
-
-NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/)
 
 ---
 
@@ -11085,6 +11040,51 @@ NASA launched a new competition inviting U.S. companies to produce prototypes of
 The Empire State Building is seen illuminated in gold to celebrate NASA&#8217;s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/)
+
+---
+
+### NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center 
+**Fonte:** Nasa News
+
+Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.&#160;&#160; Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return [&#...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/)
+
+---
+
+### NASA’s Curiosity Mars Rover Collects Samples
+**Fonte:** Nasa News
+
+This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/)
+
+---
+
+### APOD: 2026 November 20 – V-G-R
+**Fonte:** Nasa News
+
+APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, fans of interstellar spaceflight around planet Ea...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
+
+---
+
+### The Stormy Southwest Pacific  
+**Fonte:** Nasa News
+
+Tropical Cyclone Xavier launched the basin’s storm season with a bang....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/)
+
+---
+
+### Challenge: Public Input on Life and the World in 2075
+**Fonte:** Nasa News
+
+NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/)
 
 ---
 

@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 19/11/2026 17:55
+# 🚀 Relatório da Agência Espacial - 20/11/2026 17:30
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 1. Empire State Building Goes Gold for Voyager
+**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A humanidade acaba de fincar um novo marco nas profundezas do vácuo: a Voyager 1 atingiu a distância histórica de um dia-luz da Terra. Após quase 50 anos de viagem ininterrupta, a sonda recordista agora está a mais de 25 bilhões de quilômetros de nós. O feito não é apenas simbólico; ele reforça a resiliência de uma engenharia que continua a nos enviar dados do espaço interestelar, desafiando o tempo e a física no ponto mais remoto já alcançado por um objeto humano.
+> A fronteira final ficou um pouco mais longe. A sonda Voyager 1, o objeto humano mais distante no cosmos, acaba de cruzar a marca histórica de um dia-luz de distância da Terra. Para celebrar esse marco épico de quase 50 anos de missão, até o Empire State Building se iluminou em dourado, homenageando o disco de ouro que viaja com a sonda rumo ao desconhecido.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/)
 
 ---
 
-## 2. NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars
+## 2. NASA Announces Mid-Power Electric Rocket Challenge for US Companies
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Imagine encontrar agulhas em um palheiro cósmico um milhão de vezes mais rápido do que antes. Uma equipe internacional de cientistas desenvolveu um novo método, utilizando dados abertos da missão Fermi da NASA, que acelera drasticamente a descoberta de pulsares. Essa inovação no processamento de dados promete revolucionar nossa compreensão sobre estrelas de nêutrons e a evolução do universo, transformando décadas de busca manual em segundos de processamento computacional de alta performance.
+> A propulsão do futuro ganha um novo fôlego. A NASA lançou oficialmente um desafio para empresas privadas desenvolverem motores elétricos de efeito Hall de média potência. Essa tecnologia é considerada o motor fundamental para as próximas décadas de exploração comercial, permitindo manobras precisas e viagens sustentáveis pelo espaço profundo.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
-
----
-
-## 3. Commercial launch providers shortlisted for China’s low-cost cargo spacecraft
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A China está quebrando o monopólio estatal em sua logística orbital. O país acaba de selecionar empresas privadas para o desenvolvimento de naves de carga de baixo custo destinadas à sua estação espacial. Essa movimentação é um divisor de águas no mercado espacial asiático, sinalizando que a eficiência comercial e a competição entre startups agora são pilares centrais na estratégia de Pequim para dominar a órbita baixa terrestre.
-
-🔗 [Ler notícia completa](https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/)
+🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/)
 
 ---
 
-## 4. Arianespace opens door to GEO rideshare opportunities from 2029
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 3. Dust and Water in Sagittarius A*
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A Arianespace está mudando as regras do jogo para quem quer chegar à órbita geoestacionária. A partir de 2029, a gigante europeia abrirá oficialmente o mercado de 'caronas' espaciais para missões em GEO, permitindo que satélites menores dividam custos e espaço em grandes lançamentos. É uma resposta direta à demanda por flexibilidade e redução de preços, prometendo democratizar o acesso a uma das regiões mais valiosas e disputadas do espaço.
+> O telescópio James Webb revelou segredos químicos escondidos no coração da nossa galáxia. Ao observar a região de Sagittarius A*, o Webb detectou assinaturas raras de silicatos ricos em oxigênio em torno de estrelas no fim de suas vidas. É a ciência validando, em detalhes inéditos, como o ciclo de vida estelar molda a composição do centro da Via Láctea.
 
-🔗 [Ler notícia completa](https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/)
 
 ---
 
-## 5. NASA’s Curiosity Rover Catches Stunning Martian Dawn
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 4. Iridium folds Aireon aviation safety service into Rocket Lab-bound business
+**Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O amanhecer em Marte acaba de ser revelado com uma nitidez nunca antes vista. Novas imagens capturadas pelo rover Curiosity mostram detalhes inéditos de penhascos esculpidos pelo vento, revelando estruturas geológicas que cientistas esperavam estudar de perto há décadas. O panorama, registrado sob a luz azulada da manhã marciana, oferece dados cruciais sobre a erosão atmosférica e pode conter as chaves para decifrar a história climática do Planeta Vermelho.
+> Gigantes do setor se movem: a Iridium está integrando os serviços de segurança de aviação da Aireon em uma operação estratégica ligada à Rocket Lab. Essa movimentação de mercado sinaliza uma consolidação agressiva, unindo infraestrutura de lançamento com serviços de conectividade crítica, redesenhando como o tráfego aéreo global será monitorado do espaço.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/)
+🔗 [Ler notícia completa](https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/)
+
+---
+
+## 5. NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Upgrade de energia em órbita. A missão CRS-35 da SpaceX decolou com sucesso levando o conjunto final de painéis solares desenroláveis, os iROSAs, para a Estação Espacial Internacional. Mais do que manutenção, essa inovação técnica garante a potência necessária para novos laboratórios de microgravidade e pavimenta o caminho para a futura infraestrutura energética lunar.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/)
 
 ---
 
