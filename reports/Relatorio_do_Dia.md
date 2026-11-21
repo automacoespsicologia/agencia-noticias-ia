@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 20/11/2026 17:30
+# 🚀 Relatório da Agência Espacial - 21/11/2026 16:34
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Empire State Building Goes Gold for Voyager
-**Fonte:** Nasa News | **Categoria:** Ciência e Exploração
+## 1. Kreios Space to fly VLEO demonstration in NanoAvionics bus
+**Fonte:** Space News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A fronteira final ficou um pouco mais longe. A sonda Voyager 1, o objeto humano mais distante no cosmos, acaba de cruzar a marca histórica de um dia-luz de distância da Terra. Para celebrar esse marco épico de quase 50 anos de missão, até o Empire State Building se iluminou em dourado, homenageando o disco de ouro que viaja com a sonda rumo ao desconhecido.
+> A fronteira da órbita superbaixa da Terra está prestes a ser conquistada. A startup Kreios Space prepara o voo de demonstração de um motor elétrico inovador projetado para operar em altitudes onde o arrasto atmosférico normalmente destruiria satélites. Se funcionar, essa tecnologia permitirá que naves 'respirem' ar rarefeito para se manterem em órbita, garantindo imagens do nosso planeta com uma nitidez nunca antes vista.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/)
+🔗 [Ler notícia completa](https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/)
 
 ---
 
-## 2. NASA Announces Mid-Power Electric Rocket Challenge for US Companies
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A propulsão do futuro ganha um novo fôlego. A NASA lançou oficialmente um desafio para empresas privadas desenvolverem motores elétricos de efeito Hall de média potência. Essa tecnologia é considerada o motor fundamental para as próximas décadas de exploração comercial, permitindo manobras precisas e viagens sustentáveis pelo espaço profundo.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/)
-
----
-
-## 3. Dust and Water in Sagittarius A*
-**Fonte:** Nasa News | **Categoria:** Ciência
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O telescópio James Webb revelou segredos químicos escondidos no coração da nossa galáxia. Ao observar a região de Sagittarius A*, o Webb detectou assinaturas raras de silicatos ricos em oxigênio em torno de estrelas no fim de suas vidas. É a ciência validando, em detalhes inéditos, como o ciclo de vida estelar molda a composição do centro da Via Láctea.
-
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/)
-
----
-
-## 4. Iridium folds Aireon aviation safety service into Rocket Lab-bound business
+## 2. Voyager seeks relaxed requirements in NASA commercial space station RFP
 **Fonte:** Space News | **Categoria:** Mercado Espacial
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Gigantes do setor se movem: a Iridium está integrando os serviços de segurança de aviação da Aireon em uma operação estratégica ligada à Rocket Lab. Essa movimentação de mercado sinaliza uma consolidação agressiva, unindo infraestrutura de lançamento com serviços de conectividade crítica, redesenhando como o tráfego aéreo global será monitorado do espaço.
+> O sucessor privado da Estação Espacial Internacional entrou em uma fase de negociações críticas. A Voyager Space, liderando o projeto Starlab, solicitou à NASA uma flexibilização nos requisitos técnicos para viabilizar comercialmente sua estação. O movimento é um termômetro real da transição bilionária da órbita baixa, onde o governo deixa de ser dono para se tornar apenas um cliente de laboratórios espaciais privados.
 
-🔗 [Ler notícia completa](https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/)
+🔗 [Ler notícia completa](https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/)
 
 ---
 
-## 5. NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
+## 3. Starburst Galaxy Centaurus A
+**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O telescópio James Webb acaba de perfurar as densas nuvens de poeira da galáxia Centaurus A, revelando segredos de formação estelar que estavam ocultos há milênios. As novas imagens no infravermelho médio expõem uma estrutura interna complexa e violenta, fornecendo dados validados que podem reescrever o que sabemos sobre como galáxias massivas e seus buracos negros supermassivos moldam o universo.
+
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/)
+
+---
+
+## 4. I Am Artemis Katie Spicer
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> Upgrade de energia em órbita. A missão CRS-35 da SpaceX decolou com sucesso levando o conjunto final de painéis solares desenroláveis, os iROSAs, para a Estação Espacial Internacional. Mais do que manutenção, essa inovação técnica garante a potência necessária para novos laboratórios de microgravidade e pavimenta o caminho para a futura infraestrutura energética lunar.
+> A Blue Origin deu um passo decisivo no desenvolvimento do Blue Moon Mark 2, o sistema que promete levar a próxima geração de astronautas ao solo lunar. Com marcos de integração técnica recém-atingidos, o lander de grande porte consolida a engenharia necessária para pousos de precisão e operações sustentáveis na Lua, provando que a infraestrutura para a base lunar permanente já está em estágio avançado de construção.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/)
+🔗 [Ler notícia completa](https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/)
+
+---
+
+## 5. Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
+**Fonte:** Space News | **Categoria:** Mercado Espacial
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O processamento de dados globais está subindo para a órbita, mas o grande desafio é a energia. Em um movimento estratégico de mercado, a Flexell Space e a ALATYR assinaram um acordo para desenvolver soluções de energia solar específicas para centros de dados orbitais. A parceria ataca o principal gargalo da computação em nuvem no espaço, sinalizando que a infraestrutura digital da próxima década será alimentada e processada fora da Terra.
+
+🔗 [Ler notícia completa](https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/)
 
 ---
 

@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 20/11/2026 17:28
+# 📥 Balde de Notícias Brutas - 21/11/2026 16:33
 
-Atualmente existem **1231** notícias aguardando a curadoria do Editor.
+Atualmente existem **1229** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4005,15 +4005,6 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 
 ---
 
-### Iridium folds Aireon aviation safety service into Rocket Lab-bound business
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/)
-
----
-
 ### NASA adds three European firms to the commercial data program
 **Fonte:** Space News
 
@@ -7731,15 +7722,6 @@ Through a new collaboration between NASA and the National Football League (NFL),
 
 ---
 
-### Dust and Water in Sagittarius A*
-**Fonte:** Nasa News
-
-A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA&#8217;s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/)
-
----
-
 ### Help Refine Data from Space Telescopes with Artifact InSPECtor
 **Fonte:** Nasa News
 
@@ -9294,15 +9276,6 @@ The ice reached its third-lowest maximum extent since satellite observations beg
 For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproportional damping. As the damping interaction increases, the [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/)
-
----
-
-### NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station
-**Fonte:** Nasa News
-
-NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/)
 
 ---
 
@@ -11025,24 +10998,6 @@ Holidays are often a fun break during a busy year – a long weekend here and th
 
 ---
 
-### NASA Announces Mid-Power Electric Rocket Challenge for US Companies
-**Fonte:** Nasa News
-
-NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/)
-
----
-
-### Empire State Building Goes Gold for Voyager
-**Fonte:** Nasa News
-
-The Empire State Building is seen illuminated in gold to celebrate NASA&#8217;s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/)
-
----
-
 ### NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center 
 **Fonte:** Nasa News
 
@@ -11085,6 +11040,33 @@ Tropical Cyclone Xavier launched the basin’s storm season with a bang....
 NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/)
+
+---
+
+### APOD: 2026 November 21 – Voyager’s Neptune
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager&#8217;s Neptune Explanation: [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/)
+
+---
+
+### Curiosity Spots Drifting Twilight Clouds
+**Fonte:** Nasa News
+
+Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/)
+
+---
+
+### New NASA Seed Funding Primes Small Businesses for Innovation
+**Fonte:** Nasa News
+
+Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/)
 
 ---
 
