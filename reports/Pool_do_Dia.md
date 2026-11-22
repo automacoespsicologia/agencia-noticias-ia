@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 21/11/2026 16:33
+# 📥 Balde de Notícias Brutas - 22/11/2026 16:51
 
-Atualmente existem **1229** notícias aguardando a curadoria do Editor.
+Atualmente existem **1225** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -5400,15 +5400,6 @@ The gusty wind didn’t make it easy to hold tight to a balloon so large. The ba
 
 ---
 
-### Starburst Galaxy Centaurus A
-**Fonte:** Nasa News
-
-In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/)
-
----
-
 ### APOD: 2026 July 30 – Red Sun trough Wildfire Smoke
 **Fonte:** Nasa News
 
@@ -5553,15 +5544,6 @@ APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submiss
 
 ---
 
-### Kreios Space to fly VLEO demonstration in NanoAvionics bus
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/)
-
----
-
 ### NASA, SpaceX studying how to prevent future upper stage lunar collisions
 **Fonte:** Space News
 
@@ -5640,15 +5622,6 @@ APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissions
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/)
-
----
-
-### Voyager seeks relaxed requirements in NASA commercial space station RFP
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/)
 
 ---
 
@@ -10656,15 +10629,6 @@ After decades of decline, this ecologically significant type of forest is making
 
 ---
 
-### I Am Artemis Katie Spicer
-**Fonte:** Nasa News
-
-For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/)
-
----
-
 ### Heart in the Sky at NASA Kennedy
 **Fonte:** Nasa News
 
@@ -10926,15 +10890,6 @@ Editor&#8217;s note: This advisory was updated on Nov. 18, 2026, to reflect chan
 
 ---
 
-### Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/)
-
----
-
 ### All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center
 **Fonte:** Space News
 
@@ -11067,6 +11022,15 @@ Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct.
 Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/)
+
+---
+
+### APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/)
 
 ---
 
