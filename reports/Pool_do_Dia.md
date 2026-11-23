@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 22/11/2026 16:51
+# 📥 Balde de Notícias Brutas - 23/11/2026 20:48
 
-Atualmente existem **1225** notícias aguardando a curadoria do Editor.
+Atualmente existem **1227** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4644,15 +4644,6 @@ The Republic of Serbia signed the Artemis Accords Thursday during a ceremony hos
 
 ---
 
-### Young Galaxy Cluster
-**Fonte:** Nasa News
-
-NASA&#8217;s James Webb Space Telescope takes us 4.4 billion years in the past with this July 3, 2026, image of a young galaxy cluster, MACS J0553.4-3342. The cluster is composed of two actively merging sub-clusters, roughly equal in mass. Each sub-cluster is anchored on an immensely bright and massive elliptical galaxy, easily identifiable as the [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/young-galaxy-cluster/)
-
----
-
 ### SpaceX’s only problem is finding more space to work with
 **Fonte:** Space News
 
@@ -4884,15 +4875,6 @@ Brown carbon, emitted by wildland fires and tracked over the span of a week in J
 NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars”&#160;event&#160;brought employees, families, and community members together for an evening filled with music, connection, and celebration.&#160;&#160; Organizers planned the event, which took place July 16, to mark the 250th&#160;anniversary of the founding of the United States of America.&#160; The evening&#160;featured a ...
 
 🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/)
-
----
-
-### Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness 
-**Fonte:** Nasa News
-
-David&#160;SmithDuke University&#160; The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementatio...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/)
 
 ---
 
@@ -8604,15 +8586,6 @@ A commercial mission to boost NASA’s Swift observatory concluded without raisi
 
 ---
 
-### Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/)
-
----
-
 ### Terran Orbital Names Jamin Brown Chief Operating Officer
 **Fonte:** Space News
 
@@ -10044,15 +10017,6 @@ NASA Administrator Jared Isaacman has named Troy Asher director of the agency’
 
 ---
 
-### NIH–NASA QuSAFE Challenge
-**Fonte:** Nasa News
-
-The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can [...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/)
-
----
-
 ### ESI supplying solar array components to missile defense programs
 **Fonte:** Space News
 
@@ -10782,15 +10746,6 @@ Description This artist’s concept shows the Sentinel-6B satellite, which will 
 
 ---
 
-### Origami and solar arrays
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/origami-and-solar-arrays/)
-
----
-
 ### What Is the Moon Base?
 **Fonte:** Nasa News
 
@@ -11031,6 +10986,69 @@ Awards to small businesses around the country are addressing some of NASA’s mo
 APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/)
+
+---
+
+### Studying Cancer Cells in Microgravity
+**Fonte:** Nasa News
+
+This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient&#8217;s risk of metastasis and support more pers...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/)
+
+---
+
+### NASA Seeks Partners to Design First Nuclear Reactor for the Moon 
+**Fonte:** Nasa News
+
+NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.&#160; Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/)
+
+---
+
+### NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
+**Fonte:** Nasa News
+
+NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/)
+
+---
+
+### NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
+**Fonte:** Nasa News
+
+NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/)
+
+---
+
+### APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/)
+
+---
+
+### Laser Focus at the Top of the World
+**Fonte:** Nasa News
+
+A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/)
+
+---
+
+### 65 Years of Human Spaceflight at NASA Johnson 
+**Fonte:** Nasa News
+
+For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/)
 
 ---
 
