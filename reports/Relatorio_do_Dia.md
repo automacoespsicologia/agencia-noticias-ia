@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 23/11/2026 20:49
+# 🚀 Relatório da Agência Espacial - 24/11/2026 19:52
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. NASA Seeks Partners to Design First Nuclear Reactor for the Moon 
+## 1. NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A NASA deu um passo gigante rumo à ocupação permanente da Lua. A agência abriu oficialmente a busca por parceiros industriais para projetar o primeiro reator nuclear lunar, o LR-1. Este sistema de fissão de 20 kilowatts é a peça tecnológica que faltava para garantir energia constante durante as gélidas noites lunares e pavimentar, de vez, o caminho para as futuras missões tripuladas a Marte.
+> Os olhos da missão mais ambiciosa da NASA em direção a Titã acabam de chegar ao laboratório de integração. O rotorcraft Dragonfly começou a receber as câmeras DragonCam, o sofisticado sistema de visão que permitirá a um drone do tamanho de um carro navegar de forma autônoma pelas dunas e pela atmosfera densa da maior lua de Saturno.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/)
-
----
-
-## 2. Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> O rover Perseverance acaba de desenterrar segredos de um passado úmido em Marte. Novas análises nas rochas da região de 'Idubi' revelam remanescentes claros de antigos sistemas aquosos. Essas 'rochas fantasmagóricas' são a prova mais robusta até agora de que a água fluiu ativamente além da cratera Jezero, redefinindo nosso entendimento sobre a habitabilidade do Planeta Vermelho.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/)
+🔗 [Ler notícia completa](https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/)
 
 ---
 
-## 3. NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
-**Fonte:** Nasa News | **Categoria:** Descoberta Científica
+## 2. Webb Reveals New Details in Supernova Remnant
+**Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O Telescópio James Webb revelou uma tapeçaria vibrante da explosão estelar mais icônica da nossa vizinhança: a remanescente de supernova Cassiopeia A. As novas imagens mostram, com detalhes inéditos, como a poeira e o gás ejetados funcionam como sementes para novas estrelas e planetas, oferecendo um olhar sem precedentes sobre a reciclagem de matéria no cosmos.
+> O Telescópio James Webb acaba de revelar segredos escondidos no coração da Cassiopeia A. Novas imagens de altíssima resolução em infravermelho médio mostram detalhes inéditos da poeira estelar superaquecida, permitindo que cientistas mapeiem a estrutura química da 'sementeira' cósmica deixada pela explosão de uma estrela massiva.
 
-🔗 [Ler notícia completa](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/)
+🔗 [Ler notícia completa](https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/)
 
 ---
 
-## 4. NASA Seeks Next Generation of Explorers to Join Astronaut Corps
-**Fonte:** Nasa News | **Categoria:** Movimentação de Mercado
+## 3. NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
+**Fonte:** Nasa News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A busca pelos próximos heróis do espaço começou. A NASA abriu as inscrições para sua nova classe de astronautas, focada diretamente no programa Artemis e na construção da Base Lunar. É uma convocação histórica que marca a expansão do mercado de trabalho espacial, preparando a elite técnica que liderará as primeiras incursões humanas em solo marciano.
+> A Northrop Grumman acaba de garantir um contrato estratégico para moldar a próxima geração do monitoramento climático global. A empresa foi selecionada pela NASA para construir os instrumentos SMBA da rede NEON, uma nova constelação de satélites em órbita baixa que promete revolucionar a precisão das previsões meteorológicas para a NOAA.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/)
+🔗 [Ler notícia completa](https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/)
 
 ---
 
-## 5. NRO to expand use of HawkEye 360’s satellite intelligence
-**Fonte:** Space News | **Categoria:** Movimentação de Mercado
+## 4. H3 to launch next ispace lunar lander mission
+**Fonte:** Space News | **Categoria:** Mercado
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> A inteligência espacial dos Estados Unidos está mudando de patamar. O NRO decidiu expandir drasticamente o uso dos dados da HawkEye 360, consolidando as constelações comerciais de monitoramento de radiofrequência como pilares da segurança nacional. Essa movimentação bilionária reforça a tendência global: o futuro da vigilância em órbita será liderado por parcerias público-privadas ágeis e altamente tecnológicas.
+> O novo foguete pesado do Japão, o H3, consolidou sua posição na nova economia espacial ao ser escalado para lançar a próxima missão lunar da ispace. O acordo é um marco para a logística interplanetária comercial, unindo a nova capacidade de carga japonesa à ambição de estabelecer uma presença privada sustentável na Lua.
 
-🔗 [Ler notícia completa](https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/)
+🔗 [Ler notícia completa](https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/)
+
+---
+
+## 5. NASA’s Psyche Mission Images Details of Martian Surface During Flyby
+**Fonte:** Nasa News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A caminho de um mundo de metal, a sonda Psyche executou uma manobra de assistência gravitacional impecável em Marte. O sobrevoo não apenas impulsionou a nave em direção ao cinturão de asteroides, mas serviu como teste real para seus instrumentos multiespectrais, gerando mosaicos coloridos de alta definição da superfície marciana sob condições extremas de velocidade.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/)
 
 ---
 

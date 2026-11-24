@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 23/11/2026 20:48
+# 📥 Balde de Notícias Brutas - 24/11/2026 19:52
 
-Atualmente existem **1227** notícias aguardando a curadoria do Editor.
+Atualmente existem **1232** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -6489,15 +6489,6 @@ APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissio
 
 ---
 
-### NRO to expand use of HawkEye 360’s satellite intelligence
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/)
-
----
-
 ### HEO to use Planet satellites for non-Earth imaging
 **Fonte:** Space News
 
@@ -10332,15 +10323,6 @@ APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submission
 
 ---
 
-### NASA Seeks Next Generation of Explorers to Join Astronaut Corps
-**Fonte:** Nasa News
-
-NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/)
-
----
-
 ### CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth
 **Fonte:** Space News
 
@@ -10710,15 +10692,6 @@ For many astronauts, the spectacular sight of lightning stands out when looking 
 
 ---
 
-### Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago
-**Fonte:** Nasa News
-
-Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/)
-
----
-
 ### A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover
 **Fonte:** Nasa News
 
@@ -10998,30 +10971,12 @@ This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates
 
 ---
 
-### NASA Seeks Partners to Design First Nuclear Reactor for the Moon 
-**Fonte:** Nasa News
-
-NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.&#160; Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/)
-
----
-
 ### NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space
 **Fonte:** Nasa News
 
 NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/)
-
----
-
-### NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution
-**Fonte:** Nasa News
-
-NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/)
 
 ---
 
@@ -11049,6 +11004,96 @@ A next-generation geodetic instrument developed by NASA, part of a network that 
 For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/)
+
+---
+
+### Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/)
+
+---
+
+### Amateur Astronomer? Be a Kilonova Catcher!
+**Fonte:** Nasa News
+
+Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/)
+
+---
+
+### NASA’s Northrop Grumman CRS-25 Mission Overview 
+**Fonte:** Nasa News
+
+NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/)
+
+---
+
+### AGU Hyperwall Schedule
+**Fonte:** Nasa News
+
+American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Env...
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/agu-hyperwall-schedule/)
+
+---
+
+### Webb Reveals New Details in Supernova Remnant
+**Fonte:** Nasa News
+
+NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/)
+
+---
+
+### NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes
+**Fonte:** Nasa News
+
+Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/)
+
+---
+
+### NASA Hubble’s New View of NGC 4394 Raises the Bar
+**Fonte:** Nasa News
+
+The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image...
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/)
+
+---
+
+### APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Galaxies Battle in [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/)
+
+---
+
+### Eruption Extends Iwo Jima’s Beach
+**Fonte:** Nasa News
+
+A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/)
+
+---
+
+### NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
+**Fonte:** Nasa News
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performan...
+
+🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/)
 
 ---
 
