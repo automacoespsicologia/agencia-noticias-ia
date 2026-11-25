@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 24/11/2026 19:52
+# 📥 Balde de Notícias Brutas - 25/11/2026 18:56
 
-Atualmente existem **1232** notícias aguardando a curadoria do Editor.
+Atualmente existem **1235** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -4698,15 +4698,6 @@ Read this release in English here. Ya está abierto el plazo de acreditación de
 
 ---
 
-### NASA’s Psyche Mission Images Details of Martian Surface During Flyby
-**Fonte:** Nasa News
-
-Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars.  Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/)
-
----
-
 ### Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites
 **Fonte:** Space News
 
@@ -5262,15 +5253,6 @@ Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in Ju
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/)
-
----
-
-### H3 to launch next ispace lunar lander mission
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/)
 
 ---
 
@@ -11043,24 +11025,6 @@ American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525)
 
 ---
 
-### Webb Reveals New Details in Supernova Remnant
-**Fonte:** Nasa News
-
-NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/)
-
----
-
-### NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes
-**Fonte:** Nasa News
-
-Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/)
-
----
-
 ### NASA Hubble’s New View of NGC 4394 Raises the Bar
 **Fonte:** Nasa News
 
@@ -11088,12 +11052,75 @@ A volcanic eruption just off the southeast shore of the Pacific island has resha
 
 ---
 
-### NASA Awards Contract for NOAA’s Near Earth Orbit Network Program
+### NASA Eyes Crop Candidates for Future Menus
 **Fonte:** Nasa News
 
-NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performan...
+As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, […]...
 
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/)
+🔗 [Link da Notícia](https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/)
+
+---
+
+### Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard
+**Fonte:** Nasa News
+
+Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/)
+
+---
+
+### Eye of the Sahara
+**Fonte:** Nasa News
+
+The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/eye-of-the-sahara/)
+
+---
+
+### NASA’s Hubble Views Ocean of Stars in Groundwork for Roman
+**Fonte:** Nasa News
+
+These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy....
+
+🔗 [Link da Notícia](https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/)
+
+---
+
+### APOD: 2026 November 25 – SPHEREx Seeing Through Dust
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/)
+
+---
+
+### Georgia’s Pecan Belt
+**Fonte:** Nasa News
+
+Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/)
+
+---
+
+### NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema
+**Fonte:** Nasa News
+
+NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/)
+
+---
+
+### Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
+**Fonte:** Nasa News
+
+NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/)
 
 ---
 
