@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 25/11/2026 18:56
+# 📥 Balde de Notícias Brutas - 26/11/2026 18:46
 
-Atualmente existem **1235** notícias aguardando a curadoria do Editor.
+Atualmente existem **1234** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -2401,15 +2401,6 @@ One year after Gemini IV astronaut Edward H. White completed NASA’s first spac
 
 ---
 
-### FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/)
-
----
-
 ### San Francisco’s Metropolitan Mosaic
 **Fonte:** Nasa News
 
@@ -3672,15 +3663,6 @@ A mission to raise the orbit of NASA’s Swift observatory is poised for launch 
 
 ---
 
-### NASA Identifies More Than 40 Space Technologies for Collaboration
-**Fonte:** Nasa News
-
-NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar [&#82...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/)
-
----
-
 ### Bringing Signals to NASA
 **Fonte:** Nasa News
 
@@ -4686,15 +4668,6 @@ CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide
 This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA&#8217;s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/)
-
----
-
-### La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman
-**Fonte:** Nasa News
-
-Read this release in English here. Ya está abierto el plazo de acreditación de los medios de comunicación para el lanzamiento de la misión del telescopio espacial Nancy Grace Roman de la NASA. El lanzamiento del telescopio Roman está programado para no antes de las 7:20 a.m. (hora del este) del domingo 30 de agosto, [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/)
 
 ---
 
@@ -9099,15 +9072,6 @@ Heavy rains since mid-September have caused widespread flooding that has affecte
 
 ---
 
-### NASA Briefing to Highlight Contributions to Martian Moons Mission
-**Fonte:** Nasa News
-
-Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/)
-
----
-
 ### NASA Announces Bold Science Initiatives for America’s Golden Age Summit
 **Fonte:** Nasa News
 
@@ -11115,12 +11079,39 @@ NASA announced Monday that NASA+ content has found its first theatrical home at 
 
 ---
 
-### Teams Lock in Mission Architecture for NASA’s SR-1 Freedom
+### The ‘bare-knuckled’ future of life in space with Tim Marshall
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/)
+
+---
+
+### APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis
 **Fonte:** Nasa News
 
-NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research [&#8230;]...
+APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in [&#8230;]...
 
-🔗 [Link da Notícia](https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/)
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/)
+
+---
+
+### Seeking Refuge on Resolution Island
+**Fonte:** Nasa News
+
+New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/)
+
+---
+
+### NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement
+**Fonte:** Nasa News
+
+How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/)
 
 ---
 
