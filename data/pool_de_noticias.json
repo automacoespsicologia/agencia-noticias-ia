@@ -9613,15 +9613,6 @@
       "tentativas": 0
     },
     {
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "description": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each [&#8230;]",
-      "pub_date": "Fri, 23 Oct 2026 18:57:04 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-10-24",
-      "tentativas": 0
-    },
-    {
       "title": "NASA, Virginia Launch Power Partnership for Energy Security",
       "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
       "description": "NASA is helping to foster long-term energy security in Virginia.&#160; NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new [&#8230;]",
@@ -10783,15 +10774,6 @@
       "tentativas": 0
     },
     {
-      "title": "NASA’s Curiosity Mars Rover Collects Samples",
-      "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-      "description": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [&#8230;]",
-      "pub_date": "Fri, 20 Nov 2026 15:53:24 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-11-20",
-      "tentativas": 0
-    },
-    {
       "title": "APOD: 2026 November 20 – V-G-R",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
       "description": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into [&#8230;]",
@@ -10877,15 +10859,6 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
       "description": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence [&#8230;]",
       "pub_date": "Mon, 23 Nov 2026 05:05:00 +0000",
-      "source": "Nasa News",
-      "data_coleta": "2026-11-23",
-      "tentativas": 0
-    },
-    {
-      "title": "Laser Focus at the Top of the World",
-      "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
-      "description": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
-      "pub_date": "Mon, 23 Nov 2026 05:01:00 +0000",
       "source": "Nasa News",
       "data_coleta": "2026-11-23",
       "tentativas": 0
@@ -11059,6 +11032,33 @@
       "pub_date": "Wed, 25 Nov 2026 19:06:56 +0000",
       "source": "Nasa News",
       "data_coleta": "2026-11-26",
+      "tentativas": 0
+    },
+    {
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "description": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion [&#8230;]",
+      "pub_date": "Fri, 27 Nov 2026 15:01:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-11-27",
+      "tentativas": 0
+    },
+    {
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+      "description": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers [&#8230;]",
+      "pub_date": "Fri, 27 Nov 2026 05:05:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-11-27",
+      "tentativas": 0
+    },
+    {
+      "title": "Shivelyuch Socked In",
+      "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "description": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+      "pub_date": "Fri, 27 Nov 2026 05:01:00 +0000",
+      "source": "Nasa News",
+      "data_coleta": "2026-11-27",
       "tentativas": 0
     }
   ]

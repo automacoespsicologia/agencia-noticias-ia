@@ -1,4 +1,4 @@
-# 📥 Balde de Notícias Brutas - 26/11/2026 18:46
+# 📥 Balde de Notícias Brutas - 27/11/2026 18:39
 
 Atualmente existem **1234** notícias aguardando a curadoria do Editor.
 
@@ -3987,15 +3987,6 @@ Red, white, and blue stars glitter like a sparkler being waved on a dark night i
 
 ---
 
-### NASA adds three European firms to the commercial data program
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/)
-
----
-
 ### The term ‘dual-use’ is misleading and dangerous
 **Fonte:** Space News
 
@@ -4110,15 +4101,6 @@ In this photograph, the Artemis II crew participates in the dedication of the Ap
 Your challenge is to tell us the location of the satellite image and why it is interesting....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/)
-
----
-
-### ElevationSpace advances work on commercial reentry vehicle
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/)
 
 ---
 
@@ -9243,15 +9225,6 @@ Editor&#8217;s Note: This article was updated Thursday, Oct. 15, 2026, to reflec
 
 ---
 
-### NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision
-**Fonte:** Nasa News
-
-Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]...
-
-🔗 [Link da Notícia](https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/)
-
----
-
 ### NASA’s Space X CRS-35 Launch Jellyfish
 **Fonte:** Nasa News
 
@@ -9285,15 +9258,6 @@ Though it remained offshore, the storm lashed coastal areas with high winds and 
 ...
 
 🔗 [Link da Notícia](https://spacenews.com/applying-ai-to-the-geoint-mission-event/)
-
----
-
-### How NASA is thinking about a moon base
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/)
 
 ---
 
@@ -10584,15 +10548,6 @@ Ice near the summit of the Indonesian mountain peak has shrunk to scattered patc
 
 ---
 
-### How AI is pushing satellites to evolve
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/)
-
----
-
 ### Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027
 **Fonte:** Space News
 
@@ -11112,6 +11067,51 @@ New Zealanders have long envisioned the island as a predator-free zone for nativ
 How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/)
+
+---
+
+### Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
+**Fonte:** Space News
+
+...
+
+🔗 [Link da Notícia](https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/)
+
+---
+
+### Artemis III Astronaut Andre Douglas Visits VAB
+**Fonte:** Nasa News
+
+NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion [&#8230;]...
+
+🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/)
+
+---
+
+### NASA’s NG-25 Mission to Launch Pioneering Space Crops Research
+**Fonte:** Nasa News
+
+NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human hea...
+
+🔗 [Link da Notícia](https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/)
+
+---
+
+### APOD: 2026 November 27 – The Moon Watchers
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/)
+
+---
+
+### Shivelyuch Socked In
+**Fonte:** Nasa News
+
+A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view....
+
+🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/)
 
 ---
 
