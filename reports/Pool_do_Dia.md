@@ -1,6 +1,6 @@
-# 📥 Balde de Notícias Brutas - 27/11/2026 18:39
+# 📥 Balde de Notícias Brutas - 28/11/2026 17:18
 
-Atualmente existem **1234** notícias aguardando a curadoria do Editor.
+Atualmente existem **1230** notícias aguardando a curadoria do Editor.
 
 ---
 
@@ -9621,15 +9621,6 @@ APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submission
 
 ---
 
-### RS-25 Engine Tests at NASA Stennis
-**Fonte:** Nasa News
-
-Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/)
-
----
-
 ### NASA, Virginia Launch Power Partnership for Energy Security
 **Fonte:** Nasa News
 
@@ -10791,15 +10782,6 @@ Employees contributing to NASA’s mission at the agency’s Stennis Space Cente
 
 ---
 
-### NASA’s Curiosity Mars Rover Collects Samples
-**Fonte:** Nasa News
-
-This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [&#8230;]...
-
-🔗 [Link da Notícia](https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/)
-
----
-
 ### APOD: 2026 November 20 – V-G-R
 **Fonte:** Nasa News
 
@@ -10887,15 +10869,6 @@ NASA invites the world behind the scenes to witness the story of Europa Clipper�
 APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence [&#8230;]...
 
 🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/)
-
----
-
-### Laser Focus at the Top of the World
-**Fonte:** Nasa News
-
-A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway....
-
-🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/)
 
 ---
 
@@ -11070,30 +11043,12 @@ How NASA works with small businesses is evolving, and as a result, the agency is
 
 ---
 
-### Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
-**Fonte:** Space News
-
-...
-
-🔗 [Link da Notícia](https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/)
-
----
-
 ### Artemis III Astronaut Andre Douglas Visits VAB
 **Fonte:** Nasa News
 
 NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion [&#8230;]...
 
 🔗 [Link da Notícia](https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/)
-
----
-
-### NASA’s NG-25 Mission to Launch Pioneering Space Crops Research
-**Fonte:** Nasa News
-
-NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human hea...
-
-🔗 [Link da Notícia](https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/)
 
 ---
 
@@ -11112,6 +11067,15 @@ APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissio
 A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view....
 
 🔗 [Link da Notícia](https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/)
+
+---
+
+### APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph
+**Fonte:** Nasa News
+
+APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP [&#8230;]...
+
+🔗 [Link da Notícia](https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/)
 
 ---
 

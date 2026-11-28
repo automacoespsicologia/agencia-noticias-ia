@@ -1,56 +1,56 @@
-# 🚀 Relatório da Agência Espacial - 27/11/2026 18:39
+# 🚀 Relatório da Agência Espacial - 28/11/2026 17:18
 
 Aqui estão as 5 notícias selecionadas para o seu roteiro de hoje:
 
 ---
 
-## 1. Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates
-**Fonte:** Space News | **Categoria:** Negócios
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> A militarização do espaço não é mais ficção científica: governos ao redor do globo acabam de atingir a marca histórica de quase 72 bilhões de dólares investidos exclusivamente em defesa orbital. Este salto financeiro monumental redefine as prioridades da indústria e sinaliza uma nova era, onde a soberania além da atmosfera tornou-se o principal motor econômico do mercado espacial global.
-
-🔗 [Ler notícia completa](https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/)
-
----
-
-## 2. NASA’s NG-25 Mission to Launch Pioneering Space Crops Research
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Para conquistar Marte, a humanidade precisará aprender a plantar nas estrelas. A missão NG-25 da NASA está levando para a órbita o primeiro sistema pioneiro de produção de safras espaciais em larga escala. Mais do que uma experiência científica, esta inovação técnica é a espinha dorsal biológica necessária para sustentar a presença humana prolongada na Lua e no Planeta Vermelho.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/)
-
----
-
-## 3. Laser Focus at the Top of the World
-**Fonte:** Nasa News | **Categoria:** Inovação Técnica
-
-> 🎙️ **LEAD PARA O NARRADOR:**
-> Diretamente do topo do mundo, na Noruega, a NASA acaba de estrear seu instrumento geodésico de última geração. Usando tecnologia laser de precisão inédita, o equipamento é capaz de medir a órbita de satélites e a forma da Terra com margens de erro mínimas, garantindo a infraestrutura necessária para que as futuras rotas de navegação espacial sejam mais seguras e precisas do que nunca.
-
-🔗 [Ler notícia completa](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/)
-
----
-
-## 4. NASA’s Curiosity Mars Rover Collects Samples
+## 1. APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability
 **Fonte:** Nasa News | **Categoria:** Ciência
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O rover Curiosity atingiu um marco histórico em sua jornada solitária por Marte: 49 perfurações completadas com sucesso. Esta coleção de amostras geológicas é o arquivo mais detalhado já obtido de outro planeta, revelando segredos químicos de bilhões de anos que são cruciais para entendermos a habitabilidade marciana e prepararmos as missões de retorno de amostras à Terra.
+> Esqueça tudo o que você achava que sabia sobre a face do Sol. Uma nova imagem, a mais nítida já registrada da nossa estrela, acaba de revelar instabilidades térmicas inéditas que podem reescrever os manuais de física solar e nos ajudar a prever, com precisão cirúrgica, as tempestades que ameaçam nossa infraestrutura na Terra.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/)
+🔗 [Ler notícia completa](https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/)
 
 ---
 
-## 5. RS-25 Engine Tests at NASA Stennis
+## 2. Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution
+**Fonte:** Space News | **Categoria:** Inovação Técnica
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> O setor de satélites entra em uma nova era de agilidade. A parceria estratégica entre Simera Sense e Spacemanic acaba de lançar uma solução 'chave na mão' para missões de duplo uso, integrando sensores ópticos de alta resolução e hardware modular, pronta para atender à crescente demanda por inteligência orbital em tempo real.
+
+🔗 [Ler notícia completa](https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/)
+
+---
+
+## 3. Latitude plans to conduct first launch from Oman
+**Fonte:** Space News | **Categoria:** Negócios Espaciais
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> A geografia do acesso ao espaço está mudando. A startup francesa Latitude acaba de desafiar a hegemonia dos portos espaciais tradicionais ao anunciar que Omã será sua nova base estratégica de lançamentos, sinalizando uma movimentação agressiva do mercado europeu em direção a órbitas equatoriais de baixo custo.
+
+🔗 [Ler notícia completa](https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/)
+
+---
+
+## 4. NASA’s Curiosity Looks Back After Reaching Elevation Milestone
+**Fonte:** Nasa News | **Categoria:** Ciência
+
+> 🎙️ **LEAD PARA O NARRADOR:**
+> Direto de Marte, o rover Curiosity acaba de atingir um marco histórico de elevação no Monte Sharp. Ao alcançar essa nova altitude, o robô da NASA começa a perfurar camadas geológicas que funcionam como uma cápsula do tempo, guardando os segredos de quando — e por que — o planeta vermelho perdeu sua capacidade de abrigar água líquida.
+
+🔗 [Ler notícia completa](https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/)
+
+---
+
+## 5. Amateur Astronomer? Be a Kilonova Catcher!
 **Fonte:** Nasa News | **Categoria:** Inovação Técnica
 
 > 🎙️ **LEAD PARA O NARRADOR:**
-> O motor que levará a humanidade de volta à Lua foi levado ao limite. A NASA concluiu um teste de fogo de 500 segundos com o motor RS-25, simulando exatamente o esforço necessário para o lançamento do foguete SLS. O sucesso absoluto desta ignição valida a tecnologia de propulsão que é o coração do programa Artemis, mantendo o cronograma para o próximo grande salto da nossa espécie.
+> Você pode ser o próximo a capturar um dos eventos mais violentos do universo. O programa 'Kilonova Catcher' está revolucionando a astrofísica ao transformar telescópios amadores em uma rede global de resposta rápida para detectar colisões de estrelas de nêutrons, garantindo que nenhum dado se perca antes que os grandes observatórios entrem em ação.
 
-🔗 [Ler notícia completa](https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/)
+🔗 [Ler notícia completa](https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/)
 
 ---
 
